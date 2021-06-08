@@ -1,0 +1,445 @@
+disease.1	disease.2	category	pathway	overlap	nes.1	nes.2	fdr.1	fdr.2	genes.1	ngenes.2
+Pancreatic cancer	Alzheimer's disease	HallMark	myogenesis	down-up	-1.35	1.85	3.11e-02	1.64e-05	165	194
+Pancreatic cancer	Alzheimer's disease	HallMark	kras signaling dn	down-up	-2.21	1.67	1.53e-08	3.75e-04	174	190
+Pancreatic cancer	Alzheimer's disease	HallMark	myc targets v1	up-down	2.38	-2.54	6.82e-10	2.50e-09	158	182
+Pancreatic cancer	Alzheimer's disease	HallMark	mtorc1 signaling	up-down	2.39	-2.19	6.25e-10	6.78e-09	168	191
+Pancreatic cancer	Alzheimer's disease	HallMark	protein secretion	up-down	2.18	-2.31	6.07e-06	4.14e-08	85	91
+Pancreatic cancer	Alzheimer's disease	HallMark	dna repair	up-down	2.13	-2.01	1.16e-06	9.30e-06	124	128
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	dna binding transcription factor activity rna polymerase ii specific	down-up	-1.23	2.6	4.08e-02	5.63e-09	869	772
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	intrinsic component of plasma membrane	down-up	-1.69	1.56	6.36e-09	5.63e-09	1394	1295
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	molecular transducer activity	down-up	-1.72	2.28	6.36e-09	5.63e-09	929	853
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cell fate specification	down-up	-1.65	2.43	2.88e-02	4.03e-07	79	76
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	g protein coupled receptor activity	down-up	-2.67	1.86	6.36e-09	7.50e-07	403	345
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	receptor regulator activity	down-up	-1.79	1.73	2.52e-06	4.43e-06	392	364
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	sensory perception of light stimulus	down-up	-2.35	1.87	9.79e-09	1.55e-04	178	156
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	peptide receptor activity	down-up	-2.31	1.96	3.09e-07	2.86e-04	125	122
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	growth factor activity	down-up	-1.66	1.86	1.39e-02	6.93e-04	124	133
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	circulatory system process	down-up	-1.42	1.47	7.71e-03	9.98e-04	443	462
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cell differentiation in spinal cord	down-up	-1.69	2.16	4.10e-02	1.17e-03	46	35
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	olfactory receptor activity	down-up	-2.8	2.14	6.36e-09	1.23e-03	49	36
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	sensory perception	down-up	-2.28	1.47	6.36e-09	1.34e-03	486	429
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	neuron fate commitment	down-up	-1.81	2.06	1.08e-02	1.41e-03	52	47
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	sensory perception of chemical stimulus	down-up	-2.29	1.88	1.21e-06	1.63e-03	115	93
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	muscle contraction	down-up	-1.49	1.55	8.86e-03	2.42e-03	288	299
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	neuron fate specification	down-up	-1.95	2.07	1.41e-02	4.18e-03	29	25
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	spinal cord development	down-up	-1.58	1.76	3.98e-02	5.77e-03	88	76
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	g protein coupled receptor signaling pathway	down-up	-2.05	1.3	6.36e-09	7.10e-03	802	726
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	metal ion homeostasis	down-up	-1.34	1.3	1.38e-02	1.57e-02	541	538
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	acylglycerol homeostasis	down-up	-1.78	1.86	4.85e-02	1.96e-02	29	23
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	detection of stimulus involved in sensory perception	down-up	-2.44	1.64	4.08e-08	1.97e-02	126	101
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	sensory perception of smell	down-up	-2.69	1.68	6.36e-09	2.61e-02	68	52
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of blood pressure	down-up	-1.46	1.45	3.54e-02	2.65e-02	150	161
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	detection of stimulus	down-up	-1.88	1.38	3.24e-05	3.27e-02	262	238
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	ammonium transmembrane transport	down-up	-1.85	1.78	2.78e-02	4.22e-02	12	11
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	anaphase promoting complex dependent catabolic process	up-down	2.28	-2.58	7.68e-06	5.63e-09	69	67
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	atp metabolic process	up-down	1.59	-2.61	5.30e-03	5.63e-09	236	227
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	catalytic activity acting on rna	up-down	1.77	-2.15	3.98e-05	5.63e-09	298	257
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	catalytic complex	up-down	2.08	-2.04	6.36e-09	5.63e-09	1106	990
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cellular macromolecule catabolic process	up-down	1.99	-1.75	6.36e-09	5.63e-09	908	816
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cellular macromolecule localization	up-down	1.89	-1.71	6.36e-09	5.63e-09	1508	1416
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cellular protein catabolic process	up-down	2.02	-1.96	6.36e-09	5.63e-09	621	531
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cellular protein containing complex assembly	up-down	1.79	-2.06	1.04e-08	5.63e-09	790	747
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	envelope	up-down	1.46	-2.48	3.43e-04	5.63e-09	961	826
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	golgi vesicle transport	up-down	1.77	-2.16	1.21e-04	5.63e-09	284	277
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	hydrolase activity acting on acid anhydrides	up-down	1.84	-1.84	6.36e-09	5.63e-09	665	613
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	intracellular protein transport	up-down	1.64	-1.94	1.41e-06	5.63e-09	867	833
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	intracellular transport	up-down	1.82	-2.01	6.36e-09	5.63e-09	1330	1265
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	macroautophagy	up-down	2	-2.21	8.90e-07	5.63e-09	243	209
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	mitochondrion organization	up-down	1.5	-2.63	5.46e-03	5.63e-09	410	374
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	modification dependent macromolecule catabolic process	up-down	1.95	-2.14	6.36e-09	5.63e-09	506	426
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	ncrna metabolic process	up-down	1.49	-2.18	7.51e-03	5.63e-09	363	313
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	ncrna processing	up-down	1.45	-2.13	1.85e-02	5.63e-09	295	264
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	peptidase complex	up-down	2.02	-2.57	2.49e-04	5.63e-09	75	71
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	proteasomal protein catabolic process	up-down	1.9	-2.08	3.35e-07	5.63e-09	390	338
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	protein containing complex assembly	up-down	1.72	-1.67	6.36e-09	5.63e-09	1410	1324
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	protein modification by small protein conjugation	up-down	2.04	-2.04	6.36e-09	5.63e-09	731	616
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	protein modification by small protein conjugation or removal	up-down	2.09	-2.03	6.36e-09	5.63e-09	887	748
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex	up-down	1.69	-2.11	4.67e-05	5.63e-09	511	480
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex biogenesis	up-down	1.49	-2.33	7.66e-03	5.63e-09	322	315
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	rna binding	up-down	2	-1.84	6.36e-09	5.63e-09	1271	1178
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	rna processing	up-down	2.01	-1.83	6.36e-09	5.63e-09	715	653
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	scf dependent proteasomal ubiquitin dependent protein catabolic process	up-down	1.95	-2.56	3.52e-04	5.63e-09	81	69
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	endopeptidase complex	up-down	2.29	-2.61	8.78e-06	5.80e-09	57	55
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cellular protein complex disassembly	up-down	1.58	-2.27	1.33e-02	9.23e-09	186	160
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	membrane organization	up-down	1.81	-1.78	3.00e-08	1.90e-08	645	616
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of cell cycle g2 m phase transition	up-down	2.46	-2.18	6.36e-09	3.66e-08	178	173
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of cellular amino acid metabolic process	up-down	2.27	-2.56	7.11e-05	6.99e-08	52	52
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	protein catabolic process	up-down	1.97	-1.72	6.36e-09	9.09e-08	741	648
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	ribonucleotide binding	up-down	1.71	-1.54	6.36e-09	1.28e-07	1482	1386
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	nucleolus	up-down	1.95	-1.72	6.36e-09	1.33e-07	726	667
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	organophosphate metabolic process	up-down	1.39	-1.67	4.78e-03	1.46e-07	838	771
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cell cycle g2 m phase transition	up-down	2.37	-2.07	6.36e-09	1.64e-07	221	218
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	protein polyubiquitination	up-down	2.02	-2.06	5.50e-07	1.83e-07	259	219
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell cycle g2 m phase transition	up-down	2.4	-2.33	2.74e-07	3.09e-07	88	84
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	protein modification by small protein removal	up-down	2.28	-2.03	6.36e-09	4.07e-07	241	218
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein transferase activity	up-down	1.48	-1.98	9.72e-03	4.55e-07	331	257
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	protein localization to organelle	up-down	1.77	-1.65	7.91e-08	5.09e-07	732	715
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	establishment of protein localization to organelle	up-down	1.41	-1.8	1.87e-02	5.78e-07	418	434
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	transferase complex	up-down	1.9	-1.71	6.36e-09	9.44e-07	649	565
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	posttranscriptional regulation of gene expression	up-down	1.96	-1.81	6.36e-09	1.32e-06	468	445
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of cellular amine metabolic process	up-down	1.97	-2.36	1.07e-03	1.50e-06	68	70
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	organelle localization	up-down	2	-1.73	6.36e-09	2.02e-06	501	479
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	protein containing complex disassembly	up-down	1.79	-1.96	6.26e-05	2.06e-06	274	238
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	protein localization to mitochondrion	up-down	1.76	-2.16	3.20e-03	2.43e-06	110	107
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	mrna metabolic process	up-down	2.02	-1.67	6.36e-09	2.87e-06	640	614
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton	up-down	1.99	-1.56	6.36e-09	7.96e-06	977	836
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	microtubule	up-down	1.59	-1.84	1.64e-03	8.19e-06	323	284
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of transcription from rna polymerase ii promoter in response to hypoxia	up-down	2.18	-2.27	3.53e-05	8.83e-06	65	70
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	vesicle organization	up-down	1.81	-1.88	3.68e-05	1.02e-05	263	244
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	adenyl nucleotide binding	up-down	1.66	-1.48	8.65e-09	1.24e-05	1230	1147
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation of peptide antigen	up-down	2.72	-2	6.36e-09	1.42e-05	140	154
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	macromolecule catabolic process	up-down	1.98	-1.5	6.36e-09	1.71e-05	1098	998
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	microtubule based process	up-down	1.9	-1.66	6.36e-09	2.64e-05	597	513
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	proteasome accessory complex	up-down	2.29	-2.35	1.62e-04	2.73e-05	23	23
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	golgi membrane	up-down	1.6	-1.66	1.14e-04	2.94e-05	563	516
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	vacuolar transport	up-down	2.1	-2.06	7.92e-06	3.74e-05	114	100
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	process utilizing autophagic mechanism	up-down	1.78	-1.73	6.31e-06	4.59e-05	401	362
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	organelle disassembly	up-down	1.52	-2.12	4.84e-02	4.66e-05	79	77
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	ubiquitin ligase complex	up-down	1.67	-1.88	1.09e-03	4.82e-05	245	184
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	rna splicing via transesterification reactions	up-down	2.18	-1.79	6.36e-09	4.97e-05	280	261
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	membrane coat	up-down	1.88	-2.14	3.20e-03	5.22e-05	72	67
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	rna catabolic process	up-down	1.78	-1.74	1.10e-04	6.04e-05	292	294
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	endosomal transport	up-down	1.84	-1.9	2.68e-04	7.23e-05	183	154
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	protein containing complex localization	up-down	1.7	-1.8	7.42e-04	8.83e-05	224	214
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	protein localization to membrane	up-down	1.42	-1.64	1.77e-02	9.15e-05	483	456
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex binding	up-down	1.56	-2.02	2.51e-02	9.86e-05	105	97
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	nucleotide excision repair	up-down	1.72	-2.06	1.06e-02	1.14e-04	91	94
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	rna localization	up-down	2.08	-1.83	1.30e-06	1.67e-04	177	176
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	proteasome core complex	up-down	1.98	-2.18	9.73e-03	1.69e-04	15	16
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	nuclear outer membrane endoplasmic reticulum membrane network	up-down	1.36	-1.5	8.17e-03	1.73e-04	848	740
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation of exogenous peptide antigen via mhc class i	up-down	2.65	-2.14	6.94e-09	1.76e-04	59	61
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cytoskeleton dependent intracellular transport	up-down	1.71	-1.95	5.29e-03	1.84e-04	133	127
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of mrna catabolic process	up-down	2.13	-1.88	9.27e-07	1.99e-04	162	156
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	organelle subcompartment	up-down	1.79	-1.74	1.19e-04	2.05e-04	278	259
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cellular component disassembly	up-down	2.06	-1.64	6.36e-09	2.39e-04	452	414
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	nuclear envelope	up-down	1.87	-1.66	6.64e-07	2.51e-04	387	357
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	amine metabolic process	up-down	1.68	-1.96	8.79e-03	2.73e-04	115	111
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	drug binding	up-down	1.54	-1.4	1.07e-06	2.88e-04	1368	1289
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	proteasomal ubiquitin independent protein catabolic process	up-down	2.09	-2.15	4.25e-03	2.89e-04	17	18
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of macroautophagy	up-down	1.89	-1.92	3.29e-04	3.00e-04	149	127
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	establishment of organelle localization	up-down	2.01	-1.69	6.53e-08	3.31e-04	322	316
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of catabolic process	up-down	1.89	-1.49	6.36e-09	4.09e-04	797	747
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation	up-down	2.74	-1.77	6.36e-09	4.17e-04	171	184
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	neuron projection organization	up-down	1.58	-2	4.56e-02	4.36e-04	70	73
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	tubulin binding	up-down	1.63	-1.73	4.31e-03	4.80e-04	273	245
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	retrograde vesicle mediated transport golgi to endoplasmic reticulum	up-down	1.67	-1.98	2.74e-02	4.85e-04	64	71
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	organonitrogen compound catabolic process	up-down	1.57	-1.43	7.14e-06	4.85e-04	1016	911
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	atpase activity	up-down	1.98	-1.66	7.98e-08	5.30e-04	339	320
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	fc epsilon receptor signaling pathway	up-down	2.34	-1.96	2.80e-07	5.50e-04	92	102
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	post translational protein modification	up-down	1.62	-1.67	1.57e-03	5.94e-04	305	270
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	interleukin 1 mediated signaling pathway	up-down	2.28	-1.96	1.21e-06	5.98e-04	86	88
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of cellular catabolic process	up-down	1.9	-1.5	6.36e-09	6.11e-04	674	627
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	proteasome regulatory particle base subcomplex	up-down	2.26	-2.14	3.16e-04	6.72e-04	12	12
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	gtpase activity	up-down	1.63	-1.73	2.11e-03	7.57e-04	240	222
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein ligase binding	up-down	2.38	-1.7	6.36e-09	7.77e-04	240	255
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	spliceosomal tri snrnp complex	up-down	1.77	-2.13	4.84e-02	8.09e-04	26	27
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cytoplasmic dynein complex	up-down	2.27	-2.08	3.60e-04	8.95e-04	15	16
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	rna splicing	up-down	2.17	-1.63	6.36e-09	1.06e-03	344	320
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	mrna processing	up-down	2.1	-1.6	6.36e-09	1.21e-03	397	365
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	phospholipid biosynthetic process	up-down	1.66	-1.72	2.95e-03	1.28e-03	216	196
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	clathrin coat	up-down	1.73	-2.04	3.00e-02	1.34e-03	36	33
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	sm like protein family complex	up-down	2.01	-1.93	9.15e-04	1.40e-03	63	58
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	late endosome	up-down	1.62	-1.72	5.90e-03	1.45e-03	213	182
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	u2 type spliceosomal complex	up-down	2.04	-1.93	1.32e-04	1.70e-03	73	70
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cell cycle phase transition	up-down	2.39	-1.49	6.36e-09	1.81e-03	492	479
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	guanyl nucleotide binding	up-down	1.56	-1.61	6.90e-03	1.84e-03	282	270
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of establishment of planar polarity	up-down	2.26	-1.88	1.91e-06	2.02e-03	97	88
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	nuclear transcribed mrna catabolic process exonucleolytic	up-down	1.77	-2.03	3.40e-02	2.05e-03	30	29
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	vesicle coat	up-down	1.81	-2	1.76e-02	2.26e-03	42	43
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of protein containing complex assembly	up-down	1.83	-1.58	1.15e-05	2.29e-03	342	321
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	endosome organization	up-down	2.3	-1.97	5.65e-06	2.56e-03	67	51
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cytosolic transport	up-down	1.69	-1.83	1.01e-02	2.64e-03	119	115
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	protein polymerization	up-down	1.65	-1.62	5.86e-03	2.67e-03	212	202
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	threonine type peptidase activity	up-down	1.97	-2.05	9.28e-03	2.68e-03	16	17
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	kinetochore	up-down	2.65	-1.78	6.36e-09	2.90e-03	118	101
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	spliceosomal complex	up-down	2.25	-1.74	8.13e-08	3.09e-03	141	135
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of cell cycle phase transition	up-down	2.34	-1.54	6.36e-09	3.14e-03	367	351
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cellular nitrogen compound catabolic process	up-down	1.56	-1.49	1.00e-03	3.20e-03	435	427
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	endomembrane system organization	up-down	2.04	-1.56	1.91e-08	3.32e-03	330	296
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	hematopoietic stem cell differentiation	up-down	2.21	-1.86	2.01e-05	3.48e-03	68	75
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	dna repair	up-down	2.28	-1.5	6.36e-09	3.85e-03	443	394
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation of peptide antigen via mhc class i	up-down	2.66	-1.84	6.36e-09	3.95e-03	73	79
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cellular response to oxygen levels	up-down	1.93	-1.63	5.04e-05	4.16e-03	194	197
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	vacuolar membrane	up-down	1.81	-1.56	3.71e-05	4.30e-03	334	292
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of mitochondrion organization	up-down	1.73	-1.7	4.47e-03	4.33e-03	147	145
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	spliceosomal snrnp assembly	up-down	1.94	-1.96	5.26e-03	4.45e-03	36	33
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	golgi organization	up-down	1.58	-1.81	4.59e-02	4.49e-03	94	90
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	catalytic step 2 spliceosome	up-down	2.44	-1.83	2.96e-07	4.52e-03	69	64
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	receptor catabolic process	up-down	1.74	-1.95	3.78e-02	4.58e-03	33	28
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	protein localization to chromosome telomeric region	up-down	1.94	-1.99	9.31e-03	5.08e-03	24	25
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of mrna metabolic process	up-down	1.9	-1.59	5.89e-06	5.10e-03	263	250
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	de novo protein folding	up-down	1.92	-1.94	8.92e-03	5.26e-03	27	28
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	rna export from nucleus	up-down	1.85	-1.72	1.13e-03	5.26e-03	101	101
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	nuclear export	up-down	2.07	-1.66	5.33e-06	5.27e-03	151	148
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of dna templated transcription in response to stress	up-down	2.08	-1.73	3.01e-05	5.31e-03	101	104
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	establishment of rna localization	up-down	1.97	-1.69	7.56e-05	5.52e-03	149	150
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	whole membrane	up-down	1.67	-1.3	6.36e-09	5.52e-03	1360	1261
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	endosome membrane	up-down	1.89	-1.53	1.27e-06	5.53e-03	389	348
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	rna polymerase ii holoenzyme	up-down	1.74	-1.81	2.08e-02	5.53e-03	60	64
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	trans golgi network	up-down	1.79	-1.69	5.91e-04	5.74e-03	179	165
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	lysosomal transport	up-down	1.96	-1.74	7.75e-04	6.12e-03	82	77
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	membrane docking	up-down	1.78	-1.71	1.02e-03	6.36e-03	153	142
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	proteasome assembly	up-down	1.87	-1.96	3.12e-02	6.38e-03	12	11
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton organization	up-down	1.98	-1.49	6.36e-09	6.47e-03	448	389
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	organelle assembly	up-down	1.52	-1.41	6.64e-04	6.47e-03	648	571
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	rna polymerase complex	up-down	1.63	-1.81	2.39e-02	7.01e-03	82	83
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of microtubule based process	up-down	1.82	-1.62	3.46e-04	7.17e-03	178	166
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	establishment of localization in cell	up-down	1.62	-1.48	3.40e-04	7.25e-03	429	416
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein conjugating enzyme activity	up-down	1.63	-1.91	4.78e-02	7.42e-03	34	29
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	u2 type catalytic step 2 spliceosome	up-down	2.1	-1.91	2.12e-03	7.54e-03	25	24
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	positive regulation of dendrite morphogenesis	up-down	1.66	-1.91	3.99e-02	7.64e-03	34	35
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	late endosome to vacuole transport	up-down	1.91	-1.95	1.54e-02	7.65e-03	14	12
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation of peptide or polysaccharide antigen via mhc class ii	up-down	2.21	-1.78	8.08e-06	7.81e-03	75	82
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	protein monoubiquitination	up-down	1.75	-1.88	1.01e-02	7.81e-03	61	50
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	mitochondrion morphogenesis	up-down	1.91	-1.91	1.43e-02	8.02e-03	20	19
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	organic cyclic compound catabolic process	up-down	1.47	-1.43	8.28e-03	8.02e-03	469	469
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	ficolin 1 rich granule	up-down	2.35	-1.69	2.80e-07	8.18e-03	97	111
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of hematopoietic progenitor cell differentiation	up-down	2.26	-1.79	9.12e-06	8.23e-03	72	75
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	small nuclear ribonucleoprotein complex	up-down	2.01	-1.86	2.12e-03	9.04e-03	54	51
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	morphogenesis of a polarized epithelium	up-down	2.23	-1.68	9.29e-07	9.60e-03	121	113
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	fc receptor signaling pathway	up-down	2.52	-1.62	6.36e-09	1.04e-02	142	158
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	endosome	up-down	2	-1.37	6.36e-09	1.05e-02	739	678
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	nucleobase containing compound transport	up-down	1.7	-1.58	2.17e-03	1.06e-02	187	179
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cell projection organization	up-down	1.38	-1.3	1.78e-03	1.08e-02	1267	1134
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of cellular localization	up-down	1.8	-1.37	3.86e-08	1.08e-02	661	626
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	endosome transport via multivesicular body sorting pathway	up-down	1.9	-1.86	2.05e-02	1.09e-02	22	16
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	centrosome	up-down	2.12	-1.47	6.36e-09	1.10e-02	473	417
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	multi organism localization	up-down	2.08	-1.85	9.47e-04	1.11e-02	50	50
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	precatalytic spliceosome	up-down	1.99	-1.85	2.13e-03	1.13e-02	46	42
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of cellular protein localization	up-down	2.14	-1.44	6.36e-09	1.14e-02	446	429
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	nuclear pore	up-down	2.08	-1.77	1.66e-04	1.14e-02	65	70
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cellular response to heat	up-down	2.19	-1.64	6.97e-06	1.17e-02	100	107
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	rna capping	up-down	2.09	-1.89	1.09e-03	1.19e-02	28	30
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of intracellular protein transport	up-down	1.68	-1.57	2.71e-03	1.20e-02	188	184
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	glycerophospholipid metabolic process	up-down	1.57	-1.51	4.02e-03	1.21e-02	265	230
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	recycling endosome membrane	up-down	1.74	-1.8	1.09e-02	1.26e-02	61	55
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	spindle organization	up-down	2.48	-1.66	6.36e-09	1.29e-02	135	127
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	microtubule binding	up-down	1.56	-1.54	9.31e-03	1.33e-02	203	178
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	carbohydrate derivative metabolic process	up-down	1.38	-1.34	7.08e-03	1.34e-02	896	835
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	positive regulation of telomere maintenance via telomere lengthening	up-down	1.9	-1.88	1.33e-02	1.34e-02	30	30
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	non canonical wnt signaling pathway	up-down	2.18	-1.64	1.47e-06	1.37e-02	125	119
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	rna dependent dna biosynthetic process	up-down	2.12	-1.73	2.67e-04	1.63e-02	59	59
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	post golgi vesicle mediated transport	up-down	1.98	-1.71	2.93e-04	1.69e-02	83	78
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	phospholipid metabolic process	up-down	1.53	-1.46	4.74e-03	1.71e-02	358	312
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	microtubule associated complex	up-down	1.72	-1.62	5.46e-03	1.83e-02	120	104
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	dephosphorylation	up-down	1.52	-1.44	3.75e-03	1.85e-02	368	340
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of cellular amide metabolic process	up-down	1.59	-1.48	1.57e-03	1.92e-02	320	300
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of protein polymerization	up-down	1.57	-1.62	1.78e-02	2.03e-02	170	155
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein binding	up-down	2.2	-1.68	7.27e-06	2.05e-02	83	76
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	proteasome core complex beta subunit complex	up-down	1.82	-1.86	4.36e-02	2.08e-02	9	10
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	histone mrna metabolic process	up-down	2.29	-1.83	5.34e-04	2.21e-02	22	17
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of vesicle mediated transport	up-down	1.37	-1.38	4.24e-02	2.29e-02	444	428
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of cell projection organization	up-down	1.45	-1.35	4.42e-03	2.30e-02	568	541
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	vacuole organization	up-down	1.66	-1.61	9.36e-03	2.37e-02	125	114
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	vesicle mediated transport to the plasma membrane	up-down	1.92	-1.7	1.97e-03	2.38e-02	72	62
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cytoskeleton dependent cytokinesis	up-down	2.29	-1.7	1.98e-06	2.39e-02	74	67
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	clathrin dependent endocytosis	up-down	1.87	-1.75	1.17e-02	2.41e-02	37	33
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein specific protease activity	up-down	1.63	-1.7	1.90e-02	2.45e-02	86	66
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of telomere maintenance via telomere lengthening	up-down	2.11	-1.69	2.93e-04	2.60e-02	49	46
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	mitotic cell cycle	up-down	2.55	-1.31	6.36e-09	2.61e-02	815	792
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of proteasomal protein catabolic process	up-down	1.55	-1.56	2.03e-02	2.67e-02	143	135
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	golgi apparatus	up-down	1.63	-1.28	3.06e-08	2.67e-02	1221	1117
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	multivesicular body organization	up-down	1.81	-1.82	2.36e-02	2.71e-02	27	21
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	selective autophagy	up-down	1.95	-1.75	3.23e-03	2.71e-02	40	38
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	nad metabolic process	up-down	1.96	-1.73	2.68e-03	2.77e-02	43	43
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	spindle	up-down	2.37	-1.46	6.36e-09	2.80e-02	289	261
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	establishment of protein localization to telomere	up-down	1.88	-1.75	1.78e-02	2.82e-02	16	16
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	mitotic cytokinesis	up-down	2.33	-1.73	1.15e-05	2.84e-02	56	51
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	postreplication repair	up-down	1.71	-1.73	2.55e-02	2.85e-02	46	39
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	endosome to lysosome transport	up-down	2.17	-1.74	2.17e-04	2.93e-02	42	37
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	dna templated transcription elongation	up-down	1.89	-1.59	7.47e-04	2.95e-02	86	89
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	response to heat	up-down	1.63	-1.52	9.31e-03	2.98e-02	134	140
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	microtubule organizing center	up-down	1.98	-1.36	6.36e-09	3.16e-02	618	520
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	perinuclear region of cytoplasm	up-down	1.67	-1.35	1.48e-05	3.17e-02	571	544
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	centriolar satellite	up-down	1.68	-1.66	1.21e-02	3.29e-02	83	69
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	regulation of autophagy	up-down	1.67	-1.46	2.12e-03	3.32e-02	273	247
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	arp2 3 protein complex	up-down	1.82	-1.79	2.02e-02	3.36e-02	7	8
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell projection organization	up-down	1.57	-1.41	2.57e-03	3.37e-02	326	319
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton organization involved in mitosis	up-down	2.69	-1.53	6.36e-09	3.45e-02	110	109
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	proteasome regulatory particle lid subcomplex	up-down	1.79	-1.78	2.63e-02	3.59e-02	7	7
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	vesicle membrane	up-down	1.42	-1.31	6.99e-03	3.63e-02	638	596
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	cul4 ring e3 ubiquitin ligase complex	up-down	1.76	-1.7	2.33e-02	3.64e-02	29	24
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	host cellular component	up-down	1.96	-1.63	2.08e-03	3.78e-02	59	59
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	early endosome membrane	up-down	1.68	-1.51	1.01e-02	3.81e-02	121	109
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	spindle microtubule	up-down	2.39	-1.66	5.47e-06	3.82e-02	45	48
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	early endosome	up-down	2.02	-1.41	1.66e-07	3.84e-02	289	269
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	condensed chromosome centromeric region	up-down	2.57	-1.57	6.36e-09	3.88e-02	99	87
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	nucleotide phosphorylation	up-down	1.78	-1.51	2.86e-03	3.96e-02	112	111
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	ncrna export from nucleus	up-down	2.06	-1.7	2.01e-03	4.01e-02	32	31
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	innate immune response activating cell surface receptor signaling pathway	up-down	2.37	-1.6	5.55e-07	4.04e-02	88	90
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	ciliary basal body plasma membrane docking	up-down	1.79	-1.54	4.02e-03	4.35e-02	83	77
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	dna templated transcription termination	up-down	2.02	-1.58	7.83e-04	4.82e-02	64	58
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	apoptotic mitochondrial changes	up-down	1.52	-1.55	4.48e-02	4.95e-02	100	97
+Pancreatic cancer	Alzheimer's disease	Gene Ontology	purine nucleoside monophosphate metabolic process	up-down	1.71	-1.66	4.55e-02	4.97e-02	33	31
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	naba - secreted factors	down-up	-1.58	2.17	3.18e-03	5.07e-09	261	249
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - class a 1 rhodopsin like receptors	down-up	-2.24	1.9	4.85e-09	8.78e-07	277	261
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - gpcr ligand binding	down-up	-2.38	1.69	4.85e-09	2.32e-05	381	353
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	kegg - maturity onset diabetes of the young	down-up	-2.32	2.32	3.19e-04	1.38e-04	21	21
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - peptide ligand binding receptors	down-up	-1.97	1.76	3.30e-05	2.99e-04	167	160
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of beta cell development	down-up	-1.88	2.11	8.88e-03	1.48e-03	32	33
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	biocarta - dc pathway	down-up	-1.73	2.16	4.37e-02	2.21e-03	16	16
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by gpcr	down-up	-1.96	1.31	4.85e-09	7.64e-03	704	657
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - response to metal ions	down-up	-2.12	1.95	1.11e-03	1.36e-02	9	12
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - metallothioneins bind metals	down-up	-2.06	1.88	6.39e-04	1.77e-02	6	9
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	kegg - olfactory transduction	down-up	-2.7	1.59	4.85e-09	1.98e-02	74	61
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - digestion and absorption	down-up	-1.67	1.78	4.93e-02	3.66e-02	15	18
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - anti inflammatory response favouring leishmania parasite infection	down-up	-2.07	1.42	1.21e-05	4.48e-02	137	131
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	kegg - huntingtons disease	up-down	1.49	-2.8	3.80e-02	5.07e-09	141	139
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - antigen processing ubiquitination proteasome degradation	up-down	1.91	-2.41	1.28e-05	5.07e-09	256	213
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	up-down	2.37	-2.64	7.49e-06	5.07e-09	61	60
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - assembly of the pre replicative complex	up-down	2.6	-2.6	5.79e-08	5.07e-09	60	62
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - auf1 hnrnp d0 binds and destabilizes mrna	up-down	2.45	-2.65	4.19e-06	5.07e-09	46	48
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle checkpoints	up-down	3.05	-2.16	4.85e-09	5.07e-09	237	234
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - class i mhc mediated antigen processing presentation	up-down	2.03	-2.19	1.19e-07	5.07e-09	300	261
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - defective cftr causes cystic fibrosis	up-down	2.25	-2.72	4.80e-05	5.07e-09	53	51
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of gli1 by the proteasome	up-down	2.43	-2.69	2.57e-06	5.07e-09	53	53
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - dna replication	up-down	2.64	-2.47	4.85e-09	5.07e-09	113	113
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - hedgehog ligand biogenesis	up-down	2.23	-2.66	5.04e-05	5.07e-09	55	54
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv infection	up-down	2.7	-2.45	4.85e-09	5.07e-09	186	197
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - host interactions of hiv factors	up-down	2.66	-2.51	4.85e-09	5.07e-09	108	113
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - membrane trafficking	up-down	2.04	-1.91	4.85e-09	5.07e-09	495	482
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of rna	up-down	2.34	-2.2	4.85e-09	5.07e-09	512	508
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic g2 g2 m phases	up-down	2.52	-2.26	4.85e-09	5.07e-09	152	163
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic metaphase and anaphase	up-down	2.93	-2.28	4.85e-09	5.07e-09	188	185
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - neddylation	up-down	1.73	-2.38	1.51e-03	5.07e-09	197	164
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - negative regulation of notch4 signaling	up-down	2.55	-2.85	2.27e-07	5.07e-09	47	50
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - orc1 removal from chromatin	up-down	2.64	-2.68	3.36e-08	5.07e-09	64	65
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of pten stability and activity	up-down	2.42	-2.58	2.27e-06	5.07e-09	58	63
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of ras by gaps	up-down	2.57	-2.85	8.51e-08	5.07e-09	57	55
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of runx2 expression and activity	up-down	2.49	-2.59	1.83e-07	5.07e-09	66	67
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - separation of sister chromatids	up-down	2.75	-2.35	4.85e-09	5.07e-09	151	152
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - switching of origins to a post replicative state	up-down	2.59	-2.7	1.21e-08	5.07e-09	80	77
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - the role of gtse1 in g2 m progression after g2 checkpoint	up-down	2.44	-2.54	1.18e-06	5.07e-09	57	66
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of polyamines	up-down	2.59	-2.6	9.79e-08	5.32e-09	52	52
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of axin	up-down	2.48	-2.6	7.77e-07	6.93e-09	49	49
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	kegg - proteasome	up-down	2.68	-2.64	1.31e-07	7.66e-09	38	39
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of dvl	up-down	2.43	-2.57	3.29e-06	8.12e-09	50	51
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - dna replication pre initiation	up-down	2.79	-2.48	4.85e-09	1.16e-08	76	78
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - cross presentation of soluble exogenous antigens endosomes	up-down	2.59	-2.63	1.13e-06	1.37e-08	42	43
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - post translational protein modification	up-down	1.8	-1.65	4.85e-09	2.07e-08	1111	1021
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - vesicle mediated transport	up-down	1.97	-1.81	4.85e-09	2.13e-08	522	514
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - apc c mediated degradation of cell cycle proteins	up-down	2.55	-2.49	4.79e-08	2.21e-08	74	73
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - scf skp2 mediated degradation of p27 p21	up-down	2.63	-2.51	1.63e-08	2.48e-08	54	57
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular response to hypoxia	up-down	2.37	-2.48	4.70e-06	5.04e-08	64	67
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of expression of slits and robos	up-down	1.53	-2.24	2.58e-02	5.28e-08	113	133
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - organelle biogenesis and maintenance	up-down	1.74	-2.1	5.89e-04	7.19e-08	231	222
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of mrna stability by proteins that bind au rich elements	up-down	2.72	-2.39	4.85e-09	7.19e-08	72	76
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - stabilization of p53	up-down	2.47	-2.49	8.50e-07	7.39e-08	49	51
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - asymmetric localization of pcp proteins	up-down	2.31	-2.47	1.93e-05	7.92e-08	56	56
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - g2 m checkpoints	up-down	2.86	-2.22	4.85e-09	9.31e-08	133	137
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - dectin 1 mediated noncanonical nf kb signaling	up-down	2.31	-2.46	1.57e-05	1.18e-07	55	57
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - tp53 regulates metabolic genes	up-down	1.91	-2.42	1.58e-03	1.44e-07	74	61
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of runx3 expression and activity	up-down	2.68	-2.45	2.45e-08	1.96e-07	48	51
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by robo receptors	up-down	1.64	-2.1	7.71e-03	2.95e-07	151	175
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - abc transporter disorders	up-down	2.04	-2.36	4.65e-04	4.00e-07	65	64
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - er to golgi anterograde transport	up-down	1.59	-2.2	2.42e-02	4.32e-07	111	123
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - s phase	up-down	2.62	-2.2	4.85e-09	5.17e-07	141	140
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - cyclin a cdk2 associated events at s phase entry	up-down	2.66	-2.31	4.85e-09	5.78e-07	75	77
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - abc family proteins mediated transport	up-down	2.11	-2.28	5.04e-05	1.00e-06	86	84
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - downstream signaling events of b cell receptor bcr	up-down	2.47	-2.32	5.89e-07	1.56e-06	67	73
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - m phase	up-down	2.85	-1.84	4.85e-09	1.80e-06	313	316
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle	up-down	2.95	-1.7	4.85e-09	1.81e-06	526	534
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - uch proteinases	up-down	2.64	-2.25	4.85e-09	1.99e-06	81	76
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - g1 s dna damage checkpoints	up-down	2.5	-2.31	4.03e-07	2.00e-06	60	61
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - pcp ce pathway	up-down	2.41	-2.25	4.87e-07	2.11e-06	81	82
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - processing of capped intron containing pre mrna	up-down	2.62	-2.01	4.85e-09	2.11e-06	196	188
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - hedgehog off state	up-down	2	-2.23	1.62e-04	3.10e-06	95	95
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - nucleotide excision repair	up-down	1.94	-2.23	7.23e-04	3.27e-06	91	95
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by hedgehog	up-down	1.89	-2.11	4.02e-04	5.43e-06	125	119
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - fceri mediated nf kb activation	up-down	2.37	-2.27	2.47e-06	6.88e-06	69	71
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv life cycle	up-down	2.35	-2.1	1.57e-07	7.24e-06	119	126
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - mapk6 mapk4 signaling	up-down	2.23	-2.2	1.36e-05	8.14e-06	80	79
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - transport to the golgi and subsequent modification	up-down	1.54	-2.02	3.63e-02	1.16e-05	137	151
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle mitotic	up-down	2.96	-1.7	4.85e-09	1.21e-05	430	444
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - hedgehog on state	up-down	2.39	-2.17	1.32e-06	2.28e-05	75	70
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by notch4	up-down	2.31	-2.21	1.60e-05	2.28e-05	67	74
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular responses to external stimuli	up-down	1.87	-1.65	5.12e-07	3.11e-05	440	475
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - clathrin mediated endocytosis	up-down	1.65	-2.01	1.02e-02	3.86e-05	123	122
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of beta catenin by the destruction complex	up-down	2.15	-2.11	6.13e-05	4.67e-05	74	76
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - copi mediated anterograde transport	up-down	1.65	-2.13	2.57e-02	4.78e-05	72	83
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - pten regulation	up-down	2.23	-2.05	1.28e-06	4.83e-05	119	118
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - golgi to er retrograde transport	up-down	1.96	-2.11	4.65e-04	5.04e-05	97	104
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic g1 phase and g1 s transition	up-down	2.87	-1.93	4.85e-09	6.43e-05	129	138
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - mhc class ii antigen presentation	up-down	2.38	-2.03	3.34e-07	6.46e-05	86	97
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna splicing	up-down	2.53	-1.91	4.85e-09	8.89e-05	154	147
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	kegg - ubiquitin mediated proteolysis	up-down	2.12	-2.01	2.60e-05	1.08e-04	109	110
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - fc epsilon receptor fceri signaling	up-down	2.36	-1.96	3.11e-07	1.12e-04	109	119
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - global genome nucleotide excision repair gg ner	up-down	1.96	-2.11	7.57e-04	1.23e-04	71	74
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - nervous system development	up-down	1.57	-1.6	6.52e-04	1.89e-04	463	495
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - cooperation of prefoldin and tric cct in actin and tubulin folding	up-down	1.73	-2.22	3.63e-02	2.21e-04	19	26
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - infectious disease	up-down	1.79	-1.54	6.22e-07	2.58e-04	545	582
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - ub specific processing proteases	up-down	2.25	-1.85	1.83e-07	2.58e-04	157	160
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - hsp90 chaperone cycle for steroid hormone receptors shr	up-down	1.78	-2.12	2.06e-02	2.66e-04	35	44
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - intra golgi and retrograde golgi to er traffic	up-down	1.92	-1.82	1.08e-04	3.65e-04	154	157
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - deubiquitination	up-down	2.49	-1.76	4.85e-09	3.66e-04	227	217
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	kegg - rna degradation	up-down	2.32	-2.1	3.28e-05	4.38e-04	46	47
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - trna processing	up-down	1.65	-1.95	1.48e-02	4.38e-04	91	84
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - antigen processing cross presentation	up-down	2.49	-1.97	8.84e-08	4.68e-04	79	82
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - cilium assembly	up-down	1.95	-1.8	1.22e-04	6.01e-04	159	147
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - dual incision in tc ner	up-down	1.59	-2.03	4.31e-02	6.07e-04	52	56
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	kegg - spliceosome	up-down	2.46	-1.88	9.16e-08	8.97e-04	101	97
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of incision complex in gg ner	up-down	1.75	-2.03	2.57e-02	9.27e-04	35	39
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - interleukin 1 signaling	up-down	2.55	-1.92	5.25e-09	9.76e-04	89	89
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - viral messenger rna synthesis	up-down	2.15	-2.03	8.86e-04	1.19e-03	36	38
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - tnfr2 non canonical nf kb pathway	up-down	2.18	-1.91	1.35e-05	1.21e-03	88	88
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - clec7a dectin 1 signaling	up-down	2.5	-1.9	4.15e-08	1.25e-03	82	89
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by the b cell receptor bcr	up-down	2.46	-1.84	1.09e-08	1.56e-03	94	99
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - beta catenin independent wnt signaling	up-down	2.34	-1.81	2.18e-07	1.69e-03	121	124
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic spindle checkpoint	up-down	2.6	-1.83	4.85e-09	1.78e-03	92	86
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - dna repair	up-down	2.51	-1.64	4.85e-09	1.89e-03	254	254
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - adaptive immune system	up-down	2.15	-1.47	4.85e-09	1.90e-03	583	567
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna splicing minor pathway	up-down	1.77	-2.04	1.77e-02	2.09e-03	45	43
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - snrnp assembly	up-down	2.36	-1.95	1.75e-05	2.35e-03	46	44
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - disorders of transmembrane transporters	up-down	2.06	-1.71	1.48e-05	3.42e-03	149	147
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - flt3 signaling	up-down	1.45	-1.61	3.76e-02	3.70e-03	221	227
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - transcriptional regulation by tp53	up-down	2.33	-1.57	4.85e-09	4.27e-03	296	291
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - transcriptional regulation by runx2	up-down	2.36	-1.76	3.78e-07	4.78e-03	106	108
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - mapk family signaling cascades	up-down	1.56	-1.55	8.55e-03	4.92e-03	248	251
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular response to heat stress	up-down	1.84	-1.81	2.40e-03	5.49e-03	78	83
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of hsf1 mediated heat shock response	up-down	1.95	-1.82	8.59e-04	5.66e-03	66	67
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - antiviral mechanism by ifn stimulated genes	up-down	2.55	-1.81	2.27e-07	6.21e-03	61	70
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - copi dependent golgi to er retrograde traffic	up-down	1.81	-1.8	4.81e-03	6.27e-03	68	75
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - trna processing in the nucleus	up-down	1.99	-1.88	1.22e-03	6.43e-03	47	46
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of plk1 activity at g2 m transition	up-down	1.99	-1.82	6.58e-04	6.43e-03	74	74
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - dna damage recognition in gg ner	up-down	1.68	-1.88	3.22e-02	7.19e-03	37	34
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - ns1 mediated effects on host pathways	up-down	2.26	-1.88	3.47e-04	7.78e-03	32	34
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - translocation of slc2a4 glut4 to the plasma membrane	up-down	1.9	-1.82	3.71e-03	8.12e-03	48	55
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - glucose metabolism	up-down	1.76	-1.72	6.36e-03	8.48e-03	78	82
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	pid - erbb1 internalization pathway	up-down	1.75	-1.87	2.29e-02	9.23e-03	38	37
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna capping	up-down	2.14	-1.93	1.23e-03	9.80e-03	23	27
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - cholesterol biosynthesis	up-down	2	-1.95	6.03e-03	1.01e-02	23	20
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of the early elongation complex	up-down	2.12	-1.9	1.63e-03	1.04e-02	24	28
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - synthesis of active ubiquitin roles of e1 and e2 enzymes	up-down	1.74	-1.9	3.03e-02	1.11e-02	27	24
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - rho gtpases activate formins	up-down	2.77	-1.69	4.85e-09	1.21e-02	108	109
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - transcription of the hiv genome	up-down	2.16	-1.75	1.96e-04	1.41e-02	53	62
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - pi metabolism	up-down	1.75	-1.72	9.63e-03	1.50e-02	64	67
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - golgi associated vesicle biogenesis	up-down	1.98	-1.75	4.18e-03	1.53e-02	41	40
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - aurka activation by tpx2	up-down	1.95	-1.67	2.04e-03	1.65e-02	59	61
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - glycolysis	up-down	1.99	-1.67	1.21e-03	1.65e-02	59	63
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv transcription initiation	up-down	1.8	-1.78	1.32e-02	1.66e-02	37	42
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	biocarta - pyk2 pathway	up-down	2.03	-1.86	3.20e-03	1.67e-02	21	23
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - deadenylation dependent mrna decay	up-down	2.11	-1.83	6.18e-04	1.70e-02	46	43
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - recruitment of mitotic centrosome proteins and complexes	up-down	1.86	-1.74	3.61e-03	1.85e-02	64	65
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - c type lectin receptors clrs	up-down	2.39	-1.62	1.83e-07	1.88e-02	111	116
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of rna pol ii elongation complex	up-down	2.33	-1.71	2.93e-05	1.97e-02	43	50
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - runx1 regulates transcription of genes involved in differentiation of hscs	up-down	2.47	-1.68	4.15e-08	1.98e-02	89	94
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - recruitment of numa to mitotic centrosomes	up-down	1.77	-1.69	6.89e-03	2.03e-02	69	74
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv transcription elongation	up-down	2.15	-1.73	1.37e-03	2.03e-02	32	38
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - interactions of vpr with host cellular proteins	up-down	1.87	-1.8	8.51e-03	2.05e-02	30	31
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - transport of mature transcript to cytoplasm	up-down	2.17	-1.62	1.18e-04	2.26e-02	64	61
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - dna damage bypass	up-down	1.76	-1.69	2.09e-02	2.28e-02	41	40
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic prometaphase	up-down	2.6	-1.52	4.85e-09	2.43e-02	158	160
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - resolution of sister chromatid cohesion	up-down	2.66	-1.58	4.85e-09	2.50e-02	97	99
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - transport of the slbp dependant mature mrna	up-down	2.15	-1.76	6.58e-04	2.60e-02	30	30
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - protein ubiquitination	up-down	2.14	-1.64	1.80e-04	2.61e-02	67	58
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	kegg - nucleotide excision repair	up-down	1.73	-1.67	1.94e-02	2.63e-02	37	40
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - nuclear envelope ne reassembly	up-down	2.38	-1.65	5.56e-06	2.93e-02	52	54
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	biocarta - sm pathway	up-down	1.89	-1.76	1.22e-02	3.00e-02	13	13
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - interactions of rev with host cellular proteins	up-down	2.15	-1.72	6.39e-04	3.65e-02	30	30
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - phospholipid - metabolism	up-down	1.78	-1.47	9.41e-04	3.85e-02	166	148
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - tcr signaling	up-down	2.49	-1.61	5.12e-08	3.97e-02	96	105
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	biocarta - hbx pathway	up-down	1.72	-1.65	2.75e-02	4.16e-02	7	7
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - anchoring of the basal body to the plasma membrane	up-down	1.85	-1.54	1.12e-03	4.27e-02	84	78
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - programmed cell death	up-down	2.73	-1.47	4.85e-09	4.27e-02	158	161
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - abortive elongation of hiv 1 transcript in the absence of tat	up-down	1.92	-1.74	1.20e-02	4.32e-02	17	19
+Pancreatic cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna decay by 5 to 3 exoribonuclease	up-down	1.83	-1.74	3.02e-02	4.56e-02	14	12

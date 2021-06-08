@@ -1,0 +1,517 @@
+disease.1	disease.2	category	pathway	overlap	nes.1	nes.2	fdr.1	fdr.2	genes.1	ngenes.2
+Kidney cancer	Parkinson's disease	HallMark	tnfa signaling via nfkb	up-up	2.3	2.02	5.56e-10	1.63e-07	168	190
+Kidney cancer	Parkinson's disease	HallMark	inflammatory response	up-up	2.56	1.99	5.56e-10	8.68e-07	191	192
+Kidney cancer	Parkinson's disease	HallMark	il2 stat5 signaling	up-up	1.85	1.92	2.12e-05	4.49e-06	171	172
+Kidney cancer	Parkinson's disease	HallMark	il6 jak stat3 signaling	up-up	2.44	2.09	3.43e-09	1.26e-05	75	85
+Kidney cancer	Parkinson's disease	HallMark	hypoxia	up-up	2.14	1.66	7.73e-09	2.10e-04	173	193
+Kidney cancer	Parkinson's disease	HallMark	p53 pathway	up-up	1.9	1.64	5.02e-06	2.25e-04	163	186
+Kidney cancer	Parkinson's disease	HallMark	complement	up-up	2.05	1.56	7.64e-08	2.79e-03	163	178
+Kidney cancer	Parkinson's disease	HallMark	allograft rejection	up-up	2.87	1.44	5.56e-10	7.95e-03	167	186
+Kidney cancer	Parkinson's disease	HallMark	interferon gamma response	up-up	3	1.44	5.56e-10	1.44e-02	162	170
+Kidney cancer	Parkinson's disease	HallMark	interferon alpha response	up-up	2.74	1.51	5.56e-10	1.74e-02	73	77
+Kidney cancer	Parkinson's disease	HallMark	epithelial mesenchymal transition	up-up	2.02	1.36	4.88e-07	2.19e-02	175	190
+Kidney cancer	Parkinson's disease	HallMark	wnt beta catenin signaling	up-up	1.83	1.66	2.17e-03	2.37e-02	35	34
+Kidney cancer	Parkinson's disease	HallMark	oxidative phosphorylation	down-down	-2.76	-3.09	5.56e-10	5.00e-09	164	187
+Kidney cancer	Parkinson's disease	HallMark	fatty acid metabolism	down-down	-2.23	-1.9	3.72e-08	2.09e-05	119	138
+Kidney cancer	Parkinson's disease	HallMark	adipogenesis	down-down	-1.47	-1.69	1.04e-02	3.97e-04	172	174
+Kidney cancer	Parkinson's disease	HallMark	peroxisome	down-down	-1.6	-1.51	6.10e-03	1.35e-02	85	94
+Kidney cancer	Parkinson's disease	Gene Ontology	adaptive immune response	up-up	2.25	2.01	8.93e-09	1.26e-08	316	319
+Kidney cancer	Parkinson's disease	Gene Ontology	anatomical structure formation involved in morphogenesis	up-up	1.32	1.61	7.12e-03	1.26e-08	884	882
+Kidney cancer	Parkinson's disease	Gene Ontology	biological adhesion	up-up	1.46	1.53	2.85e-05	1.26e-08	1092	1082
+Kidney cancer	Parkinson's disease	Gene Ontology	blood vessel morphogenesis	up-up	1.59	1.83	1.10e-04	1.26e-08	479	510
+Kidney cancer	Parkinson's disease	Gene Ontology	cardiovascular system development	up-up	1.48	1.77	1.36e-03	1.26e-08	575	599
+Kidney cancer	Parkinson's disease	Gene Ontology	chromatin organization	up-up	1.46	1.75	1.32e-03	1.26e-08	593	575
+Kidney cancer	Parkinson's disease	Gene Ontology	chromosome	up-up	1.48	1.6	1.46e-06	1.26e-08	1322	1242
+Kidney cancer	Parkinson's disease	Gene Ontology	cytokine production	up-up	2.01	1.8	8.93e-09	1.26e-08	605	606
+Kidney cancer	Parkinson's disease	Gene Ontology	leukocyte differentiation	up-up	1.9	2.05	1.04e-08	1.26e-08	419	416
+Kidney cancer	Parkinson's disease	Gene Ontology	lymphocyte activation	up-up	2.21	1.87	8.93e-09	1.26e-08	533	529
+Kidney cancer	Parkinson's disease	Gene Ontology	lymphocyte differentiation	up-up	1.9	2.09	1.50e-06	1.26e-08	282	283
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of biosynthetic process	up-up	1.37	1.68	4.60e-04	1.26e-08	1215	1167
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of nucleobase containing compound metabolic process	up-up	1.38	1.78	5.85e-04	1.26e-08	1125	1078
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of rna biosynthetic process	up-up	1.34	1.92	4.30e-03	1.26e-08	985	950
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of transcription by rna polymerase ii	up-up	1.35	2.03	1.20e-02	1.26e-08	690	667
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of cellular biosynthetic process	up-up	1.28	1.59	4.55e-03	1.26e-08	1574	1557
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of nucleobase containing compound metabolic process	up-up	1.3	1.61	2.14e-03	1.26e-08	1488	1459
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of rna metabolic process	up-up	1.23	1.67	4.30e-02	1.26e-08	1366	1339
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of cell population proliferation	up-up	1.23	1.5	3.29e-02	1.26e-08	1285	1308
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of immune system process	up-up	2.11	1.49	8.93e-09	1.26e-08	1167	1182
+Kidney cancer	Parkinson's disease	Gene Ontology	response to bacterium	up-up	1.81	1.85	2.51e-08	1.26e-08	470	458
+Kidney cancer	Parkinson's disease	Gene Ontology	tube morphogenesis	up-up	1.3	1.76	2.93e-02	1.26e-08	684	694
+Kidney cancer	Parkinson's disease	Gene Ontology	inflammatory response	up-up	1.9	1.71	8.93e-09	1.64e-08	577	567
+Kidney cancer	Parkinson's disease	Gene Ontology	t cell activation	up-up	2.26	1.89	8.93e-09	1.73e-08	371	373
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of cell activation	up-up	2.08	1.8	8.93e-09	4.55e-08	433	432
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of leukocyte differentiation	up-up	1.78	2.04	2.98e-04	6.21e-08	219	218
+Kidney cancer	Parkinson's disease	Gene Ontology	transcription coregulator activity	up-up	1.48	1.78	5.00e-03	6.21e-08	458	461
+Kidney cancer	Parkinson's disease	Gene Ontology	t cell differentiation	up-up	2.01	2.1	1.25e-06	1.23e-07	195	197
+Kidney cancer	Parkinson's disease	Gene Ontology	leukocyte cell cell adhesion	up-up	2.22	1.95	8.93e-09	1.36e-07	270	281
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of lymphocyte activation	up-up	2.23	1.85	8.93e-09	1.37e-07	339	337
+Kidney cancer	Parkinson's disease	Gene Ontology	circulatory system development	up-up	1.34	1.52	1.06e-02	1.38e-07	861	880
+Kidney cancer	Parkinson's disease	Gene Ontology	cell activation	up-up	2.12	1.43	8.93e-09	2.55e-07	1079	1094
+Kidney cancer	Parkinson's disease	Gene Ontology	immune system development	up-up	1.81	1.52	8.93e-09	3.99e-07	772	774
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of locomotion	up-up	1.57	1.69	3.81e-04	4.16e-07	457	466
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of vasculature development	up-up	1.51	1.91	1.01e-02	6.22e-07	265	274
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of immune system process	up-up	1.88	1.79	2.61e-07	6.87e-07	348	357
+Kidney cancer	Parkinson's disease	Gene Ontology	b cell activation	up-up	2.1	2.03	1.29e-07	8.15e-07	192	191
+Kidney cancer	Parkinson's disease	Gene Ontology	defense response to bacterium	up-up	1.86	2.1	2.25e-04	8.27e-07	166	156
+Kidney cancer	Parkinson's disease	Gene Ontology	defense response	up-up	2.01	1.34	8.93e-09	9.10e-07	1211	1215
+Kidney cancer	Parkinson's disease	Gene Ontology	response to molecule of bacterial origin	up-up	1.77	1.88	2.52e-05	9.61e-07	281	289
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of cell adhesion	up-up	1.79	1.6	2.82e-08	9.65e-07	539	562
+Kidney cancer	Parkinson's disease	Gene Ontology	covalent chromatin modification	up-up	1.53	1.73	2.65e-03	1.76e-06	373	364
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of intracellular signal transduction	up-up	1.6	1.49	1.05e-06	2.01e-06	802	792
+Kidney cancer	Parkinson's disease	Gene Ontology	cellular response to biotic stimulus	up-up	2.14	1.99	5.47e-08	2.46e-06	189	194
+Kidney cancer	Parkinson's disease	Gene Ontology	immune receptor activity	up-up	1.76	2.17	6.92e-03	3.44e-06	95	104
+Kidney cancer	Parkinson's disease	Gene Ontology	i kappab kinase nf kappab signaling	up-up	2.02	1.94	3.69e-07	3.94e-06	221	202
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of immune effector process	up-up	1.96	1.79	8.75e-08	4.49e-06	305	313
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of cellular component movement	up-up	1.42	1.47	1.09e-03	5.20e-06	796	801
+Kidney cancer	Parkinson's disease	Gene Ontology	response to biotic stimulus	up-up	2.02	1.36	8.93e-09	5.42e-06	1081	1088
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of immune response	up-up	2.27	1.47	8.93e-09	5.65e-06	755	772
+Kidney cancer	Parkinson's disease	Gene Ontology	external side of plasma membrane	up-up	1.57	1.79	4.71e-03	7.97e-06	253	257
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of interleukin 6 production	up-up	1.98	2.29	5.60e-04	8.50e-06	77	76
+Kidney cancer	Parkinson's disease	Gene Ontology	cytokine binding	up-up	1.69	2.09	1.74e-02	8.72e-06	110	110
+Kidney cancer	Parkinson's disease	Gene Ontology	cell motility	up-up	1.37	1.3	3.62e-04	8.91e-06	1273	1242
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of multicellular organismal process	up-up	1.32	1.3	1.49e-03	1.12e-05	1396	1410
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of cytokine production	up-up	2.13	1.68	8.93e-09	1.15e-05	360	364
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of t cell activation	up-up	2.2	1.83	8.93e-09	1.21e-05	251	256
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of adaptive immune response	up-up	2.09	2.05	9.69e-06	1.26e-05	128	129
+Kidney cancer	Parkinson's disease	Gene Ontology	phagocytosis	up-up	2.09	1.83	1.56e-07	1.38e-05	200	214
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of t cell differentiation	up-up	1.9	2.09	8.51e-04	1.54e-05	110	113
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of lymphocyte differentiation	up-up	1.85	2	3.78e-04	1.61e-05	138	136
+Kidney cancer	Parkinson's disease	Gene Ontology	transcription corepressor activity	up-up	1.61	1.87	8.33e-03	1.67e-05	196	189
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of developmental process	up-up	1.24	1.32	4.50e-02	1.81e-05	1094	1090
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of cell activation	up-up	2.11	1.76	8.93e-09	1.85e-05	253	263
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of immune system process	up-up	2.15	1.44	8.93e-09	1.94e-05	823	841
+Kidney cancer	Parkinson's disease	Gene Ontology	cell surface	up-up	1.46	1.48	1.29e-03	2.25e-05	670	665
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of cell population proliferation	up-up	1.35	1.46	1.02e-02	2.25e-05	718	732
+Kidney cancer	Parkinson's disease	Gene Ontology	chromosome organization	up-up	1.8	1.41	8.93e-09	2.42e-05	926	892
+Kidney cancer	Parkinson's disease	Gene Ontology	leukocyte proliferation	up-up	2.15	1.79	8.93e-09	3.01e-05	243	246
+Kidney cancer	Parkinson's disease	Gene Ontology	leukocyte migration	up-up	1.96	1.65	1.34e-08	3.06e-05	353	373
+Kidney cancer	Parkinson's disease	Gene Ontology	interleukin 6 production	up-up	2.03	2.03	2.66e-05	5.04e-05	119	115
+Kidney cancer	Parkinson's disease	Gene Ontology	b cell differentiation	up-up	1.79	2.06	2.77e-03	5.09e-05	100	102
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of multi organism process	up-up	1.82	1.85	5.60e-04	5.18e-05	163	173
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of leukocyte proliferation	up-up	2.21	1.86	8.93e-09	5.26e-05	183	183
+Kidney cancer	Parkinson's disease	Gene Ontology	tumor necrosis factor superfamily cytokine production	up-up	2.08	1.94	4.47e-06	5.26e-05	120	124
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of lymphocyte activation	up-up	2	2.01	5.60e-05	5.31e-05	118	120
+Kidney cancer	Parkinson's disease	Gene Ontology	immune effector process	up-up	2.21	1.41	8.93e-09	5.37e-05	891	922
+Kidney cancer	Parkinson's disease	Gene Ontology	cell cell adhesion	up-up	1.49	1.48	5.01e-04	5.81e-05	651	632
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of leukocyte mediated immunity	up-up	1.97	1.86	1.45e-05	6.08e-05	157	161
+Kidney cancer	Parkinson's disease	Gene Ontology	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	up-up	2.03	1.79	1.25e-06	6.93e-05	201	205
+Kidney cancer	Parkinson's disease	Gene Ontology	cytokine receptor activity	up-up	1.66	2.08	2.73e-02	7.73e-05	78	84
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of i kappab kinase nf kappab signaling	up-up	1.89	1.94	1.75e-04	7.73e-05	156	143
+Kidney cancer	Parkinson's disease	Gene Ontology	myeloid cell differentiation	up-up	1.65	1.65	4.15e-04	1.00e-04	322	329
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte differentiation	up-up	1.92	1.95	3.62e-04	1.00e-04	118	127
+Kidney cancer	Parkinson's disease	Gene Ontology	transcription factor binding	up-up	1.44	1.48	5.69e-03	1.02e-04	525	545
+Kidney cancer	Parkinson's disease	Gene Ontology	response to cytokine	up-up	1.98	1.35	8.93e-09	1.40e-04	898	971
+Kidney cancer	Parkinson's disease	Gene Ontology	cytokine mediated signaling pathway	up-up	2.22	1.45	8.93e-09	1.51e-04	584	635
+Kidney cancer	Parkinson's disease	Gene Ontology	response to lipid	up-up	1.27	1.4	4.89e-02	1.69e-04	759	782
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of lymphocyte mediated immunity	up-up	1.88	1.94	7.62e-04	1.71e-04	114	115
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte cell cell adhesion	up-up	2.3	1.77	8.93e-09	2.64e-04	174	183
+Kidney cancer	Parkinson's disease	Gene Ontology	locomotion	up-up	1.32	1.21	1.60e-03	2.73e-04	1457	1404
+Kidney cancer	Parkinson's disease	Gene Ontology	peptidyl tyrosine modification	up-up	1.49	1.6	8.51e-03	2.83e-04	296	308
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of immune response	up-up	2.2	1.42	8.93e-09	2.88e-04	591	607
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of chromatin organization	up-up	1.54	1.83	3.33e-02	3.08e-04	155	148
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of intracellular signal transduction	up-up	1.47	1.24	7.21e-07	3.16e-04	1424	1398
+Kidney cancer	Parkinson's disease	Gene Ontology	pattern recognition receptor signaling pathway	up-up	2.18	1.81	5.06e-08	3.22e-04	157	154
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of lymphocyte differentiation	up-up	2.05	1.99	1.31e-04	3.32e-04	74	83
+Kidney cancer	Parkinson's disease	Gene Ontology	defense response to other organism	up-up	2.24	1.38	8.93e-09	3.43e-04	796	804
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of cell activation	up-up	2.05	1.84	3.53e-06	4.05e-04	161	159
+Kidney cancer	Parkinson's disease	Gene Ontology	lymphocyte mediated immunity	up-up	2	1.7	4.47e-06	4.22e-04	190	199
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of inflammatory response	up-up	1.81	1.66	1.59e-05	4.44e-04	268	256
+Kidney cancer	Parkinson's disease	Gene Ontology	b cell proliferation	up-up	1.95	2	5.68e-04	6.71e-04	76	75
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of gene expression epigenetic	up-up	1.65	1.94	1.62e-02	6.93e-04	91	87
+Kidney cancer	Parkinson's disease	Gene Ontology	lymphocyte activation involved in immune response	up-up	1.94	1.79	9.01e-05	7.45e-04	137	133
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of cell adhesion	up-up	1.48	1.61	2.81e-02	7.46e-04	220	229
+Kidney cancer	Parkinson's disease	Gene Ontology	myeloid leukocyte differentiation	up-up	1.68	1.71	4.66e-03	7.53e-04	170	168
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of hemopoiesis	up-up	1.69	1.75	3.71e-03	8.00e-04	144	156
+Kidney cancer	Parkinson's disease	Gene Ontology	cell chemotaxis	up-up	1.98	1.63	1.45e-06	8.43e-04	225	244
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of cell cell adhesion	up-up	1.91	1.53	1.95e-07	8.77e-04	326	332
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of phagocytosis	up-up	2.12	1.98	3.04e-05	1.03e-03	74	79
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of b cell activation	up-up	2.15	1.86	3.27e-06	1.09e-03	100	94
+Kidney cancer	Parkinson's disease	Gene Ontology	interferon gamma mediated signaling pathway	up-up	2.09	1.97	9.50e-05	1.25e-03	57	66
+Kidney cancer	Parkinson's disease	Gene Ontology	toll like receptor signaling pathway	up-up	2.07	1.81	1.12e-05	1.41e-03	118	115
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of tumor necrosis factor superfamily cytokine production	up-up	2.16	1.96	2.06e-05	1.41e-03	66	73
+Kidney cancer	Parkinson's disease	Gene Ontology	leukocyte apoptotic process	up-up	2.02	1.86	2.24e-04	1.41e-03	85	89
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of cell adhesion	up-up	1.93	1.51	1.15e-07	1.52e-03	319	333
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of response to cytokine stimulus	up-up	2.18	2.05	7.75e-05	1.54e-03	41	41
+Kidney cancer	Parkinson's disease	Gene Ontology	cytokine metabolic process	up-up	1.8	1.84	4.24e-03	1.59e-03	102	100
+Kidney cancer	Parkinson's disease	Gene Ontology	cytokine secretion	up-up	1.89	1.67	2.89e-05	1.63e-03	173	174
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of extrinsic apoptotic signaling pathway	up-up	1.64	1.73	1.19e-02	1.67e-03	128	130
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of nik nf kappab signaling	up-up	1.64	1.86	2.26e-02	1.72e-03	88	81
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of adaptive immune response	up-up	2.14	1.86	1.71e-05	1.72e-03	81	83
+Kidney cancer	Parkinson's disease	Gene Ontology	histone methyltransferase complex	up-up	1.78	1.93	8.03e-03	1.96e-03	63	66
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of cell death	up-up	1.55	1.2	2.49e-08	2.00e-03	1294	1311
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of response to external stimulus	up-up	1.86	1.3	8.93e-09	2.12e-03	834	844
+Kidney cancer	Parkinson's disease	Gene Ontology	innate immune response	up-up	2.2	1.33	8.93e-09	2.24e-03	654	671
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of cytokine production	up-up	1.85	1.59	4.29e-05	2.24e-03	213	220
+Kidney cancer	Parkinson's disease	Gene Ontology	intrinsic apoptotic signaling pathway in response to dna damage	up-up	1.85	1.84	1.97e-03	2.36e-03	81	87
+Kidney cancer	Parkinson's disease	Gene Ontology	t cell proliferation	up-up	2.13	1.68	2.37e-07	2.38e-03	154	154
+Kidney cancer	Parkinson's disease	Gene Ontology	myeloid leukocyte activation	up-up	2.08	1.37	8.93e-09	2.54e-03	499	528
+Kidney cancer	Parkinson's disease	Gene Ontology	myeloid leukocyte migration	up-up	2.12	1.62	6.48e-07	2.79e-03	162	175
+Kidney cancer	Parkinson's disease	Gene Ontology	interleukin 8 production	up-up	1.86	1.9	2.98e-03	2.81e-03	62	62
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of leukocyte cell cell adhesion	up-up	1.64	1.78	2.03e-02	2.81e-03	97	99
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of response to cytokine stimulus	up-up	2.39	1.71	8.93e-09	2.95e-03	133	138
+Kidney cancer	Parkinson's disease	Gene Ontology	endothelial cell migration	up-up	1.53	1.6	3.10e-02	2.96e-03	165	173
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of nik nf kappab signaling	up-up	1.65	1.9	3.06e-02	2.96e-03	67	62
+Kidney cancer	Parkinson's disease	Gene Ontology	secretory granule membrane	up-up	1.71	1.59	8.94e-04	3.00e-03	233	223
+Kidney cancer	Parkinson's disease	Gene Ontology	alpha beta t cell activation	up-up	1.86	1.79	1.13e-03	3.18e-03	106	106
+Kidney cancer	Parkinson's disease	Gene Ontology	homeostasis of number of cells	up-up	1.67	1.6	3.69e-03	3.24e-03	197	204
+Kidney cancer	Parkinson's disease	Gene Ontology	t cell activation involved in immune response	up-up	1.78	1.86	5.30e-03	3.27e-03	80	79
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of dna binding transcription factor activity	up-up	1.78	1.46	6.81e-06	3.29e-03	344	336
+Kidney cancer	Parkinson's disease	Gene Ontology	histone binding	up-up	1.79	1.67	8.81e-04	3.43e-03	150	150
+Kidney cancer	Parkinson's disease	Gene Ontology	leukocyte mediated immunity	up-up	2.07	1.33	8.93e-09	3.53e-03	592	621
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of cell cell adhesion	up-up	2.15	1.55	8.93e-09	3.84e-03	207	217
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of inflammatory response	up-up	1.89	1.74	7.61e-04	3.84e-03	111	112
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of extrinsic apoptotic signaling pathway	up-up	1.76	1.83	1.25e-02	4.04e-03	87	85
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of immune effector process	up-up	1.73	1.74	6.59e-03	4.06e-03	92	99
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of b cell proliferation	up-up	2.1	1.96	2.32e-04	4.17e-03	53	52
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of cell cycle g1 s phase transition	up-up	1.7	1.83	1.69e-02	4.23e-03	82	90
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of response to stress	up-up	1.76	1.17	8.93e-09	4.27e-03	1163	1169
+Kidney cancer	Parkinson's disease	Gene Ontology	response to wounding	up-up	1.37	1.34	2.14e-02	4.68e-03	535	557
+Kidney cancer	Parkinson's disease	Gene Ontology	chemokine production	up-up	1.64	1.84	2.69e-02	4.76e-03	72	75
+Kidney cancer	Parkinson's disease	Gene Ontology	activation of immune response	up-up	2.19	1.38	8.93e-09	4.77e-03	462	473
+Kidney cancer	Parkinson's disease	Gene Ontology	cellular response to lipid	up-up	1.35	1.37	2.55e-02	5.03e-03	487	508
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of immune response	up-up	1.97	1.73	1.05e-04	5.14e-03	117	120
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of leukocyte apoptotic process	up-up	2.12	1.83	5.57e-05	5.17e-03	65	67
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of immune effector process	up-up	2.1	1.58	7.65e-07	5.18e-03	161	175
+Kidney cancer	Parkinson's disease	Gene Ontology	interleukin 1 beta production	up-up	2.02	1.83	1.05e-04	5.34e-03	71	67
+Kidney cancer	Parkinson's disease	Gene Ontology	apoptotic cell clearance	up-up	1.86	1.99	7.28e-03	5.68e-03	35	36
+Kidney cancer	Parkinson's disease	Gene Ontology	granulocyte migration	up-up	2.04	1.72	7.35e-05	5.72e-03	110	119
+Kidney cancer	Parkinson's disease	Gene Ontology	neutrophil migration	up-up	2.05	1.74	6.57e-05	5.75e-03	93	97
+Kidney cancer	Parkinson's disease	Gene Ontology	interleukin 12 production	up-up	1.77	1.85	1.56e-02	6.35e-03	48	50
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of interleukin 8 production	up-up	1.86	1.91	6.37e-03	6.40e-03	41	41
+Kidney cancer	Parkinson's disease	Gene Ontology	methylation dependent chromatin silencing	up-up	1.85	2.11	1.58e-02	6.62e-03	18	17
+Kidney cancer	Parkinson's disease	Gene Ontology	nuclear matrix	up-up	1.7	1.71	1.89e-02	7.24e-03	86	89
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of response to biotic stimulus	up-up	1.67	1.82	1.64e-02	7.43e-03	71	72
+Kidney cancer	Parkinson's disease	Gene Ontology	interleukin 1 production	up-up	1.86	1.81	1.66e-03	7.50e-03	81	75
+Kidney cancer	Parkinson's disease	Gene Ontology	alpha beta t cell differentiation	up-up	1.67	1.73	1.66e-02	7.51e-03	81	81
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of defense response	up-up	2.04	1.33	8.93e-09	7.74e-03	585	577
+Kidney cancer	Parkinson's disease	Gene Ontology	signaling receptor binding	up-up	1.31	1.15	6.68e-03	7.74e-03	1188	1183
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	up-up	2.04	1.96	8.97e-04	8.13e-03	33	31
+Kidney cancer	Parkinson's disease	Gene Ontology	cellular defense response	up-up	2.08	1.9	4.18e-04	8.15e-03	41	45
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of cell death	up-up	1.5	1.26	2.11e-04	8.16e-03	762	793
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of extrinsic apoptotic signaling pathway via death domain receptors	up-up	1.95	1.84	2.93e-03	8.16e-03	51	48
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of production of molecular mediator of immune response	up-up	1.87	1.64	1.38e-03	8.41e-03	112	118
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of tumor necrosis factor superfamily cytokine production	up-up	1.78	1.83	1.37e-02	8.49e-03	48	48
+Kidney cancer	Parkinson's disease	Gene Ontology	production of molecular mediator of immune response	up-up	2.04	1.55	4.46e-06	8.72e-03	163	172
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of myeloid cell differentiation	up-up	1.5	1.55	3.57e-02	8.89e-03	180	184
+Kidney cancer	Parkinson's disease	Gene Ontology	myeloid cell apoptotic process	up-up	1.8	1.93	2.16e-02	8.97e-03	25	29
+Kidney cancer	Parkinson's disease	Gene Ontology	tertiary granule membrane	up-up	1.86	1.85	5.65e-03	9.25e-03	59	59
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte migration	up-up	2.04	1.67	3.37e-05	1.00e-02	109	114
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of nf kappab transcription factor activity	up-up	2.19	1.65	4.37e-07	1.02e-02	121	123
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of leukocyte migration	up-up	1.91	1.56	8.30e-05	1.04e-02	158	164
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of cell cell adhesion	up-up	1.54	1.61	3.79e-02	1.10e-02	140	140
+Kidney cancer	Parkinson's disease	Gene Ontology	lipopolysaccharide mediated signaling pathway	up-up	2.09	1.79	2.47e-04	1.14e-02	48	50
+Kidney cancer	Parkinson's disease	Gene Ontology	response to interferon gamma	up-up	1.98	1.58	5.29e-05	1.14e-02	133	148
+Kidney cancer	Parkinson's disease	Gene Ontology	interferon beta production	up-up	2.3	1.85	5.01e-06	1.18e-02	47	43
+Kidney cancer	Parkinson's disease	Gene Ontology	b cell mediated immunity	up-up	1.8	1.67	7.51e-03	1.19e-02	87	97
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte proliferation	up-up	2.01	1.63	1.10e-04	1.20e-02	112	109
+Kidney cancer	Parkinson's disease	Gene Ontology	cell activation involved in immune response	up-up	2.04	1.32	8.93e-09	1.20e-02	543	566
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of toll like receptor signaling pathway	up-up	1.89	1.77	3.79e-03	1.20e-02	55	51
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte mediated immunity	up-up	1.83	1.64	1.49e-03	1.24e-02	101	106
+Kidney cancer	Parkinson's disease	Gene Ontology	stress activated protein kinase signaling cascade	up-up	1.48	1.49	2.38e-02	1.25e-02	226	235
+Kidney cancer	Parkinson's disease	Gene Ontology	gene silencing	up-up	1.74	1.52	1.20e-03	1.32e-02	198	186
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of phagocytosis	up-up	2.12	1.81	1.84e-04	1.34e-02	53	57
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of cytokine biosynthetic process	up-up	2.19	1.76	2.24e-05	1.35e-02	59	60
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of t cell mediated immunity	up-up	1.61	1.74	4.08e-02	1.36e-02	58	62
+Kidney cancer	Parkinson's disease	Gene Ontology	response to lipoteichoic acid	up-up	2	1.9	3.01e-03	1.39e-02	10	9
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of cytokine production involved in immune response	up-up	1.87	1.74	2.22e-03	1.39e-02	67	75
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of chemotaxis	up-up	1.65	1.51	6.31e-03	1.43e-02	168	179
+Kidney cancer	Parkinson's disease	Gene Ontology	heterochromatin	up-up	1.6	1.77	3.96e-02	1.43e-02	63	61
+Kidney cancer	Parkinson's disease	Gene Ontology	extrinsic apoptotic signaling pathway	up-up	1.57	1.5	1.64e-02	1.44e-02	182	191
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of tumor necrosis factor mediated signaling pathway	up-up	1.81	1.76	1.03e-02	1.47e-02	41	42
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of innate immune response	up-up	1.96	1.83	2.00e-03	1.50e-02	43	43
+Kidney cancer	Parkinson's disease	Gene Ontology	tissue migration	up-up	1.43	1.45	4.39e-02	1.57e-02	238	249
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of blood vessel endothelial cell migration	up-up	1.67	1.74	4.74e-02	1.60e-02	42	48
+Kidney cancer	Parkinson's disease	Gene Ontology	interleukin 2 production	up-up	1.86	1.75	1.32e-02	1.61e-02	52	56
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of b cell activation	up-up	2.23	1.78	6.57e-06	1.71e-02	60	57
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of stress activated protein kinase signaling cascade	up-up	1.54	1.49	2.72e-02	1.72e-02	186	191
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of dna binding transcription factor activity	up-up	1.71	1.42	5.60e-04	1.74e-02	215	216
+Kidney cancer	Parkinson's disease	Gene Ontology	cytokine production involved in immune response	up-up	1.75	1.61	4.67e-03	1.81e-02	83	93
+Kidney cancer	Parkinson's disease	Gene Ontology	taxis	up-up	1.55	1.28	3.04e-04	1.81e-02	512	514
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of leukocyte apoptotic process	up-up	1.79	1.78	1.55e-02	1.82e-02	39	41
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of lymphocyte mediated immunity	up-up	1.85	1.67	4.41e-03	1.85e-02	77	80
+Kidney cancer	Parkinson's disease	Gene Ontology	peptidyl lysine modification	up-up	1.48	1.4	1.78e-02	1.91e-02	314	304
+Kidney cancer	Parkinson's disease	Gene Ontology	macrophage activation	up-up	1.87	1.72	2.34e-03	1.96e-02	68	72
+Kidney cancer	Parkinson's disease	Gene Ontology	nuclear periphery	up-up	1.89	1.57	4.03e-04	1.99e-02	99	108
+Kidney cancer	Parkinson's disease	Gene Ontology	cd40 signaling pathway	up-up	1.77	1.9	4.45e-02	2.02e-02	10	10
+Kidney cancer	Parkinson's disease	Gene Ontology	side of membrane	up-up	1.54	1.36	8.54e-04	2.09e-02	405	406
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of cytokine secretion	up-up	1.72	1.56	1.06e-02	2.12e-02	105	108
+Kidney cancer	Parkinson's disease	Gene Ontology	lipid storage	up-up	1.68	1.79	2.92e-02	2.13e-02	50	54
+Kidney cancer	Parkinson's disease	Gene Ontology	nucleotide binding oligomerization domain containing 2 signaling pathway	up-up	2.06	1.85	6.89e-04	2.14e-02	9	9
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of mapk cascade	up-up	1.42	1.33	2.06e-02	2.17e-02	418	437
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of antigen receptor mediated signaling pathway	up-up	1.85	1.71	9.10e-03	2.22e-02	47	49
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of gene expression epigenetic	up-up	1.8	1.42	8.38e-05	2.30e-02	246	236
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of neutrophil migration	up-up	1.96	1.83	7.36e-03	2.38e-02	23	26
+Kidney cancer	Parkinson's disease	Gene Ontology	leukocyte chemotaxis	up-up	1.96	1.49	5.84e-06	2.42e-02	173	185
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of stress activated protein kinase signaling cascade	up-up	1.6	1.46	2.54e-02	2.53e-02	136	137
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of neutrophil migration	up-up	2	1.76	1.99e-03	2.53e-02	29	33
+Kidney cancer	Parkinson's disease	Gene Ontology	dna binding transcription factor binding	up-up	1.5	1.38	1.04e-02	2.54e-02	284	300
+Kidney cancer	Parkinson's disease	Gene Ontology	extrinsic apoptotic signaling pathway via death domain receptors	up-up	1.79	1.69	5.00e-03	2.65e-02	75	71
+Kidney cancer	Parkinson's disease	Gene Ontology	immune response regulating signaling pathway	up-up	2.2	1.29	8.93e-09	2.66e-02	431	436
+Kidney cancer	Parkinson's disease	Gene Ontology	transcriptional repressor complex	up-up	1.57	1.67	4.72e-02	2.67e-02	68	65
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of defense response	up-up	1.59	1.48	1.48e-02	2.68e-02	165	157
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of chromatin silencing	up-up	1.89	1.86	1.47e-02	2.70e-02	12	10
+Kidney cancer	Parkinson's disease	Gene Ontology	negative regulation of leukocyte mediated immunity	up-up	1.7	1.72	4.71e-02	2.71e-02	36	40
+Kidney cancer	Parkinson's disease	Gene Ontology	cellular response to abiotic stimulus	up-up	1.55	1.4	7.52e-03	2.78e-02	258	270
+Kidney cancer	Parkinson's disease	Gene Ontology	collagen fibril organization	up-up	1.75	1.74	2.29e-02	2.84e-02	43	43
+Kidney cancer	Parkinson's disease	Gene Ontology	peptidyl amino acid modification	up-up	1.47	1.19	5.18e-05	3.02e-02	957	948
+Kidney cancer	Parkinson's disease	Gene Ontology	leukocyte homeostasis	up-up	1.91	1.66	1.12e-03	3.08e-02	72	71
+Kidney cancer	Parkinson's disease	Gene Ontology	anchoring junction	up-up	1.33	1.25	2.81e-02	3.15e-02	637	657
+Kidney cancer	Parkinson's disease	Gene Ontology	b cell receptor signaling pathway	up-up	2.18	1.72	7.17e-05	3.16e-02	46	43
+Kidney cancer	Parkinson's disease	Gene Ontology	t cell selection	up-up	1.67	1.72	3.94e-02	3.17e-02	41	41
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of protein modification process	up-up	1.52	1.18	1.01e-05	3.23e-02	958	963
+Kidney cancer	Parkinson's disease	Gene Ontology	vascular endothelial growth factor receptor signaling pathway	up-up	1.61	1.61	3.73e-02	3.29e-02	76	80
+Kidney cancer	Parkinson's disease	Gene Ontology	type i interferon production	up-up	2.45	1.5	8.93e-09	3.39e-02	113	101
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of hemopoiesis	up-up	1.74	1.32	1.36e-05	3.49e-02	362	365
+Kidney cancer	Parkinson's disease	Gene Ontology	b cell activation involved in immune response	up-up	1.91	1.65	2.81e-03	3.54e-02	55	56
+Kidney cancer	Parkinson's disease	Gene Ontology	signal transduction by p53 class mediator	up-up	1.81	1.38	9.01e-05	3.62e-02	210	217
+Kidney cancer	Parkinson's disease	Gene Ontology	dna conformation change	up-up	1.68	1.39	1.03e-03	3.70e-02	227	230
+Kidney cancer	Parkinson's disease	Gene Ontology	intrinsic apoptotic signaling pathway in response to dna damage by p53 class mediator	up-up	1.85	1.78	7.28e-03	3.79e-02	35	38
+Kidney cancer	Parkinson's disease	Gene Ontology	neuroinflammatory response	up-up	2.11	1.64	4.27e-04	3.85e-02	52	56
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of chemokine production	up-up	1.8	1.65	1.37e-02	3.91e-02	47	49
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of chemotaxis	up-up	1.82	1.55	2.14e-03	3.94e-02	109	119
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of lipid storage	up-up	1.65	1.74	4.76e-02	4.00e-02	34	36
+Kidney cancer	Parkinson's disease	Gene Ontology	defense response to gram positive bacterium	up-up	2.08	1.72	1.02e-04	4.00e-02	62	53
+Kidney cancer	Parkinson's disease	Gene Ontology	response to type i interferon	up-up	2.24	1.57	3.36e-06	4.13e-02	70	80
+Kidney cancer	Parkinson's disease	Gene Ontology	rho gtpase binding	up-up	1.6	1.48	1.14e-02	4.13e-02	144	122
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of map kinase activity	up-up	1.53	1.36	1.51e-02	4.18e-02	208	217
+Kidney cancer	Parkinson's disease	Gene Ontology	morphogenesis of an endothelium	up-up	1.91	1.9	8.23e-03	4.21e-02	17	15
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of cell death	up-up	1.56	1.25	9.30e-05	4.39e-02	561	575
+Kidney cancer	Parkinson's disease	Gene Ontology	receptor tyrosine kinase binding	up-up	1.68	1.63	2.39e-02	4.49e-02	57	57
+Kidney cancer	Parkinson's disease	Gene Ontology	respiratory burst involved in defense response	up-up	1.74	1.8	4.55e-02	4.59e-02	12	11
+Kidney cancer	Parkinson's disease	Gene Ontology	myd88 dependent toll like receptor signaling pathway	up-up	2.09	1.76	3.65e-04	4.61e-02	31	27
+Kidney cancer	Parkinson's disease	Gene Ontology	respiratory burst	up-up	1.96	1.75	2.14e-03	4.62e-02	28	26
+Kidney cancer	Parkinson's disease	Gene Ontology	protein domain specific binding	up-up	1.33	1.24	3.80e-02	4.68e-02	546	558
+Kidney cancer	Parkinson's disease	Gene Ontology	positive regulation of interleukin 12 production	up-up	1.82	1.71	1.60e-02	4.71e-02	29	31
+Kidney cancer	Parkinson's disease	Gene Ontology	macrophage apoptotic process	up-up	1.73	1.78	4.95e-02	4.84e-02	9	10
+Kidney cancer	Parkinson's disease	Gene Ontology	antigen binding	up-up	1.79	1.72	2.25e-02	4.89e-02	29	38
+Kidney cancer	Parkinson's disease	Gene Ontology	aerobic respiration	down-down	-2.12	-2.6	1.92e-04	1.26e-08	69	68
+Kidney cancer	Parkinson's disease	Gene Ontology	atp synthesis coupled electron transport	down-down	-2.2	-2.64	1.32e-04	1.26e-08	63	62
+Kidney cancer	Parkinson's disease	Gene Ontology	cellular respiration	down-down	-2.15	-2.64	1.82e-06	1.26e-08	141	132
+Kidney cancer	Parkinson's disease	Gene Ontology	electron transport chain	down-down	-1.94	-2.38	7.82e-05	1.26e-08	132	133
+Kidney cancer	Parkinson's disease	Gene Ontology	energy derivation by oxidation of organic compounds	down-down	-1.61	-2.41	2.88e-03	1.26e-08	213	203
+Kidney cancer	Parkinson's disease	Gene Ontology	generation of precursor metabolites and energy	down-down	-1.61	-2.27	1.13e-04	1.26e-08	414	411
+Kidney cancer	Parkinson's disease	Gene Ontology	inner mitochondrial membrane protein complex	down-down	-2.31	-2.96	2.05e-06	1.26e-08	90	80
+Kidney cancer	Parkinson's disease	Gene Ontology	mitochondrial envelope	down-down	-1.62	-2.48	5.99e-06	1.26e-08	569	488
+Kidney cancer	Parkinson's disease	Gene Ontology	mitochondrial matrix	down-down	-2.45	-2.42	8.93e-09	1.26e-08	374	343
+Kidney cancer	Parkinson's disease	Gene Ontology	mitochondrial protein complex	down-down	-1.87	-2.96	1.02e-04	1.26e-08	193	168
+Kidney cancer	Parkinson's disease	Gene Ontology	mitochondrial respiratory chain complex assembly	down-down	-2.23	-2.62	4.29e-05	1.26e-08	69	51
+Kidney cancer	Parkinson's disease	Gene Ontology	mitochondrion	down-down	-1.79	-2.23	8.93e-09	1.26e-08	1232	1099
+Kidney cancer	Parkinson's disease	Gene Ontology	neuron projection	down-down	-1.27	-1.69	9.61e-03	1.26e-08	1051	1005
+Kidney cancer	Parkinson's disease	Gene Ontology	nucleobase containing small molecule metabolic process	down-down	-1.47	-1.89	6.01e-04	1.26e-08	488	475
+Kidney cancer	Parkinson's disease	Gene Ontology	organelle inner membrane	down-down	-1.76	-2.6	2.75e-06	1.26e-08	409	340
+Kidney cancer	Parkinson's disease	Gene Ontology	organophosphate metabolic process	down-down	-1.58	-1.71	3.17e-07	1.26e-08	816	770
+Kidney cancer	Parkinson's disease	Gene Ontology	oxidation reduction process	down-down	-1.86	-1.8	8.93e-09	1.26e-08	759	727
+Kidney cancer	Parkinson's disease	Gene Ontology	oxidative phosphorylation	down-down	-2.11	-2.63	2.03e-05	1.26e-08	99	98
+Kidney cancer	Parkinson's disease	Gene Ontology	oxidoreductase complex	down-down	-1.92	-2.45	1.22e-03	1.26e-08	81	77
+Kidney cancer	Parkinson's disease	Gene Ontology	presynapse	down-down	-1.36	-1.96	1.37e-02	1.26e-08	418	402
+Kidney cancer	Parkinson's disease	Gene Ontology	proton transmembrane transport	down-down	-2.16	-2.42	3.42e-06	1.26e-08	114	104
+Kidney cancer	Parkinson's disease	Gene Ontology	purine containing compound metabolic process	down-down	-1.6	-1.96	4.39e-04	1.26e-08	360	358
+Kidney cancer	Parkinson's disease	Gene Ontology	respirasome	down-down	-2.58	-2.85	7.28e-08	1.26e-08	66	61
+Kidney cancer	Parkinson's disease	Gene Ontology	respiratory chain complex	down-down	-2.37	-2.79	1.06e-05	1.26e-08	55	50
+Kidney cancer	Parkinson's disease	Gene Ontology	respiratory electron transport chain	down-down	-2.21	-2.59	2.11e-05	1.26e-08	78	75
+Kidney cancer	Parkinson's disease	Gene Ontology	ribose phosphate metabolic process	down-down	-1.47	-2.07	5.37e-03	1.26e-08	330	328
+Kidney cancer	Parkinson's disease	Gene Ontology	small molecule metabolic process	down-down	-1.85	-1.64	8.93e-09	1.26e-08	1520	1469
+Kidney cancer	Parkinson's disease	Gene Ontology	synaptic membrane	down-down	-1.56	-1.94	1.01e-03	1.64e-08	361	337
+Kidney cancer	Parkinson's disease	Gene Ontology	organic acid metabolic process	down-down	-1.98	-1.65	8.93e-09	3.20e-08	893	875
+Kidney cancer	Parkinson's disease	Gene Ontology	cellular amino acid metabolic process	down-down	-2.01	-1.99	1.00e-07	4.15e-08	267	257
+Kidney cancer	Parkinson's disease	Gene Ontology	axon	down-down	-1.31	-1.82	3.50e-02	6.12e-08	502	478
+Kidney cancer	Parkinson's disease	Gene Ontology	synaptic signaling	down-down	-1.26	-1.75	4.22e-02	6.12e-08	592	575
+Kidney cancer	Parkinson's disease	Gene Ontology	proton transmembrane transporter activity	down-down	-2.22	-2.34	3.75e-06	7.72e-08	99	86
+Kidney cancer	Parkinson's disease	Gene Ontology	tricarboxylic acid cycle	down-down	-2.53	-2.53	4.40e-05	8.74e-08	29	30
+Kidney cancer	Parkinson's disease	Gene Ontology	nadh dehydrogenase complex assembly	down-down	-2.02	-2.51	3.30e-03	9.29e-08	46	39
+Kidney cancer	Parkinson's disease	Gene Ontology	nadh dehydrogenase complex	down-down	-2.37	-2.49	2.83e-04	1.08e-07	33	29
+Kidney cancer	Parkinson's disease	Gene Ontology	mitochondrial electron transport nadh to ubiquinone	down-down	-2.27	-2.47	4.79e-04	1.19e-07	35	34
+Kidney cancer	Parkinson's disease	Gene Ontology	neuron to neuron synapse	down-down	-1.38	-1.93	3.52e-02	2.21e-07	280	280
+Kidney cancer	Parkinson's disease	Gene Ontology	transmembrane transport	down-down	-1.64	-1.55	8.93e-09	3.28e-07	1247	1114
+Kidney cancer	Parkinson's disease	Gene Ontology	organophosphate biosynthetic process	down-down	-1.49	-1.77	1.31e-03	3.97e-07	466	452
+Kidney cancer	Parkinson's disease	Gene Ontology	mitochondrial transport	down-down	-1.45	-2.06	2.92e-02	4.83e-07	195	186
+Kidney cancer	Parkinson's disease	Gene Ontology	cation transmembrane transport	down-down	-1.65	-1.68	2.25e-07	5.11e-07	676	613
+Kidney cancer	Parkinson's disease	Gene Ontology	nadh dehydrogenase activity	down-down	-2.24	-2.48	1.43e-03	5.50e-07	27	26
+Kidney cancer	Parkinson's disease	Gene Ontology	proton transporting two sector atpase complex	down-down	-2.71	-2.42	8.16e-07	5.74e-07	37	36
+Kidney cancer	Parkinson's disease	Gene Ontology	oxidoreductase activity	down-down	-2.08	-1.68	8.93e-09	1.54e-06	547	535
+Kidney cancer	Parkinson's disease	Gene Ontology	postsynaptic membrane	down-down	-1.68	-1.87	1.58e-04	3.54e-06	273	249
+Kidney cancer	Parkinson's disease	Gene Ontology	inner mitochondrial membrane organization	down-down	-2.1	-2.35	3.25e-03	5.35e-06	35	31
+Kidney cancer	Parkinson's disease	Gene Ontology	oxidoreductase activity acting on nad p h quinone or similar compound as acceptor	down-down	-2.31	-2.34	5.09e-04	5.40e-06	37	38
+Kidney cancer	Parkinson's disease	Gene Ontology	mitochondrial transmembrane transport	down-down	-2.01	-2.23	1.02e-03	5.96e-06	70	64
+Kidney cancer	Parkinson's disease	Gene Ontology	inorganic ion transmembrane transport	down-down	-1.7	-1.62	3.70e-08	1.12e-05	666	601
+Kidney cancer	Parkinson's disease	Gene Ontology	cofactor metabolic process	down-down	-2.25	-1.77	8.93e-09	1.49e-05	341	331
+Kidney cancer	Parkinson's disease	Gene Ontology	cofactor biosynthetic process	down-down	-2.08	-1.91	1.01e-06	2.40e-05	189	174
+Kidney cancer	Parkinson's disease	Gene Ontology	oxidoreductase activity acting on nad p h	down-down	-1.72	-2.14	2.05e-02	3.31e-05	72	74
+Kidney cancer	Parkinson's disease	Gene Ontology	ion transmembrane transport	down-down	-1.73	-1.51	8.93e-09	4.68e-05	904	812
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of trans synaptic signaling	down-down	-1.31	-1.72	4.96e-02	4.77e-05	362	355
+Kidney cancer	Parkinson's disease	Gene Ontology	electron transfer activity	down-down	-1.81	-2.04	5.24e-03	6.67e-05	81	90
+Kidney cancer	Parkinson's disease	Gene Ontology	dendritic tree	down-down	-1.29	-1.63	4.17e-02	7.93e-05	484	475
+Kidney cancer	Parkinson's disease	Gene Ontology	schaffer collateral ca1 synapse	down-down	-1.61	-2.1	4.39e-02	8.99e-05	65	66
+Kidney cancer	Parkinson's disease	Gene Ontology	cristae formation	down-down	-2.24	-2.17	8.73e-04	1.16e-04	24	23
+Kidney cancer	Parkinson's disease	Gene Ontology	proton transporting two sector atpase complex catalytic domain	down-down	-2.04	-2.19	1.15e-02	3.34e-04	14	12
+Kidney cancer	Parkinson's disease	Gene Ontology	pyrophosphate hydrolysis driven proton transmembrane transporter activity	down-down	-2.12	-2.13	5.83e-03	3.43e-04	28	27
+Kidney cancer	Parkinson's disease	Gene Ontology	cellular ketone metabolic process	down-down	-1.46	-1.77	3.05e-02	3.62e-04	187	197
+Kidney cancer	Parkinson's disease	Gene Ontology	coenzyme metabolic process	down-down	-2.32	-1.8	8.93e-09	3.74e-04	199	188
+Kidney cancer	Parkinson's disease	Gene Ontology	atp synthesis coupled proton transport	down-down	-1.89	-2.18	4.09e-02	4.10e-04	18	18
+Kidney cancer	Parkinson's disease	Gene Ontology	microbody	down-down	-2.06	-1.91	1.02e-04	4.54e-04	107	100
+Kidney cancer	Parkinson's disease	Gene Ontology	postsynaptic specialization membrane	down-down	-1.59	-1.95	4.45e-02	4.75e-04	91	81
+Kidney cancer	Parkinson's disease	Gene Ontology	monovalent inorganic cation transport	down-down	-1.94	-1.62	8.93e-09	5.88e-04	412	373
+Kidney cancer	Parkinson's disease	Gene Ontology	proton transporting atp synthase complex	down-down	-2	-2.16	1.70e-02	7.00e-04	14	16
+Kidney cancer	Parkinson's disease	Gene Ontology	cation transmembrane transporter activity	down-down	-2.02	-1.54	8.93e-09	8.62e-04	531	462
+Kidney cancer	Parkinson's disease	Gene Ontology	dicarboxylic acid metabolic process	down-down	-2.12	-1.93	1.78e-04	9.16e-04	75	70
+Kidney cancer	Parkinson's disease	Gene Ontology	coenzyme biosynthetic process	down-down	-1.93	-1.84	4.60e-04	9.43e-04	119	110
+Kidney cancer	Parkinson's disease	Gene Ontology	cation transport	down-down	-1.63	-1.42	8.93e-09	1.09e-03	927	853
+Kidney cancer	Parkinson's disease	Gene Ontology	cofactor binding	down-down	-2.43	-1.58	8.93e-09	1.12e-03	379	400
+Kidney cancer	Parkinson's disease	Gene Ontology	nucleoside bisphosphate metabolic process	down-down	-2.42	-1.84	5.49e-08	1.42e-03	103	100
+Kidney cancer	Parkinson's disease	Gene Ontology	atpase activity coupled to transmembrane movement of ions rotational mechanism	down-down	-2.42	-2.11	2.24e-04	1.45e-03	18	18
+Kidney cancer	Parkinson's disease	Gene Ontology	sulfur compound metabolic process	down-down	-2.17	-1.6	8.93e-09	1.64e-03	286	282
+Kidney cancer	Parkinson's disease	Gene Ontology	proton transporting v type atpase complex	down-down	-2.42	-2.09	2.32e-04	2.27e-03	21	19
+Kidney cancer	Parkinson's disease	Gene Ontology	monocarboxylic acid metabolic process	down-down	-2.02	-1.49	8.93e-09	2.41e-03	492	484
+Kidney cancer	Parkinson's disease	Gene Ontology	thioester metabolic process	down-down	-2.38	-1.87	3.27e-06	2.82e-03	77	74
+Kidney cancer	Parkinson's disease	Gene Ontology	ion transport	down-down	-1.74	-1.32	8.93e-09	2.82e-03	1338	1217
+Kidney cancer	Parkinson's disease	Gene Ontology	signal release	down-down	-1.42	-1.52	5.75e-03	2.87e-03	379	374
+Kidney cancer	Parkinson's disease	Gene Ontology	transferrin transport	down-down	-2	-1.98	1.63e-02	4.04e-03	29	29
+Kidney cancer	Parkinson's disease	Gene Ontology	phagosome acidification	down-down	-1.99	-1.96	1.05e-02	5.14e-03	24	22
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of membrane potential	down-down	-1.65	-1.52	8.58e-05	7.12e-03	352	340
+Kidney cancer	Parkinson's disease	Gene Ontology	oxidoreductase activity acting on the aldehyde or oxo group of donors	down-down	-2.29	-1.92	4.39e-04	8.56e-03	36	37
+Kidney cancer	Parkinson's disease	Gene Ontology	thioester biosynthetic process	down-down	-1.76	-1.86	3.18e-02	8.67e-03	43	43
+Kidney cancer	Parkinson's disease	Gene Ontology	monovalent inorganic cation transmembrane transporter activity	down-down	-2.19	-1.52	8.93e-09	9.76e-03	317	279
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of neurotransmitter levels	down-down	-1.41	-1.52	2.61e-02	1.00e-02	288	279
+Kidney cancer	Parkinson's disease	Gene Ontology	intrinsic component of postsynaptic specialization membrane	down-down	-1.69	-1.85	2.99e-02	1.02e-02	64	55
+Kidney cancer	Parkinson's disease	Gene Ontology	nad binding	down-down	-2.3	-1.82	7.86e-05	1.08e-02	51	51
+Kidney cancer	Parkinson's disease	Gene Ontology	lyase activity	down-down	-1.98	-1.64	5.06e-05	1.13e-02	141	144
+Kidney cancer	Parkinson's disease	Gene Ontology	cellular lipid metabolic process	down-down	-1.81	-1.35	8.93e-09	1.14e-02	803	749
+Kidney cancer	Parkinson's disease	Gene Ontology	oxidoreductase activity acting on the aldehyde or oxo group of donors nad or nadp as acceptor	down-down	-2.13	-1.89	5.69e-03	1.14e-02	28	30
+Kidney cancer	Parkinson's disease	Gene Ontology	intrinsic component of synaptic membrane	down-down	-1.75	-1.67	1.73e-03	1.18e-02	141	134
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of postsynaptic membrane potential	down-down	-1.66	-1.68	6.87e-03	1.19e-02	118	113
+Kidney cancer	Parkinson's disease	Gene Ontology	ion transmembrane transporter activity	down-down	-1.96	-1.37	8.93e-09	1.38e-02	712	613
+Kidney cancer	Parkinson's disease	Gene Ontology	coenzyme binding	down-down	-2.61	-1.53	8.93e-09	1.48e-02	234	237
+Kidney cancer	Parkinson's disease	Gene Ontology	small molecule catabolic process	down-down	-2.46	-1.42	8.93e-09	1.82e-02	348	336
+Kidney cancer	Parkinson's disease	Gene Ontology	dicarboxylic acid biosynthetic process	down-down	-1.81	-1.89	4.60e-02	1.95e-02	8	9
+Kidney cancer	Parkinson's disease	Gene Ontology	small molecule biosynthetic process	down-down	-1.86	-1.38	8.93e-09	1.99e-02	554	549
+Kidney cancer	Parkinson's disease	Gene Ontology	cellular monovalent inorganic cation homeostasis	down-down	-1.78	-1.63	6.55e-03	2.14e-02	90	86
+Kidney cancer	Parkinson's disease	Gene Ontology	regulation of ph	down-down	-1.67	-1.65	2.37e-02	2.19e-02	80	77
+Kidney cancer	Parkinson's disease	Gene Ontology	intrinsic component of postsynaptic membrane	down-down	-1.75	-1.66	7.64e-03	2.28e-02	103	95
+Kidney cancer	Parkinson's disease	Gene Ontology	phagosome maturation	down-down	-1.83	-1.79	3.50e-02	2.96e-02	31	32
+Kidney cancer	Parkinson's disease	Gene Ontology	transporter activity	down-down	-1.86	-1.3	8.93e-09	2.99e-02	920	816
+Kidney cancer	Parkinson's disease	Gene Ontology	lipid metabolic process	down-down	-1.78	-1.27	8.93e-09	3.08e-02	1066	1009
+Kidney cancer	Parkinson's disease	Gene Ontology	lipid biosynthetic process	down-down	-1.64	-1.34	2.70e-06	3.43e-02	545	532
+Kidney cancer	Parkinson's disease	Gene Ontology	peroxisome organization	down-down	-1.7	-1.68	3.03e-02	3.46e-02	63	67
+Kidney cancer	Parkinson's disease	Gene Ontology	active ion transmembrane transporter activity	down-down	-2.14	-1.5	4.42e-08	3.54e-02	202	181
+Kidney cancer	Parkinson's disease	Gene Ontology	peroxisomal transport	down-down	-1.77	-1.66	1.89e-02	3.69e-02	55	60
+Kidney cancer	Parkinson's disease	Gene Ontology	acetyl coa biosynthetic process	down-down	-1.94	-1.8	3.90e-02	3.97e-02	22	19
+Kidney cancer	Parkinson's disease	Gene Ontology	tetrapyrrole biosynthetic process	down-down	-1.97	-1.75	1.17e-02	4.29e-02	27	24
+Kidney cancer	Parkinson's disease	Gene Ontology	proton transporting two sector atpase complex proton transporting domain	down-down	-2.2	-1.79	3.14e-03	4.51e-02	15	18
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - cytokine cytokine receptor interaction	up-up	1.84	2.16	5.30e-05	7.41e-09	210	218
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - extracellular matrix organization	up-up	1.58	1.93	2.79e-03	7.30e-08	254	251
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - transcriptional regulation of granulopoiesis	up-up	1.64	2.43	1.98e-02	4.06e-07	48	59
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - chromatin modifying enzymes	up-up	1.49	1.95	2.39e-02	2.24e-06	190	198
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - hematopoietic cell lineage	up-up	1.56	2.19	3.65e-02	8.26e-06	69	78
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - pathways in cancer	up-up	1.45	1.73	1.85e-02	1.26e-05	266	300
+Kidney cancer	Parkinson's disease	Canonical Pathways	pid - hiv nef pathway	up-up	1.73	2.38	1.74e-02	2.07e-05	33	35
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - immunoregulatory interactions between a lymphoid and a non lymphoid cell	up-up	2.41	2.03	1.22e-08	7.53e-05	89	91
+Kidney cancer	Parkinson's disease	Canonical Pathways	pid - fra pathway	up-up	1.71	2.3	1.69e-02	8.07e-05	31	35
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - prc2 methylates histones and dna	up-up	1.76	2.3	1.18e-02	1.01e-04	32	40
+Kidney cancer	Parkinson's disease	Canonical Pathways	pid - e2f pathway	up-up	2.02	2.12	3.59e-04	1.38e-04	60	68
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - interleukin 4 and interleukin 13 signaling	up-up	1.81	1.94	1.64e-03	1.63e-04	90	100
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - pre notch expression and processing	up-up	1.7	2.09	1.25e-02	2.19e-04	61	67
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - collagen formation	up-up	1.59	2.02	2.62e-02	2.98e-04	77	72
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - transcriptional regulation of white adipocyte differentiation	up-up	1.53	1.99	4.91e-02	3.71e-04	64	69
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - systemic lupus erythematosus	up-up	1.79	1.92	5.08e-03	6.13e-04	68	81
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - interleukin 10 signaling	up-up	2.09	2.07	3.70e-04	9.05e-04	40	43
+Kidney cancer	Parkinson's disease	Canonical Pathways	biocarta - nfkb pathway	up-up	1.78	2.18	1.44e-02	9.56e-04	18	20
+Kidney cancer	Parkinson's disease	Canonical Pathways	biocarta - hivnef pathway	up-up	1.83	2.04	3.93e-03	1.26e-03	48	53
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - jak stat signaling pathway	up-up	1.67	1.74	7.72e-03	1.48e-03	117	131
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - positive epigenetic regulation of rrna expression	up-up	1.86	1.9	2.52e-03	2.51e-03	57	68
+Kidney cancer	Parkinson's disease	Canonical Pathways	biocarta - rela pathway	up-up	1.7	2.15	4.23e-02	2.98e-03	12	15
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - cellular senescence	up-up	1.92	1.63	8.33e-05	3.38e-03	133	151
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - rna polymerase ii transcription	up-up	1.66	1.24	1.22e-08	3.76e-03	982	955
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - senescence associated secretory phenotype sasp	up-up	1.87	1.8	2.65e-03	4.06e-03	65	74
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - integrin cell surface interactions	up-up	1.75	1.78	5.16e-03	5.21e-03	73	75
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - sumoylation	up-up	1.89	1.58	2.08e-04	5.36e-03	134	155
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - condensation of prophase chromosomes	up-up	1.82	1.87	7.03e-03	5.55e-03	33	44
+Kidney cancer	Parkinson's disease	Canonical Pathways	pid - upa upar pathway	up-up	1.78	1.95	1.57e-02	6.26e-03	37	38
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - meiotic recombination	up-up	1.7	1.79	1.69e-02	6.39e-03	42	54
+Kidney cancer	Parkinson's disease	Canonical Pathways	biocarta - il1r pathway	up-up	1.63	1.99	2.67e-02	6.92e-03	24	26
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - diseases of immune system	up-up	2.11	2.01	3.38e-04	7.91e-03	21	21
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - esr mediated signaling	up-up	1.6	1.58	1.01e-02	8.21e-03	156	163
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - small cell lung cancer	up-up	1.59	1.66	3.42e-02	9.34e-03	70	84
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - dna damage telomere stress induced senescence	up-up	1.83	1.7	6.23e-03	9.53e-03	45	59
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - epigenetic regulation of gene expression	up-up	2.08	1.58	3.18e-05	9.65e-03	89	99
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - ddx58 ifih1 mediated induction of interferon alpha beta	up-up	2.17	1.72	2.59e-05	1.01e-02	60	63
+Kidney cancer	Parkinson's disease	Canonical Pathways	pid - angiopoietin receptor pathway	up-up	1.61	1.78	3.61e-02	1.02e-02	44	48
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - nr1h3 nr1h2 regulate gene expression linked to cholesterol transport and efflux	up-up	1.58	1.93	4.52e-02	1.09e-02	30	26
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - oxidative stress induced senescence	up-up	1.73	1.65	7.57e-03	1.09e-02	73	87
+Kidney cancer	Parkinson's disease	Canonical Pathways	pid - cmyb pathway	up-up	1.93	1.66	1.07e-03	1.25e-02	70	78
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - chronic myeloid leukemia	up-up	1.82	1.69	3.54e-03	1.27e-02	58	66
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - cohesin loading onto chromatin	up-up	1.69	1.89	3.97e-02	1.27e-02	9	10
+Kidney cancer	Parkinson's disease	Canonical Pathways	biocarta - nkt pathway	up-up	1.75	1.97	2.62e-02	1.32e-02	20	24
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - leishmania infection	up-up	2.27	1.73	5.96e-06	1.32e-02	51	58
+Kidney cancer	Parkinson's disease	Canonical Pathways	pid - pi3kci pathway	up-up	1.93	1.79	2.52e-03	1.32e-02	38	43
+Kidney cancer	Parkinson's disease	Canonical Pathways	biocarta - tnfr2 pathway	up-up	1.87	1.95	7.08e-03	1.47e-02	15	17
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - b wich complex positively regulates rrna expression	up-up	1.88	1.75	2.52e-03	1.54e-02	47	55
+Kidney cancer	Parkinson's disease	Canonical Pathways	biocarta - cd40 pathway	up-up	1.77	1.98	1.56e-02	1.54e-02	13	15
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - deposition of new cenpa containing nucleosomes at the centromere	up-up	1.81	1.78	7.80e-03	1.54e-02	38	45
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - traf6 mediated irf7 activation	up-up	1.65	1.89	3.43e-02	1.63e-02	18	20
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - apoptosis	up-up	1.55	1.61	3.08e-02	1.63e-02	75	82
+Kidney cancer	Parkinson's disease	Canonical Pathways	biocarta - pcaf pathway	up-up	1.75	1.96	1.87e-02	1.74e-02	13	13
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - purinergic signaling in leishmaniasis infection	up-up	1.87	1.87	7.02e-03	1.80e-02	21	23
+Kidney cancer	Parkinson's disease	Canonical Pathways	pid - il6 7 pathway	up-up	1.96	1.72	1.82e-03	1.81e-02	38	46
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - clec7a inflammasome pathway	up-up	1.77	1.8	2.23e-02	1.84e-02	6	6
+Kidney cancer	Parkinson's disease	Canonical Pathways	pid - fcer1 pathway	up-up	2	1.67	5.51e-04	2.08e-02	49	58
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - interferon gamma signaling	up-up	1.67	1.62	1.69e-02	2.30e-02	60	66
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - primary immunodeficiency	up-up	2.08	1.81	3.31e-04	2.39e-02	31	33
+Kidney cancer	Parkinson's disease	Canonical Pathways	pid - p53 downstream pathway	up-up	2.02	1.47	2.56e-05	2.44e-02	108	115
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - toll like receptor signaling pathway	up-up	2.26	1.58	1.43e-06	2.66e-02	80	88
+Kidney cancer	Parkinson's disease	Canonical Pathways	pid - integrin1 pathway	up-up	1.61	1.69	2.11e-02	2.74e-02	57	60
+Kidney cancer	Parkinson's disease	Canonical Pathways	biocarta - nthi pathway	up-up	1.83	1.78	1.35e-02	3.01e-02	19	22
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - tp53 regulates transcription of cell death genes	up-up	2.01	1.74	1.41e-03	3.01e-02	37	34
+Kidney cancer	Parkinson's disease	Canonical Pathways	pid - il4 2pathway	up-up	1.61	1.62	3.02e-02	3.15e-02	50	57
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - toll like receptor cascades	up-up	2.11	1.47	2.95e-06	3.20e-02	131	132
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - caspase activation via death receptors in the presence of ligand	up-up	1.84	1.87	8.39e-03	4.22e-02	15	14
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - nod like receptor signaling pathway	up-up	1.88	1.63	2.43e-03	4.22e-02	50	51
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - leishmania infection	up-up	1.5	1.32	2.24e-02	4.24e-02	204	204
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - interferon alpha beta signaling	up-up	2.19	1.58	3.75e-05	4.37e-02	46	57
+Kidney cancer	Parkinson's disease	Canonical Pathways	pid - tnf pathway	up-up	2.07	1.6	4.99e-04	4.44e-02	37	41
+Kidney cancer	Parkinson's disease	Canonical Pathways	pid - toll endogenous pathway	up-up	2.13	1.76	2.92e-04	4.47e-02	19	20
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - mitotic telophase cytokinesis	up-up	1.82	1.83	1.61e-02	4.47e-02	12	13
+Kidney cancer	Parkinson's disease	Canonical Pathways	biocarta - mapk pathway	up-up	1.9	1.49	1.24e-03	4.55e-02	71	79
+Kidney cancer	Parkinson's disease	Canonical Pathways	pid - rb 1pathway	up-up	1.98	1.62	5.52e-04	4.57e-02	53	60
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - cell surface interactions at the vascular wall	up-up	1.81	1.47	1.47e-03	4.61e-02	110	123
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - eukaryotic translation elongation	up-up	1.75	1.53	2.08e-02	4.74e-02	22	64
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - alzheimers disease	down-down	-1.49	-2.34	1.75e-02	7.41e-09	123	134
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - oxidative phosphorylation	down-down	-2.73	-2.77	1.22e-08	7.41e-09	89	91
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - parkinsons disease	down-down	-2.11	-2.79	1.69e-05	7.41e-09	85	89
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - complex i biogenesis	down-down	-2.02	-2.58	1.82e-03	7.41e-09	38	34
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - protein localization	down-down	-1.69	-2.34	2.34e-03	7.41e-09	128	131
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - respiratory electron transport	down-down	-2.48	-2.8	1.45e-07	7.41e-09	72	67
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	down-down	-2.46	-2.89	2.40e-08	7.41e-09	89	85
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - the citric acid tca cycle and respiratory electron transport	down-down	-2.55	-2.91	1.22e-08	7.41e-09	133	129
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - transmission across chemical synapses	down-down	-1.68	-2.18	8.40e-04	7.41e-09	226	227
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - neuronal system	down-down	-1.57	-1.95	1.75e-04	1.91e-08	348	330
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - neurotransmitter receptors and postsynaptic signal transmission	down-down	-1.44	-2.13	2.08e-02	1.47e-07	165	169
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - cristae formation	down-down	-2	-2.36	4.24e-03	4.92e-06	19	23
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - cardiac muscle contraction	down-down	-1.9	-2.18	2.43e-03	7.64e-06	61	60
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - citrate cycle tca cycle	down-down	-2.46	-2.27	1.86e-05	1.27e-05	26	29
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - citric acid cycle tca cycle	down-down	-2.06	-2.31	3.11e-03	1.54e-05	18	20
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - pyruvate metabolism and citric acid tca cycle	down-down	-2.17	-2.26	1.39e-04	1.55e-05	47	48
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - metabolism of amino acids and derivatives	down-down	-2.04	-1.74	1.10e-07	6.73e-05	241	281
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - transport of small molecules	down-down	-1.63	-1.55	1.34e-06	2.41e-04	595	543
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - trafficking of ampa receptors	down-down	-1.84	-2.13	1.38e-02	3.22e-04	27	28
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - pyruvate metabolism	down-down	-2.37	-2.07	1.47e-05	4.34e-04	36	34
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - glutathione metabolism	down-down	-1.69	-1.99	2.28e-02	1.07e-03	36	35
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - phase 0 rapid - depolarisation	down-down	-1.56	-2.02	4.82e-02	1.12e-03	36	34
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - formation of atp by chemiosmotic coupling	down-down	-1.78	-2.11	3.08e-02	1.36e-03	12	14
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - transferrin endocytosis and recycling	down-down	-2.02	-1.98	3.45e-03	3.15e-03	26	25
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - insulin receptor recycling	down-down	-2.38	-1.99	2.56e-05	3.74e-03	21	20
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - glycolysis gluconeogenesis	down-down	-1.56	-1.86	3.49e-02	4.21e-03	51	54
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - amino acids regulate mtorc1	down-down	-1.91	-1.9	2.99e-03	4.42e-03	45	36
+Kidney cancer	Parkinson's disease	Canonical Pathways	biocarta - ck1 pathway	down-down	-1.77	-2.01	4.12e-02	6.09e-03	13	14
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - vibrio cholerae infection	down-down	-1.85	-1.83	7.66e-03	9.07e-03	42	47
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - butanoate metabolism	down-down	-2.54	-1.86	3.18e-06	9.53e-03	28	31
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - neurotransmitter release cycle	down-down	-1.59	-1.72	2.47e-02	1.74e-02	47	45
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - metabolism of lipids	down-down	-1.71	-1.36	4.12e-07	1.86e-02	562	546
+Kidney cancer	Parkinson's disease	Canonical Pathways	biocarta - etc pathway	down-down	-1.89	-1.85	1.56e-02	2.18e-02	7	9
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - valine leucine and isoleucine degradation	down-down	-2.74	-1.74	1.75e-08	2.37e-02	38	40
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - terpenoid backbone biosynthesis	down-down	-1.85	-1.85	1.50e-02	2.61e-02	15	14
+Kidney cancer	Parkinson's disease	Canonical Pathways	kegg - peroxisome	down-down	-2.15	-1.65	1.31e-04	2.66e-02	64	66
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - signaling by insulin receptor	down-down	-1.6	-1.65	2.08e-02	2.66e-02	66	66
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - mitochondrial fatty acid beta oxidation	down-down	-2.56	-1.75	2.01e-06	2.78e-02	28	26
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - glutathione conjugation	down-down	-2.03	-1.78	3.08e-03	3.30e-02	25	22
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - peroxisomal protein import	down-down	-1.79	-1.66	7.64e-03	3.78e-02	49	53
+Kidney cancer	Parkinson's disease	Canonical Pathways	reactome - cholesterol biosynthesis	down-down	-1.99	-1.71	4.87e-03	4.45e-02	23	20

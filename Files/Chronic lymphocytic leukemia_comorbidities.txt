@@ -1,0 +1,82 @@
+disease.1	disease.2	category	pathway	overlap	nes.1	nes.2	fdr.1	fdr.2	genes.1	ngenes.2
+Chronic lymphocytic leukemia	Parkinson's disease	HallMark	tnfa signaling via nfkb	down-up	-2.92	2.02	5.00e-09	1.63e-07	191	190
+Chronic lymphocytic leukemia	Parkinson's disease	HallMark	inflammatory response	down-up	-1.58	1.99	8.09e-04	8.68e-07	198	192
+Chronic lymphocytic leukemia	Parkinson's disease	HallMark	il2 stat5 signaling	down-up	-1.32	1.92	4.66e-02	4.49e-06	195	172
+Chronic lymphocytic leukemia	Parkinson's disease	HallMark	il6 jak stat3 signaling	down-up	-1.73	2.09	2.73e-03	1.26e-05	84	85
+Chronic lymphocytic leukemia	Parkinson's disease	HallMark	hypoxia	down-up	-2.03	1.66	2.64e-07	2.10e-04	195	193
+Chronic lymphocytic leukemia	Parkinson's disease	HallMark	p53 pathway	down-up	-1.33	1.64	4.96e-02	2.25e-04	187	186
+Chronic lymphocytic leukemia	Parkinson's disease	HallMark	complement	down-up	-1.51	1.56	4.57e-03	2.79e-03	191	178
+Chronic lymphocytic leukemia	Parkinson's disease	HallMark	interferon gamma response	down-up	-1.34	1.44	4.62e-02	1.44e-02	187	170
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	anatomical structure formation involved in morphogenesis	down-up	-1.33	1.61	1.11e-02	1.26e-08	1019	882
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	biological adhesion	down-up	-1.46	1.53	1.67e-06	1.26e-08	1273	1082
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	cardiovascular system development	down-up	-1.24	1.77	4.41e-02	1.26e-08	667	599
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	cis regulatory region binding	down-up	-1.37	2.22	6.70e-03	1.26e-08	560	493
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	dna binding transcription activator activity	down-up	-1.58	2.06	2.14e-03	1.26e-08	396	345
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	extracellular structure organization	down-up	-1.39	1.97	4.74e-02	1.26e-08	344	310
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	leukocyte differentiation	down-up	-1.33	2.05	3.80e-02	1.26e-08	484	416
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	lymphocyte activation	down-up	-1.48	1.87	4.84e-04	1.26e-08	620	529
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	lymphocyte differentiation	down-up	-1.45	2.09	4.29e-02	1.26e-08	329	283
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	nuclear chromosome	down-up	-1.27	1.89	1.54e-02	1.26e-08	1115	909
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	positive regulation of transcription by rna polymerase ii	down-up	-1.25	1.8	3.38e-02	1.26e-08	1106	951
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	regulation of cell population proliferation	down-up	-1.26	1.5	5.17e-03	1.26e-08	1468	1308
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	sequence specific double stranded dna binding	down-up	-1.3	2.12	5.73e-03	1.26e-08	810	680
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	tube development	down-up	-1.34	1.73	1.82e-03	1.26e-08	969	857
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	tube morphogenesis	down-up	-1.27	1.76	2.00e-02	1.26e-08	782	694
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	t cell activation	down-up	-1.47	1.89	1.45e-02	1.73e-08	432	373
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	epithelial cell differentiation	down-up	-1.52	1.73	1.84e-04	2.91e-08	634	532
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	embryo development	down-up	-1.27	1.55	1.86e-02	1.10e-07	953	796
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	circulatory system development	down-up	-1.24	1.52	6.70e-03	1.38e-07	992	880
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	cell activation	down-up	-1.34	1.43	5.85e-04	2.55e-07	1263	1094
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	immune system development	down-up	-1.29	1.52	1.48e-02	3.99e-07	909	774
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	regulation of cell adhesion	down-up	-1.37	1.6	4.07e-03	9.65e-07	633	562
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	positive regulation of intracellular signal transduction	down-up	-1.26	1.49	3.78e-02	2.01e-06	911	792
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	cellular response to biotic stimulus	down-up	-1.75	1.99	1.40e-03	2.46e-06	212	194
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	regulation of cellular component movement	down-up	-1.26	1.47	3.96e-02	5.20e-06	911	801
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	epidermis development	down-up	-1.43	1.84	4.66e-02	5.40e-06	351	274
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	cell motility	down-up	-1.49	1.3	5.09e-07	8.91e-06	1453	1242
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	positive regulation of multicellular organismal process	down-up	-1.25	1.3	6.66e-03	1.12e-05	1602	1410
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	positive regulation of cell population proliferation	down-up	-1.34	1.46	3.61e-03	2.25e-05	823	732
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	leukocyte proliferation	down-up	-1.42	1.79	4.70e-02	3.01e-05	275	246
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	epidermal cell differentiation	down-up	-1.47	1.86	4.52e-02	3.99e-05	247	188
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	muscle structure development	down-up	-1.24	1.56	4.46e-02	4.01e-05	587	504
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	cell cell adhesion	down-up	-1.28	1.48	2.00e-02	5.81e-05	756	632
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	response to cytokine	down-up	-1.42	1.35	6.25e-04	1.40e-04	1052	971
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	locomotion	down-up	-1.51	1.21	5.09e-07	2.73e-04	1662	1404
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	epithelium development	down-up	-1.42	1.32	7.25e-05	2.90e-04	1125	937
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	cell substrate adhesion	down-up	-1.41	1.63	4.04e-02	3.28e-04	319	283
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	positive regulation of cell adhesion	down-up	-1.51	1.51	1.15e-02	1.52e-03	373	333
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	regulation of cell death	down-up	-1.36	1.2	4.91e-04	2.00e-03	1485	1311
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	negative regulation of cell differentiation	down-up	-1.36	1.4	9.74e-03	2.49e-03	639	539
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	dna packaging complex	down-up	-1.78	1.94	3.01e-02	2.72e-03	71	65
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	secretory granule membrane	down-up	-1.51	1.59	3.17e-02	3.00e-03	276	223
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	integrin mediated signaling pathway	down-up	-1.75	1.83	2.73e-02	4.29e-03	99	90
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	negative regulation of cell death	down-up	-1.42	1.26	4.99e-04	8.16e-03	878	793
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	regulation of cell differentiation	down-up	-1.29	1.16	1.79e-03	9.34e-03	1663	1406
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	glial cell differentiation	down-up	-1.49	1.54	4.69e-02	9.83e-03	206	178
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	digestive system development	down-up	-1.68	1.64	3.38e-02	1.32e-02	132	119
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	enzyme linked receptor protein signaling pathway	down-up	-1.3	1.24	1.19e-02	1.74e-02	946	826
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	taxis	down-up	-1.35	1.28	4.07e-03	1.81e-02	586	514
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	positive regulation of mapk cascade	down-up	-1.35	1.33	3.01e-02	2.17e-02	482	437
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	protein heterodimerization activity	down-up	-1.44	1.35	1.45e-02	2.31e-02	410	364
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	ameboidal type cell migration	down-up	-1.39	1.34	4.94e-02	2.89e-02	365	330
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	anchoring junction	down-up	-1.36	1.25	2.14e-03	3.15e-02	756	657
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	animal organ morphogenesis	down-up	-1.23	1.2	2.85e-02	3.32e-02	1005	845
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	cell fate determination	down-up	-2.11	1.75	5.51e-03	3.60e-02	40	36
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	cell junction assembly	down-up	-1.5	1.41	3.53e-02	3.79e-02	231	204
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	respiratory burst	down-up	-2.22	1.75	5.33e-03	4.62e-02	30	26
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	mitochondrial gene expression	up-down	1.67	-2.41	2.73e-02	1.26e-08	153	109
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	catalytic complex	up-down	1.36	-1.61	5.84e-03	6.01e-08	1236	987
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	protein modification by small protein conjugation or removal	up-down	1.47	-1.61	4.91e-04	1.09e-06	995	748
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	trna metabolic process	up-down	1.89	-2.15	1.12e-03	1.09e-06	170	125
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	protein modification by small protein conjugation	up-down	1.43	-1.57	6.35e-03	5.29e-05	829	616
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	protein polyubiquitination	up-down	1.59	-1.69	1.65e-02	9.66e-04	286	219
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	golgi organization	up-down	1.82	-1.84	1.51e-02	1.61e-03	111	90
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	catalytic activity acting on a trna	up-down	1.77	-1.88	1.45e-02	1.61e-03	113	83
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	ncrna metabolic process	up-down	1.58	-1.55	4.07e-03	3.18e-03	418	311
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	trna processing	up-down	1.98	-1.77	4.91e-04	5.12e-03	120	88
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	catalytic activity acting on rna	up-down	1.9	-1.58	1.67e-06	5.48e-03	340	256
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	ubiquitin like protein specific protease activity	up-down	1.74	-1.76	2.50e-02	8.41e-03	93	66
+Chronic lymphocytic leukemia	Parkinson's disease	Gene Ontology	ncrna processing	up-down	1.66	-1.44	2.12e-03	3.13e-02	334	262
+Chronic lymphocytic leukemia	Parkinson's disease	Canonical Pathways	naba - matrisome	down-up	-1.31	1.66	4.11e-02	2.26e-08	906	731
+Chronic lymphocytic leukemia	Parkinson's disease	Canonical Pathways	naba - matrisome associated	down-up	-1.35	1.61	4.11e-02	1.22e-07	646	535
+Chronic lymphocytic leukemia	Parkinson's disease	Canonical Pathways	reactome - metabolism of rna	up-down	1.45	-1.64	4.11e-02	1.80e-05	579	506

@@ -1,0 +1,1219 @@
+disease.1	disease.2	category	pathway	overlap	nes.1	nes.2	fdr.1	fdr.2	genes.1	ngenes.2
+Lung cancer	Parkinson's disease	HallMark	tnfa signaling via nfkb	down-up	-2.88	2.02	8.33e-10	1.63e-07	179	190
+Lung cancer	Parkinson's disease	HallMark	inflammatory response	down-up	-2.39	1.99	8.33e-10	8.68e-07	197	192
+Lung cancer	Parkinson's disease	HallMark	il2 stat5 signaling	down-up	-1.75	1.92	1.04e-04	4.49e-06	184	172
+Lung cancer	Parkinson's disease	HallMark	il6 jak stat3 signaling	down-up	-1.79	2.09	1.09e-03	1.26e-05	78	85
+Lung cancer	Parkinson's disease	HallMark	hypoxia	down-up	-1.51	1.66	5.22e-03	2.10e-04	181	193
+Lung cancer	Parkinson's disease	HallMark	complement	down-up	-1.77	1.56	6.20e-05	2.79e-03	164	178
+Lung cancer	Parkinson's disease	HallMark	allograft rejection	down-up	-1.47	1.44	7.05e-03	7.95e-03	172	186
+Lung cancer	Parkinson's disease	HallMark	tgf beta signaling	down-up	-2.19	1.65	2.31e-05	1.04e-02	50	49
+Lung cancer	Parkinson's disease	HallMark	interferon gamma response	down-up	-2.2	1.44	5.03e-09	1.44e-02	172	170
+Lung cancer	Parkinson's disease	HallMark	interferon alpha response	down-up	-2.07	1.51	2.31e-05	1.74e-02	78	77
+Lung cancer	Parkinson's disease	HallMark	myogenesis	down-up	-1.92	1.32	5.43e-06	3.80e-02	176	194
+Lung cancer	Parkinson's disease	HallMark	oxidative phosphorylation	up-down	1.62	-3.09	1.48e-03	5.00e-09	171	187
+Lung cancer	Parkinson's disease	HallMark	myc targets v1	up-down	2.4	-1.98	8.33e-10	1.03e-06	167	182
+Lung cancer	Parkinson's disease	HallMark	mtorc1 signaling	up-down	1.75	-1.9	1.05e-04	1.67e-06	174	190
+Lung cancer	Parkinson's disease	HallMark	dna repair	up-down	1.68	-1.47	9.23e-04	2.19e-02	131	128
+Lung cancer	Parkinson's disease	HallMark	myc targets v2	up-down	2.29	-1.57	1.21e-06	2.62e-02	49	52
+Lung cancer	Parkinson's disease	HallMark	glycolysis	up-down	2.41	-1.37	8.33e-10	4.88e-02	176	182
+Lung cancer	Alzheimer's disease	HallMark	inflammatory response	down-up	-2.39	2.12	8.33e-10	4.46e-08	197	192
+Lung cancer	Alzheimer's disease	HallMark	allograft rejection	down-up	-1.47	2.09	7.05e-03	7.03e-08	172	186
+Lung cancer	Alzheimer's disease	HallMark	il6 jak stat3 signaling	down-up	-1.79	2.19	1.09e-03	4.69e-06	78	85
+Lung cancer	Alzheimer's disease	HallMark	myogenesis	down-up	-1.92	1.85	5.43e-06	1.64e-05	176	194
+Lung cancer	Alzheimer's disease	HallMark	tnfa signaling via nfkb	down-up	-2.88	1.74	8.33e-10	1.21e-04	179	190
+Lung cancer	Alzheimer's disease	HallMark	il2 stat5 signaling	down-up	-1.75	1.7	1.04e-04	2.69e-04	184	173
+Lung cancer	Alzheimer's disease	HallMark	hypoxia	down-up	-1.51	1.61	5.22e-03	3.75e-04	181	193
+Lung cancer	Alzheimer's disease	HallMark	interferon gamma response	down-up	-2.2	1.54	5.03e-09	3.51e-03	172	170
+Lung cancer	Alzheimer's disease	HallMark	complement	down-up	-1.77	1.45	6.20e-05	1.01e-02	164	179
+Lung cancer	Alzheimer's disease	HallMark	kras signaling up	down-up	-1.92	1.43	3.78e-06	1.10e-02	171	190
+Lung cancer	Alzheimer's disease	HallMark	apical junction	down-up	-1.29	1.37	4.48e-02	1.69e-02	180	176
+Lung cancer	Alzheimer's disease	HallMark	estrogen response early	down-up	-1.56	1.32	2.08e-03	2.86e-02	174	186
+Lung cancer	Alzheimer's disease	HallMark	myc targets v1	up-down	2.4	-2.54	8.33e-10	2.50e-09	167	182
+Lung cancer	Alzheimer's disease	HallMark	oxidative phosphorylation	up-down	1.62	-3.37	1.48e-03	2.50e-09	171	187
+Lung cancer	Alzheimer's disease	HallMark	mtorc1 signaling	up-down	1.75	-2.19	1.05e-04	6.78e-09	174	191
+Lung cancer	Alzheimer's disease	HallMark	dna repair	up-down	1.68	-2.01	9.23e-04	9.30e-06	131	128
+Lung cancer	Alzheimer's disease	HallMark	unfolded protein response	up-down	1.7	-1.99	1.75e-03	2.28e-05	97	105
+Lung cancer	Alzheimer's disease	HallMark	myc targets v2	up-down	2.29	-1.57	1.21e-06	1.99e-02	49	52
+Lung cancer	Parkinson's disease	Gene Ontology	adaptive immune response	down-up	-1.92	2.01	6.17e-08	1.26e-08	329	319
+Lung cancer	Parkinson's disease	Gene Ontology	anatomical structure formation involved in morphogenesis	down-up	-1.87	1.61	8.56e-09	1.26e-08	952	882
+Lung cancer	Parkinson's disease	Gene Ontology	biological adhesion	down-up	-1.83	1.53	8.56e-09	1.26e-08	1152	1082
+Lung cancer	Parkinson's disease	Gene Ontology	blood vessel morphogenesis	down-up	-2.22	1.83	8.56e-09	1.26e-08	514	510
+Lung cancer	Parkinson's disease	Gene Ontology	cardiovascular system development	down-up	-2.26	1.77	8.56e-09	1.26e-08	618	599
+Lung cancer	Parkinson's disease	Gene Ontology	cytokine production	down-up	-1.71	1.8	2.28e-08	1.26e-08	633	606
+Lung cancer	Parkinson's disease	Gene Ontology	leukocyte differentiation	down-up	-1.68	2.05	1.25e-05	1.26e-08	443	416
+Lung cancer	Parkinson's disease	Gene Ontology	lymphocyte activation	down-up	-1.58	1.87	1.60e-05	1.26e-08	560	529
+Lung cancer	Parkinson's disease	Gene Ontology	lymphocyte differentiation	down-up	-1.42	2.09	1.36e-02	1.26e-08	299	283
+Lung cancer	Parkinson's disease	Gene Ontology	molecular transducer activity	down-up	-1.54	1.67	7.72e-07	1.26e-08	948	851
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of transcription by rna polymerase ii	down-up	-1.21	1.8	3.72e-02	1.26e-08	1002	951
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of cell population proliferation	down-up	-1.54	1.5	8.56e-09	1.26e-08	1347	1308
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of immune system process	down-up	-1.9	1.49	8.56e-09	1.26e-08	1221	1182
+Lung cancer	Parkinson's disease	Gene Ontology	response to bacterium	down-up	-1.99	1.85	8.56e-09	1.26e-08	492	458
+Lung cancer	Parkinson's disease	Gene Ontology	tube development	down-up	-1.85	1.73	8.56e-09	1.26e-08	896	857
+Lung cancer	Parkinson's disease	Gene Ontology	tube morphogenesis	down-up	-1.97	1.76	8.56e-09	1.26e-08	726	694
+Lung cancer	Parkinson's disease	Gene Ontology	inflammatory response	down-up	-1.94	1.71	8.56e-09	1.64e-08	596	567
+Lung cancer	Parkinson's disease	Gene Ontology	t cell activation	down-up	-1.7	1.89	1.31e-05	1.73e-08	389	373
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of cell activation	down-up	-1.84	1.8	3.17e-08	4.55e-08	451	432
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of leukocyte differentiation	down-up	-1.7	2.04	2.76e-04	6.21e-08	233	218
+Lung cancer	Parkinson's disease	Gene Ontology	embryo development	down-up	-1.22	1.55	2.59e-02	1.10e-07	885	796
+Lung cancer	Parkinson's disease	Gene Ontology	t cell differentiation	down-up	-1.54	2.1	9.93e-03	1.23e-07	207	197
+Lung cancer	Parkinson's disease	Gene Ontology	leukocyte cell cell adhesion	down-up	-1.83	1.95	3.36e-06	1.36e-07	283	281
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of lymphocyte activation	down-up	-1.48	1.85	1.67e-03	1.37e-07	354	337
+Lung cancer	Parkinson's disease	Gene Ontology	circulatory system development	down-up	-2.11	1.52	8.56e-09	1.38e-07	922	880
+Lung cancer	Parkinson's disease	Gene Ontology	cell activation	down-up	-1.93	1.43	8.56e-09	2.55e-07	1133	1094
+Lung cancer	Parkinson's disease	Gene Ontology	immune system development	down-up	-1.51	1.52	6.47e-06	3.99e-07	817	774
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of locomotion	down-up	-2.09	1.69	8.56e-09	4.16e-07	476	466
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of vasculature development	down-up	-2.3	1.91	8.56e-09	6.22e-07	286	274
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of immune system process	down-up	-1.92	1.79	1.35e-08	6.87e-07	361	357
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of multicellular organismal process	down-up	-1.71	1.47	8.56e-09	7.45e-07	1028	967
+Lung cancer	Parkinson's disease	Gene Ontology	defense response to bacterium	down-up	-1.47	2.1	2.55e-02	8.27e-07	178	156
+Lung cancer	Parkinson's disease	Gene Ontology	defense response	down-up	-1.69	1.34	8.56e-09	9.10e-07	1275	1215
+Lung cancer	Parkinson's disease	Gene Ontology	response to molecule of bacterial origin	down-up	-2.13	1.88	8.56e-09	9.61e-07	291	289
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of cell adhesion	down-up	-1.94	1.6	8.56e-09	9.65e-07	572	562
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of intracellular signal transduction	down-up	-1.68	1.49	8.56e-09	2.01e-06	843	792
+Lung cancer	Parkinson's disease	Gene Ontology	cellular response to biotic stimulus	down-up	-2.03	1.99	1.07e-06	2.46e-06	196	194
+Lung cancer	Parkinson's disease	Gene Ontology	immune receptor activity	down-up	-2	2.17	2.33e-04	3.44e-06	100	104
+Lung cancer	Parkinson's disease	Gene Ontology	i kappab kinase nf kappab signaling	down-up	-1.48	1.94	1.04e-02	3.94e-06	228	202
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of immune effector process	down-up	-2.08	1.79	8.56e-09	4.49e-06	320	313
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of cellular component movement	down-up	-2.14	1.47	8.56e-09	5.20e-06	846	801
+Lung cancer	Parkinson's disease	Gene Ontology	response to biotic stimulus	down-up	-1.63	1.36	8.56e-09	5.42e-06	1141	1088
+Lung cancer	Parkinson's disease	Gene Ontology	skeletal system development	down-up	-1.34	1.67	2.17e-02	5.58e-06	447	419
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of immune response	down-up	-1.88	1.47	8.56e-09	5.65e-06	784	772
+Lung cancer	Parkinson's disease	Gene Ontology	external side of plasma membrane	down-up	-2.01	1.79	4.03e-08	7.97e-06	263	257
+Lung cancer	Parkinson's disease	Gene Ontology	cytokine binding	down-up	-2.02	2.09	3.61e-05	8.72e-06	112	110
+Lung cancer	Parkinson's disease	Gene Ontology	cell motility	down-up	-1.88	1.3	8.56e-09	8.91e-06	1345	1242
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of multicellular organismal process	down-up	-1.68	1.3	8.56e-09	1.12e-05	1483	1410
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of cytokine production	down-up	-1.52	1.68	1.60e-03	1.15e-05	381	364
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of t cell activation	down-up	-1.51	1.83	4.08e-03	1.21e-05	265	256
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of adaptive immune response	down-up	-2.07	2.05	5.52e-06	1.26e-05	134	129
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of vasculature development	down-up	-2.42	1.97	8.56e-09	1.37e-05	163	158
+Lung cancer	Parkinson's disease	Gene Ontology	phagocytosis	down-up	-2.21	1.83	8.56e-09	1.38e-05	214	214
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of hemopoiesis	down-up	-1.75	2.09	3.92e-03	1.55e-05	115	113
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of developmental process	down-up	-1.73	1.32	8.56e-09	1.81e-05	1159	1090
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of cell activation	down-up	-1.67	1.76	2.94e-04	1.85e-05	269	263
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of immune system process	down-up	-1.82	1.44	8.56e-09	1.94e-05	863	841
+Lung cancer	Parkinson's disease	Gene Ontology	extracellular matrix	down-up	-1.33	1.62	1.91e-02	2.13e-05	453	412
+Lung cancer	Parkinson's disease	Gene Ontology	cell surface	down-up	-1.7	1.48	3.22e-08	2.25e-05	687	665
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of cell population proliferation	down-up	-1.5	1.46	3.34e-05	2.25e-05	754	732
+Lung cancer	Parkinson's disease	Gene Ontology	leukocyte proliferation	down-up	-1.59	1.79	2.05e-03	3.01e-05	248	246
+Lung cancer	Parkinson's disease	Gene Ontology	leukocyte migration	down-up	-1.85	1.65	7.80e-08	3.06e-05	369	373
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of developmental process	down-up	-1.62	1.44	3.61e-08	3.69e-05	798	741
+Lung cancer	Parkinson's disease	Gene Ontology	muscle structure development	down-up	-1.68	1.56	1.00e-06	4.01e-05	537	504
+Lung cancer	Parkinson's disease	Gene Ontology	interleukin 6 production	down-up	-1.78	2.03	1.33e-03	5.04e-05	126	115
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of leukocyte proliferation	down-up	-1.48	1.86	2.49e-02	5.26e-05	186	183
+Lung cancer	Parkinson's disease	Gene Ontology	tumor necrosis factor superfamily cytokine production	down-up	-1.95	1.94	1.72e-04	5.26e-05	125	124
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of lymphocyte activation	down-up	-1.55	2.01	2.47e-02	5.31e-05	118	120
+Lung cancer	Parkinson's disease	Gene Ontology	immune effector process	down-up	-1.93	1.41	8.56e-09	5.37e-05	933	922
+Lung cancer	Parkinson's disease	Gene Ontology	cell cell adhesion	down-up	-1.79	1.48	8.56e-09	5.81e-05	688	632
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of leukocyte mediated immunity	down-up	-2.21	1.86	6.16e-08	6.08e-05	166	161
+Lung cancer	Parkinson's disease	Gene Ontology	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	down-up	-1.78	1.79	9.21e-05	6.93e-05	217	205
+Lung cancer	Parkinson's disease	Gene Ontology	cytokine receptor activity	down-up	-1.89	2.08	1.07e-03	7.73e-05	85	84
+Lung cancer	Parkinson's disease	Gene Ontology	collagen containing extracellular matrix	down-up	-1.49	1.66	2.78e-03	9.15e-05	350	327
+Lung cancer	Parkinson's disease	Gene Ontology	myeloid cell differentiation	down-up	-1.63	1.65	8.11e-05	1.00e-04	344	329
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte differentiation	down-up	-1.86	1.95	9.34e-04	1.00e-04	128	127
+Lung cancer	Parkinson's disease	Gene Ontology	in utero embryonic development	down-up	-1.48	1.71	3.83e-03	1.19e-04	327	299
+Lung cancer	Parkinson's disease	Gene Ontology	response to cytokine	down-up	-1.76	1.35	8.56e-09	1.40e-04	947	971
+Lung cancer	Parkinson's disease	Gene Ontology	cytokine mediated signaling pathway	down-up	-1.52	1.45	1.18e-04	1.51e-04	611	635
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of ossification	down-up	-1.62	1.8	5.65e-03	1.56e-04	174	157
+Lung cancer	Parkinson's disease	Gene Ontology	response to lipid	down-up	-1.78	1.4	8.56e-09	1.69e-04	791	782
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of lymphocyte mediated immunity	down-up	-2.02	1.94	4.70e-05	1.71e-04	121	115
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of phosphatidylinositol 3 kinase signaling	down-up	-1.98	2.04	5.41e-04	2.20e-04	79	80
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte cell cell adhesion	down-up	-1.64	1.77	4.11e-03	2.64e-04	185	183
+Lung cancer	Parkinson's disease	Gene Ontology	locomotion	down-up	-1.88	1.21	8.56e-09	2.73e-04	1535	1404
+Lung cancer	Parkinson's disease	Gene Ontology	peptidyl tyrosine modification	down-up	-1.57	1.6	9.56e-04	2.83e-04	312	308
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of immune response	down-up	-1.75	1.42	1.78e-08	2.88e-04	616	607
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of intracellular signal transduction	down-up	-1.62	1.24	8.56e-09	3.16e-04	1511	1398
+Lung cancer	Parkinson's disease	Gene Ontology	pattern recognition receptor signaling pathway	down-up	-1.53	1.81	1.78e-02	3.22e-04	160	154
+Lung cancer	Parkinson's disease	Gene Ontology	cell substrate adhesion	down-up	-1.98	1.63	3.63e-08	3.28e-04	294	283
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of lymphocyte differentiation	down-up	-1.76	1.99	7.18e-03	3.32e-04	79	83
+Lung cancer	Parkinson's disease	Gene Ontology	defense response to other organism	down-up	-1.52	1.38	8.76e-06	3.43e-04	839	804
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of cell activation	down-up	-1.98	1.84	9.09e-06	4.05e-04	160	159
+Lung cancer	Parkinson's disease	Gene Ontology	lymphocyte mediated immunity	down-up	-1.81	1.7	1.43e-04	4.22e-04	207	199
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of inflammatory response	down-up	-1.84	1.66	3.92e-06	4.44e-04	279	256
+Lung cancer	Parkinson's disease	Gene Ontology	mononuclear cell differentiation	down-up	-1.7	2.23	4.18e-02	4.92e-04	32	30
+Lung cancer	Parkinson's disease	Gene Ontology	endothelium development	down-up	-2.62	1.84	8.56e-09	6.89e-04	105	105
+Lung cancer	Parkinson's disease	Gene Ontology	lymphocyte activation involved in immune response	down-up	-1.6	1.79	7.13e-03	7.45e-04	144	133
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of cell adhesion	down-up	-1.72	1.61	2.60e-04	7.46e-04	228	229
+Lung cancer	Parkinson's disease	Gene Ontology	myeloid leukocyte differentiation	down-up	-1.72	1.71	1.00e-03	7.53e-04	180	168
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of hemopoiesis	down-up	-1.81	1.75	6.52e-04	8.00e-04	155	156
+Lung cancer	Parkinson's disease	Gene Ontology	cell chemotaxis	down-up	-1.91	1.63	1.08e-06	8.43e-04	241	244
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of cell cell adhesion	down-up	-1.72	1.53	1.13e-05	8.77e-04	343	332
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of phagocytosis	down-up	-2.03	1.98	3.19e-04	1.03e-03	78	79
+Lung cancer	Parkinson's disease	Gene Ontology	cellular response to vascular endothelial growth factor stimulus	down-up	-2.18	2.11	1.55e-04	1.10e-03	50	46
+Lung cancer	Parkinson's disease	Gene Ontology	epithelial cell development	down-up	-1.47	1.66	3.79e-02	1.22e-03	185	173
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of osteoblast differentiation	down-up	-1.56	1.85	3.22e-02	1.24e-03	105	94
+Lung cancer	Parkinson's disease	Gene Ontology	interferon gamma mediated signaling pathway	down-up	-1.6	1.97	4.71e-02	1.25e-03	62	66
+Lung cancer	Parkinson's disease	Gene Ontology	muscle organ development	down-up	-1.54	1.52	1.61e-03	1.28e-03	330	308
+Lung cancer	Parkinson's disease	Gene Ontology	renal system development	down-up	-1.33	1.6	4.10e-02	1.29e-03	260	247
+Lung cancer	Parkinson's disease	Gene Ontology	toll like receptor signaling pathway	down-up	-1.51	1.81	3.21e-02	1.41e-03	120	115
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of tumor necrosis factor superfamily cytokine production	down-up	-1.6	1.96	2.94e-02	1.41e-03	72	73
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of cell adhesion	down-up	-2.04	1.51	8.56e-09	1.52e-03	340	333
+Lung cancer	Parkinson's disease	Gene Ontology	cytokine metabolic process	down-up	-1.77	1.84	2.29e-03	1.59e-03	104	100
+Lung cancer	Parkinson's disease	Gene Ontology	wound healing	down-up	-1.87	1.43	8.56e-09	1.61e-03	464	461
+Lung cancer	Parkinson's disease	Gene Ontology	cytokine secretion	down-up	-1.83	1.67	1.84e-04	1.63e-03	183	174
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of alpha beta t cell activation	down-up	-2.14	1.95	6.63e-05	1.67e-03	74	71
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of adaptive immune response	down-up	-1.9	1.86	7.87e-04	1.72e-03	88	83
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of endothelial cell migration	down-up	-2.3	1.72	1.88e-08	1.77e-03	139	133
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of cell death	down-up	-1.38	1.2	9.57e-06	2.00e-03	1355	1311
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of response to external stimulus	down-up	-1.7	1.3	8.56e-09	2.12e-03	886	844
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of cell differentiation	down-up	-1.74	1.3	8.56e-09	2.20e-03	831	792
+Lung cancer	Parkinson's disease	Gene Ontology	innate immune response	down-up	-1.59	1.33	3.09e-06	2.24e-03	690	671
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of cytokine production	down-up	-1.78	1.59	7.71e-05	2.24e-03	221	220
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of leukocyte differentiation	down-up	-1.52	1.91	4.91e-02	2.36e-03	80	77
+Lung cancer	Parkinson's disease	Gene Ontology	t cell proliferation	down-up	-1.63	1.68	3.72e-03	2.38e-03	158	154
+Lung cancer	Parkinson's disease	Gene Ontology	urogenital system development	down-up	-1.33	1.54	4.95e-02	2.38e-03	292	282
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of cell differentiation	down-up	-1.47	1.4	2.81e-04	2.49e-03	589	539
+Lung cancer	Parkinson's disease	Gene Ontology	myeloid leukocyte activation	down-up	-2.2	1.37	8.56e-09	2.54e-03	521	528
+Lung cancer	Parkinson's disease	Gene Ontology	vascular endothelial growth factor signaling pathway	down-up	-1.75	2.08	3.84e-02	2.64e-03	33	30
+Lung cancer	Parkinson's disease	Gene Ontology	myeloid leukocyte migration	down-up	-1.99	1.62	4.52e-06	2.79e-03	173	175
+Lung cancer	Parkinson's disease	Gene Ontology	interleukin 8 production	down-up	-1.95	1.9	2.16e-03	2.81e-03	63	62
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of leukocyte cell cell adhesion	down-up	-1.57	1.78	3.03e-02	2.81e-03	95	99
+Lung cancer	Parkinson's disease	Gene Ontology	adaptive thermogenesis	down-up	-1.95	1.64	3.63e-05	2.94e-03	140	137
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of response to cytokine stimulus	down-up	-1.6	1.71	1.11e-02	2.95e-03	139	138
+Lung cancer	Parkinson's disease	Gene Ontology	endothelial cell migration	down-up	-2.34	1.6	8.56e-09	2.96e-03	176	173
+Lung cancer	Parkinson's disease	Gene Ontology	secretory granule membrane	down-up	-2.14	1.59	8.56e-09	3.00e-03	236	223
+Lung cancer	Parkinson's disease	Gene Ontology	alpha beta t cell activation	down-up	-2.23	1.79	1.28e-06	3.18e-03	114	106
+Lung cancer	Parkinson's disease	Gene Ontology	t cell activation involved in immune response	down-up	-1.72	1.86	6.36e-03	3.27e-03	83	79
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of dna binding transcription factor activity	down-up	-1.57	1.46	2.25e-04	3.29e-03	362	336
+Lung cancer	Parkinson's disease	Gene Ontology	leukocyte mediated immunity	down-up	-2.01	1.33	8.56e-09	3.53e-03	624	621
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of cell population proliferation	down-up	-1.55	1.36	3.03e-05	3.69e-03	591	579
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of cell cell adhesion	down-up	-1.63	1.55	1.30e-03	3.84e-03	221	217
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of inflammatory response	down-up	-1.74	1.74	4.50e-03	3.84e-03	115	112
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of alpha beta t cell differentiation	down-up	-1.71	1.89	2.21e-02	3.92e-03	55	51
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of immune effector process	down-up	-1.9	1.74	1.01e-03	4.06e-03	94	99
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of response to stress	down-up	-1.36	1.17	1.30e-04	4.27e-03	1223	1169
+Lung cancer	Parkinson's disease	Gene Ontology	blood vessel endothelial cell migration	down-up	-2.46	1.7	8.56e-09	4.37e-03	103	101
+Lung cancer	Parkinson's disease	Gene Ontology	response to wounding	down-up	-1.86	1.34	8.56e-09	4.68e-03	561	557
+Lung cancer	Parkinson's disease	Gene Ontology	chemokine production	down-up	-1.94	1.84	1.75e-03	4.76e-03	73	75
+Lung cancer	Parkinson's disease	Gene Ontology	activation of immune response	down-up	-1.67	1.38	2.48e-06	4.77e-03	480	473
+Lung cancer	Parkinson's disease	Gene Ontology	cellular response to lipid	down-up	-1.71	1.37	2.95e-07	5.03e-03	509	508
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of immune response	down-up	-1.79	1.73	1.61e-03	5.14e-03	118	120
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of humoral immune response	down-up	-1.74	1.9	1.87e-02	5.14e-03	54	59
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of immune effector process	down-up	-2.09	1.58	2.59e-07	5.18e-03	171	175
+Lung cancer	Parkinson's disease	Gene Ontology	epithelial cell apoptotic process	down-up	-2.05	1.81	8.94e-05	5.29e-03	89	90
+Lung cancer	Parkinson's disease	Gene Ontology	interleukin 1 beta production	down-up	-2.28	1.83	1.13e-05	5.34e-03	72	67
+Lung cancer	Parkinson's disease	Gene Ontology	apoptotic cell clearance	down-up	-1.83	1.99	1.95e-02	5.68e-03	39	36
+Lung cancer	Parkinson's disease	Gene Ontology	granulocyte migration	down-up	-1.83	1.72	4.68e-04	5.72e-03	117	119
+Lung cancer	Parkinson's disease	Gene Ontology	neutrophil migration	down-up	-1.8	1.74	2.57e-03	5.75e-03	96	97
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of small molecule metabolic process	down-up	-1.66	1.66	8.90e-03	6.08e-03	121	116
+Lung cancer	Parkinson's disease	Gene Ontology	gliogenesis	down-up	-1.4	1.53	2.42e-02	6.78e-03	250	239
+Lung cancer	Parkinson's disease	Gene Ontology	glomerulus development	down-up	-1.86	1.85	7.32e-03	7.23e-03	57	56
+Lung cancer	Parkinson's disease	Gene Ontology	interleukin 1 production	down-up	-2.22	1.81	3.88e-06	7.50e-03	83	75
+Lung cancer	Parkinson's disease	Gene Ontology	alpha beta t cell differentiation	down-up	-1.91	1.73	5.76e-04	7.51e-03	89	81
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of defense response	down-up	-1.65	1.33	1.91e-06	7.74e-03	612	577
+Lung cancer	Parkinson's disease	Gene Ontology	signaling receptor binding	down-up	-1.48	1.15	5.39e-07	7.74e-03	1239	1183
+Lung cancer	Parkinson's disease	Gene Ontology	cellular defense response	down-up	-1.81	1.9	1.81e-02	8.15e-03	42	45
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of cell death	down-up	-1.35	1.26	1.55e-03	8.16e-03	797	793
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of production of molecular mediator of immune response	down-up	-1.87	1.64	1.07e-03	8.41e-03	115	118
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of tumor necrosis factor superfamily cytokine production	down-up	-1.93	1.83	3.27e-03	8.49e-03	46	48
+Lung cancer	Parkinson's disease	Gene Ontology	production of molecular mediator of immune response	down-up	-1.66	1.55	2.72e-03	8.72e-03	173	172
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of myeloid cell differentiation	down-up	-1.57	1.55	6.87e-03	8.89e-03	190	184
+Lung cancer	Parkinson's disease	Gene Ontology	tertiary granule membrane	down-up	-2.06	1.85	5.29e-04	9.25e-03	56	59
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of cell differentiation	down-up	-1.52	1.16	8.56e-09	9.34e-03	1529	1406
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte migration	down-up	-1.65	1.67	1.72e-02	1.00e-02	114	114
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of nf kappab transcription factor activity	down-up	-1.67	1.65	3.95e-03	1.02e-02	124	123
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of leukocyte migration	down-up	-1.96	1.56	1.59e-05	1.04e-02	166	164
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of extracellular matrix organization	down-up	-1.84	1.87	1.45e-02	1.05e-02	34	33
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of cell cell adhesion	down-up	-1.83	1.61	4.75e-04	1.10e-02	142	140
+Lung cancer	Parkinson's disease	Gene Ontology	lipopolysaccharide mediated signaling pathway	down-up	-2.2	1.79	1.64e-04	1.14e-02	49	50
+Lung cancer	Parkinson's disease	Gene Ontology	response to interferon gamma	down-up	-1.9	1.58	1.35e-04	1.14e-02	142	148
+Lung cancer	Parkinson's disease	Gene Ontology	cell activation involved in immune response	down-up	-2.01	1.32	8.56e-09	1.20e-02	567	566
+Lung cancer	Parkinson's disease	Gene Ontology	temperature homeostasis	down-up	-1.89	1.54	5.11e-05	1.24e-02	158	154
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte mediated immunity	down-up	-1.93	1.64	4.82e-04	1.24e-02	109	106
+Lung cancer	Parkinson's disease	Gene Ontology	coagulation	down-up	-2.07	1.43	8.56e-09	1.25e-02	276	285
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of myeloid leukocyte differentiation	down-up	-1.68	1.65	1.72e-02	1.27e-02	100	93
+Lung cancer	Parkinson's disease	Gene Ontology	cell matrix adhesion	down-up	-1.65	1.52	2.22e-03	1.32e-02	190	186
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of phagocytosis	down-up	-2.02	1.81	8.59e-04	1.34e-02	56	57
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of cytokine biosynthetic process	down-up	-1.78	1.76	1.19e-02	1.35e-02	61	60
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of t cell mediated immunity	down-up	-2.08	1.74	4.26e-04	1.36e-02	60	62
+Lung cancer	Parkinson's disease	Gene Ontology	leukocyte aggregation	down-up	-1.91	1.93	1.74e-02	1.38e-02	13	13
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of cytokine production involved in immune response	down-up	-2.27	1.74	1.51e-05	1.39e-02	70	75
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of endothelial cell migration	down-up	-2.23	1.7	4.52e-06	1.41e-02	85	82
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of chemotaxis	down-up	-1.68	1.51	2.13e-03	1.43e-02	180	179
+Lung cancer	Parkinson's disease	Gene Ontology	tissue migration	down-up	-2.18	1.45	8.56e-09	1.57e-02	254	249
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of lipid storage	down-up	-1.83	1.97	3.60e-02	1.60e-02	19	18
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of blood vessel endothelial cell migration	down-up	-2.21	1.74	1.18e-04	1.60e-02	48	48
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of lipid localization	down-up	-1.88	1.8	8.44e-03	1.67e-02	37	37
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of leukocyte mediated cytotoxicity	down-up	-2.1	1.77	6.49e-04	1.71e-02	59	57
+Lung cancer	Parkinson's disease	Gene Ontology	enzyme linked receptor protein signaling pathway	down-up	-1.76	1.24	8.56e-09	1.74e-02	864	826
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of dna binding transcription factor activity	down-up	-1.55	1.42	4.04e-03	1.74e-02	224	216
+Lung cancer	Parkinson's disease	Gene Ontology	complement activation	down-up	-1.93	1.77	3.33e-03	1.75e-02	54	59
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of growth	down-up	-1.58	1.48	4.18e-03	1.75e-02	203	204
+Lung cancer	Parkinson's disease	Gene Ontology	cytokine production involved in immune response	down-up	-2.22	1.61	4.47e-06	1.81e-02	89	93
+Lung cancer	Parkinson's disease	Gene Ontology	taxis	down-up	-1.78	1.28	3.60e-08	1.81e-02	539	514
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of alpha beta t cell activation	down-up	-1.92	1.8	3.32e-03	1.83e-02	53	52
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of lymphocyte mediated immunity	down-up	-1.81	1.67	4.21e-03	1.85e-02	84	80
+Lung cancer	Parkinson's disease	Gene Ontology	artery morphogenesis	down-up	-1.84	1.76	9.86e-03	1.87e-02	57	59
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of alpha beta t cell activation	down-up	-1.86	1.79	2.31e-02	1.95e-02	25	28
+Lung cancer	Parkinson's disease	Gene Ontology	macrophage activation	down-up	-2.48	1.72	2.33e-07	1.96e-02	72	72
+Lung cancer	Parkinson's disease	Gene Ontology	cardiac septum morphogenesis	down-up	-1.93	1.71	2.61e-03	1.99e-02	65	65
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of cell killing	down-up	-1.9	1.71	2.25e-03	1.99e-02	74	75
+Lung cancer	Parkinson's disease	Gene Ontology	renal system vasculature development	down-up	-2.44	1.84	4.80e-05	2.06e-02	24	25
+Lung cancer	Parkinson's disease	Gene Ontology	side of membrane	down-up	-2	1.36	8.56e-09	2.09e-02	428	406
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of cytokine secretion	down-up	-1.85	1.56	1.57e-03	2.12e-02	111	108
+Lung cancer	Parkinson's disease	Gene Ontology	lipid storage	down-up	-1.95	1.79	2.78e-03	2.13e-02	55	54
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of mapk cascade	down-up	-1.77	1.33	8.56e-07	2.17e-02	441	437
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of epithelial cell migration	down-up	-2.24	1.45	8.56e-09	2.29e-02	195	190
+Lung cancer	Parkinson's disease	Gene Ontology	interleukin 6 biosynthetic process	down-up	-2.13	1.95	1.77e-03	2.30e-02	22	19
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of endothelial cell differentiation	down-up	-2.33	1.81	1.25e-04	2.30e-02	27	29
+Lung cancer	Parkinson's disease	Gene Ontology	alpha beta t cell proliferation	down-up	-1.8	1.87	3.39e-02	2.31e-02	23	24
+Lung cancer	Parkinson's disease	Gene Ontology	leukocyte chemotaxis	down-up	-1.76	1.49	4.08e-04	2.42e-02	182	185
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of neutrophil migration	down-up	-1.82	1.76	2.77e-02	2.53e-02	31	33
+Lung cancer	Parkinson's disease	Gene Ontology	ruffle	down-up	-1.62	1.48	5.55e-03	2.53e-02	153	145
+Lung cancer	Parkinson's disease	Gene Ontology	astrocyte differentiation	down-up	-1.73	1.68	1.41e-02	2.54e-02	67	65
+Lung cancer	Parkinson's disease	Gene Ontology	pri mirna transcription by rna polymerase ii	down-up	-2.01	1.73	2.59e-03	2.60e-02	40	41
+Lung cancer	Parkinson's disease	Gene Ontology	immune response regulating signaling pathway	down-up	-1.63	1.29	4.70e-05	2.66e-02	443	436
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of defense response	down-up	-1.78	1.48	2.09e-04	2.68e-02	171	157
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of leukocyte mediated immunity	down-up	-2.01	1.72	4.73e-03	2.71e-02	35	40
+Lung cancer	Parkinson's disease	Gene Ontology	ameboidal type cell migration	down-up	-1.96	1.34	8.72e-09	2.89e-02	338	330
+Lung cancer	Parkinson's disease	Gene Ontology	multicellular organismal homeostasis	down-up	-1.47	1.32	1.57e-03	2.90e-02	421	388
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of epithelial cell migration	down-up	-2.27	1.51	3.24e-07	3.08e-02	125	122
+Lung cancer	Parkinson's disease	Gene Ontology	muscle tissue development	down-up	-1.65	1.37	8.73e-05	3.10e-02	334	316
+Lung cancer	Parkinson's disease	Gene Ontology	anchoring junction	down-up	-1.81	1.25	8.56e-09	3.15e-02	692	657
+Lung cancer	Parkinson's disease	Gene Ontology	cell substrate junction organization	down-up	-1.81	1.58	3.37e-03	3.17e-02	82	87
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of protein modification process	down-up	-1.62	1.18	8.56e-09	3.23e-02	1011	963
+Lung cancer	Parkinson's disease	Gene Ontology	vascular endothelial growth factor receptor signaling pathway	down-up	-1.87	1.61	1.95e-03	3.29e-02	80	80
+Lung cancer	Parkinson's disease	Gene Ontology	animal organ morphogenesis	down-up	-1.35	1.2	1.15e-03	3.32e-02	928	845
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of muscle cell differentiation	down-up	-1.48	1.5	3.99e-02	3.39e-02	132	118
+Lung cancer	Parkinson's disease	Gene Ontology	inositol lipid mediated signaling	down-up	-1.93	1.42	6.62e-05	3.40e-02	162	162
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of t helper 1 type immune response	down-up	-1.79	1.86	4.14e-02	3.44e-02	21	21
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of hemopoiesis	down-up	-1.44	1.32	4.18e-03	3.49e-02	382	365
+Lung cancer	Parkinson's disease	Gene Ontology	astrocyte development	down-up	-1.83	1.71	1.53e-02	3.57e-02	34	35
+Lung cancer	Parkinson's disease	Gene Ontology	cell junction assembly	down-up	-1.74	1.41	2.23e-04	3.79e-02	210	204
+Lung cancer	Parkinson's disease	Gene Ontology	neuroinflammatory response	down-up	-2.16	1.64	2.30e-04	3.85e-02	53	56
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of chemokine production	down-up	-1.75	1.65	1.88e-02	3.91e-02	48	49
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of chemotaxis	down-up	-1.9	1.55	1.84e-04	3.94e-02	117	119
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of lipid storage	down-up	-1.92	1.74	8.44e-03	4.00e-02	36	36
+Lung cancer	Parkinson's disease	Gene Ontology	transmembrane receptor protein tyrosine kinase signaling pathway	down-up	-1.75	1.24	2.02e-08	4.00e-02	605	584
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of phosphatidylinositol 3 kinase signaling	down-up	-1.86	1.48	6.95e-04	4.13e-02	106	109
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of map kinase activity	down-up	-1.5	1.36	1.43e-02	4.18e-02	215	217
+Lung cancer	Parkinson's disease	Gene Ontology	positive regulation of cell death	down-up	-1.55	1.25	4.08e-05	4.39e-02	588	575
+Lung cancer	Parkinson's disease	Gene Ontology	receptor tyrosine kinase binding	down-up	-1.63	1.63	4.09e-02	4.49e-02	60	57
+Lung cancer	Parkinson's disease	Gene Ontology	cell killing	down-up	-1.69	1.43	3.68e-03	4.51e-02	123	124
+Lung cancer	Parkinson's disease	Gene Ontology	astrocyte activation	down-up	-2	1.82	1.03e-02	4.62e-02	18	19
+Lung cancer	Parkinson's disease	Gene Ontology	growth factor binding	down-up	-1.56	1.53	1.40e-02	4.62e-02	117	119
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of epithelial cell apoptotic process	down-up	-2.1	1.61	1.67e-04	4.62e-02	68	69
+Lung cancer	Parkinson's disease	Gene Ontology	protein domain specific binding	down-up	-1.44	1.24	8.03e-04	4.68e-02	581	558
+Lung cancer	Parkinson's disease	Gene Ontology	response to steroid hormone	down-up	-1.36	1.29	1.66e-02	4.90e-02	335	335
+Lung cancer	Parkinson's disease	Gene Ontology	cell cell junction	down-up	-1.62	1.25	9.01e-05	4.97e-02	426	378
+Lung cancer	Parkinson's disease	Gene Ontology	aerobic respiration	up-down	1.73	-2.6	1.07e-02	1.26e-08	67	68
+Lung cancer	Parkinson's disease	Gene Ontology	atp metabolic process	up-down	1.54	-2.41	8.48e-03	1.26e-08	227	227
+Lung cancer	Parkinson's disease	Gene Ontology	atp synthesis coupled electron transport	up-down	1.6	-2.64	3.79e-02	1.26e-08	64	62
+Lung cancer	Parkinson's disease	Gene Ontology	cellular respiration	up-down	1.64	-2.64	5.05e-03	1.26e-08	146	132
+Lung cancer	Parkinson's disease	Gene Ontology	endopeptidase complex	up-down	2	-2.63	7.91e-04	1.26e-08	56	55
+Lung cancer	Parkinson's disease	Gene Ontology	envelope	up-down	1.44	-2.08	2.08e-04	1.26e-08	969	826
+Lung cancer	Parkinson's disease	Gene Ontology	generation of precursor metabolites and energy	up-down	1.42	-2.27	1.07e-02	1.26e-08	421	411
+Lung cancer	Parkinson's disease	Gene Ontology	inner mitochondrial membrane protein complex	up-down	1.83	-2.96	2.59e-03	1.26e-08	94	80
+Lung cancer	Parkinson's disease	Gene Ontology	mitochondrial envelope	up-down	1.75	-2.48	4.04e-08	1.26e-08	597	488
+Lung cancer	Parkinson's disease	Gene Ontology	mitochondrial gene expression	up-down	2.47	-2.41	8.56e-09	1.26e-08	144	109
+Lung cancer	Parkinson's disease	Gene Ontology	mitochondrial matrix	up-down	2.23	-2.42	8.56e-09	1.26e-08	396	343
+Lung cancer	Parkinson's disease	Gene Ontology	mitochondrial protein complex	up-down	2.41	-2.96	8.56e-09	1.26e-08	203	168
+Lung cancer	Parkinson's disease	Gene Ontology	mitochondrial translation	up-down	2.56	-2.45	8.56e-09	1.26e-08	121	92
+Lung cancer	Parkinson's disease	Gene Ontology	mitochondrion	up-down	1.76	-2.23	8.56e-09	1.26e-08	1288	1099
+Lung cancer	Parkinson's disease	Gene Ontology	mitochondrion organization	up-down	1.37	-2.38	2.68e-02	1.26e-08	418	374
+Lung cancer	Parkinson's disease	Gene Ontology	nucleobase containing small molecule metabolic process	up-down	1.33	-1.89	3.42e-02	1.26e-08	514	475
+Lung cancer	Parkinson's disease	Gene Ontology	organelle inner membrane	up-down	1.84	-2.6	1.08e-07	1.26e-08	432	340
+Lung cancer	Parkinson's disease	Gene Ontology	oxidation reduction process	up-down	1.35	-1.8	5.20e-03	1.26e-08	783	727
+Lung cancer	Parkinson's disease	Gene Ontology	oxidative phosphorylation	up-down	1.7	-2.63	1.03e-02	1.26e-08	103	98
+Lung cancer	Parkinson's disease	Gene Ontology	oxidoreductase complex	up-down	1.84	-2.45	1.26e-03	1.26e-08	84	77
+Lung cancer	Parkinson's disease	Gene Ontology	peptidase complex	up-down	1.88	-2.57	2.28e-03	1.26e-08	74	71
+Lung cancer	Parkinson's disease	Gene Ontology	small molecule metabolic process	up-down	1.28	-1.64	5.51e-03	1.26e-08	1584	1469
+Lung cancer	Parkinson's disease	Gene Ontology	organic acid metabolic process	up-down	1.36	-1.65	2.81e-03	3.20e-08	924	875
+Lung cancer	Parkinson's disease	Gene Ontology	cellular amino acid metabolic process	up-down	2.12	-1.99	8.56e-09	4.15e-08	283	257
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of cellular amine metabolic process	up-down	1.67	-2.4	1.85e-02	4.25e-08	69	70
+Lung cancer	Parkinson's disease	Gene Ontology	anaphase promoting complex dependent catabolic process	up-down	2.07	-2.39	7.91e-05	7.15e-08	65	67
+Lung cancer	Parkinson's disease	Gene Ontology	tricarboxylic acid cycle	up-down	1.87	-2.53	9.55e-03	8.74e-08	29	30
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of cellular amino acid metabolic process	up-down	1.81	-2.42	6.53e-03	1.85e-07	53	52
+Lung cancer	Parkinson's disease	Gene Ontology	organellar ribosome	up-down	2.43	-2.36	8.56e-09	5.41e-07	78	56
+Lung cancer	Parkinson's disease	Gene Ontology	organonitrogen compound biosynthetic process	up-down	1.49	-1.49	9.18e-07	1.04e-06	1441	1275
+Lung cancer	Parkinson's disease	Gene Ontology	trna metabolic process	up-down	2.25	-2.15	8.56e-09	1.09e-06	156	125
+Lung cancer	Parkinson's disease	Gene Ontology	translational termination	up-down	2.33	-2.26	9.68e-08	1.18e-06	94	72
+Lung cancer	Parkinson's disease	Gene Ontology	oxidoreductase activity	up-down	1.38	-1.68	9.45e-03	1.54e-06	568	535
+Lung cancer	Parkinson's disease	Gene Ontology	mitochondrial translational termination	up-down	2.35	-2.3	4.61e-08	1.82e-06	80	58
+Lung cancer	Parkinson's disease	Gene Ontology	proteasome accessory complex	up-down	1.89	-2.37	1.04e-02	1.93e-06	22	23
+Lung cancer	Parkinson's disease	Gene Ontology	cellular protein complex disassembly	up-down	1.55	-2.03	7.75e-03	2.12e-06	188	160
+Lung cancer	Parkinson's disease	Gene Ontology	mitochondrial membrane organization	up-down	1.59	-2.16	2.73e-02	3.73e-06	106	97
+Lung cancer	Parkinson's disease	Gene Ontology	inner mitochondrial membrane organization	up-down	1.87	-2.35	1.19e-02	5.35e-06	38	31
+Lung cancer	Parkinson's disease	Gene Ontology	cellular amide metabolic process	up-down	1.59	-1.56	1.05e-06	6.56e-06	841	767
+Lung cancer	Parkinson's disease	Gene Ontology	intrinsic component of mitochondrial membrane	up-down	1.68	-2.3	3.29e-02	7.09e-06	50	46
+Lung cancer	Parkinson's disease	Gene Ontology	organelle envelope lumen	up-down	1.96	-2.2	3.65e-04	1.08e-05	70	65
+Lung cancer	Parkinson's disease	Gene Ontology	cofactor metabolic process	up-down	1.45	-1.77	8.10e-03	1.49e-05	357	331
+Lung cancer	Parkinson's disease	Gene Ontology	ribonucleotide binding	up-down	1.21	-1.43	4.54e-02	1.81e-05	1522	1383
+Lung cancer	Parkinson's disease	Gene Ontology	cofactor biosynthetic process	up-down	1.43	-1.91	3.29e-02	2.40e-05	195	174
+Lung cancer	Parkinson's disease	Gene Ontology	translational elongation	up-down	2.14	-2.09	2.47e-06	2.66e-05	114	90
+Lung cancer	Parkinson's disease	Gene Ontology	amide biosynthetic process	up-down	1.71	-1.6	1.05e-07	3.30e-05	626	566
+Lung cancer	Parkinson's disease	Gene Ontology	cell cycle g2 m phase transition	up-down	1.84	-1.83	2.62e-05	4.57e-05	226	218
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of cell cycle g2 m phase transition	up-down	1.96	-1.9	2.59e-06	4.65e-05	176	173
+Lung cancer	Parkinson's disease	Gene Ontology	negative regulation of cell cycle g2 m phase transition	up-down	1.89	-2.06	7.81e-04	6.17e-05	86	84
+Lung cancer	Parkinson's disease	Gene Ontology	intrinsic component of mitochondrial inner membrane	up-down	1.76	-2.25	2.58e-02	1.08e-04	29	25
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of transcription from rna polymerase ii promoter in response to hypoxia	up-down	1.59	-2.05	3.44e-02	1.17e-04	65	70
+Lung cancer	Parkinson's disease	Gene Ontology	ligase activity	up-down	2.07	-1.99	1.32e-05	1.28e-04	115	101
+Lung cancer	Parkinson's disease	Gene Ontology	retrograde vesicle mediated transport golgi to endoplasmic reticulum	up-down	1.83	-1.99	2.72e-03	3.34e-04	65	70
+Lung cancer	Parkinson's disease	Gene Ontology	mitochondrial small ribosomal subunit	up-down	2.03	-2.16	3.33e-03	4.75e-04	24	21
+Lung cancer	Parkinson's disease	Gene Ontology	proteasome regulatory particle base subcomplex	up-down	1.87	-2.15	1.75e-02	7.82e-04	12	12
+Lung cancer	Parkinson's disease	Gene Ontology	amino acid activation	up-down	2.24	-2.04	8.54e-05	8.43e-04	39	36
+Lung cancer	Parkinson's disease	Gene Ontology	dicarboxylic acid metabolic process	up-down	1.83	-1.93	3.33e-03	9.16e-04	76	70
+Lung cancer	Parkinson's disease	Gene Ontology	cofactor binding	up-down	1.63	-1.58	1.27e-04	1.12e-03	400	400
+Lung cancer	Parkinson's disease	Gene Ontology	mitochondrial large ribosomal subunit	up-down	2.19	-2.03	5.16e-05	1.37e-03	52	35
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of morphogenesis of an epithelium	up-down	1.6	-1.77	1.11e-02	1.54e-03	163	148
+Lung cancer	Parkinson's disease	Gene Ontology	catalytic activity acting on a trna	up-down	2.27	-1.88	7.25e-08	1.61e-03	105	83
+Lung cancer	Parkinson's disease	Gene Ontology	transcription coupled nucleotide excision repair	up-down	1.68	-1.92	2.04e-02	1.83e-03	59	64
+Lung cancer	Parkinson's disease	Gene Ontology	glycolytic process through fructose 6 phosphate	up-down	1.73	-2.06	4.19e-02	1.99e-03	22	25
+Lung cancer	Parkinson's disease	Gene Ontology	ligase activity forming carbon oxygen bonds	up-down	2.25	-2.03	8.54e-05	2.37e-03	32	30
+Lung cancer	Parkinson's disease	Gene Ontology	ncrna metabolic process	up-down	2.29	-1.55	8.56e-09	3.18e-03	378	311
+Lung cancer	Parkinson's disease	Gene Ontology	ribosome biogenesis	up-down	2.25	-1.58	8.56e-09	4.63e-03	228	210
+Lung cancer	Parkinson's disease	Gene Ontology	peptide biosynthetic process	up-down	1.77	-1.46	5.80e-08	4.79e-03	509	461
+Lung cancer	Parkinson's disease	Gene Ontology	trna processing	up-down	2.06	-1.77	5.70e-06	5.12e-03	113	88
+Lung cancer	Parkinson's disease	Gene Ontology	catalytic activity acting on rna	up-down	2.27	-1.58	8.56e-09	5.48e-03	311	256
+Lung cancer	Parkinson's disease	Gene Ontology	nucleotide excision repair	up-down	1.76	-1.74	4.97e-03	9.26e-03	90	93
+Lung cancer	Parkinson's disease	Gene Ontology	peptide metabolic process	up-down	1.68	-1.42	8.90e-07	1.02e-02	624	573
+Lung cancer	Parkinson's disease	Gene Ontology	ribonucleoprotein complex biogenesis	up-down	2.15	-1.51	8.56e-09	1.04e-02	332	314
+Lung cancer	Parkinson's disease	Gene Ontology	coenzyme binding	up-down	1.65	-1.53	8.38e-04	1.48e-02	245	237
+Lung cancer	Parkinson's disease	Gene Ontology	dicarboxylic acid biosynthetic process	up-down	1.77	-1.89	4.67e-02	1.95e-02	10	9
+Lung cancer	Parkinson's disease	Gene Ontology	pigment biosynthetic process	up-down	1.68	-1.74	2.63e-02	1.98e-02	48	50
+Lung cancer	Parkinson's disease	Gene Ontology	regulation of mitochondrial gene expression	up-down	1.98	-1.87	3.67e-03	2.42e-02	26	17
+Lung cancer	Parkinson's disease	Gene Ontology	mitochondrial rna metabolic process	up-down	1.79	-1.81	2.99e-02	2.48e-02	36	32
+Lung cancer	Parkinson's disease	Gene Ontology	adenyl nucleotide binding	up-down	1.31	-1.27	4.54e-03	2.55e-02	1256	1146
+Lung cancer	Parkinson's disease	Gene Ontology	mitotic metaphase plate congression	up-down	2.07	-1.71	4.03e-04	2.78e-02	41	35
+Lung cancer	Parkinson's disease	Gene Ontology	nucleoid	up-down	1.81	-1.74	2.55e-02	2.81e-02	36	36
+Lung cancer	Parkinson's disease	Gene Ontology	atpase activity	up-down	1.74	-1.42	1.74e-05	3.08e-02	346	318
+Lung cancer	Parkinson's disease	Gene Ontology	ncrna processing	up-down	2.31	-1.44	8.56e-09	3.13e-02	306	262
+Lung cancer	Parkinson's disease	Gene Ontology	ribosome	up-down	2.2	-1.53	8.56e-09	3.44e-02	162	149
+Lung cancer	Parkinson's disease	Gene Ontology	kinetochore	up-down	2.13	-1.55	5.88e-07	3.54e-02	117	100
+Lung cancer	Parkinson's disease	Gene Ontology	ribonucleoprotein complex	up-down	1.96	-1.36	8.56e-09	3.62e-02	527	480
+Lung cancer	Parkinson's disease	Gene Ontology	spindle microtubule	up-down	2.02	-1.69	8.30e-04	4.15e-02	45	47
+Lung cancer	Parkinson's disease	Gene Ontology	nucleotide excision repair preincision complex assembly	up-down	1.92	-1.73	6.84e-03	4.31e-02	23	26
+Lung cancer	Parkinson's disease	Gene Ontology	ribonucleoprotein complex binding	up-down	1.9	-1.56	2.65e-04	4.70e-02	108	97
+Lung cancer	Alzheimer's disease	Gene Ontology	adaptive immune response	down-up	-1.92	2.36	6.17e-08	5.63e-09	329	320
+Lung cancer	Alzheimer's disease	Gene Ontology	alpha beta t cell activation	down-up	-2.23	2.49	1.28e-06	5.63e-09	114	106
+Lung cancer	Alzheimer's disease	Gene Ontology	anatomical structure formation involved in morphogenesis	down-up	-1.87	2.09	8.56e-09	5.63e-09	952	883
+Lung cancer	Alzheimer's disease	Gene Ontology	animal organ morphogenesis	down-up	-1.35	2.05	1.15e-03	5.63e-09	928	846
+Lung cancer	Alzheimer's disease	Gene Ontology	biological adhesion	down-up	-1.83	1.92	8.56e-09	5.63e-09	1152	1084
+Lung cancer	Alzheimer's disease	Gene Ontology	blood vessel morphogenesis	down-up	-2.22	2.36	8.56e-09	5.63e-09	514	510
+Lung cancer	Alzheimer's disease	Gene Ontology	cardiovascular system development	down-up	-2.26	2.32	8.56e-09	5.63e-09	618	601
+Lung cancer	Alzheimer's disease	Gene Ontology	cell activation	down-up	-1.93	1.77	8.56e-09	5.63e-09	1133	1094
+Lung cancer	Alzheimer's disease	Gene Ontology	cell cell adhesion	down-up	-1.79	1.87	8.56e-09	5.63e-09	688	633
+Lung cancer	Alzheimer's disease	Gene Ontology	cell motility	down-up	-1.88	1.77	8.56e-09	5.63e-09	1345	1245
+Lung cancer	Alzheimer's disease	Gene Ontology	cell surface	down-up	-1.7	2.11	3.22e-08	5.63e-09	687	667
+Lung cancer	Alzheimer's disease	Gene Ontology	circulatory system development	down-up	-2.11	2.15	8.56e-09	5.63e-09	922	883
+Lung cancer	Alzheimer's disease	Gene Ontology	collagen containing extracellular matrix	down-up	-1.49	2.59	2.78e-03	5.63e-09	350	327
+Lung cancer	Alzheimer's disease	Gene Ontology	cytokine mediated signaling pathway	down-up	-1.52	1.78	1.18e-04	5.63e-09	611	635
+Lung cancer	Alzheimer's disease	Gene Ontology	cytokine production	down-up	-1.71	2.04	2.28e-08	5.63e-09	633	607
+Lung cancer	Alzheimer's disease	Gene Ontology	defense response	down-up	-1.69	1.66	8.56e-09	5.63e-09	1275	1216
+Lung cancer	Alzheimer's disease	Gene Ontology	embryo development	down-up	-1.22	1.81	2.59e-02	5.63e-09	885	798
+Lung cancer	Alzheimer's disease	Gene Ontology	external side of plasma membrane	down-up	-2.01	2.31	4.03e-08	5.63e-09	263	258
+Lung cancer	Alzheimer's disease	Gene Ontology	extracellular matrix	down-up	-1.33	2.67	1.91e-02	5.63e-09	453	412
+Lung cancer	Alzheimer's disease	Gene Ontology	immune receptor activity	down-up	-2	2.8	2.33e-04	5.63e-09	100	104
+Lung cancer	Alzheimer's disease	Gene Ontology	immune system development	down-up	-1.51	1.87	6.47e-06	5.63e-09	817	774
+Lung cancer	Alzheimer's disease	Gene Ontology	inflammatory response	down-up	-1.94	2.04	8.56e-09	5.63e-09	596	567
+Lung cancer	Alzheimer's disease	Gene Ontology	intrinsic component of plasma membrane	down-up	-1.48	1.56	3.76e-08	5.63e-09	1425	1295
+Lung cancer	Alzheimer's disease	Gene Ontology	leukocyte cell cell adhesion	down-up	-1.83	2.21	3.36e-06	5.63e-09	283	281
+Lung cancer	Alzheimer's disease	Gene Ontology	leukocyte differentiation	down-up	-1.68	2.14	1.25e-05	5.63e-09	443	416
+Lung cancer	Alzheimer's disease	Gene Ontology	leukocyte migration	down-up	-1.85	2.09	7.80e-08	5.63e-09	369	373
+Lung cancer	Alzheimer's disease	Gene Ontology	leukocyte proliferation	down-up	-1.59	2.21	2.05e-03	5.63e-09	248	246
+Lung cancer	Alzheimer's disease	Gene Ontology	locomotion	down-up	-1.88	1.65	8.56e-09	5.63e-09	1535	1407
+Lung cancer	Alzheimer's disease	Gene Ontology	lymphocyte activation	down-up	-1.58	2.09	1.60e-05	5.63e-09	560	529
+Lung cancer	Alzheimer's disease	Gene Ontology	lymphocyte differentiation	down-up	-1.42	2.24	1.36e-02	5.63e-09	299	283
+Lung cancer	Alzheimer's disease	Gene Ontology	molecular transducer activity	down-up	-1.54	2.28	7.72e-07	5.63e-09	948	853
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of developmental process	down-up	-1.62	1.78	3.61e-08	5.63e-09	798	741
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of immune system process	down-up	-1.92	2.04	1.35e-08	5.63e-09	361	357
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of multicellular organismal process	down-up	-1.71	1.8	8.56e-09	5.63e-09	1028	967
+Lung cancer	Alzheimer's disease	Gene Ontology	pattern specification process	down-up	-1.31	2.26	3.64e-02	5.63e-09	375	334
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell population proliferation	down-up	-1.5	2.02	3.34e-05	5.63e-09	754	734
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of developmental process	down-up	-1.73	1.66	8.56e-09	5.63e-09	1159	1092
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of immune system process	down-up	-1.82	1.71	8.56e-09	5.63e-09	863	843
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of multicellular organismal process	down-up	-1.68	1.51	8.56e-09	5.63e-09	1483	1412
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of transcription by rna polymerase ii	down-up	-1.21	1.99	3.72e-02	5.63e-09	1002	952
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of vasculature development	down-up	-2.42	2.44	8.56e-09	5.63e-09	163	158
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of cell activation	down-up	-1.84	2.11	3.17e-08	5.63e-09	451	432
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of cell adhesion	down-up	-1.94	1.83	8.56e-09	5.63e-09	572	563
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of cell population proliferation	down-up	-1.54	1.89	8.56e-09	5.63e-09	1347	1310
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of immune system process	down-up	-1.9	1.83	8.56e-09	5.63e-09	1221	1185
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte proliferation	down-up	-1.48	2.38	2.49e-02	5.63e-09	186	183
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of lymphocyte activation	down-up	-1.48	2.09	1.67e-03	5.63e-09	354	337
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of vasculature development	down-up	-2.3	2.18	8.56e-09	5.63e-09	286	274
+Lung cancer	Alzheimer's disease	Gene Ontology	response to bacterium	down-up	-1.99	2.17	8.56e-09	5.63e-09	492	459
+Lung cancer	Alzheimer's disease	Gene Ontology	response to biotic stimulus	down-up	-1.63	1.63	8.56e-09	5.63e-09	1141	1089
+Lung cancer	Alzheimer's disease	Gene Ontology	response to lipid	down-up	-1.78	1.72	8.56e-09	5.63e-09	791	784
+Lung cancer	Alzheimer's disease	Gene Ontology	response to molecule of bacterial origin	down-up	-2.13	2.11	8.56e-09	5.63e-09	291	289
+Lung cancer	Alzheimer's disease	Gene Ontology	response to wounding	down-up	-1.86	1.93	8.56e-09	5.63e-09	561	557
+Lung cancer	Alzheimer's disease	Gene Ontology	skeletal system development	down-up	-1.34	2.33	2.17e-02	5.63e-09	447	419
+Lung cancer	Alzheimer's disease	Gene Ontology	tube development	down-up	-1.85	2.35	8.56e-09	5.63e-09	896	858
+Lung cancer	Alzheimer's disease	Gene Ontology	tube morphogenesis	down-up	-1.97	2.34	8.56e-09	5.63e-09	726	694
+Lung cancer	Alzheimer's disease	Gene Ontology	t cell activation	down-up	-1.7	2.18	1.31e-05	5.63e-09	389	373
+Lung cancer	Alzheimer's disease	Gene Ontology	urogenital system development	down-up	-1.33	2.13	4.95e-02	5.63e-09	292	284
+Lung cancer	Alzheimer's disease	Gene Ontology	wound healing	down-up	-1.87	2.02	8.56e-09	5.63e-09	464	461
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell adhesion	down-up	-2.04	2	8.56e-09	8.21e-09	340	333
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte differentiation	down-up	-1.7	2.13	2.76e-04	8.43e-09	233	218
+Lung cancer	Alzheimer's disease	Gene Ontology	response to cytokine	down-up	-1.76	1.6	8.56e-09	1.12e-08	947	972
+Lung cancer	Alzheimer's disease	Gene Ontology	t cell differentiation	down-up	-1.54	2.22	9.93e-03	1.22e-08	207	197
+Lung cancer	Alzheimer's disease	Gene Ontology	cytokine receptor activity	down-up	-1.89	2.6	1.07e-03	1.33e-08	85	84
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of cytokine production	down-up	-1.78	2.12	7.71e-05	1.83e-08	221	220
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of cell cell adhesion	down-up	-1.72	1.96	1.13e-05	2.37e-08	343	332
+Lung cancer	Alzheimer's disease	Gene Ontology	renal system development	down-up	-1.33	2.09	4.10e-02	2.66e-08	260	249
+Lung cancer	Alzheimer's disease	Gene Ontology	defense response to other organism	down-up	-1.52	1.62	8.76e-06	2.75e-08	839	805
+Lung cancer	Alzheimer's disease	Gene Ontology	heart development	down-up	-1.83	1.82	1.33e-08	4.92e-08	486	460
+Lung cancer	Alzheimer's disease	Gene Ontology	muscle structure development	down-up	-1.68	1.76	1.00e-06	4.99e-08	537	505
+Lung cancer	Alzheimer's disease	Gene Ontology	cytokine binding	down-up	-2.02	2.4	3.61e-05	5.18e-08	112	111
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of immune response	down-up	-1.88	1.62	8.56e-09	6.55e-08	784	775
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell activation	down-up	-1.67	2.06	2.94e-04	7.28e-08	269	263
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of immune effector process	down-up	-2.08	1.98	8.56e-09	7.72e-08	320	314
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell differentiation	down-up	-1.47	1.72	2.81e-04	8.51e-08	589	539
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of t cell activation	down-up	-1.51	2.07	4.08e-03	9.03e-08	265	256
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of cell differentiation	down-up	-1.52	1.46	8.56e-09	1.12e-07	1529	1408
+Lung cancer	Alzheimer's disease	Gene Ontology	t cell proliferation	down-up	-1.63	2.21	3.72e-03	1.66e-07	158	154
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of intracellular signal transduction	down-up	-1.68	1.6	8.56e-09	1.67e-07	843	794
+Lung cancer	Alzheimer's disease	Gene Ontology	receptor complex	down-up	-1.6	1.93	2.31e-04	1.67e-07	339	323
+Lung cancer	Alzheimer's disease	Gene Ontology	artery morphogenesis	down-up	-1.84	2.58	9.86e-03	2.43e-07	57	59
+Lung cancer	Alzheimer's disease	Gene Ontology	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	down-up	-1.78	2.02	9.21e-05	3.03e-07	217	206
+Lung cancer	Alzheimer's disease	Gene Ontology	myeloid cell differentiation	down-up	-1.63	1.88	8.11e-05	4.28e-07	344	329
+Lung cancer	Alzheimer's disease	Gene Ontology	tumor necrosis factor superfamily cytokine production	down-up	-1.95	2.24	1.72e-04	6.02e-07	125	124
+Lung cancer	Alzheimer's disease	Gene Ontology	side of membrane	down-up	-2	1.8	8.56e-09	7.99e-07	428	407
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of leukocyte cell cell adhesion	down-up	-1.64	2.08	4.11e-03	9.19e-07	185	183
+Lung cancer	Alzheimer's disease	Gene Ontology	cellular response to biotic stimulus	down-up	-2.03	2.05	1.07e-06	1.07e-06	196	194
+Lung cancer	Alzheimer's disease	Gene Ontology	epithelial cell development	down-up	-1.47	2.08	3.79e-02	1.07e-06	185	174
+Lung cancer	Alzheimer's disease	Gene Ontology	defense response to bacterium	down-up	-1.47	2.11	2.55e-02	1.51e-06	178	157
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of lymphocyte activation	down-up	-1.55	2.23	2.47e-02	1.62e-06	118	120
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell activation	down-up	-1.98	2.13	9.09e-06	1.69e-06	160	159
+Lung cancer	Alzheimer's disease	Gene Ontology	interleukin 6 production	down-up	-1.78	2.19	1.33e-03	1.81e-06	126	115
+Lung cancer	Alzheimer's disease	Gene Ontology	artery development	down-up	-1.85	2.37	1.89e-03	1.85e-06	81	78
+Lung cancer	Alzheimer's disease	Gene Ontology	t cell activation involved in immune response	down-up	-1.72	2.34	6.36e-03	1.85e-06	83	79
+Lung cancer	Alzheimer's disease	Gene Ontology	epithelial cell proliferation	down-up	-1.78	1.82	2.47e-06	1.95e-06	333	321
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of locomotion	down-up	-2.09	1.66	8.56e-09	1.96e-06	476	467
+Lung cancer	Alzheimer's disease	Gene Ontology	alpha beta t cell differentiation	down-up	-1.91	2.36	5.76e-04	2.09e-06	89	81
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of cellular component movement	down-up	-2.14	1.54	8.56e-09	2.19e-06	846	803
+Lung cancer	Alzheimer's disease	Gene Ontology	growth factor binding	down-up	-1.56	2.21	1.40e-02	2.36e-06	117	120
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell cell adhesion	down-up	-1.63	1.96	1.30e-03	2.54e-06	221	217
+Lung cancer	Alzheimer's disease	Gene Ontology	cytokine metabolic process	down-up	-1.77	2.23	2.29e-03	2.99e-06	104	100
+Lung cancer	Alzheimer's disease	Gene Ontology	heart morphogenesis	down-up	-1.9	1.93	3.52e-06	3.20e-06	224	209
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of hemopoiesis	down-up	-1.75	2.19	3.92e-03	4.79e-06	115	113
+Lung cancer	Alzheimer's disease	Gene Ontology	epithelial cell apoptotic process	down-up	-2.05	2.26	8.94e-05	4.88e-06	89	90
+Lung cancer	Alzheimer's disease	Gene Ontology	signaling receptor binding	down-up	-1.48	1.4	5.39e-07	5.03e-06	1239	1185
+Lung cancer	Alzheimer's disease	Gene Ontology	interleukin 8 production	down-up	-1.95	2.38	2.16e-03	5.47e-06	63	62
+Lung cancer	Alzheimer's disease	Gene Ontology	muscle organ development	down-up	-1.54	1.86	1.61e-03	5.95e-06	330	308
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of phosphatidylinositol 3 kinase signaling	down-up	-1.98	2.31	5.41e-04	6.06e-06	79	80
+Lung cancer	Alzheimer's disease	Gene Ontology	response to growth factor	down-up	-1.8	1.56	8.56e-09	6.97e-06	588	572
+Lung cancer	Alzheimer's disease	Gene Ontology	pattern recognition receptor signaling pathway	down-up	-1.53	2.04	1.78e-02	7.18e-06	160	154
+Lung cancer	Alzheimer's disease	Gene Ontology	cell substrate adhesion	down-up	-1.98	1.83	3.63e-08	8.74e-06	294	284
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of mapk cascade	down-up	-1.77	1.65	8.56e-07	1.08e-05	441	437
+Lung cancer	Alzheimer's disease	Gene Ontology	response to bmp	down-up	-1.53	2.12	2.86e-02	1.23e-05	135	122
+Lung cancer	Alzheimer's disease	Gene Ontology	innate immune response	down-up	-1.59	1.54	3.09e-06	1.30e-05	690	671
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of body fluid levels	down-up	-1.82	1.66	6.78e-08	1.46e-05	420	419
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of signaling	down-up	-1.5	1.36	8.56e-09	1.74e-05	1560	1439
+Lung cancer	Alzheimer's disease	Gene Ontology	cytokine secretion	down-up	-1.83	1.94	1.84e-04	1.82e-05	183	175
+Lung cancer	Alzheimer's disease	Gene Ontology	immune effector process	down-up	-1.93	1.43	8.56e-09	2.07e-05	933	924
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of immune response	down-up	-1.75	1.54	1.78e-08	2.32e-05	616	609
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of phosphorus metabolic process	down-up	-1.74	1.44	8.56e-09	2.40e-05	937	905
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of myeloid cell differentiation	down-up	-1.57	1.88	6.87e-03	2.46e-05	190	184
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of cytokine production	down-up	-1.52	1.7	1.60e-03	2.55e-05	381	365
+Lung cancer	Alzheimer's disease	Gene Ontology	cell chemotaxis	down-up	-1.91	1.81	1.08e-06	2.70e-05	241	246
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of phagocytosis	down-up	-2.03	2.18	3.19e-04	2.99e-05	78	79
+Lung cancer	Alzheimer's disease	Gene Ontology	multicellular organismal homeostasis	down-up	-1.47	1.65	1.57e-03	3.17e-05	421	388
+Lung cancer	Alzheimer's disease	Gene Ontology	glomerulus development	down-up	-1.86	2.3	7.32e-03	3.36e-05	57	56
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of leukocyte differentiation	down-up	-1.86	2.01	9.34e-04	3.43e-05	128	127
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell differentiation	down-up	-1.74	1.47	8.56e-09	3.67e-05	831	794
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte mediated immunity	down-up	-2.21	1.91	6.16e-08	3.95e-05	166	161
+Lung cancer	Alzheimer's disease	Gene Ontology	cellular response to lipid	down-up	-1.71	1.56	2.95e-07	4.28e-05	509	509
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of leukocyte cell cell adhesion	down-up	-1.57	2.11	3.03e-02	4.28e-05	95	99
+Lung cancer	Alzheimer's disease	Gene Ontology	granulocyte migration	down-up	-1.83	2.01	4.68e-04	4.55e-05	117	119
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell cell adhesion	down-up	-1.83	1.96	4.75e-04	4.82e-05	142	140
+Lung cancer	Alzheimer's disease	Gene Ontology	toll like receptor signaling pathway	down-up	-1.51	2.02	3.21e-02	4.88e-05	120	115
+Lung cancer	Alzheimer's disease	Gene Ontology	coagulation	down-up	-2.07	1.72	8.56e-09	5.27e-05	276	285
+Lung cancer	Alzheimer's disease	Gene Ontology	endothelial cell apoptotic process	down-up	-2.19	2.32	1.87e-04	5.38e-05	49	48
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of response to external stimulus	down-up	-1.7	1.45	8.56e-09	5.45e-05	886	845
+Lung cancer	Alzheimer's disease	Gene Ontology	pri mirna transcription by rna polymerase ii	down-up	-2.01	2.33	2.59e-03	5.45e-05	40	41
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of hemopoiesis	down-up	-1.44	1.66	4.18e-03	6.39e-05	382	365
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of inflammatory response	down-up	-1.84	1.77	3.92e-06	8.09e-05	279	256
+Lung cancer	Alzheimer's disease	Gene Ontology	erk1 and erk2 cascade	down-up	-2.01	1.76	3.99e-08	8.79e-05	250	245
+Lung cancer	Alzheimer's disease	Gene Ontology	lymphocyte mediated immunity	down-up	-1.81	1.81	1.43e-04	9.19e-05	207	200
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell population proliferation	down-up	-1.55	1.49	3.03e-05	9.24e-05	591	580
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of epithelial cell apoptotic process	down-up	-2.1	2.18	1.67e-04	9.26e-05	68	69
+Lung cancer	Alzheimer's disease	Gene Ontology	anchoring junction	down-up	-1.81	1.46	8.56e-09	1.01e-04	692	659
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of phagocytosis	down-up	-2.02	2.22	8.59e-04	1.01e-04	56	57
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of hemopoiesis	down-up	-1.81	1.9	6.52e-04	1.02e-04	155	156
+Lung cancer	Alzheimer's disease	Gene Ontology	cardiac septum morphogenesis	down-up	-1.93	2.11	2.61e-03	1.08e-04	65	65
+Lung cancer	Alzheimer's disease	Gene Ontology	endothelium development	down-up	-2.62	2.03	8.56e-09	1.18e-04	105	105
+Lung cancer	Alzheimer's disease	Gene Ontology	mesenchyme development	down-up	-1.5	1.81	6.74e-03	1.23e-04	228	210
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of alpha beta t cell activation	down-up	-2.14	2.11	6.63e-05	1.24e-04	74	71
+Lung cancer	Alzheimer's disease	Gene Ontology	cellular defense response	down-up	-1.81	2.25	1.81e-02	1.27e-04	42	45
+Lung cancer	Alzheimer's disease	Gene Ontology	outflow tract morphogenesis	down-up	-1.87	2.14	3.32e-03	1.30e-04	72	72
+Lung cancer	Alzheimer's disease	Gene Ontology	complement activation	down-up	-1.93	2.18	3.33e-03	1.43e-04	54	60
+Lung cancer	Alzheimer's disease	Gene Ontology	aorta development	down-up	-1.85	2.26	6.17e-03	1.46e-04	50	47
+Lung cancer	Alzheimer's disease	Gene Ontology	taxis	down-up	-1.78	1.5	3.60e-08	1.96e-04	539	516
+Lung cancer	Alzheimer's disease	Gene Ontology	i kappab kinase nf kappab signaling	down-up	-1.48	1.77	1.04e-02	2.15e-04	228	202
+Lung cancer	Alzheimer's disease	Gene Ontology	vasculogenesis	down-up	-1.87	2.07	3.62e-03	2.17e-04	73	70
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell adhesion	down-up	-1.72	1.73	2.60e-04	2.21e-04	228	230
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of humoral immune response	down-up	-1.74	2.14	1.87e-02	2.24e-04	54	60
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of protein modification process	down-up	-1.62	1.38	8.56e-09	2.41e-04	1011	964
+Lung cancer	Alzheimer's disease	Gene Ontology	cardiac muscle tissue morphogenesis	down-up	-1.84	2.14	1.14e-02	2.51e-04	58	55
+Lung cancer	Alzheimer's disease	Gene Ontology	phagocytosis	down-up	-2.21	1.72	8.56e-09	2.79e-04	214	214
+Lung cancer	Alzheimer's disease	Gene Ontology	alpha beta t cell proliferation	down-up	-1.8	2.29	3.39e-02	3.48e-04	23	24
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of wound healing	down-up	-1.73	1.89	4.11e-03	3.70e-04	125	124
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of leukocyte differentiation	down-up	-1.52	2.04	4.91e-02	3.88e-04	80	77
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of tumor necrosis factor superfamily cytokine production	down-up	-1.93	2.18	3.27e-03	3.90e-04	46	48
+Lung cancer	Alzheimer's disease	Gene Ontology	myeloid leukocyte migration	down-up	-1.99	1.75	4.52e-06	3.93e-04	173	175
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of epithelial cell proliferation	down-up	-2.06	1.81	9.55e-06	4.31e-04	155	155
+Lung cancer	Alzheimer's disease	Gene Ontology	lymphocyte activation involved in immune response	down-up	-1.6	1.88	7.13e-03	4.66e-04	144	133
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of adaptive immune response	down-up	-2.07	1.88	5.52e-06	4.85e-04	134	129
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of cell killing	down-up	-1.9	1.96	2.25e-03	4.95e-04	74	75
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of tumor necrosis factor superfamily cytokine production	down-up	-1.6	2.03	2.94e-02	5.07e-04	72	73
+Lung cancer	Alzheimer's disease	Gene Ontology	cell killing	down-up	-1.69	1.85	3.68e-03	5.23e-04	123	125
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of lymphocyte differentiation	down-up	-1.76	2	7.18e-03	5.98e-04	79	83
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of fat cell differentiation	down-up	-1.85	1.9	7.92e-04	6.16e-04	104	88
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of leukocyte migration	down-up	-1.65	1.88	1.72e-02	6.33e-04	114	114
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of response to external stimulus	down-up	-1.69	1.43	5.08e-07	6.57e-04	514	498
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of epithelial cell apoptotic process	down-up	-1.81	2.2	2.25e-02	6.65e-04	39	40
+Lung cancer	Alzheimer's disease	Gene Ontology	cardiac chamber morphogenesis	down-up	-1.92	1.88	4.08e-04	6.67e-04	114	114
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of lymphocyte mediated immunity	down-up	-2.02	1.83	4.70e-05	6.72e-04	121	115
+Lung cancer	Alzheimer's disease	Gene Ontology	cd4 positive alpha beta t cell activation	down-up	-2.1	1.96	1.46e-04	6.77e-04	76	70
+Lung cancer	Alzheimer's disease	Gene Ontology	muscle organ morphogenesis	down-up	-1.76	2.02	9.14e-03	6.82e-04	72	69
+Lung cancer	Alzheimer's disease	Gene Ontology	coronary vasculature development	down-up	-2.03	2.21	1.27e-03	6.93e-04	44	37
+Lung cancer	Alzheimer's disease	Gene Ontology	activation of immune response	down-up	-1.67	1.49	2.48e-06	6.97e-04	480	475
+Lung cancer	Alzheimer's disease	Gene Ontology	muscle system process	down-up	-1.89	1.54	2.41e-08	7.21e-04	374	374
+Lung cancer	Alzheimer's disease	Gene Ontology	interferon gamma production	down-up	-1.66	1.9	1.92e-02	7.57e-04	92	87
+Lung cancer	Alzheimer's disease	Gene Ontology	peptidyl tyrosine modification	down-up	-1.57	1.64	9.56e-04	7.98e-04	312	308
+Lung cancer	Alzheimer's disease	Gene Ontology	cellular response to vascular endothelial growth factor stimulus	down-up	-2.18	2.13	1.55e-04	8.09e-04	50	46
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of cellular response to growth factor stimulus	down-up	-1.77	1.7	3.58e-05	8.20e-04	229	205
+Lung cancer	Alzheimer's disease	Gene Ontology	mesenchyme morphogenesis	down-up	-1.96	2.08	2.29e-03	8.88e-04	49	45
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of erk1 and erk2 cascade	down-up	-2.14	1.75	3.71e-07	9.19e-04	165	168
+Lung cancer	Alzheimer's disease	Gene Ontology	muscle cell proliferation	down-up	-2.08	1.7	1.03e-06	9.19e-04	177	173
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of anatomical structure morphogenesis	down-up	-1.73	1.36	8.56e-09	9.22e-04	929	852
+Lung cancer	Alzheimer's disease	Gene Ontology	transmembrane receptor protein serine threonine kinase signaling pathway	down-up	-1.48	1.64	4.29e-03	9.22e-04	274	256
+Lung cancer	Alzheimer's disease	Gene Ontology	circulatory system process	down-up	-2.06	1.47	8.56e-09	9.98e-04	464	462
+Lung cancer	Alzheimer's disease	Gene Ontology	actinin binding	down-up	-1.87	2.15	1.34e-02	1.05e-03	33	31
+Lung cancer	Alzheimer's disease	Gene Ontology	muscle tissue development	down-up	-1.65	1.57	8.73e-05	1.16e-03	334	318
+Lung cancer	Alzheimer's disease	Gene Ontology	endocrine process	down-up	-1.87	1.89	3.27e-03	1.17e-03	77	75
+Lung cancer	Alzheimer's disease	Gene Ontology	cardiac septum development	down-up	-1.96	1.87	4.75e-04	1.18e-03	95	92
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of immune effector process	down-up	-1.9	1.86	1.01e-03	1.20e-03	94	99
+Lung cancer	Alzheimer's disease	Gene Ontology	fat cell differentiation	down-up	-2.11	1.72	3.91e-07	1.23e-03	178	162
+Lung cancer	Alzheimer's disease	Gene Ontology	myeloid leukocyte differentiation	down-up	-1.72	1.71	1.00e-03	1.26e-03	180	168
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of defense response	down-up	-1.65	1.42	1.91e-06	1.42e-03	612	577
+Lung cancer	Alzheimer's disease	Gene Ontology	leukocyte chemotaxis	down-up	-1.76	1.63	4.08e-04	1.63e-03	182	185
+Lung cancer	Alzheimer's disease	Gene Ontology	endocardial cushion development	down-up	-2.19	2.11	3.56e-04	1.67e-03	43	40
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of cell death	down-up	-1.38	1.27	9.57e-06	1.72e-03	1355	1313
+Lung cancer	Alzheimer's disease	Gene Ontology	transforming growth factor beta binding	down-up	-1.84	2.17	4.07e-02	1.76e-03	20	18
+Lung cancer	Alzheimer's disease	Gene Ontology	cd4 positive alpha beta t cell differentiation	down-up	-1.77	2.01	1.07e-02	1.82e-03	64	58
+Lung cancer	Alzheimer's disease	Gene Ontology	mesenchymal cell differentiation	down-up	-1.44	1.68	4.36e-02	1.85e-03	180	167
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of ossification	down-up	-1.62	1.75	5.65e-03	1.86e-03	174	157
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of mapk cascade	down-up	-1.71	1.4	7.52e-08	1.88e-03	614	594
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of alpha beta t cell differentiation	down-up	-1.71	1.99	2.21e-02	1.91e-03	55	51
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte mediated cytotoxicity	down-up	-2.1	1.97	6.49e-04	1.92e-03	59	57
+Lung cancer	Alzheimer's disease	Gene Ontology	response to interferon gamma	down-up	-1.9	1.72	1.35e-04	1.92e-03	142	148
+Lung cancer	Alzheimer's disease	Gene Ontology	inositol lipid mediated signaling	down-up	-1.93	1.69	6.62e-05	1.98e-03	162	162
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of extracellular matrix organization	down-up	-1.84	2.08	1.45e-02	2.07e-03	34	33
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of transmembrane receptor protein serine threonine kinase signaling pathway	down-up	-1.5	1.72	1.41e-02	2.15e-03	196	180
+Lung cancer	Alzheimer's disease	Gene Ontology	coronary vasculature morphogenesis	down-up	-1.94	2.09	1.64e-02	2.29e-03	14	14
+Lung cancer	Alzheimer's disease	Gene Ontology	protein kinase b signaling	down-up	-1.85	1.66	2.40e-05	2.33e-03	210	212
+Lung cancer	Alzheimer's disease	Gene Ontology	t cell differentiation involved in immune response	down-up	-1.89	1.99	6.78e-03	2.33e-03	59	52
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of immune effector process	down-up	-2.09	1.63	2.59e-07	2.35e-03	171	175
+Lung cancer	Alzheimer's disease	Gene Ontology	lipid binding	down-up	-1.48	1.39	1.15e-04	2.35e-03	617	530
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of coagulation	down-up	-1.69	1.82	1.91e-02	2.35e-03	74	74
+Lung cancer	Alzheimer's disease	Gene Ontology	response to steroid hormone	down-up	-1.36	1.52	1.66e-02	2.36e-03	335	335
+Lung cancer	Alzheimer's disease	Gene Ontology	neutrophil migration	down-up	-1.8	1.85	2.57e-03	2.36e-03	96	97
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of leukocyte mediated immunity	down-up	-2.01	2.07	4.73e-03	2.41e-03	35	40
+Lung cancer	Alzheimer's disease	Gene Ontology	muscle contraction	down-up	-1.84	1.55	1.31e-06	2.42e-03	299	299
+Lung cancer	Alzheimer's disease	Gene Ontology	carreceptor activity	down-up	-1.67	1.96	2.40e-02	2.44e-03	69	60
+Lung cancer	Alzheimer's disease	Gene Ontology	heart valve development	down-up	-2.12	1.95	3.68e-04	2.48e-03	53	51
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of transmembrane receptor protein serine threonine kinase signaling pathway	down-up	-1.7	1.86	1.49e-02	2.56e-03	91	90
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of endothelial cell apoptotic process	down-up	-2	2.18	4.33e-03	2.64e-03	28	28
+Lung cancer	Alzheimer's disease	Gene Ontology	toll like receptor 4 signaling pathway	down-up	-1.76	2.11	3.23e-02	2.66e-03	29	26
+Lung cancer	Alzheimer's disease	Gene Ontology	cardiac chamber development	down-up	-1.86	1.71	3.18e-04	2.71e-03	149	144
+Lung cancer	Alzheimer's disease	Gene Ontology	cell junction organization	down-up	-1.62	1.59	8.57e-04	2.72e-03	251	239
+Lung cancer	Alzheimer's disease	Gene Ontology	cellular response to mechanical stimulus	down-up	-1.6	1.87	2.94e-02	2.79e-03	72	73
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of bicellular tight junction assembly	down-up	-1.87	2.12	2.57e-02	2.85e-03	19	19
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of systemic arterial blood pressure	down-up	-1.73	1.85	1.09e-02	2.85e-03	84	85
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of cytokine biosynthetic process	down-up	-1.78	1.94	1.19e-02	2.90e-03	61	60
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell death	down-up	-1.35	1.33	1.55e-03	2.95e-03	797	793
+Lung cancer	Alzheimer's disease	Gene Ontology	cell substrate junction	down-up	-1.95	1.48	2.13e-08	3.23e-03	336	352
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of phosphatidylinositol 3 kinase signaling	down-up	-1.86	1.76	6.95e-04	3.38e-03	106	109
+Lung cancer	Alzheimer's disease	Gene Ontology	enzyme linked receptor protein signaling pathway	down-up	-1.76	1.33	8.56e-09	3.48e-03	864	827
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell killing	down-up	-1.65	1.95	3.98e-02	3.53e-03	54	52
+Lung cancer	Alzheimer's disease	Gene Ontology	lipid localization	down-up	-1.48	1.51	4.24e-03	3.56e-03	329	295
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of cytokine secretion	down-up	-1.85	1.76	1.57e-03	3.71e-03	111	109
+Lung cancer	Alzheimer's disease	Gene Ontology	leukocyte mediated immunity	down-up	-2.01	1.33	8.56e-09	3.74e-03	624	622
+Lung cancer	Alzheimer's disease	Gene Ontology	immune response regulating signaling pathway	down-up	-1.63	1.43	4.70e-05	3.82e-03	443	438
+Lung cancer	Alzheimer's disease	Gene Ontology	activating transcription factor binding	down-up	-1.72	1.84	1.26e-02	3.85e-03	72	71
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of interferon gamma production	down-up	-1.73	1.96	1.85e-02	4.27e-03	55	50
+Lung cancer	Alzheimer's disease	Gene Ontology	macrophage activation	down-up	-2.48	1.82	2.33e-07	4.41e-03	72	72
+Lung cancer	Alzheimer's disease	Gene Ontology	astrocyte differentiation	down-up	-1.73	1.84	1.41e-02	4.44e-03	67	65
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte migration	down-up	-1.96	1.65	1.59e-05	4.48e-03	166	164
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of alpha beta t cell activation	down-up	-1.92	1.91	3.32e-03	4.54e-03	53	52
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of immune response	down-up	-1.79	1.67	1.61e-03	4.58e-03	118	120
+Lung cancer	Alzheimer's disease	Gene Ontology	organ growth	down-up	-1.45	1.64	4.47e-02	4.66e-03	157	149
+Lung cancer	Alzheimer's disease	Gene Ontology	cell cell junction	down-up	-1.62	1.45	9.01e-05	4.73e-03	426	379
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of inflammatory response	down-up	-1.74	1.71	4.50e-03	4.73e-03	115	112
+Lung cancer	Alzheimer's disease	Gene Ontology	cell matrix adhesion	down-up	-1.65	1.58	2.22e-03	4.96e-03	190	187
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of lymphocyte mediated immunity	down-up	-1.88	2	2.05e-02	5.06e-03	26	31
+Lung cancer	Alzheimer's disease	Gene Ontology	myeloid leukocyte activation	down-up	-2.2	1.35	8.56e-09	5.15e-03	521	528
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of response to cytokine stimulus	down-up	-1.6	1.69	1.11e-02	5.18e-03	139	138
+Lung cancer	Alzheimer's disease	Gene Ontology	semi lunar valve development	down-up	-2.01	2.03	3.96e-03	5.23e-03	32	32
+Lung cancer	Alzheimer's disease	Gene Ontology	renal system process	down-up	-1.81	1.74	1.35e-03	5.31e-03	104	104
+Lung cancer	Alzheimer's disease	Gene Ontology	cell junction assembly	down-up	-1.74	1.51	2.23e-04	5.48e-03	210	206
+Lung cancer	Alzheimer's disease	Gene Ontology	myeloid cell development	down-up	-1.61	1.88	4.36e-02	5.59e-03	62	58
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of lipid localization	down-up	-1.88	1.98	8.44e-03	5.71e-03	37	37
+Lung cancer	Alzheimer's disease	Gene Ontology	interferon gamma mediated signaling pathway	down-up	-1.6	1.73	4.71e-02	5.79e-03	62	66
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of macrophage derived foam cell differentiation	down-up	-2.05	2.08	2.43e-03	6.04e-03	28	28
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of cytosolic calcium ion concentration	down-up	-1.72	1.49	2.62e-05	6.56e-03	312	304
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of cd4 positive alpha beta t cell activation	down-up	-2.05	1.93	1.87e-03	6.73e-03	47	46
+Lung cancer	Alzheimer's disease	Gene Ontology	muscle cell differentiation	down-up	-1.55	1.44	1.90e-03	6.74e-03	292	278
+Lung cancer	Alzheimer's disease	Gene Ontology	t helper 1 type immune response	down-up	-1.96	1.97	6.11e-03	6.84e-03	36	35
+Lung cancer	Alzheimer's disease	Gene Ontology	t cell mediated immunity	down-up	-1.91	1.69	6.17e-04	7.07e-03	86	87
+Lung cancer	Alzheimer's disease	Gene Ontology	g protein coupled receptor signaling pathway	down-up	-1.25	1.3	1.64e-02	7.10e-03	847	726
+Lung cancer	Alzheimer's disease	Gene Ontology	actin filament based process	down-up	-2.11	1.31	8.56e-09	7.12e-03	625	589
+Lung cancer	Alzheimer's disease	Gene Ontology	extracellular matrix assembly	down-up	-2.12	1.93	1.54e-03	7.24e-03	34	34
+Lung cancer	Alzheimer's disease	Gene Ontology	transmembrane receptor protein kinase activity	down-up	-1.82	1.77	5.99e-03	7.24e-03	69	72
+Lung cancer	Alzheimer's disease	Gene Ontology	endocardial cushion morphogenesis	down-up	-1.97	1.95	6.61e-03	7.37e-03	35	31
+Lung cancer	Alzheimer's disease	Gene Ontology	mononuclear cell migration	down-up	-1.99	1.7	8.13e-04	7.42e-03	74	74
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of t helper 1 type immune response	down-up	-1.79	2.01	4.14e-02	7.52e-03	21	21
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of phosphorylation	down-up	-1.63	1.21	8.56e-09	7.64e-03	1327	1244
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of epithelial to mesenchymal transition	down-up	-1.66	1.91	4.28e-02	7.72e-03	44	41
+Lung cancer	Alzheimer's disease	Gene Ontology	response to transforming growth factor beta	down-up	-1.77	1.57	1.60e-04	7.72e-03	199	197
+Lung cancer	Alzheimer's disease	Gene Ontology	in utero embryonic development	down-up	-1.48	1.47	3.83e-03	7.87e-03	327	300
+Lung cancer	Alzheimer's disease	Gene Ontology	leukocyte mediated cytotoxicity	down-up	-1.91	1.75	1.14e-03	7.90e-03	82	82
+Lung cancer	Alzheimer's disease	Gene Ontology	foam cell differentiation	down-up	-1.96	1.98	6.12e-03	7.95e-03	33	32
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of alpha beta t cell activation	down-up	-1.86	2.05	2.31e-02	8.23e-03	25	28
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of cytokine production involved in immune response	down-up	-2.27	1.71	1.51e-05	8.54e-03	70	75
+Lung cancer	Alzheimer's disease	Gene Ontology	gliogenesis	down-up	-1.4	1.51	2.42e-02	8.58e-03	250	239
+Lung cancer	Alzheimer's disease	Gene Ontology	lipid storage	down-up	-1.95	1.81	2.78e-03	8.61e-03	55	54
+Lung cancer	Alzheimer's disease	Gene Ontology	growth	down-up	-1.38	1.27	1.15e-03	8.66e-03	824	770
+Lung cancer	Alzheimer's disease	Gene Ontology	cellular response to endogenous stimulus	down-up	-1.61	1.22	8.56e-09	8.78e-03	1195	1142
+Lung cancer	Alzheimer's disease	Gene Ontology	cell activation involved in immune response	down-up	-2.01	1.31	8.56e-09	8.80e-03	567	566
+Lung cancer	Alzheimer's disease	Gene Ontology	production of molecular mediator of immune response	down-up	-1.66	1.55	2.72e-03	8.91e-03	173	172
+Lung cancer	Alzheimer's disease	Gene Ontology	sterol homeostasis	down-up	-1.8	1.74	7.32e-03	9.08e-03	69	65
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of myeloid leukocyte differentiation	down-up	-1.68	1.7	1.72e-02	9.40e-03	100	93
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of lipid storage	down-up	-1.92	1.89	8.44e-03	9.89e-03	36	36
+Lung cancer	Alzheimer's disease	Gene Ontology	response to endogenous stimulus	down-up	-1.58	1.22	8.56e-09	9.95e-03	1416	1363
+Lung cancer	Alzheimer's disease	Gene Ontology	cytokine production involved in immune response	down-up	-2.22	1.7	4.47e-06	1.00e-02	89	93
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of lipid storage	down-up	-1.83	1.98	3.60e-02	1.04e-02	19	18
+Lung cancer	Alzheimer's disease	Gene Ontology	astrocyte development	down-up	-1.83	1.91	1.53e-02	1.07e-02	34	35
+Lung cancer	Alzheimer's disease	Gene Ontology	aortic valve development	down-up	-2.12	1.98	1.21e-03	1.07e-02	28	27
+Lung cancer	Alzheimer's disease	Gene Ontology	interleukin 6 biosynthetic process	down-up	-2.13	1.99	1.77e-03	1.09e-02	22	19
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of systemic arterial blood pressure by renin angiotensin	down-up	-1.79	1.94	3.42e-02	1.09e-02	25	25
+Lung cancer	Alzheimer's disease	Gene Ontology	phosphatidylinositol 3 kinase signaling	down-up	-1.82	1.66	1.43e-03	1.12e-02	129	130
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of pathway restricted smad protein phosphorylation	down-up	-1.66	1.81	4.99e-02	1.15e-02	40	42
+Lung cancer	Alzheimer's disease	Gene Ontology	apoptotic cell clearance	down-up	-1.83	1.86	1.95e-02	1.21e-02	39	36
+Lung cancer	Alzheimer's disease	Gene Ontology	response to hormone	down-up	-1.6	1.25	3.24e-07	1.23e-02	845	822
+Lung cancer	Alzheimer's disease	Gene Ontology	epithelial to mesenchymal transition involved in endocardial cushion formation	down-up	-1.9	1.9	2.82e-02	1.24e-02	17	16
+Lung cancer	Alzheimer's disease	Gene Ontology	renal system vasculature development	down-up	-2.44	1.91	4.80e-05	1.25e-02	24	25
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of calcium ion transport	down-up	-1.79	1.49	1.26e-04	1.34e-02	215	200
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of leukocyte mediated cytotoxicity	down-up	-1.75	1.84	2.94e-02	1.37e-02	42	41
+Lung cancer	Alzheimer's disease	Gene Ontology	platelet activation	down-up	-2.14	1.57	8.28e-07	1.43e-02	141	136
+Lung cancer	Alzheimer's disease	Gene Ontology	response to mechanical stimulus	down-up	-1.66	1.55	2.21e-03	1.45e-02	184	180
+Lung cancer	Alzheimer's disease	Gene Ontology	adaptive thermogenesis	down-up	-1.95	1.54	3.63e-05	1.47e-02	140	137
+Lung cancer	Alzheimer's disease	Gene Ontology	epithelial to mesenchymal transition	down-up	-1.52	1.64	2.06e-02	1.53e-02	117	104
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of blood vessel endothelial cell migration	down-up	-2.21	1.85	1.18e-04	1.54e-02	48	48
+Lung cancer	Alzheimer's disease	Gene Ontology	metal ion homeostasis	down-up	-1.54	1.3	6.10e-05	1.57e-02	563	538
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of protein metabolic process	down-up	-1.55	1.2	8.56e-09	1.58e-02	1394	1327
+Lung cancer	Alzheimer's disease	Gene Ontology	interleukin 1 production	down-up	-2.22	1.64	3.88e-06	1.61e-02	83	76
+Lung cancer	Alzheimer's disease	Gene Ontology	renal system process involved in regulation of systemic arterial blood pressure	down-up	-1.92	1.92	1.48e-02	1.62e-02	22	24
+Lung cancer	Alzheimer's disease	Gene Ontology	ameboidal type cell migration	down-up	-1.96	1.41	8.72e-09	1.66e-02	338	331
+Lung cancer	Alzheimer's disease	Gene Ontology	sarcolemma	down-up	-1.99	1.53	4.46e-05	1.68e-02	120	115
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of response to wounding	down-up	-1.69	1.54	2.43e-03	1.70e-02	148	146
+Lung cancer	Alzheimer's disease	Gene Ontology	striated muscle cell proliferation	down-up	-1.73	1.77	1.88e-02	1.77e-02	61	58
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of endothelial cell differentiation	down-up	-2.33	1.9	1.25e-04	1.82e-02	27	29
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of t cell mediated immunity	down-up	-2.08	1.72	4.26e-04	1.87e-02	60	62
+Lung cancer	Alzheimer's disease	Gene Ontology	ventricular septum development	down-up	-1.75	1.76	1.43e-02	1.91e-02	65	59
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of protein kinase b signaling	down-up	-1.77	1.54	1.27e-03	1.92e-02	141	142
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of epithelial to mesenchymal transition	down-up	-1.59	1.64	4.98e-02	1.96e-02	74	65
+Lung cancer	Alzheimer's disease	Gene Ontology	endothelial cell proliferation	down-up	-2.08	1.53	1.60e-05	2.03e-02	121	120
+Lung cancer	Alzheimer's disease	Gene Ontology	chemokine production	down-up	-1.94	1.62	1.75e-03	2.03e-02	73	75
+Lung cancer	Alzheimer's disease	Gene Ontology	bone cell development	down-up	-1.74	1.81	4.36e-02	2.06e-02	31	31
+Lung cancer	Alzheimer's disease	Gene Ontology	actin cytoskeleton	down-up	-1.86	1.34	2.52e-08	2.10e-02	419	391
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of defense response	down-up	-1.48	1.34	2.03e-03	2.12e-02	408	389
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of response to biotic stimulus	down-up	-1.4	1.33	1.51e-02	2.12e-02	412	396
+Lung cancer	Alzheimer's disease	Gene Ontology	response to corticosteroid	down-up	-1.44	1.49	4.40e-02	2.16e-02	148	143
+Lung cancer	Alzheimer's disease	Gene Ontology	response to interleukin 18	down-up	-1.96	1.87	7.28e-03	2.18e-02	9	9
+Lung cancer	Alzheimer's disease	Gene Ontology	developmental growth	down-up	-1.38	1.28	2.44e-03	2.26e-02	567	530
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of dna binding transcription factor activity	down-up	-1.57	1.36	2.25e-04	2.29e-02	362	336
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of myeloid leukocyte mediated immunity	down-up	-2.15	1.79	4.75e-04	2.29e-02	45	48
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of cold induced thermogenesis	down-up	-1.83	1.56	1.70e-03	2.33e-02	86	87
+Lung cancer	Alzheimer's disease	Gene Ontology	phosphatidylinositol 3 4 5 trisphosphate binding	down-up	-1.78	1.79	2.91e-02	2.35e-02	32	31
+Lung cancer	Alzheimer's disease	Gene Ontology	response to organic cyclic compound	down-up	-1.37	1.24	1.33e-03	2.35e-02	820	811
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of intracellular signal transduction	down-up	-1.62	1.18	8.56e-09	2.38e-02	1511	1400
+Lung cancer	Alzheimer's disease	Gene Ontology	response to oxygen containing compound	down-up	-1.55	1.2	8.56e-09	2.38e-02	1410	1376
+Lung cancer	Alzheimer's disease	Gene Ontology	leukocyte adhesion to vascular endothelial cell	down-up	-1.84	1.79	2.31e-02	2.43e-02	35	35
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of phagocytosis engulfment	down-up	-1.81	1.85	3.79e-02	2.48e-02	13	12
+Lung cancer	Alzheimer's disease	Gene Ontology	heparin binding	down-up	-1.55	1.51	2.23e-02	2.49e-02	145	132
+Lung cancer	Alzheimer's disease	Gene Ontology	transforming growth factor beta receptor binding	down-up	-1.83	1.79	1.96e-02	2.49e-02	39	40
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of myeloid cell differentiation	down-up	-1.64	1.67	4.06e-02	2.50e-02	67	69
+Lung cancer	Alzheimer's disease	Gene Ontology	neuroinflammatory response	down-up	-2.16	1.67	2.30e-04	2.55e-02	53	56
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of endothelial cell proliferation	down-up	-2.11	1.63	8.27e-05	2.58e-02	79	78
+Lung cancer	Alzheimer's disease	Gene Ontology	lipopolysaccharide mediated signaling pathway	down-up	-2.2	1.72	1.64e-04	2.61e-02	49	50
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of wound healing	down-up	-1.69	1.72	2.41e-02	2.61e-02	50	50
+Lung cancer	Alzheimer's disease	Gene Ontology	glycosaminoglycan binding	down-up	-1.51	1.5	1.33e-02	2.61e-02	195	180
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of blood pressure	down-up	-1.85	1.45	8.97e-05	2.65e-02	161	161
+Lung cancer	Alzheimer's disease	Gene Ontology	ventricular trabecula myocardium morphogenesis	down-up	-2.1	1.81	6.36e-03	2.65e-02	16	14
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of chemotaxis	down-up	-1.9	1.54	1.84e-04	2.80e-02	117	119
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of wound healing	down-up	-1.71	1.58	2.63e-02	2.81e-02	66	65
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of peptide secretion	down-up	-1.55	1.31	5.12e-04	2.81e-02	408	391
+Lung cancer	Alzheimer's disease	Gene Ontology	interleukin 1 beta production	down-up	-2.28	1.64	1.13e-05	2.82e-02	72	68
+Lung cancer	Alzheimer's disease	Gene Ontology	smooth muscle cell differentiation	down-up	-1.98	1.68	1.92e-03	2.86e-02	46	43
+Lung cancer	Alzheimer's disease	Gene Ontology	response to laminar fluid shear stress	down-up	-2.16	1.81	9.95e-04	2.95e-02	12	13
+Lung cancer	Alzheimer's disease	Gene Ontology	transforming growth factor beta activated receptor activity	down-up	-2.13	1.83	1.92e-03	2.95e-02	11	11
+Lung cancer	Alzheimer's disease	Gene Ontology	glial cell activation	down-up	-2.17	1.68	3.65e-04	3.12e-02	41	45
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of response to external stimulus	down-up	-1.63	1.36	2.76e-04	3.19e-02	307	287
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of cell substrate adhesion	down-up	-1.84	1.42	8.97e-05	3.21e-02	175	173
+Lung cancer	Alzheimer's disease	Gene Ontology	signal transduction by protein phosphorylation	down-up	-1.55	1.23	6.58e-07	3.26e-02	789	768
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte chemotaxis	down-up	-1.68	1.55	1.06e-02	3.32e-02	96	98
+Lung cancer	Alzheimer's disease	Gene Ontology	plasma membrane protein complex	down-up	-1.27	1.29	4.91e-02	3.33e-02	485	441
+Lung cancer	Alzheimer's disease	Gene Ontology	transforming growth factor beta receptor signaling pathway	down-up	-1.76	1.45	1.03e-03	3.35e-02	150	148
+Lung cancer	Alzheimer's disease	Gene Ontology	vascular endothelial growth factor signaling pathway	down-up	-1.75	1.79	3.84e-02	3.54e-02	33	30
+Lung cancer	Alzheimer's disease	Gene Ontology	pathway restricted smad protein phosphorylation	down-up	-1.71	1.65	2.41e-02	3.57e-02	54	54
+Lung cancer	Alzheimer's disease	Gene Ontology	p38mapk cascade	down-up	-1.79	1.71	3.37e-02	3.58e-02	31	35
+Lung cancer	Alzheimer's disease	Gene Ontology	endocardial cushion formation	down-up	-1.97	1.77	1.33e-02	3.77e-02	24	21
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of adaptive immune response	down-up	-1.68	1.72	4.69e-02	3.79e-02	34	38
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of interleukin 6 biosynthetic process	down-up	-1.87	1.76	3.21e-02	3.87e-02	14	14
+Lung cancer	Alzheimer's disease	Gene Ontology	endothelial cell migration	down-up	-2.34	1.45	8.56e-09	3.89e-02	176	174
+Lung cancer	Alzheimer's disease	Gene Ontology	astrocyte activation	down-up	-2	1.79	1.03e-02	3.96e-02	18	19
+Lung cancer	Alzheimer's disease	Gene Ontology	cell cell junction assembly	down-up	-1.49	1.51	3.06e-02	4.02e-02	117	106
+Lung cancer	Alzheimer's disease	Gene Ontology	cardiac muscle tissue development	down-up	-1.71	1.43	4.75e-04	4.04e-02	181	177
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte degranulation	down-up	-2.09	1.68	2.24e-03	4.10e-02	36	41
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of cd4 positive alpha beta t cell activation	down-up	-1.8	1.7	3.69e-02	4.22e-02	30	31
+Lung cancer	Alzheimer's disease	Gene Ontology	axonemal dynein complex	down-up	-2.34	1.76	1.45e-04	4.35e-02	15	8
+Lung cancer	Alzheimer's disease	Gene Ontology	ventricular septum morphogenesis	down-up	-1.91	1.67	1.14e-02	4.42e-02	39	35
+Lung cancer	Alzheimer's disease	Gene Ontology	blood vessel endothelial cell migration	down-up	-2.46	1.53	8.56e-09	4.43e-02	103	101
+Lung cancer	Alzheimer's disease	Gene Ontology	interleukin 18 mediated signaling pathway	down-up	-2.04	1.78	1.90e-03	4.50e-02	7	7
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of leukocyte mediated immunity	down-up	-1.93	1.5	4.82e-04	4.64e-02	109	106
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of cytokine secretion	down-up	-1.65	1.66	4.23e-02	4.64e-02	48	49
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of production of molecular mediator of immune response	down-up	-1.87	1.56	1.07e-03	4.74e-02	115	118
+Lung cancer	Alzheimer's disease	Gene Ontology	pharyngeal arch artery morphogenesis	down-up	-1.85	1.77	2.07e-02	4.79e-02	8	7
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of endothelial cell differentiation	down-up	-1.99	1.73	1.16e-02	4.91e-02	14	15
+Lung cancer	Alzheimer's disease	Gene Ontology	pinocytosis	down-up	-1.8	1.69	3.84e-02	4.94e-02	21	16
+Lung cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell death	down-up	-1.55	1.23	4.08e-05	4.97e-02	588	576
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of growth	down-up	-1.58	1.42	4.18e-03	4.99e-02	203	204
+Lung cancer	Alzheimer's disease	Gene Ontology	aerobic respiration	up-down	1.73	-2.9	1.07e-02	5.63e-09	67	68
+Lung cancer	Alzheimer's disease	Gene Ontology	amide biosynthetic process	up-down	1.71	-2.19	1.05e-07	5.63e-09	626	566
+Lung cancer	Alzheimer's disease	Gene Ontology	anaphase promoting complex dependent catabolic process	up-down	2.07	-2.58	7.91e-05	5.63e-09	65	67
+Lung cancer	Alzheimer's disease	Gene Ontology	atp metabolic process	up-down	1.54	-2.61	8.48e-03	5.63e-09	227	227
+Lung cancer	Alzheimer's disease	Gene Ontology	atp synthesis coupled electron transport	up-down	1.6	-3.08	3.79e-02	5.63e-09	64	62
+Lung cancer	Alzheimer's disease	Gene Ontology	catalytic activity acting on rna	up-down	2.27	-2.15	8.56e-09	5.63e-09	311	257
+Lung cancer	Alzheimer's disease	Gene Ontology	cellular amide metabolic process	up-down	1.59	-1.91	1.05e-06	5.63e-09	841	770
+Lung cancer	Alzheimer's disease	Gene Ontology	cellular respiration	up-down	1.64	-3.05	5.05e-03	5.63e-09	146	132
+Lung cancer	Alzheimer's disease	Gene Ontology	envelope	up-down	1.44	-2.48	2.08e-04	5.63e-09	969	826
+Lung cancer	Alzheimer's disease	Gene Ontology	generation of precursor metabolites and energy	up-down	1.42	-2.3	1.07e-02	5.63e-09	421	412
+Lung cancer	Alzheimer's disease	Gene Ontology	inner mitochondrial membrane protein complex	up-down	1.83	-3.24	2.59e-03	5.63e-09	94	80
+Lung cancer	Alzheimer's disease	Gene Ontology	mitochondrial envelope	up-down	1.75	-2.76	4.04e-08	5.63e-09	597	488
+Lung cancer	Alzheimer's disease	Gene Ontology	mitochondrial gene expression	up-down	2.47	-2.89	8.56e-09	5.63e-09	144	109
+Lung cancer	Alzheimer's disease	Gene Ontology	mitochondrial matrix	up-down	2.23	-2.5	8.56e-09	5.63e-09	396	343
+Lung cancer	Alzheimer's disease	Gene Ontology	mitochondrial protein complex	up-down	2.41	-3.42	8.56e-09	5.63e-09	203	168
+Lung cancer	Alzheimer's disease	Gene Ontology	mitochondrial translation	up-down	2.56	-2.91	8.56e-09	5.63e-09	121	92
+Lung cancer	Alzheimer's disease	Gene Ontology	mitochondrial translational termination	up-down	2.35	-2.71	4.61e-08	5.63e-09	80	58
+Lung cancer	Alzheimer's disease	Gene Ontology	mitochondrion	up-down	1.76	-2.44	8.56e-09	5.63e-09	1288	1099
+Lung cancer	Alzheimer's disease	Gene Ontology	mitochondrion organization	up-down	1.37	-2.63	2.68e-02	5.63e-09	418	374
+Lung cancer	Alzheimer's disease	Gene Ontology	ncrna metabolic process	up-down	2.29	-2.18	8.56e-09	5.63e-09	378	313
+Lung cancer	Alzheimer's disease	Gene Ontology	ncrna processing	up-down	2.31	-2.13	8.56e-09	5.63e-09	306	264
+Lung cancer	Alzheimer's disease	Gene Ontology	organellar ribosome	up-down	2.43	-2.77	8.56e-09	5.63e-09	78	56
+Lung cancer	Alzheimer's disease	Gene Ontology	organelle inner membrane	up-down	1.84	-3.05	1.08e-07	5.63e-09	432	340
+Lung cancer	Alzheimer's disease	Gene Ontology	organonitrogen compound biosynthetic process	up-down	1.49	-1.72	9.18e-07	5.63e-09	1441	1277
+Lung cancer	Alzheimer's disease	Gene Ontology	oxidative phosphorylation	up-down	1.7	-3.09	1.03e-02	5.63e-09	103	98
+Lung cancer	Alzheimer's disease	Gene Ontology	oxidoreductase complex	up-down	1.84	-2.78	1.26e-03	5.63e-09	84	77
+Lung cancer	Alzheimer's disease	Gene Ontology	peptidase complex	up-down	1.88	-2.57	2.28e-03	5.63e-09	74	71
+Lung cancer	Alzheimer's disease	Gene Ontology	peptide biosynthetic process	up-down	1.77	-2.15	5.80e-08	5.63e-09	509	461
+Lung cancer	Alzheimer's disease	Gene Ontology	peptide metabolic process	up-down	1.68	-1.95	8.90e-07	5.63e-09	624	576
+Lung cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex	up-down	1.96	-2.11	8.56e-09	5.63e-09	527	480
+Lung cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex biogenesis	up-down	2.15	-2.33	8.56e-09	5.63e-09	332	315
+Lung cancer	Alzheimer's disease	Gene Ontology	ribosome biogenesis	up-down	2.25	-2.23	8.56e-09	5.63e-09	228	211
+Lung cancer	Alzheimer's disease	Gene Ontology	rna binding	up-down	1.89	-1.84	8.56e-09	5.63e-09	1294	1178
+Lung cancer	Alzheimer's disease	Gene Ontology	rna processing	up-down	1.81	-1.83	8.56e-09	5.63e-09	730	653
+Lung cancer	Alzheimer's disease	Gene Ontology	translational elongation	up-down	2.14	-2.73	2.47e-06	5.63e-09	114	90
+Lung cancer	Alzheimer's disease	Gene Ontology	translational termination	up-down	2.33	-2.76	9.68e-08	5.63e-09	94	72
+Lung cancer	Alzheimer's disease	Gene Ontology	trna metabolic process	up-down	2.25	-2.47	8.56e-09	5.63e-09	156	126
+Lung cancer	Alzheimer's disease	Gene Ontology	endopeptidase complex	up-down	2	-2.61	7.91e-04	5.80e-09	56	55
+Lung cancer	Alzheimer's disease	Gene Ontology	ribosome	up-down	2.2	-2.33	8.56e-09	7.59e-09	162	149
+Lung cancer	Alzheimer's disease	Gene Ontology	cellular amino acid metabolic process	up-down	2.12	-2.11	8.56e-09	7.85e-09	283	257
+Lung cancer	Alzheimer's disease	Gene Ontology	cellular protein complex disassembly	up-down	1.55	-2.27	7.75e-03	9.23e-09	188	160
+Lung cancer	Alzheimer's disease	Gene Ontology	ribosomal subunit	up-down	2.18	-2.35	5.45e-07	1.83e-08	124	121
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of cell cycle g2 m phase transition	up-down	1.96	-2.18	2.59e-06	3.66e-08	176	173
+Lung cancer	Alzheimer's disease	Gene Ontology	inner mitochondrial membrane organization	up-down	1.87	-2.58	1.19e-02	5.65e-08	38	31
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of cellular amino acid metabolic process	up-down	1.81	-2.56	6.53e-03	6.99e-08	53	52
+Lung cancer	Alzheimer's disease	Gene Ontology	catalytic activity acting on a trna	up-down	2.27	-2.42	7.25e-08	8.71e-08	105	83
+Lung cancer	Alzheimer's disease	Gene Ontology	ribonucleotide binding	up-down	1.21	-1.54	4.54e-02	1.28e-07	1522	1386
+Lung cancer	Alzheimer's disease	Gene Ontology	nucleolus	up-down	1.52	-1.72	6.93e-05	1.33e-07	740	667
+Lung cancer	Alzheimer's disease	Gene Ontology	cell cycle g2 m phase transition	up-down	1.84	-2.07	2.62e-05	1.64e-07	226	218
+Lung cancer	Alzheimer's disease	Gene Ontology	tricarboxylic acid cycle	up-down	1.87	-2.53	9.55e-03	2.16e-07	29	30
+Lung cancer	Alzheimer's disease	Gene Ontology	intrinsic component of mitochondrial membrane	up-down	1.68	-2.49	3.29e-02	2.72e-07	50	46
+Lung cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell cycle g2 m phase transition	up-down	1.89	-2.33	7.81e-04	3.09e-07	86	84
+Lung cancer	Alzheimer's disease	Gene Ontology	nucleobase containing small molecule metabolic process	up-down	1.33	-1.8	3.42e-02	3.35e-07	514	475
+Lung cancer	Alzheimer's disease	Gene Ontology	oxidation reduction process	up-down	1.35	-1.65	5.20e-03	9.32e-07	783	730
+Lung cancer	Alzheimer's disease	Gene Ontology	mitochondrial large ribosomal subunit	up-down	2.19	-2.46	5.16e-05	1.25e-06	52	35
+Lung cancer	Alzheimer's disease	Gene Ontology	posttranscriptional regulation of gene expression	up-down	1.39	-1.81	1.71e-02	1.32e-06	471	445
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of cellular amine metabolic process	up-down	1.67	-2.36	1.85e-02	1.50e-06	69	70
+Lung cancer	Alzheimer's disease	Gene Ontology	structural constituent of ribosome	up-down	2.07	-2.22	1.48e-05	1.75e-06	106	105
+Lung cancer	Alzheimer's disease	Gene Ontology	ligase activity	up-down	2.07	-2.2	1.32e-05	2.05e-06	115	101
+Lung cancer	Alzheimer's disease	Gene Ontology	rrna metabolic process	up-down	2.19	-2.1	1.10e-08	2.09e-06	180	158
+Lung cancer	Alzheimer's disease	Gene Ontology	mitochondrial membrane organization	up-down	1.59	-2.21	2.73e-02	2.26e-06	106	97
+Lung cancer	Alzheimer's disease	Gene Ontology	amino acid activation	up-down	2.24	-2.44	8.54e-05	2.63e-06	39	36
+Lung cancer	Alzheimer's disease	Gene Ontology	transcription coupled nucleotide excision repair	up-down	1.68	-2.29	2.04e-02	2.80e-06	59	65
+Lung cancer	Alzheimer's disease	Gene Ontology	mrna metabolic process	up-down	1.35	-1.67	1.71e-02	2.87e-06	650	614
+Lung cancer	Alzheimer's disease	Gene Ontology	cofactor biosynthetic process	up-down	1.43	-1.99	3.29e-02	4.12e-06	195	174
+Lung cancer	Alzheimer's disease	Gene Ontology	small molecule metabolic process	up-down	1.28	-1.45	5.51e-03	5.06e-06	1584	1473
+Lung cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex subunit organization	up-down	1.48	-2.07	3.34e-02	5.07e-06	147	151
+Lung cancer	Alzheimer's disease	Gene Ontology	large ribosomal subunit	up-down	2.15	-2.25	6.33e-06	6.16e-06	83	73
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of transcription from rna polymerase ii promoter in response to hypoxia	up-down	1.59	-2.27	3.44e-02	8.83e-06	65	70
+Lung cancer	Alzheimer's disease	Gene Ontology	adenyl nucleotide binding	up-down	1.31	-1.48	4.54e-03	1.24e-05	1256	1147
+Lung cancer	Alzheimer's disease	Gene Ontology	mitochondrial small ribosomal subunit	up-down	2.03	-2.35	3.33e-03	2.08e-05	24	21
+Lung cancer	Alzheimer's disease	Gene Ontology	intrinsic component of mitochondrial inner membrane	up-down	1.76	-2.35	2.58e-02	2.14e-05	29	25
+Lung cancer	Alzheimer's disease	Gene Ontology	proteasome accessory complex	up-down	1.89	-2.35	1.04e-02	2.73e-05	22	23
+Lung cancer	Alzheimer's disease	Gene Ontology	trna processing	up-down	2.06	-2.11	5.70e-06	3.53e-05	113	89
+Lung cancer	Alzheimer's disease	Gene Ontology	ligase activity forming carbon oxygen bonds	up-down	2.25	-2.32	8.54e-05	4.02e-05	32	30
+Lung cancer	Alzheimer's disease	Gene Ontology	oxidoreductase activity	up-down	1.38	-1.62	9.45e-03	4.21e-05	568	537
+Lung cancer	Alzheimer's disease	Gene Ontology	organelle envelope lumen	up-down	1.96	-2.14	3.65e-04	4.28e-05	70	65
+Lung cancer	Alzheimer's disease	Gene Ontology	rna splicing via transesterification reactions	up-down	1.48	-1.79	6.08e-03	4.97e-05	281	261
+Lung cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex binding	up-down	1.9	-2.02	2.65e-04	9.86e-05	108	97
+Lung cancer	Alzheimer's disease	Gene Ontology	nucleotide excision repair	up-down	1.76	-2.06	4.97e-03	1.14e-04	90	94
+Lung cancer	Alzheimer's disease	Gene Ontology	rna localization	up-down	1.54	-1.83	1.41e-02	1.67e-04	175	176
+Lung cancer	Alzheimer's disease	Gene Ontology	cellular component disassembly	up-down	1.31	-1.64	4.32e-02	2.39e-04	463	414
+Lung cancer	Alzheimer's disease	Gene Ontology	drug binding	up-down	1.37	-1.4	2.29e-04	2.88e-04	1398	1289
+Lung cancer	Alzheimer's disease	Gene Ontology	trna binding	up-down	1.81	-2.15	7.19e-03	3.88e-04	48	38
+Lung cancer	Alzheimer's disease	Gene Ontology	retrograde vesicle mediated transport golgi to endoplasmic reticulum	up-down	1.83	-1.98	2.72e-03	4.85e-04	65	71
+Lung cancer	Alzheimer's disease	Gene Ontology	atpase activity	up-down	1.74	-1.66	1.74e-05	5.30e-04	346	320
+Lung cancer	Alzheimer's disease	Gene Ontology	proteasome regulatory particle base subcomplex	up-down	1.87	-2.14	1.75e-02	6.72e-04	12	12
+Lung cancer	Alzheimer's disease	Gene Ontology	trna modification	up-down	1.82	-1.96	2.50e-03	8.15e-04	78	58
+Lung cancer	Alzheimer's disease	Gene Ontology	rna splicing	up-down	1.51	-1.63	5.32e-03	1.06e-03	347	320
+Lung cancer	Alzheimer's disease	Gene Ontology	mrna processing	up-down	1.44	-1.6	1.04e-02	1.21e-03	397	365
+Lung cancer	Alzheimer's disease	Gene Ontology	sm like protein family complex	up-down	1.69	-1.93	1.59e-02	1.40e-03	62	58
+Lung cancer	Alzheimer's disease	Gene Ontology	cofactor metabolic process	up-down	1.45	-1.58	8.10e-03	1.55e-03	357	334
+Lung cancer	Alzheimer's disease	Gene Ontology	cell cycle phase transition	up-down	1.69	-1.49	3.38e-06	1.81e-03	514	479
+Lung cancer	Alzheimer's disease	Gene Ontology	small ribosomal subunit	up-down	1.8	-1.97	1.09e-02	2.07e-03	44	52
+Lung cancer	Alzheimer's disease	Gene Ontology	preribosome	up-down	2.36	-1.97	7.72e-07	2.33e-03	60	53
+Lung cancer	Alzheimer's disease	Gene Ontology	dicarboxylic acid metabolic process	up-down	1.83	-1.89	3.33e-03	2.48e-03	76	70
+Lung cancer	Alzheimer's disease	Gene Ontology	organic acid metabolic process	up-down	1.36	-1.4	2.81e-03	2.85e-03	924	878
+Lung cancer	Alzheimer's disease	Gene Ontology	kinetochore	up-down	2.13	-1.78	5.88e-07	2.90e-03	117	101
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of cell cycle phase transition	up-down	1.56	-1.54	1.00e-03	3.14e-03	378	351
+Lung cancer	Alzheimer's disease	Gene Ontology	ribosomal large subunit biogenesis	up-down	2.09	-1.93	3.40e-04	3.39e-03	47	48
+Lung cancer	Alzheimer's disease	Gene Ontology	establishment of protein localization to mitochondrial membrane	up-down	1.8	-2.01	3.98e-02	3.65e-03	14	12
+Lung cancer	Alzheimer's disease	Gene Ontology	dna repair	up-down	2.06	-1.5	8.56e-09	3.85e-03	444	394
+Lung cancer	Alzheimer's disease	Gene Ontology	mitochondrial rna metabolic process	up-down	1.79	-1.94	2.99e-02	3.90e-03	36	32
+Lung cancer	Alzheimer's disease	Gene Ontology	spliceosomal snrnp assembly	up-down	1.85	-1.96	9.35e-03	4.45e-03	35	33
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of mitochondrial gene expression	up-down	1.98	-2	3.67e-03	5.04e-03	26	17
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of mrna metabolic process	up-down	1.41	-1.59	1.76e-02	5.10e-03	262	250
+Lung cancer	Alzheimer's disease	Gene Ontology	rna export from nucleus	up-down	1.61	-1.72	3.07e-02	5.26e-03	102	101
+Lung cancer	Alzheimer's disease	Gene Ontology	rna polymerase complex	up-down	1.82	-1.81	1.61e-03	7.01e-03	85	83
+Lung cancer	Alzheimer's disease	Gene Ontology	small nuclear ribonucleoprotein complex	up-down	1.66	-1.86	2.63e-02	9.04e-03	53	51
+Lung cancer	Alzheimer's disease	Gene Ontology	tricarboxylic acid cycle enzyme complex	up-down	1.88	-1.92	1.61e-02	1.01e-02	12	12
+Lung cancer	Alzheimer's disease	Gene Ontology	small subunit processome	up-down	1.74	-1.86	3.44e-02	1.05e-02	31	28
+Lung cancer	Alzheimer's disease	Gene Ontology	protein n linked glycosylation	up-down	1.69	-1.73	1.57e-02	1.08e-02	67	58
+Lung cancer	Alzheimer's disease	Gene Ontology	spindle organization	up-down	1.58	-1.66	2.09e-02	1.29e-02	136	127
+Lung cancer	Alzheimer's disease	Gene Ontology	rna polymerase activity	up-down	1.89	-1.81	6.43e-03	1.72e-02	35	29
+Lung cancer	Alzheimer's disease	Gene Ontology	rna modification	up-down	1.96	-1.61	2.53e-05	2.04e-02	139	106
+Lung cancer	Alzheimer's disease	Gene Ontology	nucleotide excision repair preincision complex assembly	up-down	1.92	-1.82	6.84e-03	2.19e-02	23	27
+Lung cancer	Alzheimer's disease	Gene Ontology	nucleoid	up-down	1.81	-1.77	2.55e-02	2.53e-02	36	36
+Lung cancer	Alzheimer's disease	Gene Ontology	isomerase activity	up-down	1.64	-1.56	5.90e-03	2.55e-02	131	110
+Lung cancer	Alzheimer's disease	Gene Ontology	mitotic cell cycle	up-down	1.72	-1.31	8.56e-09	2.61e-02	838	792
+Lung cancer	Alzheimer's disease	Gene Ontology	ribonucleoside monophosphate metabolic process	up-down	1.77	-1.77	1.70e-02	2.67e-02	42	40
+Lung cancer	Alzheimer's disease	Gene Ontology	spindle	up-down	1.64	-1.46	4.14e-04	2.80e-02	293	261
+Lung cancer	Alzheimer's disease	Gene Ontology	protein transmembrane transport	up-down	1.71	-1.74	2.58e-02	3.05e-02	47	40
+Lung cancer	Alzheimer's disease	Gene Ontology	intracellular protein transmembrane transport	up-down	1.7	-1.7	3.29e-02	3.26e-02	40	33
+Lung cancer	Alzheimer's disease	Gene Ontology	cofactor binding	up-down	1.63	-1.38	1.27e-04	3.27e-02	400	401
+Lung cancer	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton organization involved in mitosis	up-down	1.65	-1.53	1.01e-02	3.45e-02	110	109
+Lung cancer	Alzheimer's disease	Gene Ontology	nuclear exosome rnase complex	up-down	1.77	-1.77	2.37e-02	3.64e-02	15	14
+Lung cancer	Alzheimer's disease	Gene Ontology	nucleoside monophosphate metabolic process	up-down	1.85	-1.69	4.30e-03	3.67e-02	57	55
+Lung cancer	Alzheimer's disease	Gene Ontology	spindle microtubule	up-down	2.02	-1.66	8.30e-04	3.82e-02	45	48
+Lung cancer	Alzheimer's disease	Gene Ontology	condensed chromosome centromeric region	up-down	2.23	-1.57	4.85e-07	3.88e-02	101	87
+Lung cancer	Alzheimer's disease	Gene Ontology	outer mitochondrial membrane protein complex	up-down	1.87	-1.77	1.63e-02	3.96e-02	10	10
+Lung cancer	Alzheimer's disease	Gene Ontology	90s preribosome	up-down	2.18	-1.75	1.96e-04	4.18e-02	25	21
+Lung cancer	Alzheimer's disease	Gene Ontology	regulation of translational fidelity	up-down	2.02	-1.79	1.30e-03	4.48e-02	15	13
+Lung cancer	Alzheimer's disease	Gene Ontology	oligosaccharide lipid intermediate biosynthetic process	up-down	2.11	-1.77	6.71e-04	4.69e-02	16	13
+Lung cancer	Alzheimer's disease	Gene Ontology	ribonucleoside monophosphate biosynthetic process	up-down	2.02	-1.69	2.74e-03	4.72e-02	27	28
+Lung cancer	Alzheimer's disease	Gene Ontology	dna templated transcription termination	up-down	1.74	-1.58	1.17e-02	4.82e-02	64	58
+Lung cancer	Parkinson's disease	Canonical Pathways	kegg - cytokine cytokine receptor interaction	down-up	-1.74	2.16	3.87e-04	7.41e-09	213	218
+Lung cancer	Parkinson's disease	Canonical Pathways	naba - matrisome	down-up	-1.22	1.66	2.22e-02	2.26e-08	816	731
+Lung cancer	Parkinson's disease	Canonical Pathways	kegg - hematopoietic cell lineage	down-up	-1.82	2.19	3.68e-03	8.26e-06	70	78
+Lung cancer	Parkinson's disease	Canonical Pathways	kegg - pathways in cancer	down-up	-1.4	1.73	1.28e-02	1.26e-05	282	300
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - immunoregulatory interactions between a lymphoid and a non lymphoid cell	down-up	-2.13	2.03	7.42e-05	7.53e-05	87	91
+Lung cancer	Parkinson's disease	Canonical Pathways	pid - smad2 3nuclear pathway	down-up	-1.72	2.08	1.08e-02	1.15e-04	73	75
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - interleukin 4 and interleukin 13 signaling	down-up	-1.68	1.94	8.63e-03	1.63e-04	93	100
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - transcriptional regulation of white adipocyte differentiation	down-up	-1.62	1.99	2.36e-02	3.71e-04	70	69
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - interleukin 10 signaling	down-up	-1.93	2.07	4.76e-03	9.05e-04	39	43
+Lung cancer	Parkinson's disease	Canonical Pathways	biocarta - nfkb pathway	down-up	-1.81	2.18	2.32e-02	9.56e-04	19	20
+Lung cancer	Parkinson's disease	Canonical Pathways	kegg - jak stat signaling pathway	down-up	-1.69	1.74	3.66e-03	1.48e-03	123	131
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - complement cascade	down-up	-1.96	1.96	4.50e-03	2.68e-03	45	49
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - traf6 mediated nf kb activation	down-up	-1.72	2.08	3.69e-02	3.24e-03	22	20
+Lung cancer	Parkinson's disease	Canonical Pathways	pid - myc repress pathway	down-up	-1.74	1.88	1.03e-02	3.39e-03	56	57
+Lung cancer	Parkinson's disease	Canonical Pathways	pid - rxr vdr pathway	down-up	-1.84	2.1	1.88e-02	3.98e-03	22	24
+Lung cancer	Parkinson's disease	Canonical Pathways	biocarta - il1r pathway	down-up	-2.04	1.99	5.58e-03	6.92e-03	26	26
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - diseases of immune system	down-up	-1.9	2.01	1.31e-02	7.91e-03	22	21
+Lung cancer	Parkinson's disease	Canonical Pathways	pid - angiopoietin receptor pathway	down-up	-2.25	1.78	1.93e-04	1.02e-02	42	48
+Lung cancer	Parkinson's disease	Canonical Pathways	kegg - chronic myeloid leukemia	down-up	-1.66	1.69	1.27e-02	1.27e-02	62	66
+Lung cancer	Parkinson's disease	Canonical Pathways	kegg - leishmania infection	down-up	-1.89	1.73	2.94e-03	1.32e-02	53	58
+Lung cancer	Parkinson's disease	Canonical Pathways	pid - pi3kci pathway	down-up	-1.84	1.79	1.17e-02	1.32e-02	41	43
+Lung cancer	Parkinson's disease	Canonical Pathways	biocarta - granulocytes pathway	down-up	-2.1	1.99	2.30e-03	1.41e-02	15	15
+Lung cancer	Parkinson's disease	Canonical Pathways	biocarta - tnfr2 pathway	down-up	-1.96	1.95	1.67e-02	1.47e-02	16	17
+Lung cancer	Parkinson's disease	Canonical Pathways	biocarta - cd40 pathway	down-up	-2.17	1.98	8.11e-04	1.54e-02	14	15
+Lung cancer	Parkinson's disease	Canonical Pathways	pid - amb2 neutrophils pathway	down-up	-1.97	1.8	4.28e-03	1.60e-02	38	40
+Lung cancer	Parkinson's disease	Canonical Pathways	pid - il6 7 pathway	down-up	-2.08	1.72	1.29e-03	1.81e-02	41	46
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - initial triggering of complement	down-up	-1.94	1.88	9.36e-03	2.00e-02	19	19
+Lung cancer	Parkinson's disease	Canonical Pathways	pid - fcer1 pathway	down-up	-2.51	1.67	3.72e-07	2.08e-02	51	58
+Lung cancer	Parkinson's disease	Canonical Pathways	biocarta - akt pathway	down-up	-2.11	1.89	3.07e-03	2.36e-02	17	21
+Lung cancer	Parkinson's disease	Canonical Pathways	sa mmp cytokine connection	down-up	-2.06	1.92	6.83e-03	2.41e-02	13	13
+Lung cancer	Parkinson's disease	Canonical Pathways	pid - lysophospholipid - pathway	down-up	-2.18	1.56	7.09e-05	2.84e-02	60	59
+Lung cancer	Parkinson's disease	Canonical Pathways	biocarta - nthi pathway	down-up	-2.15	1.78	1.82e-03	3.01e-02	21	22
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - toll like receptor cascades	down-up	-1.74	1.47	1.41e-03	3.20e-02	134	132
+Lung cancer	Parkinson's disease	Canonical Pathways	kegg - adipocytokine signaling pathway	down-up	-1.75	1.58	6.18e-03	4.02e-02	62	61
+Lung cancer	Parkinson's disease	Canonical Pathways	kegg - nod like receptor signaling pathway	down-up	-1.95	1.63	2.80e-03	4.22e-02	51	51
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - leishmania infection	down-up	-1.58	1.32	3.96e-03	4.24e-02	216	204
+Lung cancer	Parkinson's disease	Canonical Pathways	pid - ap1 pathway	down-up	-1.64	1.54	1.42e-02	4.25e-02	62	66
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - cell surface interactions at the vascular wall	down-up	-1.62	1.47	1.07e-02	4.61e-02	113	123
+Lung cancer	Parkinson's disease	Canonical Pathways	kegg - proteasome	up-down	2.03	-2.59	2.75e-03	7.41e-09	38	39
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - auf1 hnrnp d0 binds and destabilizes mrna	up-down	1.95	-2.57	2.77e-03	7.41e-09	43	48
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - cross presentation of soluble exogenous antigens endosomes	up-down	1.9	-2.58	4.17e-03	7.41e-09	42	43
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - defective cftr causes cystic fibrosis	up-down	1.89	-2.57	3.92e-03	7.41e-09	50	51
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - degradation of gli1 by the proteasome	up-down	1.92	-2.62	2.80e-03	7.41e-09	50	53
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - golgi to er retrograde transport	up-down	1.86	-2.42	9.53e-04	7.41e-09	98	103
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - hedgehog ligand biogenesis	up-down	1.96	-2.62	1.60e-03	7.41e-09	53	54
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - hiv infection	up-down	1.8	-2.17	3.17e-04	7.41e-09	187	196
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - host interactions of hiv factors	up-down	1.86	-2.47	1.25e-03	7.41e-09	105	113
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - metabolism of polyamines	up-down	2.06	-2.6	4.77e-04	7.41e-09	51	52
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - mitotic g2 g2 m phases	up-down	2	-2.21	1.34e-05	7.41e-09	154	163
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - negative regulation of notch4 signaling	up-down	1.87	-2.72	6.92e-03	7.41e-09	46	50
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - protein localization	up-down	1.57	-2.34	1.79e-02	7.41e-09	136	131
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - regulation of pten stability and activity	up-down	1.74	-2.5	1.32e-02	7.41e-09	57	63
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - regulation of ras by gaps	up-down	1.9	-2.6	4.47e-03	7.41e-09	56	55
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - regulation of runx2 expression and activity	up-down	1.78	-2.49	6.55e-03	7.41e-09	62	67
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - respiratory electron transport	up-down	1.75	-2.8	5.76e-03	7.41e-09	75	67
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	up-down	1.82	-2.89	3.19e-03	7.41e-09	94	85
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - separation of sister chromatids	up-down	2.31	-2.24	1.72e-08	7.41e-09	150	151
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - the citric acid tca cycle and respiratory electron transport	up-down	1.91	-2.91	8.98e-05	7.41e-09	140	129
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - the role of gtse1 in g2 m progression after g2 checkpoint	up-down	2.09	-2.52	4.15e-04	7.41e-09	54	66
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - regulation of mrna stability by proteins that bind au rich elements	up-down	1.82	-2.41	5.00e-03	7.75e-09	71	76
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - assembly of the pre replicative complex	up-down	2.39	-2.51	9.20e-07	8.71e-09	59	62
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	up-down	2.21	-2.45	1.73e-05	1.33e-08	57	60
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - degradation of dvl	up-down	2.04	-2.49	1.04e-03	1.61e-08	48	51
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - orc1 removal from chromatin	up-down	2.32	-2.47	2.11e-06	1.74e-08	62	65
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - scf skp2 mediated degradation of p27 p21	up-down	2.03	-2.51	9.61e-04	2.06e-08	52	57
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - switching of origins to a post replicative state	up-down	2.34	-2.41	8.47e-07	2.19e-08	76	77
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - apc c mediated degradation of cell cycle proteins	up-down	2.26	-2.4	1.34e-05	2.26e-08	70	73
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - mitotic metaphase and anaphase	up-down	2.33	-2.14	1.72e-08	2.62e-08	185	184
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - cyclin a cdk2 associated events at s phase entry	up-down	1.82	-2.4	2.54e-03	2.78e-08	75	77
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - stabilization of p53	up-down	2.07	-2.45	7.13e-04	4.71e-08	46	51
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - regulation of runx3 expression and activity	up-down	1.93	-2.42	4.08e-03	1.25e-07	46	51
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - dectin 1 mediated noncanonical nf kb signaling	up-down	1.81	-2.44	8.69e-03	1.37e-07	52	57
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - g1 s dna damage checkpoints	up-down	2.01	-2.37	5.28e-04	1.37e-07	57	61
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - mitochondrial translation	up-down	2.4	-2.37	5.97e-08	1.47e-07	84	61
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - pcp ce pathway	up-down	1.58	-2.3	3.69e-02	1.91e-07	82	82
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - intra golgi and retrograde golgi to er traffic	up-down	1.62	-2.13	6.96e-03	2.07e-07	153	155
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - degradation of axin	up-down	1.85	-2.44	7.43e-03	2.63e-07	46	49
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - mitochondrial protein import	up-down	2.07	-2.4	3.87e-04	5.97e-07	55	47
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - cellular response to hypoxia	up-down	1.75	-2.26	1.42e-02	7.53e-07	64	67
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - asymmetric localization of pcp proteins	up-down	1.86	-2.35	5.60e-03	8.24e-07	54	56
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - abc transporter disorders	up-down	1.68	-2.31	1.55e-02	8.99e-07	62	64
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - dna replication pre initiation	up-down	2.46	-2.23	3.70e-08	9.96e-07	76	78
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - abc family proteins mediated transport	up-down	1.65	-2.21	2.14e-02	1.34e-06	82	84
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - uch proteinases	up-down	1.87	-2.21	4.28e-03	1.46e-06	74	76
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - dna replication	up-down	2.39	-2.14	1.72e-08	1.90e-06	112	113
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - asparagine n linked glycosylation	up-down	1.53	-1.87	1.13e-02	3.81e-06	223	235
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - translation	up-down	2.5	-1.9	1.72e-08	3.81e-06	219	212
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - cristae formation	up-down	1.97	-2.36	5.88e-03	4.92e-06	24	23
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - copi dependent golgi to er retrograde traffic	up-down	2.01	-2.16	6.40e-04	5.15e-06	71	74
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - cell cycle checkpoints	up-down	2.55	-1.88	1.72e-08	5.27e-06	235	233
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - g2 m checkpoints	up-down	2.39	-1.96	1.72e-08	1.05e-05	130	137
+Lung cancer	Parkinson's disease	Canonical Pathways	kegg - citrate cycle tca cycle	up-down	1.83	-2.27	1.86e-02	1.27e-05	27	29
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - s phase	up-down	2.06	-1.98	2.20e-06	1.29e-05	144	140
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - pten regulation	up-down	1.53	-2.04	2.62e-02	1.35e-05	122	118
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - citric acid cycle tca cycle	up-down	1.86	-2.31	1.97e-02	1.54e-05	19	20
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - pyruvate metabolism and citric acid tca cycle	up-down	1.64	-2.26	4.24e-02	1.55e-05	49	48
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - metabolism of rna	up-down	2.1	-1.64	1.72e-08	1.80e-05	526	506
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - mapk6 mapk4 signaling	up-down	1.65	-2.09	1.80e-02	1.91e-05	77	79
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - metabolism of amino acids and derivatives	up-down	1.86	-1.74	1.03e-05	6.73e-05	277	281
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - m phase	up-down	2.17	-1.7	1.72e-08	7.53e-05	305	315
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - glucose metabolism	up-down	1.92	-2.03	1.39e-03	7.86e-05	78	82
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - disorders of transmembrane transporters	up-down	1.53	-1.88	1.75e-02	9.08e-05	144	147
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - ub specific processing proteases	up-down	1.6	-1.84	1.13e-02	9.74e-05	151	160
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - post translational protein modification	up-down	1.26	-1.44	2.36e-02	9.81e-05	1112	1015
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - deubiquitination	up-down	1.48	-1.76	2.44e-02	1.06e-04	219	217
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - tnfr2 non canonical nf kb pathway	up-down	1.62	-2.02	2.04e-02	1.59e-04	86	88
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - gluconeogenesis	up-down	2.06	-2.13	1.96e-03	1.69e-04	30	32
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - transcriptional regulation by runx2	up-down	1.46	-1.89	4.92e-02	2.06e-04	106	108
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - mitotic g1 phase and g1 s transition	up-down	2.11	-1.86	2.63e-06	2.45e-04	136	138
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - trna aminoacylation	up-down	2.32	-2.11	3.34e-05	2.56e-04	33	32
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - metabolism of carbohydrates	up-down	1.43	-1.72	3.18e-02	2.58e-04	243	247
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - cytosolic trna aminoacylation	up-down	1.84	-2.17	2.22e-02	2.80e-04	19	20
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - nucleotide excision repair	up-down	1.97	-1.89	6.66e-04	7.92e-04	90	94
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - formation of tc ner pre incision complex	up-down	1.84	-2.03	7.31e-03	9.00e-04	42	46
+Lung cancer	Parkinson's disease	Canonical Pathways	kegg - glutathione metabolism	up-down	1.71	-1.99	3.08e-02	1.07e-03	40	35
+Lung cancer	Parkinson's disease	Canonical Pathways	kegg - purine metabolism	up-down	1.49	-1.76	3.56e-02	1.16e-03	136	130
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - glycolysis	up-down	1.68	-1.89	2.29e-02	1.26e-03	59	63
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - transcription coupled nucleotide excision repair tc ner	up-down	1.81	-1.87	5.88e-03	1.61e-03	63	68
+Lung cancer	Parkinson's disease	Canonical Pathways	kegg - aminoacyl trna biosynthesis	up-down	2.27	-2.01	7.21e-05	2.13e-03	33	28
+Lung cancer	Parkinson's disease	Canonical Pathways	kegg - protein export	up-down	1.77	-2	4.30e-02	2.15e-03	22	19
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - cell cycle	up-down	2.24	-1.47	1.72e-08	2.16e-03	529	533
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - cell cycle mitotic	up-down	2.26	-1.52	1.72e-08	2.41e-03	435	443
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - global genome nucleotide excision repair gg ner	up-down	1.94	-1.87	1.41e-03	2.41e-03	71	73
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - regulation of expression of slits and robos	up-down	1.55	-1.73	2.32e-02	3.22e-03	113	133
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - runx1 regulates transcription of genes involved in differentiation of hscs	up-down	1.81	-1.78	5.58e-03	3.65e-03	83	94
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - cellular responses to external stimuli	up-down	1.36	-1.41	3.17e-02	8.58e-03	435	475
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - formation of incision complex in gg ner	up-down	1.91	-1.89	6.92e-03	9.25e-03	33	38
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - rho gtpases activate formins	up-down	1.89	-1.58	9.61e-04	1.34e-02	107	108
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - snrnp assembly	up-down	1.83	-1.77	1.17e-02	2.17e-02	45	44
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - dual incision in tc ner	up-down	1.59	-1.67	4.29e-02	2.23e-02	52	55
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - kinesins	up-down	1.8	-1.73	1.10e-02	2.99e-02	42	42
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - dna damage recognition in gg ner	up-down	1.82	-1.68	1.62e-02	3.19e-02	34	34
+Lung cancer	Parkinson's disease	Canonical Pathways	reactome - nuclear envelope ne reassembly	up-down	1.82	-1.65	8.32e-03	3.28e-02	50	54
+Lung cancer	Alzheimer's disease	Canonical Pathways	kegg - cytokine cytokine receptor interaction	down-up	-1.74	2.67	3.87e-04	5.07e-09	213	218
+Lung cancer	Alzheimer's disease	Canonical Pathways	naba - matrisome	down-up	-1.22	2.47	2.22e-02	5.07e-09	816	733
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - immunoregulatory interactions between a lymphoid and a non lymphoid cell	down-up	-2.13	2.57	7.42e-05	5.07e-09	87	91
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - interleukin 4 and interleukin 13 signaling	down-up	-1.68	2.45	8.63e-03	2.48e-08	93	100
+Lung cancer	Alzheimer's disease	Canonical Pathways	kegg - hematopoietic cell lineage	down-up	-1.82	2.4	3.68e-03	2.22e-07	70	78
+Lung cancer	Alzheimer's disease	Canonical Pathways	naba - ecm glycoproteins	down-up	-1.61	2.16	4.78e-03	6.72e-07	167	135
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - class a 1 rhodopsin like receptors	down-up	-1.29	1.9	3.68e-02	8.78e-07	282	261
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - complement cascade	down-up	-1.96	2.46	4.50e-03	9.69e-07	45	50
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - elastic fibre formation	down-up	-1.65	2.57	4.57e-02	1.42e-06	41	37
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - cell surface interactions at the vascular wall	down-up	-1.62	2.12	1.07e-02	4.29e-06	113	124
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - molecules associated with elastic fibres	down-up	-1.74	2.48	2.62e-02	6.69e-06	34	32
+Lung cancer	Alzheimer's disease	Canonical Pathways	kegg - pathways in cancer	down-up	-1.4	1.76	1.28e-02	1.33e-05	282	300
+Lung cancer	Alzheimer's disease	Canonical Pathways	kegg - jak stat signaling pathway	down-up	-1.69	1.95	3.66e-03	1.13e-04	123	131
+Lung cancer	Alzheimer's disease	Canonical Pathways	pid - angiopoietin receptor pathway	down-up	-2.25	2.15	1.93e-04	3.10e-04	42	48
+Lung cancer	Alzheimer's disease	Canonical Pathways	sa mmp cytokine connection	down-up	-2.06	2.31	6.83e-03	3.66e-04	13	13
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by interleukins	down-up	-1.59	1.54	2.39e-04	4.58e-04	372	396
+Lung cancer	Alzheimer's disease	Canonical Pathways	kegg - graft versus host disease	down-up	-1.85	2.25	2.03e-02	4.94e-04	21	23
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - interleukin 10 signaling	down-up	-1.93	2.12	4.76e-03	5.74e-04	39	43
+Lung cancer	Alzheimer's disease	Canonical Pathways	pid - ap1 pathway	down-up	-1.64	1.96	1.42e-02	9.76e-04	62	67
+Lung cancer	Alzheimer's disease	Canonical Pathways	pid - myc repress pathway	down-up	-1.74	1.96	1.03e-02	1.69e-03	56	57
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - hemostasis	down-up	-1.81	1.38	1.72e-08	3.82e-03	503	521
+Lung cancer	Alzheimer's disease	Canonical Pathways	biocarta - il17 pathway	down-up	-1.93	2.06	7.59e-03	4.50e-03	14	15
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - diseases of immune system	down-up	-1.9	2.04	1.31e-02	4.62e-03	22	21
+Lung cancer	Alzheimer's disease	Canonical Pathways	naba - ecm affiliated	down-up	-1.47	1.73	2.66e-02	4.78e-03	116	103
+Lung cancer	Alzheimer's disease	Canonical Pathways	biocarta - il1r pathway	down-up	-2.04	2.08	5.58e-03	4.92e-03	26	26
+Lung cancer	Alzheimer's disease	Canonical Pathways	kegg - viral myocarditis	down-up	-1.73	1.74	2.11e-02	5.49e-03	46	58
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - initial triggering of complement	down-up	-1.94	2.05	9.36e-03	5.65e-03	19	19
+Lung cancer	Alzheimer's disease	Canonical Pathways	pid - tcr pathway	down-up	-2.04	1.81	4.77e-04	5.75e-03	56	56
+Lung cancer	Alzheimer's disease	Canonical Pathways	pid - smad2 3nuclear pathway	down-up	-1.72	1.76	1.08e-02	5.92e-03	73	75
+Lung cancer	Alzheimer's disease	Canonical Pathways	pid - amb2 neutrophils pathway	down-up	-1.97	1.9	4.28e-03	5.99e-03	38	40
+Lung cancer	Alzheimer's disease	Canonical Pathways	biocarta - akt pathway	down-up	-2.11	2	3.07e-03	6.21e-03	17	21
+Lung cancer	Alzheimer's disease	Canonical Pathways	naba - basement membranes	down-up	-1.74	1.95	1.90e-02	6.28e-03	36	32
+Lung cancer	Alzheimer's disease	Canonical Pathways	biocarta - ctl pathway	down-up	-1.85	2.03	3.06e-02	6.32e-03	11	12
+Lung cancer	Alzheimer's disease	Canonical Pathways	biocarta - nfkb pathway	down-up	-1.81	2.03	2.32e-02	6.44e-03	19	20
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by gpcr	down-up	-1.38	1.31	1.32e-03	7.64e-03	756	657
+Lung cancer	Alzheimer's disease	Canonical Pathways	kegg - leishmania infection	down-up	-1.89	1.69	2.94e-03	9.48e-03	53	58
+Lung cancer	Alzheimer's disease	Canonical Pathways	biocarta - granulocytes pathway	down-up	-2.1	1.93	2.30e-03	1.36e-02	15	15
+Lung cancer	Alzheimer's disease	Canonical Pathways	kegg - leukocyte transendothelial migration	down-up	-1.74	1.6	2.06e-03	1.46e-02	103	102
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - cytokine signaling in immune system	down-up	-1.43	1.25	5.13e-04	1.50e-02	681	707
+Lung cancer	Alzheimer's disease	Canonical Pathways	pid - fcer1 pathway	down-up	-2.51	1.63	3.72e-07	1.59e-02	51	58
+Lung cancer	Alzheimer's disease	Canonical Pathways	biocarta - alk pathway	down-up	-1.74	1.8	2.66e-02	1.77e-02	34	34
+Lung cancer	Alzheimer's disease	Canonical Pathways	pid - bcr 5pathway	down-up	-1.7	1.74	1.88e-02	1.98e-02	57	60
+Lung cancer	Alzheimer's disease	Canonical Pathways	pid - rxr vdr pathway	down-up	-1.84	1.82	1.88e-02	2.14e-02	22	24
+Lung cancer	Alzheimer's disease	Canonical Pathways	biocarta - nthi pathway	down-up	-2.15	1.87	1.82e-03	2.28e-02	21	22
+Lung cancer	Alzheimer's disease	Canonical Pathways	pid - cd8 tcr pathway	down-up	-2.21	1.68	1.87e-04	2.28e-02	48	47
+Lung cancer	Alzheimer's disease	Canonical Pathways	biocarta - lair pathway	down-up	-1.85	1.88	2.62e-02	2.43e-02	17	17
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - traf6 mediated nf kb activation	down-up	-1.72	1.82	3.69e-02	2.43e-02	22	20
+Lung cancer	Alzheimer's disease	Canonical Pathways	biocarta - classic pathway	down-up	-1.78	1.76	4.80e-02	3.03e-02	11	11
+Lung cancer	Alzheimer's disease	Canonical Pathways	kegg - nod like receptor signaling pathway	down-up	-1.95	1.65	2.80e-03	3.28e-02	51	52
+Lung cancer	Alzheimer's disease	Canonical Pathways	kegg - chronic myeloid leukemia	down-up	-1.66	1.57	1.27e-02	4.12e-02	62	66
+Lung cancer	Alzheimer's disease	Canonical Pathways	biocarta - neutrophil pathway	down-up	-1.79	1.74	4.76e-02	4.27e-02	8	8
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - toll like receptor cascades	down-up	-1.74	1.43	1.41e-03	4.28e-02	134	132
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	up-down	2.21	-2.64	1.73e-05	5.07e-09	57	60
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - asparagine n linked glycosylation	up-down	1.53	-2.17	1.13e-02	5.07e-09	223	237
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - assembly of the pre replicative complex	up-down	2.39	-2.6	9.20e-07	5.07e-09	59	62
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - auf1 hnrnp d0 binds and destabilizes mrna	up-down	1.95	-2.65	2.77e-03	5.07e-09	43	48
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle checkpoints	up-down	2.55	-2.16	1.72e-08	5.07e-09	235	234
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - defective cftr causes cystic fibrosis	up-down	1.89	-2.72	3.92e-03	5.07e-09	50	51
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of gli1 by the proteasome	up-down	1.92	-2.69	2.80e-03	5.07e-09	50	53
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - dna replication	up-down	2.39	-2.47	1.72e-08	5.07e-09	112	113
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - hedgehog ligand biogenesis	up-down	1.96	-2.66	1.60e-03	5.07e-09	53	54
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv infection	up-down	1.8	-2.45	3.17e-04	5.07e-09	187	197
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - host interactions of hiv factors	up-down	1.86	-2.51	1.25e-03	5.07e-09	105	113
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of rna	up-down	2.1	-2.2	1.72e-08	5.07e-09	526	508
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - mitochondrial protein import	up-down	2.07	-2.66	3.87e-04	5.07e-09	55	47
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - mitochondrial translation	up-down	2.4	-2.76	5.97e-08	5.07e-09	84	61
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic g2 g2 m phases	up-down	2	-2.26	1.34e-05	5.07e-09	154	163
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic metaphase and anaphase	up-down	2.33	-2.28	1.72e-08	5.07e-09	185	185
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - negative regulation of notch4 signaling	up-down	1.87	-2.85	6.92e-03	5.07e-09	46	50
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - orc1 removal from chromatin	up-down	2.32	-2.68	2.11e-06	5.07e-09	62	65
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of pten stability and activity	up-down	1.74	-2.58	1.32e-02	5.07e-09	57	63
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of ras by gaps	up-down	1.9	-2.85	4.47e-03	5.07e-09	56	55
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of runx2 expression and activity	up-down	1.78	-2.59	6.55e-03	5.07e-09	62	67
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - respiratory electron transport	up-down	1.75	-3.19	5.76e-03	5.07e-09	75	67
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	up-down	1.82	-3.3	3.19e-03	5.07e-09	94	85
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - separation of sister chromatids	up-down	2.31	-2.35	1.72e-08	5.07e-09	150	152
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - switching of origins to a post replicative state	up-down	2.34	-2.7	8.47e-07	5.07e-09	76	77
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - the citric acid tca cycle and respiratory electron transport	up-down	1.91	-3.3	8.98e-05	5.07e-09	140	129
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - the role of gtse1 in g2 m progression after g2 checkpoint	up-down	2.09	-2.54	4.15e-04	5.07e-09	54	66
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - translation	up-down	2.5	-2.49	1.72e-08	5.07e-09	219	212
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of polyamines	up-down	2.06	-2.6	4.77e-04	5.32e-09	51	52
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of axin	up-down	1.85	-2.6	7.43e-03	6.93e-09	46	49
+Lung cancer	Alzheimer's disease	Canonical Pathways	kegg - proteasome	up-down	2.03	-2.64	2.75e-03	7.66e-09	38	39
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of dvl	up-down	2.04	-2.57	1.04e-03	8.12e-09	48	51
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - dna replication pre initiation	up-down	2.46	-2.48	3.70e-08	1.16e-08	76	78
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - cross presentation of soluble exogenous antigens endosomes	up-down	1.9	-2.63	4.17e-03	1.37e-08	42	43
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - post translational protein modification	up-down	1.26	-1.65	2.36e-02	2.07e-08	1112	1021
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - apc c mediated degradation of cell cycle proteins	up-down	2.26	-2.49	1.34e-05	2.21e-08	70	73
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - scf skp2 mediated degradation of p27 p21	up-down	2.03	-2.51	9.61e-04	2.48e-08	52	57
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - protein localization	up-down	1.57	-2.32	1.79e-02	4.66e-08	136	131
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular response to hypoxia	up-down	1.75	-2.48	1.42e-02	5.04e-08	64	67
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of expression of slits and robos	up-down	1.55	-2.24	2.32e-02	5.28e-08	113	133
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - cristae formation	up-down	1.97	-2.62	5.88e-03	5.36e-08	24	23
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of mrna stability by proteins that bind au rich elements	up-down	1.82	-2.39	5.00e-03	7.19e-08	71	76
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - stabilization of p53	up-down	2.07	-2.49	7.13e-04	7.39e-08	46	51
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - asymmetric localization of pcp proteins	up-down	1.86	-2.47	5.60e-03	7.92e-08	54	56
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - g2 m checkpoints	up-down	2.39	-2.22	1.72e-08	9.31e-08	130	137
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - dectin 1 mediated noncanonical nf kb signaling	up-down	1.81	-2.46	8.69e-03	1.18e-07	52	57
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of runx3 expression and activity	up-down	1.93	-2.45	4.08e-03	1.96e-07	46	51
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - abc transporter disorders	up-down	1.68	-2.36	1.55e-02	4.00e-07	62	64
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - s phase	up-down	2.06	-2.2	2.20e-06	5.17e-07	144	140
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - cyclin a cdk2 associated events at s phase entry	up-down	1.82	-2.31	2.54e-03	5.78e-07	75	77
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - abc family proteins mediated transport	up-down	1.65	-2.28	2.14e-02	1.00e-06	82	84
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - m phase	up-down	2.17	-1.84	1.72e-08	1.80e-06	305	316
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle	up-down	2.24	-1.7	1.72e-08	1.81e-06	529	534
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - pyruvate metabolism and citric acid tca cycle	up-down	1.64	-2.42	4.24e-02	1.88e-06	49	48
+Lung cancer	Alzheimer's disease	Canonical Pathways	kegg - citrate cycle tca cycle	up-down	1.83	-2.45	1.86e-02	1.94e-06	27	29
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - uch proteinases	up-down	1.87	-2.25	4.28e-03	1.99e-06	74	76
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - g1 s dna damage checkpoints	up-down	2.01	-2.31	5.28e-04	2.00e-06	57	61
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - pcp ce pathway	up-down	1.58	-2.25	3.69e-02	2.11e-06	82	82
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - processing of capped intron containing pre mrna	up-down	1.75	-2.01	6.71e-04	2.11e-06	194	188
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - transcription coupled nucleotide excision repair tc ner	up-down	1.81	-2.3	5.88e-03	2.86e-06	63	69
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - nucleotide excision repair	up-down	1.97	-2.23	6.66e-04	3.27e-06	90	95
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of tc ner pre incision complex	up-down	1.84	-2.36	7.31e-03	4.15e-06	42	47
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv life cycle	up-down	1.68	-2.1	7.69e-03	7.24e-06	119	126
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - mapk6 mapk4 signaling	up-down	1.65	-2.2	1.80e-02	8.14e-06	77	79
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - trna aminoacylation	up-down	2.32	-2.38	3.34e-05	1.01e-05	33	32
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle mitotic	up-down	2.26	-1.7	1.72e-08	1.21e-05	435	444
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular responses to external stimuli	up-down	1.36	-1.65	3.17e-02	3.11e-05	435	475
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - citric acid cycle tca cycle	up-down	1.86	-2.35	1.97e-02	3.77e-05	19	20
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - pten regulation	up-down	1.53	-2.05	2.62e-02	4.83e-05	122	118
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - golgi to er retrograde transport	up-down	1.86	-2.11	9.53e-04	5.04e-05	98	104
+Lung cancer	Alzheimer's disease	Canonical Pathways	kegg - aminoacyl trna biosynthesis	up-down	2.27	-2.3	7.21e-05	5.35e-05	33	28
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic g1 phase and g1 s transition	up-down	2.11	-1.93	2.63e-06	6.43e-05	136	138
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of amino acids and derivatives	up-down	1.86	-1.75	1.03e-05	8.41e-05	277	281
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna splicing	up-down	1.61	-1.91	8.24e-03	8.89e-05	154	147
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - global genome nucleotide excision repair gg ner	up-down	1.94	-2.11	1.41e-03	1.23e-04	71	74
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - cytosolic trna aminoacylation	up-down	1.84	-2.25	2.22e-02	1.86e-04	19	20
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - ub specific processing proteases	up-down	1.6	-1.85	1.13e-02	2.58e-04	151	160
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - intra golgi and retrograde golgi to er traffic	up-down	1.62	-1.82	6.96e-03	3.65e-04	153	157
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - deubiquitination	up-down	1.48	-1.76	2.44e-02	3.66e-04	219	217
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - trna processing	up-down	2.16	-1.95	1.60e-05	4.38e-04	94	84
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - dual incision in tc ner	up-down	1.59	-2.03	4.29e-02	6.07e-04	52	56
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of incision complex in gg ner	up-down	1.91	-2.03	6.92e-03	9.27e-04	33	39
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - rrna processing	up-down	1.97	-1.8	4.47e-05	9.76e-04	137	146
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - viral messenger rna synthesis	up-down	1.77	-2.03	1.97e-02	1.19e-03	35	38
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - tnfr2 non canonical nf kb pathway	up-down	1.62	-1.91	2.04e-02	1.21e-03	86	88
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - rrna modification in the nucleus and cytosol	up-down	1.99	-2.01	1.60e-03	1.44e-03	49	47
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic spindle checkpoint	up-down	2.3	-1.83	8.47e-07	1.78e-03	92	86
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - dna repair	up-down	2.15	-1.64	1.72e-08	1.89e-03	255	254
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - snrnp assembly	up-down	1.83	-1.95	1.17e-02	2.35e-03	45	44
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - disorders of transmembrane transporters	up-down	1.53	-1.71	1.75e-02	3.42e-03	144	147
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - transcriptional regulation by tp53	up-down	1.64	-1.57	6.40e-04	4.27e-03	308	291
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - transcriptional regulation by runx2	up-down	1.46	-1.76	4.92e-02	4.78e-03	106	108
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - copi dependent golgi to er retrograde traffic	up-down	2.01	-1.8	6.40e-04	6.27e-03	71	75
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - trna processing in the nucleus	up-down	2.03	-1.88	9.64e-04	6.43e-03	49	46
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - dna damage recognition in gg ner	up-down	1.82	-1.88	1.62e-02	7.19e-03	34	34
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - ns1 mediated effects on host pathways	up-down	1.78	-1.88	2.56e-02	7.78e-03	32	34
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - glucose metabolism	up-down	1.92	-1.72	1.39e-03	8.48e-03	78	82
+Lung cancer	Alzheimer's disease	Canonical Pathways	kegg - purine metabolism	up-down	1.49	-1.67	3.56e-02	1.06e-02	136	130
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - influenza infection	up-down	1.55	-1.67	3.59e-02	1.08e-02	94	116
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - rho gtpases activate formins	up-down	1.89	-1.69	9.61e-04	1.21e-02	107	109
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - rna polymerase iii transcription initiation from type 1 promoter	up-down	1.76	-1.88	2.64e-02	1.29e-02	25	21
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - aurka activation by tpx2	up-down	1.68	-1.67	2.22e-02	1.65e-02	58	61
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - glycolysis	up-down	1.68	-1.67	2.29e-02	1.65e-02	59	63
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - gluconeogenesis	up-down	2.06	-1.82	1.96e-03	1.93e-02	30	32
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - runx1 regulates transcription of genes involved in differentiation of hscs	up-down	1.81	-1.68	5.58e-03	1.98e-02	83	94
+Lung cancer	Alzheimer's disease	Canonical Pathways	kegg - alanine aspartate and glutamate metabolism	up-down	2	-1.8	3.56e-03	1.99e-02	27	25
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - transport of mature transcript to cytoplasm	up-down	1.74	-1.62	1.34e-02	2.26e-02	63	61
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic prometaphase	up-down	2.12	-1.52	5.07e-07	2.43e-02	158	160
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - resolution of sister chromatid cohesion	up-down	2.27	-1.58	8.47e-07	2.50e-02	99	99
+Lung cancer	Alzheimer's disease	Canonical Pathways	kegg - protein export	up-down	1.77	-1.83	4.30e-02	2.54e-02	22	19
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - transport of the slbp dependant mature mrna	up-down	1.73	-1.76	4.35e-02	2.60e-02	29	30
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - protein ubiquitination	up-down	1.71	-1.64	1.92e-02	2.61e-02	66	58
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - mitochondrial trna aminoacylation	up-down	2.19	-1.79	6.71e-04	2.72e-02	15	14
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - resolution of ap sites via the multiple nucleotide patch replacement pathway	up-down	1.88	-1.73	1.37e-02	2.78e-02	23	22
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - nuclear envelope ne reassembly	up-down	1.82	-1.65	8.32e-03	2.93e-02	50	54
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - interactions of rev with host cellular proteins	up-down	1.98	-1.72	4.75e-03	3.65e-02	27	30
+Lung cancer	Alzheimer's disease	Canonical Pathways	reactome - pcna dependent long patch base excision repair	up-down	1.75	-1.7	3.56e-02	4.80e-02	20	20

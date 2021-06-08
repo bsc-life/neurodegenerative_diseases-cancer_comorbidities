@@ -1,0 +1,18 @@
+disease	color
+Parkinson's disease	#DFA64F
+Alzheimer's disease	#DFA64F
+Brain cancer	#8D99D0
+Kidney cancer	#8D99D0
+Stomach cancer	#8D99D0
+Thyroid cancer	#8D99D0
+Breast cancer	#8D99D0
+Chronic lymphocytic leukemia	#8D99D0
+Lung cancer	#8D99D0
+Prostate cancer	#8D99D0
+Bladder cancer	#8D99D0
+Cervical cancer	#8D99D0
+Colorectal cancer	#8D99D0
+Head and neck cancer	#8D99D0
+Liver cancer	#8D99D0
+Pancreatic cancer	#8D99D0
+Skin cancer melanoma	#8D99D0

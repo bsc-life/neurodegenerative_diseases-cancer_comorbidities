@@ -1,0 +1,21 @@
+disease1	disease2	interaction	size
+Parkinson's disease	Brain cancer	#3C58A8	2
+Parkinson's disease	Kidney cancer	#3C58A8	2
+Parkinson's disease	Stomach cancer	#3C58A8	2
+Parkinson's disease	Thyroid cancer	#3C58A8	2
+Alzheimer's disease	Brain cancer	#3C58A8	2
+Alzheimer's disease	Thyroid cancer	#3C58A8	2
+Parkinson's disease	Breast cancer	#D54F4F	2
+Parkinson's disease	Chronic lymphocytic leukemia	#D54F4F	2
+Parkinson's disease	Lung cancer	#D54F4F	2
+Parkinson's disease	Prostate cancer	#D54F4F	2
+Alzheimer's disease	Bladder cancer	#D54F4F	2
+Alzheimer's disease	Breast cancer	#D54F4F	2
+Alzheimer's disease	Cervical cancer	#D54F4F	2
+Alzheimer's disease	Colorectal cancer	#D54F4F	2
+Alzheimer's disease	Head and neck cancer	#D54F4F	2
+Alzheimer's disease	Lung cancer	#D54F4F	2
+Alzheimer's disease	Liver cancer	#D54F4F	2
+Alzheimer's disease	Pancreatic cancer	#D54F4F	2
+Alzheimer's disease	Prostate cancer	#D54F4F	2
+Alzheimer's disease	Skin cancer melanoma	#D54F4F	2

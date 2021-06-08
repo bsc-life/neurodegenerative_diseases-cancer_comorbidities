@@ -1,0 +1,514 @@
+disease.1	disease.2	category	pathway	overlap	nes.1	nes.2	fdr.1	fdr.2	genes.1	ngenes.2
+Colorectal cancer	Alzheimer's disease	HallMark	allograft rejection	down-up	-1.59	2.09	1.71e-03	7.03e-08	171	186
+Colorectal cancer	Alzheimer's disease	HallMark	myogenesis	down-up	-1.51	1.85	3.34e-03	1.64e-05	163	194
+Colorectal cancer	Alzheimer's disease	HallMark	kras signaling up	down-up	-1.31	1.43	4.90e-02	1.10e-02	161	190
+Colorectal cancer	Alzheimer's disease	HallMark	myc targets v1	up-down	3.15	-2.54	8.33e-10	2.50e-09	157	182
+Colorectal cancer	Alzheimer's disease	HallMark	mtorc1 signaling	up-down	2.39	-2.19	8.33e-10	6.78e-09	167	191
+Colorectal cancer	Alzheimer's disease	HallMark	dna repair	up-down	2.3	-2.01	3.51e-09	9.30e-06	123	128
+Colorectal cancer	Alzheimer's disease	HallMark	unfolded protein response	up-down	2.46	-1.99	8.33e-10	2.28e-05	89	105
+Colorectal cancer	Alzheimer's disease	HallMark	uv response up	up-down	1.45	-1.48	2.41e-02	1.49e-02	140	152
+Colorectal cancer	Alzheimer's disease	HallMark	myc targets v2	up-down	2.75	-1.57	8.33e-10	1.99e-02	46	52
+Colorectal cancer	Alzheimer's disease	Gene Ontology	adaptive immune response	down-up	-1.85	2.36	3.33e-07	5.63e-09	317	320
+Colorectal cancer	Alzheimer's disease	Gene Ontology	alpha beta t cell activation	down-up	-1.54	2.49	1.93e-02	5.63e-09	106	106
+Colorectal cancer	Alzheimer's disease	Gene Ontology	biological adhesion	down-up	-1.43	1.92	4.14e-06	5.63e-09	1086	1084
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cell activation	down-up	-1.48	1.77	5.55e-07	5.63e-09	1072	1094
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cell cell adhesion	down-up	-1.42	1.87	8.22e-05	5.63e-09	654	633
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cell surface	down-up	-1.45	2.11	4.66e-05	5.63e-09	676	667
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cytokine production	down-up	-1.33	2.04	5.67e-03	5.63e-09	611	607
+Colorectal cancer	Alzheimer's disease	Gene Ontology	defense response	down-up	-1.28	1.66	1.13e-03	5.63e-09	1229	1216
+Colorectal cancer	Alzheimer's disease	Gene Ontology	external side of plasma membrane	down-up	-1.75	2.31	3.50e-05	5.63e-09	256	258
+Colorectal cancer	Alzheimer's disease	Gene Ontology	immune receptor activity	down-up	-1.67	2.8	5.01e-03	5.63e-09	98	104
+Colorectal cancer	Alzheimer's disease	Gene Ontology	inflammatory response	down-up	-1.45	2.04	1.87e-04	5.63e-09	584	567
+Colorectal cancer	Alzheimer's disease	Gene Ontology	intrinsic component of plasma membrane	down-up	-1.67	1.56	7.83e-09	5.63e-09	1364	1295
+Colorectal cancer	Alzheimer's disease	Gene Ontology	leukocyte cell cell adhesion	down-up	-1.59	2.21	6.57e-04	5.63e-09	271	281
+Colorectal cancer	Alzheimer's disease	Gene Ontology	leukocyte differentiation	down-up	-1.39	2.14	5.53e-03	5.63e-09	416	416
+Colorectal cancer	Alzheimer's disease	Gene Ontology	leukocyte migration	down-up	-1.58	2.09	1.79e-04	5.63e-09	354	373
+Colorectal cancer	Alzheimer's disease	Gene Ontology	leukocyte proliferation	down-up	-1.63	2.21	9.55e-04	5.63e-09	244	246
+Colorectal cancer	Alzheimer's disease	Gene Ontology	lymphocyte activation	down-up	-1.57	2.09	6.45e-06	5.63e-09	534	529
+Colorectal cancer	Alzheimer's disease	Gene Ontology	lymphocyte differentiation	down-up	-1.5	2.24	4.18e-03	5.63e-09	281	283
+Colorectal cancer	Alzheimer's disease	Gene Ontology	molecular transducer activity	down-up	-1.71	2.28	7.83e-09	5.63e-09	914	853
+Colorectal cancer	Alzheimer's disease	Gene Ontology	negative regulation of immune system process	down-up	-1.53	2.04	7.86e-04	5.63e-09	350	357
+Colorectal cancer	Alzheimer's disease	Gene Ontology	negative regulation of multicellular organismal process	down-up	-1.19	1.8	2.62e-02	5.63e-09	971	967
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of developmental process	down-up	-1.21	1.66	9.27e-03	5.63e-09	1098	1092
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of immune system process	down-up	-1.53	1.71	2.27e-07	5.63e-09	821	843
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of multicellular organismal process	down-up	-1.21	1.51	5.44e-03	5.63e-09	1405	1412
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of cell activation	down-up	-1.47	2.11	1.20e-03	5.63e-09	430	432
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of cell adhesion	down-up	-1.44	1.83	3.23e-04	5.63e-09	534	563
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of immune system process	down-up	-1.55	1.83	7.83e-09	5.63e-09	1165	1185
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte proliferation	down-up	-1.65	2.38	1.13e-03	5.63e-09	185	183
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of lymphocyte activation	down-up	-1.41	2.09	7.96e-03	5.63e-09	340	337
+Colorectal cancer	Alzheimer's disease	Gene Ontology	t cell activation	down-up	-1.67	2.18	1.15e-05	5.63e-09	369	373
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell adhesion	down-up	-1.37	2	1.92e-02	8.21e-09	318	333
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cytokine receptor activity	down-up	-1.54	2.6	4.71e-02	1.33e-08	82	84
+Colorectal cancer	Alzheimer's disease	Gene Ontology	negative regulation of cytokine production	down-up	-1.46	2.12	1.43e-02	1.83e-08	216	220
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of cell cell adhesion	down-up	-1.45	1.96	8.99e-03	2.37e-08	323	332
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cytokine binding	down-up	-1.49	2.4	3.80e-02	5.18e-08	112	111
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of immune response	down-up	-1.58	1.62	1.90e-07	6.55e-08	756	775
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell activation	down-up	-1.43	2.06	3.10e-02	7.28e-08	255	263
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of t cell activation	down-up	-1.58	2.07	8.24e-04	9.03e-08	252	256
+Colorectal cancer	Alzheimer's disease	Gene Ontology	t cell proliferation	down-up	-1.61	2.21	6.66e-03	1.66e-07	154	154
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of intracellular signal transduction	down-up	-1.23	1.6	2.55e-02	1.67e-07	810	794
+Colorectal cancer	Alzheimer's disease	Gene Ontology	receptor complex	down-up	-1.67	1.93	3.02e-05	1.67e-07	329	323
+Colorectal cancer	Alzheimer's disease	Gene Ontology	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	down-up	-1.42	2.02	3.95e-02	3.03e-07	205	206
+Colorectal cancer	Alzheimer's disease	Gene Ontology	g protein coupled receptor activity	down-up	-1.49	1.86	1.61e-03	7.50e-07	397	345
+Colorectal cancer	Alzheimer's disease	Gene Ontology	side of membrane	down-up	-1.65	1.8	8.96e-06	7.99e-07	408	407
+Colorectal cancer	Alzheimer's disease	Gene Ontology	b cell differentiation	down-up	-1.58	2.27	1.83e-02	1.85e-06	101	102
+Colorectal cancer	Alzheimer's disease	Gene Ontology	t cell activation involved in immune response	down-up	-1.65	2.34	1.83e-02	1.85e-06	80	79
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of locomotion	down-up	-1.25	1.66	3.22e-02	1.96e-06	459	467
+Colorectal cancer	Alzheimer's disease	Gene Ontology	signaling receptor binding	down-up	-1.15	1.4	3.20e-02	5.03e-06	1191	1185
+Colorectal cancer	Alzheimer's disease	Gene Ontology	pattern recognition receptor signaling pathway	down-up	-1.54	2.04	9.06e-03	7.18e-06	156	154
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of mapk cascade	down-up	-1.36	1.65	1.28e-02	1.08e-05	424	437
+Colorectal cancer	Alzheimer's disease	Gene Ontology	immune effector process	down-up	-1.27	1.43	4.71e-03	2.07e-05	890	924
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of leukocyte proliferation	down-up	-1.66	2.12	8.47e-03	2.09e-05	115	109
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of immune response	down-up	-1.47	1.54	9.27e-05	2.32e-05	592	609
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cell chemotaxis	down-up	-1.36	1.81	4.19e-02	2.70e-05	233	246
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell differentiation	down-up	-1.32	1.47	8.92e-04	3.67e-05	788	794
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of t cell proliferation	down-up	-1.74	2.13	7.09e-03	4.59e-05	78	75
+Colorectal cancer	Alzheimer's disease	Gene Ontology	toll like receptor signaling pathway	down-up	-1.61	2.02	1.37e-02	4.88e-05	118	115
+Colorectal cancer	Alzheimer's disease	Gene Ontology	coagulation	down-up	-1.39	1.72	2.40e-02	5.27e-05	263	285
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of response to external stimulus	down-up	-1.33	1.45	9.54e-04	5.45e-05	843	845
+Colorectal cancer	Alzheimer's disease	Gene Ontology	anchoring junction	down-up	-1.33	1.46	1.35e-03	1.01e-04	654	659
+Colorectal cancer	Alzheimer's disease	Gene Ontology	taxis	down-up	-1.37	1.5	7.89e-03	1.96e-04	516	516
+Colorectal cancer	Alzheimer's disease	Gene Ontology	phagocytosis	down-up	-1.56	1.72	6.33e-03	2.79e-04	199	214
+Colorectal cancer	Alzheimer's disease	Gene Ontology	myeloid leukocyte migration	down-up	-1.59	1.75	4.80e-03	3.93e-04	165	175
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of cell killing	down-up	-1.63	1.96	1.19e-02	4.95e-04	73	75
+Colorectal cancer	Alzheimer's disease	Gene Ontology	b cell receptor signaling pathway	down-up	-2.11	2.12	5.02e-04	5.33e-04	46	43
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of leukocyte migration	down-up	-1.59	1.88	1.20e-02	6.33e-04	110	114
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of response to external stimulus	down-up	-1.38	1.43	1.44e-03	6.57e-04	495	498
+Colorectal cancer	Alzheimer's disease	Gene Ontology	activation of immune response	down-up	-1.62	1.49	6.78e-06	6.97e-04	459	475
+Colorectal cancer	Alzheimer's disease	Gene Ontology	t cell selection	down-up	-1.78	2.14	2.14e-02	7.13e-04	41	41
+Colorectal cancer	Alzheimer's disease	Gene Ontology	muscle system process	down-up	-1.77	1.54	1.18e-06	7.21e-04	352	374
+Colorectal cancer	Alzheimer's disease	Gene Ontology	interferon gamma production	down-up	-1.69	1.9	9.10e-03	7.57e-04	89	87
+Colorectal cancer	Alzheimer's disease	Gene Ontology	circulatory system process	down-up	-1.72	1.47	9.34e-07	9.98e-04	440	462
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of antigen receptor mediated signaling pathway	down-up	-1.66	2.06	4.13e-02	1.29e-03	47	49
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of defense response	down-up	-1.29	1.42	9.89e-03	1.42e-03	591	577
+Colorectal cancer	Alzheimer's disease	Gene Ontology	leukocyte chemotaxis	down-up	-1.43	1.63	2.70e-02	1.63e-03	177	185
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of mapk cascade	down-up	-1.25	1.4	3.72e-02	1.88e-03	584	594
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte mediated cytotoxicity	down-up	-1.68	1.97	2.88e-02	1.92e-03	58	57
+Colorectal cancer	Alzheimer's disease	Gene Ontology	inositol lipid mediated signaling	down-up	-1.45	1.69	3.93e-02	1.98e-03	150	162
+Colorectal cancer	Alzheimer's disease	Gene Ontology	immunoglobulin binding	down-up	-2.15	2.16	3.90e-03	2.14e-03	15	19
+Colorectal cancer	Alzheimer's disease	Gene Ontology	protein kinase b signaling	down-up	-1.42	1.66	3.34e-02	2.33e-03	198	212
+Colorectal cancer	Alzheimer's disease	Gene Ontology	lipid binding	down-up	-1.65	1.39	2.31e-07	2.35e-03	582	530
+Colorectal cancer	Alzheimer's disease	Gene Ontology	muscle contraction	down-up	-1.75	1.55	2.65e-05	2.42e-03	282	299
+Colorectal cancer	Alzheimer's disease	Gene Ontology	steroid hormone receptor activity	down-up	-2.01	1.95	1.20e-03	3.47e-03	51	52
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell killing	down-up	-1.75	1.95	2.65e-02	3.53e-03	53	52
+Colorectal cancer	Alzheimer's disease	Gene Ontology	mhc protein complex	down-up	-1.95	2.05	2.14e-02	3.64e-03	11	13
+Colorectal cancer	Alzheimer's disease	Gene Ontology	leukocyte mediated immunity	down-up	-1.34	1.33	2.40e-03	3.74e-03	589	622
+Colorectal cancer	Alzheimer's disease	Gene Ontology	immune response regulating signaling pathway	down-up	-1.81	1.43	6.63e-08	3.82e-03	427	438
+Colorectal cancer	Alzheimer's disease	Gene Ontology	apical plasma membrane	down-up	-1.57	1.55	1.07e-03	3.99e-03	271	256
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of interferon gamma production	down-up	-1.66	1.96	3.93e-02	4.27e-03	52	50
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte migration	down-up	-1.77	1.65	3.72e-04	4.48e-03	159	164
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cell cell junction	down-up	-1.39	1.45	7.15e-03	4.73e-03	393	379
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of toll like receptor signaling pathway	down-up	-1.9	1.89	2.64e-03	4.88e-03	55	51
+Colorectal cancer	Alzheimer's disease	Gene Ontology	myeloid leukocyte activation	down-up	-1.43	1.35	4.53e-04	5.15e-03	495	528
+Colorectal cancer	Alzheimer's disease	Gene Ontology	plasma membrane signaling receptor complex	down-up	-1.5	1.61	1.63e-02	5.64e-03	160	150
+Colorectal cancer	Alzheimer's disease	Gene Ontology	antigen binding	down-up	-1.85	1.92	2.13e-02	6.47e-03	31	38
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of cytosolic calcium ion concentration	down-up	-1.55	1.49	2.34e-03	6.56e-03	289	304
+Colorectal cancer	Alzheimer's disease	Gene Ontology	g protein coupled receptor signaling pathway	down-up	-1.4	1.3	2.97e-04	7.10e-03	789	726
+Colorectal cancer	Alzheimer's disease	Gene Ontology	actin filament based process	down-up	-1.48	1.31	1.36e-04	7.12e-03	600	589
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ligand activated transcription factor activity	down-up	-1.91	1.87	7.56e-03	7.64e-03	41	45
+Colorectal cancer	Alzheimer's disease	Gene Ontology	leukocyte mediated cytotoxicity	down-up	-1.55	1.75	4.45e-02	7.90e-03	80	82
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cell activation involved in immune response	down-up	-1.39	1.31	2.44e-03	8.80e-03	537	566
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ammonium transmembrane transporter activity	down-up	-1.79	1.97	4.51e-02	1.33e-02	23	20
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of leukocyte mediated cytotoxicity	down-up	-1.73	1.84	3.24e-02	1.37e-02	41	41
+Colorectal cancer	Alzheimer's disease	Gene Ontology	metal ion homeostasis	down-up	-1.56	1.3	2.79e-05	1.57e-02	533	538
+Colorectal cancer	Alzheimer's disease	Gene Ontology	sarcolemma	down-up	-1.95	1.53	8.26e-05	1.68e-02	116	115
+Colorectal cancer	Alzheimer's disease	Gene Ontology	actin cytoskeleton	down-up	-1.59	1.34	8.38e-05	2.10e-02	401	391
+Colorectal cancer	Alzheimer's disease	Gene Ontology	apical part of cell	down-up	-1.51	1.41	2.34e-03	2.11e-02	324	311
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of intracellular signal transduction	down-up	-1.22	1.18	5.72e-03	2.38e-02	1434	1400
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of blood pressure	down-up	-1.88	1.45	7.00e-05	2.65e-02	149	161
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of peptide secretion	down-up	-1.31	1.31	3.57e-02	2.81e-02	396	391
+Colorectal cancer	Alzheimer's disease	Gene Ontology	steroid binding	down-up	-1.94	1.57	5.75e-04	3.16e-02	84	79
+Colorectal cancer	Alzheimer's disease	Gene Ontology	negative regulation of antigen processing and presentation	down-up	-1.87	1.8	1.92e-02	3.29e-02	7	8
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte chemotaxis	down-up	-1.59	1.55	2.08e-02	3.32e-02	93	98
+Colorectal cancer	Alzheimer's disease	Gene Ontology	plasma membrane protein complex	down-up	-1.84	1.29	7.83e-09	3.33e-02	474	441
+Colorectal cancer	Alzheimer's disease	Gene Ontology	nucleotide receptor activity	down-up	-2.52	1.8	6.78e-06	3.39e-02	17	15
+Colorectal cancer	Alzheimer's disease	Gene Ontology	purinergic nucleotide receptor signaling pathway	down-up	-2.39	1.8	1.28e-04	3.39e-02	18	15
+Colorectal cancer	Alzheimer's disease	Gene Ontology	g protein coupled nucleotide receptor activity	down-up	-2.33	1.76	5.60e-05	3.94e-02	12	10
+Colorectal cancer	Alzheimer's disease	Gene Ontology	g protein coupled purinergic nucleotide receptor signaling pathway	down-up	-2.33	1.76	5.60e-05	3.94e-02	12	10
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cellular response to organic cyclic compound	down-up	-1.25	1.27	3.04e-02	4.04e-02	499	509
+Colorectal cancer	Alzheimer's disease	Gene Ontology	organic hydroxy compound transmembrane transporter activity	down-up	-1.78	1.71	2.97e-02	4.88e-02	34	32
+Colorectal cancer	Alzheimer's disease	Gene Ontology	amide biosynthetic process	up-down	1.96	-2.19	7.83e-09	5.63e-09	590	566
+Colorectal cancer	Alzheimer's disease	Gene Ontology	anaphase promoting complex dependent catabolic process	up-down	2.26	-2.58	3.85e-06	5.63e-09	66	67
+Colorectal cancer	Alzheimer's disease	Gene Ontology	catalytic activity acting on rna	up-down	2.69	-2.15	7.83e-09	5.63e-09	292	257
+Colorectal cancer	Alzheimer's disease	Gene Ontology	catalytic complex	up-down	1.77	-2.04	7.83e-09	5.63e-09	1066	990
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cellular amide metabolic process	up-down	1.63	-1.91	2.46e-07	5.63e-09	787	770
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cellular macromolecule catabolic process	up-down	1.58	-1.75	1.40e-06	5.63e-09	884	816
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cellular macromolecule localization	up-down	1.23	-1.71	2.34e-02	5.63e-09	1477	1416
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cellular protein containing complex assembly	up-down	1.74	-2.06	7.83e-09	5.63e-09	766	747
+Colorectal cancer	Alzheimer's disease	Gene Ontology	envelope	up-down	1.31	-2.48	1.50e-02	5.63e-09	933	826
+Colorectal cancer	Alzheimer's disease	Gene Ontology	hydrolase activity acting on acid anhydrides	up-down	1.48	-1.84	4.89e-04	5.63e-09	643	613
+Colorectal cancer	Alzheimer's disease	Gene Ontology	intracellular protein transport	up-down	1.31	-1.94	2.07e-02	5.63e-09	847	833
+Colorectal cancer	Alzheimer's disease	Gene Ontology	mitochondrial gene expression	up-down	2.39	-2.89	7.83e-09	5.63e-09	144	109
+Colorectal cancer	Alzheimer's disease	Gene Ontology	mitochondrial matrix	up-down	1.56	-2.5	9.85e-04	5.63e-09	377	343
+Colorectal cancer	Alzheimer's disease	Gene Ontology	mitochondrial translation	up-down	2.41	-2.91	7.83e-09	5.63e-09	122	92
+Colorectal cancer	Alzheimer's disease	Gene Ontology	mitochondrial translational termination	up-down	2.09	-2.71	5.93e-05	5.63e-09	79	58
+Colorectal cancer	Alzheimer's disease	Gene Ontology	modification dependent macromolecule catabolic process	up-down	1.39	-2.14	2.04e-02	5.63e-09	489	426
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ncrna metabolic process	up-down	2.92	-2.18	7.83e-09	5.63e-09	353	313
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ncrna processing	up-down	2.91	-2.13	7.83e-09	5.63e-09	288	264
+Colorectal cancer	Alzheimer's disease	Gene Ontology	organellar ribosome	up-down	2.13	-2.77	1.45e-05	5.63e-09	78	56
+Colorectal cancer	Alzheimer's disease	Gene Ontology	organonitrogen compound biosynthetic process	up-down	1.4	-1.72	9.64e-05	5.63e-09	1364	1277
+Colorectal cancer	Alzheimer's disease	Gene Ontology	peptidase complex	up-down	2.11	-2.57	4.56e-05	5.63e-09	71	71
+Colorectal cancer	Alzheimer's disease	Gene Ontology	peptide biosynthetic process	up-down	2.23	-2.15	7.83e-09	5.63e-09	477	461
+Colorectal cancer	Alzheimer's disease	Gene Ontology	peptide metabolic process	up-down	1.92	-1.95	7.83e-09	5.63e-09	583	576
+Colorectal cancer	Alzheimer's disease	Gene Ontology	protein containing complex assembly	up-down	1.5	-1.67	1.53e-07	5.63e-09	1363	1324
+Colorectal cancer	Alzheimer's disease	Gene Ontology	protein modification by small protein conjugation	up-down	1.6	-2.04	2.41e-06	5.63e-09	710	616
+Colorectal cancer	Alzheimer's disease	Gene Ontology	protein modification by small protein conjugation or removal	up-down	1.63	-2.03	7.38e-08	5.63e-09	851	748
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex	up-down	2.6	-2.11	7.83e-09	5.63e-09	501	480
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex biogenesis	up-down	3.09	-2.33	7.83e-09	5.63e-09	314	315
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ribosome biogenesis	up-down	3.02	-2.23	7.83e-09	5.63e-09	210	211
+Colorectal cancer	Alzheimer's disease	Gene Ontology	rna binding	up-down	2.55	-1.84	7.83e-09	5.63e-09	1238	1178
+Colorectal cancer	Alzheimer's disease	Gene Ontology	rna processing	up-down	2.67	-1.83	7.83e-09	5.63e-09	697	653
+Colorectal cancer	Alzheimer's disease	Gene Ontology	translational elongation	up-down	2.1	-2.73	6.59e-06	5.63e-09	110	90
+Colorectal cancer	Alzheimer's disease	Gene Ontology	translational termination	up-down	2.23	-2.76	9.31e-07	5.63e-09	93	72
+Colorectal cancer	Alzheimer's disease	Gene Ontology	trna metabolic process	up-down	2.68	-2.47	7.83e-09	5.63e-09	146	126
+Colorectal cancer	Alzheimer's disease	Gene Ontology	endopeptidase complex	up-down	2.2	-2.61	1.76e-05	5.80e-09	55	55
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ribosome	up-down	2.35	-2.33	7.83e-09	7.59e-09	157	149
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cellular amino acid metabolic process	up-down	1.88	-2.11	1.37e-06	7.85e-09	270	257
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cellular protein complex disassembly	up-down	1.6	-2.27	1.04e-02	9.23e-09	179	160
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ribosomal subunit	up-down	2.35	-2.35	7.83e-09	1.83e-08	122	121
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of cell cycle g2 m phase transition	up-down	2.35	-2.18	7.83e-09	3.66e-08	171	173
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of cellular amino acid metabolic process	up-down	2.04	-2.56	9.36e-04	6.99e-08	50	52
+Colorectal cancer	Alzheimer's disease	Gene Ontology	catalytic activity acting on a trna	up-down	2.5	-2.42	7.83e-09	8.71e-08	96	83
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ribonucleotide binding	up-down	1.38	-1.54	1.14e-04	1.28e-07	1437	1386
+Colorectal cancer	Alzheimer's disease	Gene Ontology	nucleolus	up-down	2.45	-1.72	7.83e-09	1.33e-07	709	667
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cell cycle g2 m phase transition	up-down	2.2	-2.07	7.83e-09	1.64e-07	215	218
+Colorectal cancer	Alzheimer's disease	Gene Ontology	protein polyubiquitination	up-down	1.45	-2.06	2.96e-02	1.83e-07	254	219
+Colorectal cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell cycle g2 m phase transition	up-down	2.16	-2.33	7.26e-06	3.09e-07	85	84
+Colorectal cancer	Alzheimer's disease	Gene Ontology	protein modification by small protein removal	up-down	1.82	-2.03	1.06e-04	4.07e-07	221	218
+Colorectal cancer	Alzheimer's disease	Gene Ontology	protein localization to organelle	up-down	1.64	-1.65	1.78e-06	5.09e-07	716	715
+Colorectal cancer	Alzheimer's disease	Gene Ontology	establishment of protein localization to organelle	up-down	1.52	-1.8	2.12e-03	5.78e-07	413	434
+Colorectal cancer	Alzheimer's disease	Gene Ontology	transferase complex	up-down	1.79	-1.71	7.83e-09	9.44e-07	623	565
+Colorectal cancer	Alzheimer's disease	Gene Ontology	mitochondrial large ribosomal subunit	up-down	1.91	-2.46	5.93e-03	1.25e-06	50	35
+Colorectal cancer	Alzheimer's disease	Gene Ontology	posttranscriptional regulation of gene expression	up-down	2.08	-1.81	7.83e-09	1.32e-06	451	445
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of cellular amine metabolic process	up-down	1.7	-2.36	2.41e-02	1.50e-06	66	70
+Colorectal cancer	Alzheimer's disease	Gene Ontology	structural constituent of ribosome	up-down	2.32	-2.22	5.35e-08	1.75e-06	103	105
+Colorectal cancer	Alzheimer's disease	Gene Ontology	organelle localization	up-down	1.56	-1.73	3.42e-04	2.02e-06	480	479
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ligase activity	up-down	1.9	-2.2	4.95e-04	2.05e-06	111	101
+Colorectal cancer	Alzheimer's disease	Gene Ontology	rrna metabolic process	up-down	2.85	-2.1	7.83e-09	2.09e-06	165	158
+Colorectal cancer	Alzheimer's disease	Gene Ontology	amino acid activation	up-down	2.2	-2.44	6.83e-05	2.63e-06	36	36
+Colorectal cancer	Alzheimer's disease	Gene Ontology	transcription coupled nucleotide excision repair	up-down	2.3	-2.29	1.39e-06	2.80e-06	59	65
+Colorectal cancer	Alzheimer's disease	Gene Ontology	mrna metabolic process	up-down	2.44	-1.67	7.83e-09	2.87e-06	624	614
+Colorectal cancer	Alzheimer's disease	Gene Ontology	unfolded protein binding	up-down	2.1	-2.22	3.11e-05	3.94e-06	81	84
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex subunit organization	up-down	2.72	-2.07	7.83e-09	5.07e-06	146	151
+Colorectal cancer	Alzheimer's disease	Gene Ontology	protein folding	up-down	1.84	-2.04	2.60e-04	5.43e-06	157	157
+Colorectal cancer	Alzheimer's disease	Gene Ontology	large ribosomal subunit	up-down	2.12	-2.25	1.61e-05	6.16e-06	78	73
+Colorectal cancer	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton	up-down	1.79	-1.56	7.83e-09	7.96e-06	938	836
+Colorectal cancer	Alzheimer's disease	Gene Ontology	microtubule	up-down	1.64	-1.84	7.00e-04	8.19e-06	307	284
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of transcription from rna polymerase ii promoter in response to hypoxia	up-down	1.82	-2.27	8.70e-03	8.83e-06	63	70
+Colorectal cancer	Alzheimer's disease	Gene Ontology	adenyl nucleotide binding	up-down	1.51	-1.48	1.17e-06	1.24e-05	1189	1147
+Colorectal cancer	Alzheimer's disease	Gene Ontology	macromolecule catabolic process	up-down	1.54	-1.5	6.24e-07	1.71e-05	1069	998
+Colorectal cancer	Alzheimer's disease	Gene Ontology	mitochondrial small ribosomal subunit	up-down	1.87	-2.35	1.57e-02	2.08e-05	26	21
+Colorectal cancer	Alzheimer's disease	Gene Ontology	microtubule based process	up-down	1.76	-1.66	4.83e-08	2.64e-05	573	513
+Colorectal cancer	Alzheimer's disease	Gene Ontology	proteasome accessory complex	up-down	1.99	-2.35	4.87e-03	2.73e-05	22	23
+Colorectal cancer	Alzheimer's disease	Gene Ontology	trna processing	up-down	2.48	-2.11	7.83e-09	3.53e-05	107	89
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ligase activity forming carbon oxygen bonds	up-down	2.15	-2.32	5.24e-04	4.02e-05	31	30
+Colorectal cancer	Alzheimer's disease	Gene Ontology	rna splicing via transesterification reactions	up-down	2.44	-1.79	7.83e-09	4.97e-05	273	261
+Colorectal cancer	Alzheimer's disease	Gene Ontology	rna catabolic process	up-down	2.27	-1.74	7.83e-09	6.04e-05	285	294
+Colorectal cancer	Alzheimer's disease	Gene Ontology	protein containing complex localization	up-down	1.86	-1.8	1.89e-05	8.83e-05	219	214
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex binding	up-down	2.17	-2.02	1.75e-06	9.86e-05	104	97
+Colorectal cancer	Alzheimer's disease	Gene Ontology	nucleotide excision repair	up-down	2.34	-2.06	9.88e-08	1.14e-04	90	94
+Colorectal cancer	Alzheimer's disease	Gene Ontology	rna localization	up-down	2.59	-1.83	7.83e-09	1.67e-04	171	176
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of mrna catabolic process	up-down	1.92	-1.88	5.03e-05	1.99e-04	155	156
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cellular component disassembly	up-down	1.37	-1.64	4.72e-02	2.39e-04	446	414
+Colorectal cancer	Alzheimer's disease	Gene Ontology	nuclear envelope	up-down	1.64	-1.66	1.95e-04	2.51e-04	376	357
+Colorectal cancer	Alzheimer's disease	Gene Ontology	drug binding	up-down	1.47	-1.4	4.90e-06	2.88e-04	1323	1289
+Colorectal cancer	Alzheimer's disease	Gene Ontology	proteasomal ubiquitin independent protein catabolic process	up-down	1.79	-2.15	3.65e-02	2.89e-04	17	18
+Colorectal cancer	Alzheimer's disease	Gene Ontology	translation factor activity rna binding	up-down	1.99	-2.1	9.11e-04	3.19e-04	63	62
+Colorectal cancer	Alzheimer's disease	Gene Ontology	establishment of organelle localization	up-down	1.47	-1.69	1.11e-02	3.31e-04	312	316
+Colorectal cancer	Alzheimer's disease	Gene Ontology	trna binding	up-down	2.26	-2.15	7.17e-06	3.88e-04	49	38
+Colorectal cancer	Alzheimer's disease	Gene Ontology	telomerase rna localization	up-down	2.19	-2.12	2.63e-04	4.42e-04	17	16
+Colorectal cancer	Alzheimer's disease	Gene Ontology	tubulin binding	up-down	1.47	-1.73	1.93e-02	4.80e-04	257	245
+Colorectal cancer	Alzheimer's disease	Gene Ontology	retrograde vesicle mediated transport golgi to endoplasmic reticulum	up-down	1.66	-1.98	3.98e-02	4.85e-04	63	71
+Colorectal cancer	Alzheimer's disease	Gene Ontology	atpase activity	up-down	2.16	-1.66	7.83e-09	5.30e-04	326	320
+Colorectal cancer	Alzheimer's disease	Gene Ontology	post translational protein modification	up-down	1.52	-1.67	5.44e-03	5.94e-04	296	270
+Colorectal cancer	Alzheimer's disease	Gene Ontology	interleukin 1 mediated signaling pathway	up-down	1.71	-1.96	1.24e-02	5.98e-04	84	88
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cytoplasmic translation	up-down	1.95	-1.99	6.76e-04	6.45e-04	64	68
+Colorectal cancer	Alzheimer's disease	Gene Ontology	spliceosomal tri snrnp complex	up-down	2.29	-2.13	2.89e-05	8.09e-04	26	27
+Colorectal cancer	Alzheimer's disease	Gene Ontology	trna modification	up-down	2.3	-1.96	1.25e-06	8.15e-04	76	58
+Colorectal cancer	Alzheimer's disease	Gene Ontology	nucleotide excision repair dna damage recognition	up-down	1.77	-2.13	4.94e-02	8.98e-04	22	23
+Colorectal cancer	Alzheimer's disease	Gene Ontology	microtubule based movement	up-down	1.55	-1.73	8.39e-03	9.22e-04	213	178
+Colorectal cancer	Alzheimer's disease	Gene Ontology	rna splicing	up-down	2.33	-1.63	7.83e-09	1.06e-03	336	320
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of telomerase rna localization to cajal body	up-down	2.1	-2.09	1.13e-03	1.14e-03	13	12
+Colorectal cancer	Alzheimer's disease	Gene Ontology	mrna processing	up-down	2.37	-1.6	7.83e-09	1.21e-03	386	365
+Colorectal cancer	Alzheimer's disease	Gene Ontology	sm like protein family complex	up-down	2.49	-1.93	1.36e-08	1.40e-03	61	58
+Colorectal cancer	Alzheimer's disease	Gene Ontology	translation regulator activity nucleic acid binding	up-down	1.93	-1.93	1.70e-03	1.50e-03	76	76
+Colorectal cancer	Alzheimer's disease	Gene Ontology	u2 type spliceosomal complex	up-down	2.31	-1.93	1.08e-06	1.70e-03	72	70
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cell cycle phase transition	up-down	2.32	-1.49	7.83e-09	1.81e-03	484	479
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of establishment of planar polarity	up-down	1.82	-1.88	3.57e-03	2.02e-03	96	88
+Colorectal cancer	Alzheimer's disease	Gene Ontology	nuclear transcribed mrna catabolic process exonucleolytic	up-down	2.2	-2.03	1.51e-04	2.05e-03	29	29
+Colorectal cancer	Alzheimer's disease	Gene Ontology	small ribosomal subunit	up-down	2.15	-1.97	8.75e-05	2.07e-03	47	52
+Colorectal cancer	Alzheimer's disease	Gene Ontology	preribosome	up-down	2.78	-1.97	7.83e-09	2.33e-03	57	53
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of mitochondrial translation	up-down	1.99	-2.06	4.78e-03	2.34e-03	16	10
+Colorectal cancer	Alzheimer's disease	Gene Ontology	kinetochore	up-down	2.7	-1.78	7.83e-09	2.90e-03	117	101
+Colorectal cancer	Alzheimer's disease	Gene Ontology	spliceosomal complex	up-down	2.35	-1.74	7.83e-09	3.09e-03	140	135
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of cell cycle phase transition	up-down	2.32	-1.54	7.83e-09	3.14e-03	359	351
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cellular nitrogen compound catabolic process	up-down	1.79	-1.49	1.22e-06	3.20e-03	424	427
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ribosomal large subunit biogenesis	up-down	2.38	-1.93	1.18e-06	3.39e-03	44	48
+Colorectal cancer	Alzheimer's disease	Gene Ontology	hematopoietic stem cell differentiation	up-down	2.08	-1.86	1.23e-04	3.48e-03	67	75
+Colorectal cancer	Alzheimer's disease	Gene Ontology	dna repair	up-down	2.75	-1.5	7.83e-09	3.85e-03	430	394
+Colorectal cancer	Alzheimer's disease	Gene Ontology	mitochondrial rna metabolic process	up-down	1.81	-1.94	1.15e-02	3.90e-03	36	32
+Colorectal cancer	Alzheimer's disease	Gene Ontology	spliceosomal snrnp assembly	up-down	2.48	-1.96	1.15e-07	4.45e-03	36	33
+Colorectal cancer	Alzheimer's disease	Gene Ontology	catalytic step 2 spliceosome	up-down	2.29	-1.83	6.20e-07	4.52e-03	70	64
+Colorectal cancer	Alzheimer's disease	Gene Ontology	translation regulator activity	up-down	1.79	-1.76	3.45e-03	4.68e-03	101	99
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of mitochondrial gene expression	up-down	1.9	-2	1.10e-02	5.04e-03	27	17
+Colorectal cancer	Alzheimer's disease	Gene Ontology	protein localization to chromosome telomeric region	up-down	2.23	-1.99	1.49e-04	5.08e-03	24	25
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of mrna metabolic process	up-down	1.96	-1.59	2.58e-07	5.10e-03	253	250
+Colorectal cancer	Alzheimer's disease	Gene Ontology	rna export from nucleus	up-down	2.6	-1.72	7.83e-09	5.26e-03	97	101
+Colorectal cancer	Alzheimer's disease	Gene Ontology	nuclear export	up-down	2.42	-1.66	7.83e-09	5.27e-03	147	148
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of dna templated transcription in response to stress	up-down	1.66	-1.73	1.07e-02	5.31e-03	99	104
+Colorectal cancer	Alzheimer's disease	Gene Ontology	translation initiation factor activity	up-down	1.99	-1.94	2.50e-03	5.47e-03	37	39
+Colorectal cancer	Alzheimer's disease	Gene Ontology	establishment of rna localization	up-down	2.41	-1.69	7.83e-09	5.52e-03	143	150
+Colorectal cancer	Alzheimer's disease	Gene Ontology	rna polymerase ii holoenzyme	up-down	2.03	-1.81	5.12e-04	5.53e-03	55	64
+Colorectal cancer	Alzheimer's disease	Gene Ontology	membrane docking	up-down	1.53	-1.71	3.71e-02	6.36e-03	146	142
+Colorectal cancer	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton organization	up-down	1.81	-1.49	5.62e-07	6.47e-03	427	389
+Colorectal cancer	Alzheimer's disease	Gene Ontology	organelle assembly	up-down	1.42	-1.41	4.55e-03	6.47e-03	629	571
+Colorectal cancer	Alzheimer's disease	Gene Ontology	rna polymerase complex	up-down	2.37	-1.81	1.02e-07	7.01e-03	77	83
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of microtubule based process	up-down	1.55	-1.62	1.13e-02	7.17e-03	175	166
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of establishment of protein localization to chromosome	up-down	1.99	-1.96	1.16e-03	7.48e-03	9	10
+Colorectal cancer	Alzheimer's disease	Gene Ontology	u2 type catalytic step 2 spliceosome	up-down	1.94	-1.91	6.66e-03	7.54e-03	25	24
+Colorectal cancer	Alzheimer's disease	Gene Ontology	organic cyclic compound catabolic process	up-down	1.7	-1.43	6.46e-06	8.02e-03	458	469
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of hematopoietic progenitor cell differentiation	up-down	2.11	-1.79	4.96e-05	8.23e-03	71	75
+Colorectal cancer	Alzheimer's disease	Gene Ontology	small nuclear ribonucleoprotein complex	up-down	2.35	-1.86	1.35e-06	9.04e-03	52	51
+Colorectal cancer	Alzheimer's disease	Gene Ontology	morphogenesis of a polarized epithelium	up-down	1.62	-1.68	2.55e-02	9.60e-03	119	113
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of protein localization to chromosome telomeric region	up-down	2.07	-1.91	1.04e-03	9.82e-03	10	11
+Colorectal cancer	Alzheimer's disease	Gene Ontology	small subunit processome	up-down	2.54	-1.86	8.13e-08	1.05e-02	29	28
+Colorectal cancer	Alzheimer's disease	Gene Ontology	nucleobase containing compound transport	up-down	2.07	-1.58	2.78e-07	1.06e-02	181	179
+Colorectal cancer	Alzheimer's disease	Gene Ontology	centrosome	up-down	2.03	-1.47	7.83e-09	1.10e-02	460	417
+Colorectal cancer	Alzheimer's disease	Gene Ontology	multi organism localization	up-down	1.92	-1.85	2.44e-03	1.11e-02	46	50
+Colorectal cancer	Alzheimer's disease	Gene Ontology	precatalytic spliceosome	up-down	2.17	-1.85	4.33e-05	1.13e-02	45	42
+Colorectal cancer	Alzheimer's disease	Gene Ontology	nuclear pore	up-down	2.6	-1.77	7.83e-09	1.14e-02	62	70
+Colorectal cancer	Alzheimer's disease	Gene Ontology	rrna binding	up-down	1.96	-1.84	3.79e-03	1.14e-02	42	44
+Colorectal cancer	Alzheimer's disease	Gene Ontology	cellular response to heat	up-down	2.29	-1.64	4.64e-07	1.17e-02	96	107
+Colorectal cancer	Alzheimer's disease	Gene Ontology	rna capping	up-down	1.84	-1.89	1.88e-02	1.19e-02	26	30
+Colorectal cancer	Alzheimer's disease	Gene Ontology	proteasome binding	up-down	2.15	-1.85	4.33e-04	1.24e-02	14	16
+Colorectal cancer	Alzheimer's disease	Gene Ontology	spindle organization	up-down	2.09	-1.66	1.65e-06	1.29e-02	132	127
+Colorectal cancer	Alzheimer's disease	Gene Ontology	microtubule binding	up-down	1.56	-1.54	1.04e-02	1.33e-02	190	178
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of telomere maintenance via telomere lengthening	up-down	1.94	-1.88	3.41e-03	1.34e-02	30	30
+Colorectal cancer	Alzheimer's disease	Gene Ontology	non canonical wnt signaling pathway	up-down	1.55	-1.64	4.53e-02	1.37e-02	124	119
+Colorectal cancer	Alzheimer's disease	Gene Ontology	methylosome	up-down	1.91	-1.88	8.65e-03	1.63e-02	11	12
+Colorectal cancer	Alzheimer's disease	Gene Ontology	rna dependent dna biosynthetic process	up-down	2.04	-1.73	2.93e-04	1.63e-02	59	59
+Colorectal cancer	Alzheimer's disease	Gene Ontology	rna polymerase activity	up-down	2.21	-1.81	7.21e-05	1.72e-02	34	29
+Colorectal cancer	Alzheimer's disease	Gene Ontology	small nucleolar ribonucleoprotein complex	up-down	1.98	-1.86	6.92e-03	1.73e-02	15	17
+Colorectal cancer	Alzheimer's disease	Gene Ontology	microtubule associated complex	up-down	1.7	-1.62	8.31e-03	1.83e-02	114	104
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of cellular amide metabolic process	up-down	1.48	-1.48	1.09e-02	1.92e-02	309	300
+Colorectal cancer	Alzheimer's disease	Gene Ontology	rna modification	up-down	2.44	-1.61	7.83e-09	2.04e-02	132	106
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein binding	up-down	1.69	-1.68	1.60e-02	2.05e-02	82	76
+Colorectal cancer	Alzheimer's disease	Gene Ontology	nucleotide excision repair preincision complex assembly	up-down	1.88	-1.82	2.00e-02	2.19e-02	24	27
+Colorectal cancer	Alzheimer's disease	Gene Ontology	translation preinitiation complex	up-down	1.75	-1.78	4.40e-02	2.20e-02	14	16
+Colorectal cancer	Alzheimer's disease	Gene Ontology	histone mrna metabolic process	up-down	1.83	-1.83	2.72e-02	2.21e-02	22	17
+Colorectal cancer	Alzheimer's disease	Gene Ontology	positive regulation of establishment of protein localization to telomere	up-down	1.93	-1.82	2.81e-03	2.39e-02	8	8
+Colorectal cancer	Alzheimer's disease	Gene Ontology	protein localization to nucleoplasm	up-down	1.88	-1.82	7.91e-03	2.39e-02	9	8
+Colorectal cancer	Alzheimer's disease	Gene Ontology	nucleoid	up-down	1.88	-1.77	1.60e-02	2.53e-02	32	36
+Colorectal cancer	Alzheimer's disease	Gene Ontology	isomerase activity	up-down	1.58	-1.56	3.76e-02	2.55e-02	120	110
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of telomere maintenance via telomere lengthening	up-down	1.94	-1.69	1.89e-03	2.60e-02	49	46
+Colorectal cancer	Alzheimer's disease	Gene Ontology	mitotic cell cycle	up-down	2.35	-1.31	7.83e-09	2.61e-02	797	792
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ribosome assembly	up-down	2.11	-1.74	5.65e-04	2.62e-02	37	42
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ribonucleoside monophosphate metabolic process	up-down	1.8	-1.77	2.30e-02	2.67e-02	43	40
+Colorectal cancer	Alzheimer's disease	Gene Ontology	signal sequence binding	up-down	1.76	-1.76	2.25e-02	2.70e-02	36	40
+Colorectal cancer	Alzheimer's disease	Gene Ontology	smn sm protein complex	up-down	2.06	-1.85	2.31e-03	2.72e-02	15	13
+Colorectal cancer	Alzheimer's disease	Gene Ontology	spindle	up-down	2.38	-1.46	7.83e-09	2.80e-02	276	261
+Colorectal cancer	Alzheimer's disease	Gene Ontology	establishment of protein localization to telomere	up-down	2.34	-1.75	6.73e-06	2.82e-02	16	16
+Colorectal cancer	Alzheimer's disease	Gene Ontology	postreplication repair	up-down	1.98	-1.73	8.05e-04	2.85e-02	45	39
+Colorectal cancer	Alzheimer's disease	Gene Ontology	dna templated transcription elongation	up-down	2.18	-1.59	3.35e-06	2.95e-02	86	89
+Colorectal cancer	Alzheimer's disease	Gene Ontology	response to heat	up-down	2.13	-1.52	1.39e-06	2.98e-02	130	140
+Colorectal cancer	Alzheimer's disease	Gene Ontology	microtubule organizing center	up-down	1.83	-1.36	7.83e-09	3.16e-02	593	520
+Colorectal cancer	Alzheimer's disease	Gene Ontology	translational initiation	up-down	2.2	-1.56	3.24e-07	3.21e-02	117	137
+Colorectal cancer	Alzheimer's disease	Gene Ontology	centriolar satellite	up-down	1.97	-1.66	4.82e-04	3.29e-02	83	69
+Colorectal cancer	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton organization involved in mitosis	up-down	2.2	-1.53	1.70e-06	3.45e-02	108	109
+Colorectal cancer	Alzheimer's disease	Gene Ontology	nuclear exosome rnase complex	up-down	1.76	-1.77	4.31e-02	3.64e-02	11	14
+Colorectal cancer	Alzheimer's disease	Gene Ontology	nucleoside monophosphate metabolic process	up-down	1.95	-1.69	2.33e-03	3.67e-02	56	55
+Colorectal cancer	Alzheimer's disease	Gene Ontology	u5 snrnp	up-down	1.79	-1.77	4.16e-02	3.73e-02	13	14
+Colorectal cancer	Alzheimer's disease	Gene Ontology	host cellular component	up-down	1.85	-1.63	6.82e-03	3.78e-02	55	59
+Colorectal cancer	Alzheimer's disease	Gene Ontology	spindle microtubule	up-down	2.32	-1.66	1.42e-05	3.82e-02	42	48
+Colorectal cancer	Alzheimer's disease	Gene Ontology	condensed chromosome centromeric region	up-down	2.88	-1.57	7.83e-09	3.88e-02	99	87
+Colorectal cancer	Alzheimer's disease	Gene Ontology	nucleotide phosphorylation	up-down	1.7	-1.51	1.11e-02	3.96e-02	109	111
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ncrna export from nucleus	up-down	2.4	-1.7	3.53e-06	4.01e-02	29	31
+Colorectal cancer	Alzheimer's disease	Gene Ontology	90s preribosome	up-down	2.41	-1.75	2.49e-06	4.18e-02	25	21
+Colorectal cancer	Alzheimer's disease	Gene Ontology	chaperonin containing t complex	up-down	1.86	-1.77	9.23e-03	4.28e-02	7	9
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ciliary basal body plasma membrane docking	up-down	1.93	-1.54	1.10e-03	4.35e-02	79	77
+Colorectal cancer	Alzheimer's disease	Gene Ontology	rna polymerase iii activity	up-down	1.82	-1.75	3.52e-02	4.40e-02	13	12
+Colorectal cancer	Alzheimer's disease	Gene Ontology	regulation of translational fidelity	up-down	1.91	-1.79	1.04e-02	4.48e-02	14	13
+Colorectal cancer	Alzheimer's disease	Gene Ontology	mitochondrial rna processing	up-down	1.87	-1.74	1.40e-02	4.72e-02	14	11
+Colorectal cancer	Alzheimer's disease	Gene Ontology	ribonucleoside monophosphate biosynthetic process	up-down	1.96	-1.69	4.58e-03	4.72e-02	28	28
+Colorectal cancer	Alzheimer's disease	Gene Ontology	dna templated transcription termination	up-down	2.31	-1.58	3.53e-06	4.82e-02	63	58
+Colorectal cancer	Alzheimer's disease	Gene Ontology	purine nucleoside monophosphate metabolic process	up-down	1.88	-1.66	1.16e-02	4.97e-02	33	31
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - immunoregulatory interactions between a lymphoid and a non lymphoid cell	down-up	-2.48	2.57	4.23e-08	5.07e-09	90	91
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	kegg - hematopoietic cell lineage	down-up	-1.94	2.4	6.91e-04	2.22e-07	69	78
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - class a 1 rhodopsin like receptors	down-up	-1.47	1.9	5.73e-03	8.78e-07	272	261
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	kegg - cell adhesion molecules cams	down-up	-1.98	2.09	8.89e-05	9.90e-06	112	108
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - gpcr ligand binding	down-up	-1.42	1.69	5.19e-03	2.32e-05	375	353
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	kegg - intestinal immune network for iga production	down-up	-1.88	2.31	4.95e-03	1.42e-04	34	35
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	kegg - asthma	down-up	-2.01	2.17	5.19e-03	9.24e-04	21	24
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	kegg - allograft rejection	down-up	-1.79	2.24	2.89e-02	1.19e-03	26	26
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - hemostasis	down-up	-1.31	1.38	2.46e-02	3.82e-03	483	521
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - generation of second messenger molecules	down-up	-1.98	2.02	7.33e-03	4.45e-03	21	28
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	kegg - viral myocarditis	down-up	-1.62	1.74	3.48e-02	5.49e-03	49	58
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	pid - tcr pathway	down-up	-2.05	1.81	9.00e-04	5.75e-03	53	56
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	biocarta - akt pathway	down-up	-1.82	2	2.59e-02	6.21e-03	16	21
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by gpcr	down-up	-1.47	1.31	2.57e-05	7.64e-03	699	657
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - phase i functionalization of compounds	down-up	-1.69	1.68	8.84e-03	1.03e-02	73	85
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - response to metal ions	down-up	-1.87	1.95	1.32e-02	1.36e-02	8	12
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	kegg - leukocyte transendothelial migration	down-up	-1.47	1.6	4.92e-02	1.46e-02	99	102
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - foxo mediated transcription of oxidative stress metabolic and neuronal genes	down-up	-2.07	1.87	2.09e-03	1.61e-02	25	23
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - metallothioneins bind metals	down-up	-1.65	1.88	4.60e-02	1.77e-02	5	9
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	kegg - olfactory transduction	down-up	-1.49	1.59	4.94e-02	1.98e-02	73	61
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	pid - bcr 5pathway	down-up	-1.66	1.74	3.83e-02	1.98e-02	54	60
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	pid - rxr vdr pathway	down-up	-1.89	1.82	1.50e-02	2.14e-02	22	24
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - nuclear receptor transcription pathway	down-up	-1.86	1.62	6.54e-03	2.21e-02	48	50
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	pid - cd8 tcr pathway	down-up	-1.98	1.68	2.03e-03	2.28e-02	46	47
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - p2y receptors	down-up	-2.19	1.8	3.28e-04	3.07e-02	10	10
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - antigen activates b cell receptor bcr leading to generation of second messengers	down-up	-1.7	1.7	3.95e-02	4.52e-02	27	27
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - antigen processing ubiquitination proteasome degradation	up-down	1.56	-2.41	4.74e-03	5.07e-09	250	213
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	up-down	2.26	-2.64	8.47e-06	5.07e-09	58	60
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - assembly of the pre replicative complex	up-down	2.4	-2.6	3.25e-07	5.07e-09	58	62
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - auf1 hnrnp d0 binds and destabilizes mrna	up-down	2.11	-2.65	1.75e-04	5.07e-09	44	48
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle checkpoints	up-down	2.96	-2.16	5.87e-09	5.07e-09	233	234
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - defective cftr causes cystic fibrosis	up-down	1.81	-2.72	6.27e-03	5.07e-09	51	51
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of gli1 by the proteasome	up-down	1.86	-2.69	3.93e-03	5.07e-09	51	53
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - dna replication	up-down	2.77	-2.47	5.87e-09	5.07e-09	109	113
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - hedgehog ligand biogenesis	up-down	1.88	-2.66	2.98e-03	5.07e-09	53	54
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv infection	up-down	2.07	-2.45	1.44e-07	5.07e-09	180	197
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - host interactions of hiv factors	up-down	2.29	-2.51	7.91e-08	5.07e-09	104	113
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of rna	up-down	3.04	-2.2	5.87e-09	5.07e-09	500	508
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - mitochondrial translation	up-down	2.16	-2.76	3.85e-06	5.07e-09	84	61
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic g2 g2 m phases	up-down	2.18	-2.26	4.59e-08	5.07e-09	149	163
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic metaphase and anaphase	up-down	2.77	-2.28	5.87e-09	5.07e-09	183	185
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - neddylation	up-down	1.45	-2.38	4.86e-02	5.07e-09	190	164
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - negative regulation of notch4 signaling	up-down	2.16	-2.85	6.60e-05	5.07e-09	46	50
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - orc1 removal from chromatin	up-down	2.46	-2.68	2.21e-08	5.07e-09	62	65
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of pten stability and activity	up-down	2.02	-2.58	4.29e-04	5.07e-09	55	63
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of ras by gaps	up-down	1.83	-2.85	5.35e-03	5.07e-09	55	55
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of runx2 expression and activity	up-down	1.76	-2.59	8.84e-03	5.07e-09	63	67
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - separation of sister chromatids	up-down	2.71	-2.35	5.87e-09	5.07e-09	148	152
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - switching of origins to a post replicative state	up-down	2.51	-2.7	5.87e-09	5.07e-09	77	77
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - the role of gtse1 in g2 m progression after g2 checkpoint	up-down	2.13	-2.54	9.79e-05	5.07e-09	55	66
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - translation	up-down	2.66	-2.49	5.87e-09	5.07e-09	209	212
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of polyamines	up-down	2.13	-2.6	8.52e-05	5.32e-09	50	52
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of axin	up-down	2.1	-2.6	1.21e-04	6.93e-09	47	49
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	kegg - proteasome	up-down	2.17	-2.64	2.38e-04	7.66e-09	37	39
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of dvl	up-down	2.06	-2.57	1.82e-04	8.12e-09	48	51
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - dna replication pre initiation	up-down	2.58	-2.48	5.87e-09	1.16e-08	74	78
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - cross presentation of soluble exogenous antigens endosomes	up-down	2.01	-2.63	6.82e-04	1.37e-08	41	43
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - post translational protein modification	up-down	1.37	-1.65	2.12e-03	2.07e-08	1076	1021
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - apc c mediated degradation of cell cycle proteins	up-down	2.4	-2.49	6.09e-08	2.21e-08	71	73
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - scf skp2 mediated degradation of p27 p21	up-down	2.17	-2.51	5.71e-05	2.48e-08	52	57
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular response to hypoxia	up-down	1.8	-2.48	3.27e-03	5.04e-08	62	67
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of expression of slits and robos	up-down	2.39	-2.24	5.87e-09	5.28e-08	110	133
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - organelle biogenesis and maintenance	up-down	1.51	-2.1	9.59e-03	7.19e-08	226	222
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of mrna stability by proteins that bind au rich elements	up-down	2.22	-2.39	8.24e-06	7.19e-08	69	76
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - stabilization of p53	up-down	2.13	-2.49	8.70e-05	7.39e-08	47	51
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - asymmetric localization of pcp proteins	up-down	1.91	-2.47	1.47e-03	7.92e-08	54	56
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - g2 m checkpoints	up-down	2.72	-2.22	5.87e-09	9.31e-08	130	137
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - dectin 1 mediated noncanonical nf kb signaling	up-down	2.03	-2.46	3.80e-04	1.18e-07	53	57
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of runx3 expression and activity	up-down	2.14	-2.45	9.36e-05	1.96e-07	46	51
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by robo receptors	up-down	1.78	-2.1	5.57e-04	2.95e-07	148	175
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - abc transporter disorders	up-down	1.6	-2.36	4.26e-02	4.00e-07	63	64
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - s phase	up-down	2.7	-2.2	5.87e-09	5.17e-07	137	140
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - cyclin a cdk2 associated events at s phase entry	up-down	2.28	-2.31	9.90e-07	5.78e-07	72	77
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - downstream signaling events of b cell receptor bcr	up-down	1.79	-2.32	6.96e-03	1.56e-06	66	73
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - m phase	up-down	2.6	-1.84	5.87e-09	1.80e-06	304	316
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle	up-down	2.79	-1.7	5.87e-09	1.81e-06	514	534
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - uch proteinases	up-down	2.23	-2.25	1.17e-06	1.99e-06	76	76
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - g1 s dna damage checkpoints	up-down	2.24	-2.31	1.24e-05	2.00e-06	58	61
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - pcp ce pathway	up-down	1.59	-2.25	3.60e-02	2.11e-06	79	82
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - processing of capped intron containing pre mrna	up-down	2.74	-2.01	5.87e-09	2.11e-06	192	188
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - transcription coupled nucleotide excision repair tc ner	up-down	2.33	-2.3	8.89e-07	2.86e-06	64	69
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - hedgehog off state	up-down	1.67	-2.23	1.19e-02	3.10e-06	92	95
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - nucleotide excision repair	up-down	2.47	-2.23	5.87e-09	3.27e-06	90	95
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of tc ner pre incision complex	up-down	2.13	-2.36	1.21e-04	4.15e-06	44	47
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by hedgehog	up-down	1.48	-2.11	4.99e-02	5.43e-06	121	119
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - fceri mediated nf kb activation	up-down	1.69	-2.27	1.35e-02	6.88e-06	67	71
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv life cycle	up-down	2.02	-2.1	4.51e-05	7.24e-06	114	126
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - mapk6 mapk4 signaling	up-down	1.63	-2.2	1.96e-02	8.14e-06	78	79
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - trna aminoacylation	up-down	2.28	-2.38	3.51e-05	1.01e-05	32	32
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle mitotic	up-down	2.76	-1.7	5.87e-09	1.21e-05	420	444
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - hedgehog on state	up-down	1.64	-2.17	2.70e-02	2.28e-05	72	70
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by notch4	up-down	1.75	-2.21	7.51e-03	2.28e-05	67	74
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular responses to external stimuli	up-down	1.92	-1.65	6.69e-09	3.11e-05	429	475
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of beta catenin by the destruction complex	up-down	1.61	-2.11	3.51e-02	4.67e-05	72	76
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - pten regulation	up-down	1.88	-2.05	1.90e-04	4.83e-05	116	118
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - golgi to er retrograde transport	up-down	1.52	-2.11	4.99e-02	5.04e-05	94	104
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	kegg - aminoacyl trna biosynthesis	up-down	2.1	-2.3	4.25e-04	5.35e-05	33	28
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic g1 phase and g1 s transition	up-down	2.68	-1.93	5.87e-09	6.43e-05	127	138
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of amino acids and derivatives	up-down	1.53	-1.75	6.96e-03	8.41e-05	263	281
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna splicing	up-down	2.57	-1.91	5.87e-09	8.89e-05	151	147
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	kegg - ubiquitin mediated proteolysis	up-down	1.86	-2.01	4.85e-04	1.08e-04	107	110
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - global genome nucleotide excision repair gg ner	up-down	2.41	-2.11	1.28e-07	1.23e-04	69	74
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - cytosolic trna aminoacylation	up-down	2.02	-2.25	1.92e-03	1.86e-04	19	20
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - cooperation of prefoldin and tric cct in actin and tubulin folding	up-down	2.11	-2.22	7.10e-04	2.21e-04	19	26
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - infectious disease	up-down	1.41	-1.54	3.87e-03	2.58e-04	536	582
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - ub specific processing proteases	up-down	1.55	-1.85	1.16e-02	2.58e-04	150	160
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - deubiquitination	up-down	1.66	-1.76	1.46e-03	3.66e-04	215	217
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	kegg - rna degradation	up-down	2.16	-2.1	8.89e-05	4.38e-04	45	47
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - trna processing	up-down	2.76	-1.95	5.87e-09	4.38e-04	87	84
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - cilium assembly	up-down	2.05	-1.8	1.65e-06	6.01e-04	155	147
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - dual incision in tc ner	up-down	2.22	-2.03	2.36e-05	6.07e-04	52	56
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	kegg - spliceosome	up-down	2.4	-1.88	5.87e-09	8.97e-04	99	97
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of incision complex in gg ner	up-down	2.11	-2.03	3.65e-04	9.27e-04	33	39
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - interleukin 1 signaling	up-down	1.79	-1.92	2.91e-03	9.76e-04	87	89
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - rrna processing	up-down	2.8	-1.8	5.87e-09	9.76e-04	128	146
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - viral messenger rna synthesis	up-down	2.45	-2.03	7.52e-07	1.19e-03	34	38
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - clec7a dectin 1 signaling	up-down	1.54	-1.9	3.36e-02	1.25e-03	80	89
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - rrna modification in the nucleus and cytosol	up-down	2.69	-2.01	5.87e-09	1.44e-03	48	47
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic spindle checkpoint	up-down	2.67	-1.83	5.87e-09	1.78e-03	91	86
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - dna repair	up-down	2.7	-1.64	5.87e-09	1.89e-03	250	254
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna splicing minor pathway	up-down	2.31	-2.04	4.95e-06	2.09e-03	44	43
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - snrnp assembly	up-down	2.71	-1.95	5.87e-09	2.35e-03	45	44
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - disorders of transmembrane transporters	up-down	1.54	-1.71	2.49e-02	3.42e-03	146	147
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - transcriptional regulation by tp53	up-down	1.89	-1.57	7.90e-07	4.27e-03	292	291
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - folding of actin by cct tric	up-down	1.94	-1.98	5.24e-03	4.50e-03	8	9
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - transcriptional regulation by runx2	up-down	1.61	-1.76	1.46e-02	4.78e-03	101	108
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular response to heat stress	up-down	2.23	-1.81	1.99e-06	5.49e-03	74	83
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of hsf1 mediated heat shock response	up-down	2.26	-1.82	3.06e-06	5.66e-03	62	67
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - antiviral mechanism by ifn stimulated genes	up-down	2.1	-1.81	1.54e-04	6.21e-03	60	70
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - copi dependent golgi to er retrograde traffic	up-down	1.82	-1.8	2.98e-03	6.27e-03	65	75
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - trna processing in the nucleus	up-down	2.54	-1.88	1.57e-08	6.43e-03	44	46
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of plk1 activity at g2 m transition	up-down	1.77	-1.82	6.87e-03	6.43e-03	72	74
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - dna damage recognition in gg ner	up-down	2.04	-1.88	1.02e-03	7.19e-03	36	34
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	kegg - rna polymerase	up-down	2.06	-1.97	1.05e-03	7.55e-03	22	20
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - ns1 mediated effects on host pathways	up-down	2.44	-1.88	7.90e-07	7.78e-03	31	34
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - glucose metabolism	up-down	1.87	-1.72	2.15e-03	8.48e-03	77	82
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - cargo trafficking to the periciliary membrane	up-down	1.74	-1.9	3.00e-02	9.80e-03	38	32
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna capping	up-down	1.94	-1.93	4.65e-03	9.80e-03	22	27
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of the early elongation complex	up-down	2.01	-1.9	1.83e-03	1.04e-02	24	28
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	kegg - purine metabolism	up-down	1.7	-1.67	3.73e-03	1.06e-02	129	130
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - influenza infection	up-down	2.62	-1.67	5.87e-09	1.08e-02	90	116
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - rho gtpases activate formins	up-down	2.5	-1.69	5.87e-09	1.21e-02	106	109
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - rna polymerase iii transcription initiation from type 1 promoter	up-down	2.01	-1.88	1.71e-03	1.29e-02	25	21
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of tubulin folding intermediates by cct tric	up-down	1.93	-1.9	5.24e-03	1.35e-02	13	20
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - ksrp khsrp binds and destabilizes mrna	up-down	1.81	-1.83	2.31e-02	1.38e-02	13	15
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - transcription of the hiv genome	up-down	2.02	-1.75	4.60e-04	1.41e-02	52	62
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - aurka activation by tpx2	up-down	1.83	-1.67	4.40e-03	1.65e-02	57	61
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - glycolysis	up-down	2.14	-1.67	9.55e-05	1.65e-02	58	63
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv transcription initiation	up-down	1.95	-1.78	2.47e-03	1.66e-02	35	42
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - deadenylation dependent mrna decay	up-down	2.2	-1.83	4.52e-05	1.70e-02	45	43
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - recruitment of mitotic centrosome proteins and complexes	up-down	1.78	-1.74	3.92e-03	1.85e-02	62	65
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - apc cdc20 mediated degradation of nek2a	up-down	1.69	-1.83	3.42e-02	1.90e-02	20	18
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of rna pol ii elongation complex	up-down	1.88	-1.71	4.74e-03	1.97e-02	43	50
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - runx1 regulates transcription of genes involved in differentiation of hscs	up-down	1.98	-1.68	1.55e-04	1.98e-02	86	94
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - recruitment of numa to mitotic centrosomes	up-down	1.69	-1.69	1.30e-02	2.03e-02	67	74
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv transcription elongation	up-down	2.05	-1.73	1.18e-03	2.03e-02	32	38
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - interactions of vpr with host cellular proteins	up-down	2.23	-1.8	4.46e-05	2.05e-02	29	31
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - transport of mature transcript to cytoplasm	up-down	2.43	-1.62	6.21e-08	2.26e-02	62	61
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - dna damage bypass	up-down	2.05	-1.69	5.64e-04	2.28e-02	40	40
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic prometaphase	up-down	2.62	-1.52	5.87e-09	2.43e-02	155	160
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - resolution of sister chromatid cohesion	up-down	2.71	-1.58	5.87e-09	2.50e-02	96	99
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - transport of the slbp dependant mature mrna	up-down	2.39	-1.76	1.52e-06	2.60e-02	29	30
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	kegg - nucleotide excision repair	up-down	2.23	-1.67	8.89e-05	2.63e-02	38	40
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - mitochondrial trna aminoacylation	up-down	1.84	-1.79	2.32e-02	2.72e-02	14	14
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - resolution of ap sites via the multiple nucleotide patch replacement pathway	up-down	2.01	-1.73	1.95e-03	2.78e-02	22	22
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - nuclear envelope ne reassembly	up-down	2.25	-1.65	1.54e-05	2.93e-02	49	54
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - rna polymerase iii transcription initiation from type 3 promoter	up-down	1.98	-1.72	2.59e-03	2.93e-02	24	22
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	biocarta - sm pathway	up-down	1.95	-1.76	4.65e-03	3.00e-02	13	13
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - interactions of rev with host cellular proteins	up-down	2.42	-1.72	8.16e-07	3.65e-02	27	30
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - dual incision in gg ner	up-down	2.03	-1.68	1.75e-03	4.11e-02	34	37
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - recognition of dna damage by pcna containing replication complex	up-down	1.88	-1.74	5.84e-03	4.23e-02	25	28
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - anchoring of the basal body to the plasma membrane	up-down	1.94	-1.54	6.53e-04	4.27e-02	81	78
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - programmed cell death	up-down	1.59	-1.47	1.50e-02	4.27e-02	156	161
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - inhibition of the proteolytic activity of apc c required for the onset of anaphase by mitotic spindle checkpoint components	up-down	1.74	-1.71	3.37e-02	4.28e-02	16	13
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - abortive elongation of hiv 1 transcript in the absence of tat	up-down	1.91	-1.74	1.05e-02	4.32e-02	17	19
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - rna polymerase iii chain elongation	up-down	1.84	-1.7	1.36e-02	4.48e-02	15	13
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - perk regulates gene expression	up-down	1.89	-1.69	7.28e-03	4.52e-02	24	30
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna decay by 3 to 5 exoribonuclease	up-down	1.95	-1.68	9.64e-03	4.78e-02	11	13
+Colorectal cancer	Alzheimer's disease	Canonical Pathways	reactome - pcna dependent long patch base excision repair	up-down	1.97	-1.7	3.79e-03	4.80e-02	19	20

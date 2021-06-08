@@ -1,0 +1,362 @@
+disease.1	disease.2	category	pathway	overlap	nes.1	nes.2	fdr.1	fdr.2	genes.1	ngenes.2
+Head and neck cancer	Alzheimer's disease	HallMark	myogenesis	down-up	-1.38	1.85	1.40e-02	1.64e-05	177	194
+Head and neck cancer	Alzheimer's disease	HallMark	kras signaling dn	down-up	-1.43	1.67	7.79e-03	3.75e-04	176	190
+Head and neck cancer	Alzheimer's disease	HallMark	estrogen response early	down-up	-1.51	1.32	2.95e-03	2.86e-02	177	186
+Head and neck cancer	Alzheimer's disease	HallMark	myc targets v1	up-down	2.63	-2.54	5.00e-10	2.50e-09	169	182
+Head and neck cancer	Alzheimer's disease	HallMark	mtorc1 signaling	up-down	2.4	-2.19	5.00e-10	6.78e-09	175	191
+Head and neck cancer	Alzheimer's disease	HallMark	dna repair	up-down	2.06	-2.01	6.27e-07	9.30e-06	131	128
+Head and neck cancer	Alzheimer's disease	HallMark	unfolded protein response	up-down	2.04	-1.99	3.28e-06	2.28e-05	100	105
+Head and neck cancer	Alzheimer's disease	HallMark	uv response up	up-down	1.71	-1.48	1.11e-03	1.49e-02	140	152
+Head and neck cancer	Alzheimer's disease	HallMark	myc targets v2	up-down	2.5	-1.57	5.00e-10	1.99e-02	49	52
+Head and neck cancer	Alzheimer's disease	Gene Ontology	skin development	down-up	-1.39	2.18	3.91e-02	5.63e-09	259	238
+Head and neck cancer	Alzheimer's disease	Gene Ontology	epidermal cell differentiation	down-up	-1.64	2.26	2.28e-03	8.47e-09	209	189
+Head and neck cancer	Alzheimer's disease	Gene Ontology	keratinocyte differentiation	down-up	-1.8	2.21	1.06e-03	1.68e-07	161	147
+Head and neck cancer	Alzheimer's disease	Gene Ontology	keratinization	down-up	-1.96	2.11	2.26e-04	1.73e-04	97	81
+Head and neck cancer	Alzheimer's disease	Gene Ontology	cornification	down-up	-2.06	2.05	1.27e-04	4.56e-04	76	73
+Head and neck cancer	Alzheimer's disease	Gene Ontology	steroid hormone receptor activity	down-up	-1.94	1.95	4.82e-03	3.47e-03	50	52
+Head and neck cancer	Alzheimer's disease	Gene Ontology	acylglycerol homeostasis	down-up	-1.79	1.86	3.27e-02	1.96e-02	28	23
+Head and neck cancer	Alzheimer's disease	Gene Ontology	steroid hydroxylase activity	down-up	-2.07	1.87	3.12e-03	2.84e-02	21	28
+Head and neck cancer	Alzheimer's disease	Gene Ontology	amide biosynthetic process	up-down	1.48	-2.19	1.35e-03	5.63e-09	632	566
+Head and neck cancer	Alzheimer's disease	Gene Ontology	anaphase promoting complex dependent catabolic process	up-down	2.42	-2.58	3.92e-08	5.63e-09	68	67
+Head and neck cancer	Alzheimer's disease	Gene Ontology	catalytic activity acting on rna	up-down	2.19	-2.15	1.48e-08	5.63e-09	320	257
+Head and neck cancer	Alzheimer's disease	Gene Ontology	catalytic complex	up-down	1.73	-2.04	1.48e-08	5.63e-09	1134	990
+Head and neck cancer	Alzheimer's disease	Gene Ontology	cellular amide metabolic process	up-down	1.35	-1.91	1.35e-02	5.63e-09	852	770
+Head and neck cancer	Alzheimer's disease	Gene Ontology	cellular macromolecule catabolic process	up-down	1.56	-1.75	2.27e-06	5.63e-09	939	816
+Head and neck cancer	Alzheimer's disease	Gene Ontology	cellular macromolecule localization	up-down	1.29	-1.71	4.96e-03	5.63e-09	1569	1416
+Head and neck cancer	Alzheimer's disease	Gene Ontology	cellular protein catabolic process	up-down	1.52	-1.96	2.57e-04	5.63e-09	631	531
+Head and neck cancer	Alzheimer's disease	Gene Ontology	cellular protein containing complex assembly	up-down	1.66	-2.06	1.10e-07	5.63e-09	803	747
+Head and neck cancer	Alzheimer's disease	Gene Ontology	envelope	up-down	1.35	-2.48	7.72e-03	5.63e-09	981	826
+Head and neck cancer	Alzheimer's disease	Gene Ontology	hydrolase activity acting on acid anhydrides	up-down	1.75	-1.84	1.48e-08	5.63e-09	699	613
+Head and neck cancer	Alzheimer's disease	Gene Ontology	mitochondrial gene expression	up-down	2.08	-2.89	1.92e-06	5.63e-09	145	109
+Head and neck cancer	Alzheimer's disease	Gene Ontology	mitochondrial translation	up-down	2.12	-2.91	1.57e-06	5.63e-09	121	92
+Head and neck cancer	Alzheimer's disease	Gene Ontology	mitochondrial translational termination	up-down	1.92	-2.71	1.76e-03	5.63e-09	79	58
+Head and neck cancer	Alzheimer's disease	Gene Ontology	modification dependent macromolecule catabolic process	up-down	1.48	-2.14	3.84e-03	5.63e-09	519	426
+Head and neck cancer	Alzheimer's disease	Gene Ontology	ncrna metabolic process	up-down	2.09	-2.18	1.48e-08	5.63e-09	381	313
+Head and neck cancer	Alzheimer's disease	Gene Ontology	ncrna processing	up-down	2.12	-2.13	1.48e-08	5.63e-09	306	264
+Head and neck cancer	Alzheimer's disease	Gene Ontology	organellar ribosome	up-down	1.97	-2.77	4.11e-04	5.63e-09	78	56
+Head and neck cancer	Alzheimer's disease	Gene Ontology	organonitrogen compound biosynthetic process	up-down	1.39	-1.72	1.31e-04	5.63e-09	1457	1277
+Head and neck cancer	Alzheimer's disease	Gene Ontology	peptidase complex	up-down	2.17	-2.57	1.70e-05	5.63e-09	73	71
+Head and neck cancer	Alzheimer's disease	Gene Ontology	peptide biosynthetic process	up-down	1.55	-2.15	4.14e-04	5.63e-09	516	461
+Head and neck cancer	Alzheimer's disease	Gene Ontology	peptide metabolic process	up-down	1.42	-1.95	5.74e-03	5.63e-09	634	576
+Head and neck cancer	Alzheimer's disease	Gene Ontology	proteasomal protein catabolic process	up-down	1.61	-2.08	5.68e-04	5.63e-09	401	338
+Head and neck cancer	Alzheimer's disease	Gene Ontology	protein containing complex assembly	up-down	1.51	-1.67	7.63e-08	5.63e-09	1449	1324
+Head and neck cancer	Alzheimer's disease	Gene Ontology	protein modification by small protein conjugation	up-down	1.59	-2.04	5.48e-06	5.63e-09	749	616
+Head and neck cancer	Alzheimer's disease	Gene Ontology	protein modification by small protein conjugation or removal	up-down	1.64	-2.03	3.24e-08	5.63e-09	899	748
+Head and neck cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex	up-down	1.92	-2.11	1.48e-08	5.63e-09	540	480
+Head and neck cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex biogenesis	up-down	2.32	-2.33	1.48e-08	5.63e-09	334	315
+Head and neck cancer	Alzheimer's disease	Gene Ontology	ribosome biogenesis	up-down	2.29	-2.23	1.48e-08	5.63e-09	229	211
+Head and neck cancer	Alzheimer's disease	Gene Ontology	rna binding	up-down	2.17	-1.84	1.48e-08	5.63e-09	1325	1178
+Head and neck cancer	Alzheimer's disease	Gene Ontology	rna processing	up-down	2.02	-1.83	1.48e-08	5.63e-09	742	653
+Head and neck cancer	Alzheimer's disease	Gene Ontology	scf dependent proteasomal ubiquitin dependent protein catabolic process	up-down	1.94	-2.56	5.55e-04	5.63e-09	83	69
+Head and neck cancer	Alzheimer's disease	Gene Ontology	translational elongation	up-down	1.87	-2.73	8.35e-04	5.63e-09	113	90
+Head and neck cancer	Alzheimer's disease	Gene Ontology	translational termination	up-down	1.97	-2.76	1.83e-04	5.63e-09	93	72
+Head and neck cancer	Alzheimer's disease	Gene Ontology	trna metabolic process	up-down	1.89	-2.47	8.89e-05	5.63e-09	158	126
+Head and neck cancer	Alzheimer's disease	Gene Ontology	endopeptidase complex	up-down	2.26	-2.61	3.87e-06	5.80e-09	57	55
+Head and neck cancer	Alzheimer's disease	Gene Ontology	cellular amino acid metabolic process	up-down	1.53	-2.11	5.71e-03	7.85e-09	291	257
+Head and neck cancer	Alzheimer's disease	Gene Ontology	cellular protein complex disassembly	up-down	1.61	-2.27	1.10e-02	9.23e-09	184	160
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of cell cycle g2 m phase transition	up-down	2.44	-2.18	1.48e-08	3.66e-08	184	173
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of cellular amino acid metabolic process	up-down	2.34	-2.56	4.85e-07	6.99e-08	55	52
+Head and neck cancer	Alzheimer's disease	Gene Ontology	catalytic activity acting on a trna	up-down	1.75	-2.42	3.83e-03	8.71e-08	107	83
+Head and neck cancer	Alzheimer's disease	Gene Ontology	protein catabolic process	up-down	1.44	-1.72	1.19e-03	9.09e-08	757	648
+Head and neck cancer	Alzheimer's disease	Gene Ontology	ribonucleotide binding	up-down	1.57	-1.54	1.48e-08	1.28e-07	1541	1386
+Head and neck cancer	Alzheimer's disease	Gene Ontology	nucleolus	up-down	1.93	-1.72	1.48e-08	1.33e-07	749	667
+Head and neck cancer	Alzheimer's disease	Gene Ontology	cell cycle g2 m phase transition	up-down	2.32	-2.07	1.48e-08	1.64e-07	235	218
+Head and neck cancer	Alzheimer's disease	Gene Ontology	protein polyubiquitination	up-down	1.59	-2.06	3.94e-03	1.83e-07	262	219
+Head and neck cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell cycle g2 m phase transition	up-down	2.29	-2.33	3.40e-07	3.09e-07	89	84
+Head and neck cancer	Alzheimer's disease	Gene Ontology	protein modification by small protein removal	up-down	2.08	-2.03	1.48e-08	4.07e-07	231	218
+Head and neck cancer	Alzheimer's disease	Gene Ontology	protein localization to organelle	up-down	1.38	-1.65	5.10e-03	5.09e-07	764	715
+Head and neck cancer	Alzheimer's disease	Gene Ontology	transferase complex	up-down	1.7	-1.71	9.45e-08	9.44e-07	665	565
+Head and neck cancer	Alzheimer's disease	Gene Ontology	mitochondrial large ribosomal subunit	up-down	2.03	-2.46	6.13e-04	1.25e-06	52	35
+Head and neck cancer	Alzheimer's disease	Gene Ontology	posttranscriptional regulation of gene expression	up-down	1.99	-1.81	1.48e-08	1.32e-06	479	445
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of cellular amine metabolic process	up-down	2.23	-2.36	2.14e-06	1.50e-06	71	70
+Head and neck cancer	Alzheimer's disease	Gene Ontology	organelle localization	up-down	1.66	-1.73	6.36e-06	2.02e-06	522	479
+Head and neck cancer	Alzheimer's disease	Gene Ontology	protein containing complex disassembly	up-down	1.48	-1.96	2.58e-02	2.06e-06	271	238
+Head and neck cancer	Alzheimer's disease	Gene Ontology	rrna metabolic process	up-down	2.17	-2.1	2.38e-08	2.09e-06	180	158
+Head and neck cancer	Alzheimer's disease	Gene Ontology	mrna metabolic process	up-down	1.84	-1.67	1.48e-08	2.87e-06	668	614
+Head and neck cancer	Alzheimer's disease	Gene Ontology	unfolded protein binding	up-down	1.81	-2.22	3.62e-03	3.94e-06	88	84
+Head and neck cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex subunit organization	up-down	2.04	-2.07	3.74e-06	5.07e-06	148	151
+Head and neck cancer	Alzheimer's disease	Gene Ontology	protein folding	up-down	1.64	-2.04	1.25e-02	5.43e-06	167	157
+Head and neck cancer	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton	up-down	1.7	-1.56	1.48e-08	7.96e-06	1020	836
+Head and neck cancer	Alzheimer's disease	Gene Ontology	microtubule	up-down	1.66	-1.84	2.58e-04	8.19e-06	344	284
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of transcription from rna polymerase ii promoter in response to hypoxia	up-down	2.14	-2.27	4.99e-05	8.83e-06	68	70
+Head and neck cancer	Alzheimer's disease	Gene Ontology	adenyl nucleotide binding	up-down	1.63	-1.48	1.48e-08	1.24e-05	1274	1147
+Head and neck cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation of peptide antigen	up-down	2.2	-2	3.24e-08	1.42e-05	145	154
+Head and neck cancer	Alzheimer's disease	Gene Ontology	macromolecule catabolic process	up-down	1.5	-1.5	1.82e-06	1.71e-05	1133	998
+Head and neck cancer	Alzheimer's disease	Gene Ontology	microtubule based process	up-down	1.67	-1.66	3.04e-06	2.64e-05	617	513
+Head and neck cancer	Alzheimer's disease	Gene Ontology	proteasome accessory complex	up-down	1.95	-2.35	6.94e-03	2.73e-05	23	23
+Head and neck cancer	Alzheimer's disease	Gene Ontology	trna processing	up-down	1.82	-2.11	2.79e-03	3.53e-05	114	89
+Head and neck cancer	Alzheimer's disease	Gene Ontology	rna splicing via transesterification reactions	up-down	1.89	-1.79	8.84e-07	4.97e-05	290	261
+Head and neck cancer	Alzheimer's disease	Gene Ontology	rna catabolic process	up-down	1.83	-1.74	2.91e-06	6.04e-05	309	294
+Head and neck cancer	Alzheimer's disease	Gene Ontology	protein containing complex localization	up-down	1.65	-1.8	2.08e-03	8.83e-05	237	214
+Head and neck cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex binding	up-down	1.92	-2.02	3.26e-04	9.86e-05	109	97
+Head and neck cancer	Alzheimer's disease	Gene Ontology	nucleotide excision repair	up-down	1.72	-2.06	1.44e-02	1.14e-04	95	94
+Head and neck cancer	Alzheimer's disease	Gene Ontology	rna localization	up-down	2.22	-1.83	1.48e-08	1.67e-04	180	176
+Head and neck cancer	Alzheimer's disease	Gene Ontology	proteasome core complex	up-down	2	-2.18	6.11e-03	1.69e-04	16	16
+Head and neck cancer	Alzheimer's disease	Gene Ontology	nuclear outer membrane endoplasmic reticulum membrane network	up-down	1.36	-1.5	5.10e-03	1.73e-04	871	740
+Head and neck cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation of exogenous peptide antigen via mhc class i	up-down	2.25	-2.14	3.56e-06	1.76e-04	62	61
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of mrna catabolic process	up-down	2.1	-1.88	5.10e-07	1.99e-04	164	156
+Head and neck cancer	Alzheimer's disease	Gene Ontology	cellular component disassembly	up-down	1.69	-1.64	6.16e-06	2.39e-04	459	414
+Head and neck cancer	Alzheimer's disease	Gene Ontology	nuclear envelope	up-down	1.61	-1.66	3.41e-04	2.51e-04	394	357
+Head and neck cancer	Alzheimer's disease	Gene Ontology	amine metabolic process	up-down	1.98	-1.96	7.93e-05	2.73e-04	119	111
+Head and neck cancer	Alzheimer's disease	Gene Ontology	drug binding	up-down	1.57	-1.4	1.48e-08	2.88e-04	1417	1289
+Head and neck cancer	Alzheimer's disease	Gene Ontology	proteasomal ubiquitin independent protein catabolic process	up-down	2.06	-2.15	1.67e-03	2.89e-04	18	18
+Head and neck cancer	Alzheimer's disease	Gene Ontology	establishment of organelle localization	up-down	1.59	-1.69	2.07e-03	3.31e-04	337	316
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of catabolic process	up-down	1.53	-1.49	2.98e-05	4.09e-04	824	747
+Head and neck cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation	up-down	2.1	-1.77	2.09e-07	4.17e-04	176	184
+Head and neck cancer	Alzheimer's disease	Gene Ontology	telomerase rna localization	up-down	1.94	-2.12	1.23e-02	4.42e-04	16	16
+Head and neck cancer	Alzheimer's disease	Gene Ontology	organonitrogen compound catabolic process	up-down	1.3	-1.43	1.64e-02	4.85e-04	1047	911
+Head and neck cancer	Alzheimer's disease	Gene Ontology	atpase activity	up-down	2.2	-1.66	1.48e-08	5.30e-04	357	320
+Head and neck cancer	Alzheimer's disease	Gene Ontology	fc epsilon receptor signaling pathway	up-down	1.9	-1.96	9.15e-04	5.50e-04	95	102
+Head and neck cancer	Alzheimer's disease	Gene Ontology	post translational protein modification	up-down	1.7	-1.67	1.57e-04	5.94e-04	315	270
+Head and neck cancer	Alzheimer's disease	Gene Ontology	interleukin 1 mediated signaling pathway	up-down	1.91	-1.96	8.63e-04	5.98e-04	88	88
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of cellular catabolic process	up-down	1.54	-1.5	7.55e-05	6.11e-04	695	627
+Head and neck cancer	Alzheimer's disease	Gene Ontology	spliceosomal tri snrnp complex	up-down	2.03	-2.13	2.74e-03	8.09e-04	27	27
+Head and neck cancer	Alzheimer's disease	Gene Ontology	trna modification	up-down	1.8	-1.96	1.02e-02	8.15e-04	79	58
+Head and neck cancer	Alzheimer's disease	Gene Ontology	rna splicing	up-down	1.76	-1.63	3.25e-06	1.06e-03	358	320
+Head and neck cancer	Alzheimer's disease	Gene Ontology	positive regulation of telomerase rna localization to cajal body	up-down	1.78	-2.09	3.15e-02	1.14e-03	12	12
+Head and neck cancer	Alzheimer's disease	Gene Ontology	mrna processing	up-down	1.81	-1.6	4.51e-07	1.21e-03	409	365
+Head and neck cancer	Alzheimer's disease	Gene Ontology	sm like protein family complex	up-down	2.21	-1.93	1.06e-05	1.40e-03	62	58
+Head and neck cancer	Alzheimer's disease	Gene Ontology	u2 type spliceosomal complex	up-down	1.97	-1.93	3.92e-04	1.70e-03	78	70
+Head and neck cancer	Alzheimer's disease	Gene Ontology	cell cycle phase transition	up-down	2.19	-1.49	1.48e-08	1.81e-03	520	479
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of establishment of planar polarity	up-down	2.04	-1.88	4.77e-05	2.02e-03	100	88
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of protein containing complex assembly	up-down	1.39	-1.58	3.84e-02	2.29e-03	352	321
+Head and neck cancer	Alzheimer's disease	Gene Ontology	preribosome	up-down	2.32	-1.97	4.42e-07	2.33e-03	61	53
+Head and neck cancer	Alzheimer's disease	Gene Ontology	threonine type peptidase activity	up-down	1.99	-2.05	5.42e-03	2.68e-03	15	17
+Head and neck cancer	Alzheimer's disease	Gene Ontology	kinetochore	up-down	2.48	-1.78	1.48e-08	2.90e-03	118	101
+Head and neck cancer	Alzheimer's disease	Gene Ontology	pyruvate metabolic process	up-down	1.64	-1.74	2.64e-02	2.91e-03	130	132
+Head and neck cancer	Alzheimer's disease	Gene Ontology	spliceosomal complex	up-down	1.89	-1.74	2.14e-04	3.09e-03	150	135
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of cell cycle phase transition	up-down	2.09	-1.54	1.48e-08	3.14e-03	384	351
+Head and neck cancer	Alzheimer's disease	Gene Ontology	cellular nitrogen compound catabolic process	up-down	1.59	-1.49	1.25e-04	3.20e-03	459	427
+Head and neck cancer	Alzheimer's disease	Gene Ontology	ribosomal large subunit biogenesis	up-down	1.74	-1.93	2.44e-02	3.39e-03	49	48
+Head and neck cancer	Alzheimer's disease	Gene Ontology	hematopoietic stem cell differentiation	up-down	2.12	-1.86	3.68e-05	3.48e-03	74	75
+Head and neck cancer	Alzheimer's disease	Gene Ontology	dna repair	up-down	2.48	-1.5	1.48e-08	3.85e-03	457	394
+Head and neck cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation of peptide antigen via mhc class i	up-down	2.23	-1.84	1.73e-06	3.95e-03	79	79
+Head and neck cancer	Alzheimer's disease	Gene Ontology	cellular ketone metabolic process	up-down	1.74	-1.63	8.30e-04	4.11e-03	202	197
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of cellular ketone metabolic process	up-down	1.94	-1.7	5.34e-05	4.13e-03	150	141
+Head and neck cancer	Alzheimer's disease	Gene Ontology	cellular response to oxygen levels	up-down	1.83	-1.63	1.98e-04	4.16e-03	195	197
+Head and neck cancer	Alzheimer's disease	Gene Ontology	spliceosomal snrnp assembly	up-down	2.18	-1.96	7.52e-05	4.45e-03	35	33
+Head and neck cancer	Alzheimer's disease	Gene Ontology	catalytic step 2 spliceosome	up-down	1.88	-1.83	1.95e-03	4.52e-03	71	64
+Head and neck cancer	Alzheimer's disease	Gene Ontology	protein localization to chromosome telomeric region	up-down	1.97	-1.99	3.15e-03	5.08e-03	21	25
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of mrna metabolic process	up-down	1.86	-1.59	4.28e-06	5.10e-03	269	250
+Head and neck cancer	Alzheimer's disease	Gene Ontology	rna export from nucleus	up-down	2.04	-1.72	1.47e-05	5.26e-03	105	101
+Head and neck cancer	Alzheimer's disease	Gene Ontology	nuclear export	up-down	1.97	-1.66	1.76e-05	5.27e-03	156	148
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of dna templated transcription in response to stress	up-down	1.95	-1.73	8.54e-05	5.31e-03	105	104
+Head and neck cancer	Alzheimer's disease	Gene Ontology	establishment of rna localization	up-down	2.02	-1.69	6.08e-06	5.52e-03	152	150
+Head and neck cancer	Alzheimer's disease	Gene Ontology	membrane docking	up-down	1.72	-1.71	2.06e-03	6.36e-03	158	142
+Head and neck cancer	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton organization	up-down	1.76	-1.49	6.90e-07	6.47e-03	457	389
+Head and neck cancer	Alzheimer's disease	Gene Ontology	organelle assembly	up-down	1.34	-1.41	2.14e-02	6.47e-03	673	571
+Head and neck cancer	Alzheimer's disease	Gene Ontology	rna polymerase complex	up-down	1.89	-1.81	8.44e-04	7.01e-03	86	83
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of microtubule based process	up-down	1.6	-1.62	1.31e-02	7.17e-03	184	166
+Head and neck cancer	Alzheimer's disease	Gene Ontology	u2 type catalytic step 2 spliceosome	up-down	2.02	-1.91	2.44e-03	7.54e-03	28	24
+Head and neck cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation of peptide or polysaccharide antigen via mhc class ii	up-down	1.65	-1.78	4.73e-02	7.81e-03	74	82
+Head and neck cancer	Alzheimer's disease	Gene Ontology	organic cyclic compound catabolic process	up-down	1.59	-1.43	1.77e-04	8.02e-03	496	469
+Head and neck cancer	Alzheimer's disease	Gene Ontology	ficolin 1 rich granule	up-down	1.7	-1.69	1.16e-02	8.18e-03	99	111
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of hematopoietic progenitor cell differentiation	up-down	2.14	-1.79	1.41e-05	8.23e-03	77	75
+Head and neck cancer	Alzheimer's disease	Gene Ontology	small nuclear ribonucleoprotein complex	up-down	2.14	-1.86	5.34e-05	9.04e-03	53	51
+Head and neck cancer	Alzheimer's disease	Gene Ontology	morphogenesis of a polarized epithelium	up-down	2.02	-1.68	1.89e-05	9.60e-03	129	113
+Head and neck cancer	Alzheimer's disease	Gene Ontology	fc receptor signaling pathway	up-down	1.77	-1.62	1.48e-03	1.04e-02	145	158
+Head and neck cancer	Alzheimer's disease	Gene Ontology	small subunit processome	up-down	2.16	-1.86	2.19e-04	1.05e-02	31	28
+Head and neck cancer	Alzheimer's disease	Gene Ontology	nucleobase containing compound transport	up-down	1.98	-1.58	2.90e-06	1.06e-02	191	179
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of cellular localization	up-down	1.37	-1.37	9.85e-03	1.08e-02	679	626
+Head and neck cancer	Alzheimer's disease	Gene Ontology	centrosome	up-down	1.82	-1.47	1.85e-08	1.10e-02	496	417
+Head and neck cancer	Alzheimer's disease	Gene Ontology	multi organism localization	up-down	2.06	-1.85	2.57e-04	1.11e-02	49	50
+Head and neck cancer	Alzheimer's disease	Gene Ontology	precatalytic spliceosome	up-down	1.93	-1.85	3.36e-03	1.13e-02	48	42
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of cellular protein localization	up-down	1.41	-1.44	1.23e-02	1.14e-02	459	429
+Head and neck cancer	Alzheimer's disease	Gene Ontology	nuclear pore	up-down	2.15	-1.77	1.67e-05	1.14e-02	65	70
+Head and neck cancer	Alzheimer's disease	Gene Ontology	cellular response to heat	up-down	1.85	-1.64	5.75e-04	1.17e-02	105	107
+Head and neck cancer	Alzheimer's disease	Gene Ontology	rna capping	up-down	1.8	-1.89	3.73e-02	1.19e-02	30	30
+Head and neck cancer	Alzheimer's disease	Gene Ontology	spindle organization	up-down	2.39	-1.66	1.48e-08	1.29e-02	138	127
+Head and neck cancer	Alzheimer's disease	Gene Ontology	carbohydrate derivative metabolic process	up-down	1.28	-1.34	3.37e-02	1.34e-02	933	835
+Head and neck cancer	Alzheimer's disease	Gene Ontology	positive regulation of telomere maintenance via telomere lengthening	up-down	1.92	-1.88	7.97e-03	1.34e-02	28	30
+Head and neck cancer	Alzheimer's disease	Gene Ontology	non canonical wnt signaling pathway	up-down	1.85	-1.64	4.30e-04	1.37e-02	131	119
+Head and neck cancer	Alzheimer's disease	Gene Ontology	rna dependent dna biosynthetic process	up-down	2.08	-1.73	2.35e-04	1.63e-02	57	59
+Head and neck cancer	Alzheimer's disease	Gene Ontology	rna polymerase activity	up-down	1.86	-1.81	1.10e-02	1.72e-02	35	29
+Head and neck cancer	Alzheimer's disease	Gene Ontology	small nucleolar ribonucleoprotein complex	up-down	1.83	-1.86	2.53e-02	1.73e-02	18	17
+Head and neck cancer	Alzheimer's disease	Gene Ontology	microtubule associated complex	up-down	1.62	-1.62	1.57e-02	1.83e-02	131	104
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of cellular amide metabolic process	up-down	1.48	-1.48	1.46e-02	1.92e-02	333	300
+Head and neck cancer	Alzheimer's disease	Gene Ontology	rna modification	up-down	1.81	-1.61	1.09e-03	2.04e-02	141	106
+Head and neck cancer	Alzheimer's disease	Gene Ontology	proteasome core complex beta subunit complex	up-down	1.82	-1.86	2.34e-02	2.08e-02	9	10
+Head and neck cancer	Alzheimer's disease	Gene Ontology	histone mrna metabolic process	up-down	1.99	-1.83	3.54e-03	2.21e-02	22	17
+Head and neck cancer	Alzheimer's disease	Gene Ontology	regulation of telomere maintenance via telomere lengthening	up-down	2.13	-1.69	6.12e-05	2.60e-02	47	46
+Head and neck cancer	Alzheimer's disease	Gene Ontology	mitotic cell cycle	up-down	2.2	-1.31	1.48e-08	2.61e-02	851	792
+Head and neck cancer	Alzheimer's disease	Gene Ontology	signal sequence binding	up-down	1.9	-1.76	8.13e-03	2.70e-02	37	40
+Head and neck cancer	Alzheimer's disease	Gene Ontology	smn sm protein complex	up-down	1.91	-1.85	1.53e-02	2.72e-02	15	13
+Head and neck cancer	Alzheimer's disease	Gene Ontology	spindle	up-down	2.17	-1.46	1.48e-08	2.80e-02	297	261
+Head and neck cancer	Alzheimer's disease	Gene Ontology	establishment of protein localization to telomere	up-down	1.96	-1.75	5.28e-03	2.82e-02	13	16
+Head and neck cancer	Alzheimer's disease	Gene Ontology	postreplication repair	up-down	2.02	-1.73	5.83e-04	2.85e-02	46	39
+Head and neck cancer	Alzheimer's disease	Gene Ontology	dna templated transcription elongation	up-down	1.72	-1.59	1.30e-02	2.95e-02	92	89
+Head and neck cancer	Alzheimer's disease	Gene Ontology	response to heat	up-down	1.76	-1.52	1.87e-03	2.98e-02	140	140
+Head and neck cancer	Alzheimer's disease	Gene Ontology	microtubule organizing center	up-down	1.71	-1.36	1.08e-07	3.16e-02	640	520
+Head and neck cancer	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton organization involved in mitosis	up-down	2.3	-1.53	2.50e-08	3.45e-02	112	109
+Head and neck cancer	Alzheimer's disease	Gene Ontology	nuclear exosome rnase complex	up-down	2	-1.77	4.54e-03	3.64e-02	15	14
+Head and neck cancer	Alzheimer's disease	Gene Ontology	host cellular component	up-down	1.71	-1.63	2.57e-02	3.78e-02	61	59
+Head and neck cancer	Alzheimer's disease	Gene Ontology	spindle microtubule	up-down	2.23	-1.66	6.20e-06	3.82e-02	47	48
+Head and neck cancer	Alzheimer's disease	Gene Ontology	condensed chromosome centromeric region	up-down	2.54	-1.57	1.48e-08	3.88e-02	101	87
+Head and neck cancer	Alzheimer's disease	Gene Ontology	ncrna export from nucleus	up-down	2	-1.7	2.72e-03	4.01e-02	31	31
+Head and neck cancer	Alzheimer's disease	Gene Ontology	innate immune response activating cell surface receptor signaling pathway	up-down	1.98	-1.6	1.39e-04	4.04e-02	93	90
+Head and neck cancer	Alzheimer's disease	Gene Ontology	90s preribosome	up-down	1.98	-1.75	3.40e-03	4.18e-02	25	21
+Head and neck cancer	Alzheimer's disease	Gene Ontology	ciliary basal body plasma membrane docking	up-down	1.91	-1.54	1.16e-03	4.35e-02	84	77
+Head and neck cancer	Alzheimer's disease	Gene Ontology	response to endoplasmic reticulum stress	up-down	1.49	-1.41	2.95e-02	4.68e-02	243	215
+Head and neck cancer	Alzheimer's disease	Gene Ontology	dna templated transcription termination	up-down	2.25	-1.58	1.76e-06	4.82e-02	65	58
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of the cornified envelope	down-up	-2.09	2.17	1.19e-04	1.33e-05	76	73
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - keratinization	down-up	-2.04	2.2	6.54e-05	2.28e-05	87	75
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - phase i functionalization of compounds	down-up	-1.96	1.68	5.65e-04	1.03e-02	72	85
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	kegg - drug metabolism cytochrome p450	down-up	-2.1	1.67	5.11e-04	2.18e-02	31	46
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - physiological factors	down-up	-1.87	1.88	1.15e-02	2.50e-02	11	12
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - cytochrome p450 arranged by substrate type	down-up	-1.72	1.53	1.20e-02	4.27e-02	41	50
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - arachidonic acid metabolism	down-up	-1.66	1.54	2.85e-02	4.71e-02	47	46
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - antigen processing ubiquitination proteasome degradation	up-down	1.64	-2.41	6.49e-04	5.07e-09	256	213
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	up-down	2.4	-2.64	2.94e-08	5.07e-09	60	60
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - assembly of the pre replicative complex	up-down	2.57	-2.6	6.03e-09	5.07e-09	61	62
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - auf1 hnrnp d0 binds and destabilizes mrna	up-down	2.33	-2.65	7.31e-07	5.07e-09	45	48
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle checkpoints	up-down	2.9	-2.16	6.03e-09	5.07e-09	239	234
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - class i mhc mediated antigen processing presentation	up-down	1.75	-2.19	1.09e-05	5.07e-09	303	261
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - defective cftr causes cystic fibrosis	up-down	2.3	-2.72	3.63e-07	5.07e-09	52	51
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of gli1 by the proteasome	up-down	2.24	-2.69	1.24e-06	5.07e-09	53	53
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - dna replication	up-down	2.79	-2.47	6.03e-09	5.07e-09	115	113
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - hedgehog ligand biogenesis	up-down	2.29	-2.66	4.47e-07	5.07e-09	53	54
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv infection	up-down	2.32	-2.45	6.03e-09	5.07e-09	191	197
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - host interactions of hiv factors	up-down	2.42	-2.51	6.03e-09	5.07e-09	109	113
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of rna	up-down	2.3	-2.2	6.03e-09	5.07e-09	541	508
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - mitochondrial translation	up-down	1.99	-2.76	7.35e-05	5.07e-09	83	61
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic g2 g2 m phases	up-down	2.48	-2.26	6.03e-09	5.07e-09	162	163
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic metaphase and anaphase	up-down	2.67	-2.28	6.03e-09	5.07e-09	191	185
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - neddylation	up-down	1.63	-2.38	1.33e-03	5.07e-09	198	164
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - negative regulation of notch4 signaling	up-down	2.36	-2.85	3.62e-07	5.07e-09	48	50
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - orc1 removal from chromatin	up-down	2.64	-2.68	6.03e-09	5.07e-09	64	65
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of pten stability and activity	up-down	2.28	-2.58	6.58e-07	5.07e-09	58	63
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of ras by gaps	up-down	2.2	-2.85	3.49e-06	5.07e-09	57	55
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of runx2 expression and activity	up-down	2.19	-2.59	4.00e-06	5.07e-09	65	67
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - separation of sister chromatids	up-down	2.73	-2.35	6.03e-09	5.07e-09	154	152
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - switching of origins to a post replicative state	up-down	2.61	-2.7	6.03e-09	5.07e-09	79	77
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - the role of gtse1 in g2 m progression after g2 checkpoint	up-down	2.4	-2.54	1.50e-08	5.07e-09	57	66
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - translation	up-down	1.42	-2.49	3.36e-02	5.07e-09	225	212
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of polyamines	up-down	2.39	-2.6	2.05e-08	5.32e-09	53	52
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of axin	up-down	2.27	-2.6	2.59e-06	6.93e-09	48	49
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	kegg - proteasome	up-down	2.33	-2.64	4.47e-07	7.66e-09	39	39
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of dvl	up-down	2.33	-2.57	9.44e-07	8.12e-09	50	51
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - dna replication pre initiation	up-down	2.75	-2.48	6.03e-09	1.16e-08	78	78
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - cross presentation of soluble exogenous antigens endosomes	up-down	2.3	-2.63	1.11e-06	1.37e-08	43	43
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - post translational protein modification	up-down	1.63	-1.65	6.03e-09	2.07e-08	1134	1021
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - apc c mediated degradation of cell cycle proteins	up-down	2.56	-2.49	6.03e-09	2.21e-08	73	73
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - scf skp2 mediated degradation of p27 p21	up-down	2.34	-2.51	1.13e-07	2.48e-08	54	57
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular response to hypoxia	up-down	2.24	-2.48	1.07e-06	5.04e-08	65	67
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of expression of slits and robos	up-down	1.57	-2.24	1.39e-02	5.28e-08	118	133
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - organelle biogenesis and maintenance	up-down	1.51	-2.1	5.97e-03	7.19e-08	244	222
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of mrna stability by proteins that bind au rich elements	up-down	2.44	-2.39	6.03e-09	7.19e-08	73	76
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - stabilization of p53	up-down	2.35	-2.49	4.07e-07	7.39e-08	48	51
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - asymmetric localization of pcp proteins	up-down	2.21	-2.47	2.31e-06	7.92e-08	55	56
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - g2 m checkpoints	up-down	2.77	-2.22	6.03e-09	9.31e-08	133	137
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - dectin 1 mediated noncanonical nf kb signaling	up-down	2.19	-2.46	2.76e-06	1.18e-07	54	57
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of runx3 expression and activity	up-down	2.38	-2.45	1.70e-07	1.96e-07	48	51
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by robo receptors	up-down	1.49	-2.1	1.99e-02	2.95e-07	159	175
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - abc transporter disorders	up-down	2.22	-2.36	1.23e-06	4.00e-07	64	64
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - s phase	up-down	2.62	-2.2	6.03e-09	5.17e-07	147	140
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - cyclin a cdk2 associated events at s phase entry	up-down	2.33	-2.31	1.50e-08	5.78e-07	78	77
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - abc family proteins mediated transport	up-down	2.12	-2.28	4.90e-06	1.00e-06	84	84
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - downstream signaling events of b cell receptor bcr	up-down	2.2	-2.32	9.44e-07	1.56e-06	70	73
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - m phase	up-down	2.55	-1.84	6.03e-09	1.80e-06	320	316
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle	up-down	2.7	-1.7	6.03e-09	1.81e-06	546	534
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - uch proteinases	up-down	2.36	-2.25	1.11e-08	1.99e-06	79	76
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - g1 s dna damage checkpoints	up-down	2.4	-2.31	1.70e-08	2.00e-06	59	61
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - pcp ce pathway	up-down	2.12	-2.25	5.17e-06	2.11e-06	83	82
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - processing of capped intron containing pre mrna	up-down	2.28	-2.01	6.03e-09	2.11e-06	201	188
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - transcription coupled nucleotide excision repair tc ner	up-down	1.82	-2.3	2.33e-03	2.86e-06	67	69
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - hedgehog off state	up-down	1.89	-2.23	2.11e-04	3.10e-06	97	95
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - nucleotide excision repair	up-down	1.9	-2.23	4.36e-04	3.27e-06	95	95
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by hedgehog	up-down	1.67	-2.11	4.37e-03	5.43e-06	126	119
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - fceri mediated nf kb activation	up-down	2.04	-2.27	1.36e-04	6.88e-06	71	71
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv life cycle	up-down	2.03	-2.1	5.17e-06	7.24e-06	122	126
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - mapk6 mapk4 signaling	up-down	2.33	-2.2	2.86e-08	8.14e-06	79	79
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle mitotic	up-down	2.68	-1.7	6.03e-09	1.21e-05	451	444
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - hedgehog on state	up-down	1.93	-2.17	4.58e-04	2.28e-05	75	70
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by notch4	up-down	2.21	-2.21	1.43e-06	2.28e-05	72	74
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular responses to external stimuli	up-down	1.68	-1.65	1.68e-06	3.11e-05	450	475
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of beta catenin by the destruction complex	up-down	2.06	-2.11	4.22e-05	4.67e-05	74	76
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - pten regulation	up-down	2.01	-2.05	6.88e-06	4.83e-05	122	118
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - golgi to er retrograde transport	up-down	1.61	-2.11	1.06e-02	5.04e-05	102	104
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic g1 phase and g1 s transition	up-down	2.62	-1.93	6.03e-09	6.43e-05	138	138
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - mhc class ii antigen presentation	up-down	1.7	-2.03	5.19e-03	6.46e-05	87	97
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna splicing	up-down	2.21	-1.91	6.03e-09	8.89e-05	160	147
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	kegg - ubiquitin mediated proteolysis	up-down	1.57	-2.01	1.35e-02	1.08e-04	114	110
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - fc epsilon receptor fceri signaling	up-down	1.87	-1.96	1.92e-04	1.12e-04	111	119
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - global genome nucleotide excision repair gg ner	up-down	1.83	-2.11	1.58e-03	1.23e-04	73	74
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - cytosolic trna aminoacylation	up-down	1.69	-2.25	3.50e-02	1.86e-04	20	20
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - nervous system development	up-down	1.38	-1.6	1.33e-02	1.89e-04	474	495
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - cooperation of prefoldin and tric cct in actin and tubulin folding	up-down	1.72	-2.22	2.66e-02	2.21e-04	20	26
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - infectious disease	up-down	1.6	-1.54	1.12e-05	2.58e-04	562	582
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - ub specific processing proteases	up-down	2.06	-1.85	5.36e-07	2.58e-04	153	160
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - deubiquitination	up-down	1.98	-1.76	1.46e-07	3.66e-04	221	217
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	kegg - rna degradation	up-down	1.83	-2.1	2.12e-03	4.38e-04	54	47
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - trna processing	up-down	2.05	-1.95	1.09e-05	4.38e-04	97	84
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - antigen processing cross presentation	up-down	2.29	-1.97	8.21e-08	4.68e-04	80	82
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - cilium assembly	up-down	1.8	-1.8	6.57e-05	6.01e-04	166	147
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - dual incision in tc ner	up-down	1.76	-2.03	5.26e-03	6.07e-04	56	56
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	kegg - spliceosome	up-down	2.1	-1.88	9.43e-07	8.97e-04	103	97
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - interleukin 1 signaling	up-down	1.94	-1.92	1.73e-04	9.76e-04	90	89
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - rrna processing	up-down	1.7	-1.8	5.59e-04	9.76e-04	142	146
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - viral messenger rna synthesis	up-down	2.04	-2.03	2.58e-04	1.19e-03	37	38
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - tnfr2 non canonical nf kb pathway	up-down	2.02	-1.91	3.36e-05	1.21e-03	88	88
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - clec7a dectin 1 signaling	up-down	2.09	-1.9	9.46e-06	1.25e-03	83	89
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - rrna modification in the nucleus and cytosol	up-down	2.11	-2.01	4.47e-05	1.44e-03	49	47
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by the b cell receptor bcr	up-down	1.84	-1.84	7.82e-04	1.56e-03	96	99
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - beta catenin independent wnt signaling	up-down	1.85	-1.81	2.18e-04	1.69e-03	128	124
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic spindle checkpoint	up-down	2.63	-1.83	6.03e-09	1.78e-03	93	86
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - dna repair	up-down	2.46	-1.64	6.03e-09	1.89e-03	264	254
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - adaptive immune system	up-down	1.54	-1.47	1.97e-05	1.90e-03	599	567
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna splicing minor pathway	up-down	1.93	-2.04	1.89e-03	2.09e-03	46	43
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - snrnp assembly	up-down	2.27	-1.95	4.21e-06	2.35e-03	46	44
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - disorders of transmembrane transporters	up-down	2	-1.71	5.24e-06	3.42e-03	147	147
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - flt3 signaling	up-down	1.37	-1.61	4.68e-02	3.70e-03	226	227
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - transcriptional regulation by tp53	up-down	1.94	-1.57	9.51e-09	4.27e-03	311	291
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - transcriptional regulation by runx2	up-down	1.99	-1.76	1.09e-05	4.78e-03	108	108
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - mapk family signaling cascades	up-down	1.52	-1.55	5.21e-03	4.92e-03	252	251
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular response to heat stress	up-down	1.76	-1.81	3.06e-03	5.49e-03	81	83
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of hsf1 mediated heat shock response	up-down	1.81	-1.82	2.24e-03	5.66e-03	66	67
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - antiviral mechanism by ifn stimulated genes	up-down	2.14	-1.81	5.81e-06	6.21e-03	66	70
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - copi dependent golgi to er retrograde traffic	up-down	1.69	-1.8	1.77e-02	6.27e-03	75	75
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - trna processing in the nucleus	up-down	2.02	-1.88	9.41e-05	6.43e-03	51	46
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of plk1 activity at g2 m transition	up-down	1.89	-1.82	6.09e-04	6.43e-03	74	74
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	kegg - rna polymerase	up-down	1.68	-1.97	2.44e-02	7.55e-03	24	20
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - ns1 mediated effects on host pathways	up-down	2.11	-1.88	9.69e-05	7.78e-03	33	34
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - glucose metabolism	up-down	1.81	-1.72	1.97e-03	8.48e-03	79	82
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - protein folding	up-down	1.6	-1.76	2.95e-02	8.75e-03	77	76
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of the early elongation complex	up-down	1.64	-1.9	4.39e-02	1.04e-02	27	28
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	kegg - purine metabolism	up-down	1.78	-1.67	4.93e-04	1.06e-02	137	130
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - rho gtpases activate formins	up-down	2.58	-1.69	6.03e-09	1.21e-02	112	109
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - ksrp khsrp binds and destabilizes mrna	up-down	1.89	-1.83	1.03e-02	1.38e-02	16	15
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - transcription of the hiv genome	up-down	1.99	-1.75	1.38e-04	1.41e-02	57	62
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	biocarta - malatex pathway	up-down	1.73	-1.81	3.25e-02	1.47e-02	8	8
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - aurka activation by tpx2	up-down	1.96	-1.67	2.34e-04	1.65e-02	62	61
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - glycolysis	up-down	1.86	-1.67	1.81e-03	1.65e-02	60	63
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv transcription initiation	up-down	1.7	-1.78	2.44e-02	1.66e-02	40	42
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - recruitment of mitotic centrosome proteins and complexes	up-down	1.94	-1.74	1.67e-04	1.85e-02	68	65
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - c type lectin receptors clrs	up-down	1.92	-1.62	1.10e-04	1.88e-02	113	116
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - apc cdc20 mediated degradation of nek2a	up-down	1.68	-1.83	3.50e-02	1.90e-02	18	18
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of rna pol ii elongation complex	up-down	1.78	-1.71	6.28e-03	1.97e-02	50	50
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - transport of small molecules	up-down	1.29	-1.35	4.25e-02	1.98e-02	625	544
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - runx1 regulates transcription of genes involved in differentiation of hscs	up-down	2.27	-1.68	1.07e-07	1.98e-02	87	94
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - recruitment of numa to mitotic centrosomes	up-down	1.9	-1.69	5.65e-04	2.03e-02	74	74
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv transcription elongation	up-down	1.82	-1.73	6.75e-03	2.03e-02	35	38
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - interactions of vpr with host cellular proteins	up-down	1.85	-1.8	6.15e-03	2.05e-02	30	31
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - transport of mature transcript to cytoplasm	up-down	1.87	-1.62	1.13e-03	2.26e-02	65	61
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - dna damage bypass	up-down	2	-1.69	5.01e-04	2.28e-02	43	40
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic prometaphase	up-down	2.55	-1.52	6.03e-09	2.43e-02	166	160
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - resolution of sister chromatid cohesion	up-down	2.67	-1.58	6.03e-09	2.50e-02	101	99
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - transport of the slbp dependant mature mrna	up-down	2.03	-1.76	5.22e-04	2.60e-02	30	30
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - protein ubiquitination	up-down	1.8	-1.64	1.46e-03	2.61e-02	68	58
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	kegg - nucleotide excision repair	up-down	1.69	-1.67	2.53e-02	2.63e-02	40	40
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - resolution of ap sites via the multiple nucleotide patch replacement pathway	up-down	2.04	-1.73	3.94e-04	2.78e-02	23	22
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - nuclear envelope ne reassembly	up-down	1.87	-1.65	1.10e-03	2.93e-02	54	54
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - rna polymerase iii transcription initiation from type 3 promoter	up-down	1.76	-1.72	1.28e-02	2.93e-02	26	22
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	biocarta - sm pathway	up-down	1.89	-1.76	6.90e-03	3.00e-02	13	13
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - interactions of rev with host cellular proteins	up-down	2.07	-1.72	2.48e-04	3.65e-02	29	30
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - tcr signaling	up-down	2.04	-1.61	1.12e-05	3.97e-02	99	105
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - dual incision in gg ner	up-down	1.78	-1.68	9.99e-03	4.11e-02	35	37
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - recognition of dna damage by pcna containing replication complex	up-down	1.76	-1.74	1.28e-02	4.23e-02	26	28
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - anchoring of the basal body to the plasma membrane	up-down	1.9	-1.54	2.53e-04	4.27e-02	86	78
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - programmed cell death	up-down	1.98	-1.47	1.58e-06	4.27e-02	161	161
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - abortive elongation of hiv 1 transcript in the absence of tat	up-down	1.68	-1.74	4.00e-02	4.32e-02	19	19
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - perk regulates gene expression	up-down	1.95	-1.69	4.21e-03	4.52e-02	28	30
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna decay by 3 to 5 exoribonuclease	up-down	1.74	-1.68	4.13e-02	4.78e-02	15	13
+Head and neck cancer	Alzheimer's disease	Canonical Pathways	reactome - pcna dependent long patch base excision repair	up-down	2.03	-1.7	8.06e-04	4.80e-02	20	20

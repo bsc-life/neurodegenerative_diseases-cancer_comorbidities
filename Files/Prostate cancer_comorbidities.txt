@@ -1,0 +1,641 @@
+disease.1	disease.2	category	pathway	overlap	nes.1	nes.2	fdr.1	fdr.2	genes.1	ngenes.2
+Prostate cancer	Parkinson's disease	HallMark	hypoxia	down-up	-1.79	1.66	1.98e-05	2.10e-04	184	193
+Prostate cancer	Parkinson's disease	HallMark	tgf beta signaling	down-up	-1.53	1.65	2.72e-02	1.04e-02	51	49
+Prostate cancer	Parkinson's disease	HallMark	interferon alpha response	down-up	-1.53	1.51	1.52e-02	1.74e-02	79	77
+Prostate cancer	Parkinson's disease	HallMark	epithelial mesenchymal transition	down-up	-2.1	1.36	1.48e-09	2.19e-02	187	190
+Prostate cancer	Parkinson's disease	HallMark	myogenesis	down-up	-2.07	1.32	1.96e-08	3.80e-02	177	194
+Prostate cancer	Parkinson's disease	HallMark	myc targets v1	up-down	2.61	-1.98	1.48e-09	1.03e-06	169	182
+Prostate cancer	Parkinson's disease	HallMark	mtorc1 signaling	up-down	1.67	-1.9	4.74e-04	1.67e-06	175	190
+Prostate cancer	Parkinson's disease	HallMark	myc targets v2	up-down	2.43	-1.57	4.26e-07	2.62e-02	50	52
+Prostate cancer	Parkinson's disease	HallMark	glycolysis	up-down	1.42	-1.37	2.22e-02	4.88e-02	177	182
+Prostate cancer	Alzheimer's disease	HallMark	epithelial mesenchymal transition	down-up	-2.1	2.13	1.48e-09	4.14e-08	187	190
+Prostate cancer	Alzheimer's disease	HallMark	myogenesis	down-up	-2.07	1.85	1.96e-08	1.64e-05	177	194
+Prostate cancer	Alzheimer's disease	HallMark	hypoxia	down-up	-1.79	1.61	1.98e-05	3.75e-04	184	193
+Prostate cancer	Alzheimer's disease	HallMark	kras signaling dn	down-up	-1.49	1.67	8.86e-03	3.75e-04	177	190
+Prostate cancer	Alzheimer's disease	HallMark	apical junction	down-up	-1.91	1.37	1.14e-06	1.69e-02	182	176
+Prostate cancer	Alzheimer's disease	HallMark	estrogen response early	down-up	-1.52	1.32	4.47e-03	2.86e-02	178	186
+Prostate cancer	Alzheimer's disease	HallMark	myc targets v1	up-down	2.61	-2.54	1.48e-09	2.50e-09	169	182
+Prostate cancer	Alzheimer's disease	HallMark	mtorc1 signaling	up-down	1.67	-2.19	4.74e-04	6.78e-09	175	191
+Prostate cancer	Alzheimer's disease	HallMark	unfolded protein response	up-down	1.93	-1.99	5.55e-05	2.28e-05	99	105
+Prostate cancer	Alzheimer's disease	HallMark	myc targets v2	up-down	2.43	-1.57	4.26e-07	1.99e-02	50	52
+Prostate cancer	Parkinson's disease	Gene Ontology	anatomical structure formation involved in morphogenesis	down-up	-1.68	1.61	3.20e-08	1.26e-08	960	882
+Prostate cancer	Parkinson's disease	Gene Ontology	biological adhesion	down-up	-1.6	1.53	3.20e-08	1.26e-08	1169	1082
+Prostate cancer	Parkinson's disease	Gene Ontology	blood vessel morphogenesis	down-up	-1.71	1.83	1.26e-06	1.26e-08	519	510
+Prostate cancer	Parkinson's disease	Gene Ontology	cardiovascular system development	down-up	-1.73	1.77	5.47e-08	1.26e-08	625	599
+Prostate cancer	Parkinson's disease	Gene Ontology	cytokine production	down-up	-1.33	1.8	3.49e-02	1.26e-08	640	606
+Prostate cancer	Parkinson's disease	Gene Ontology	extracellular structure organization	down-up	-1.77	1.97	7.59e-06	1.26e-08	326	310
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of cell population proliferation	down-up	-1.48	1.5	1.49e-06	1.26e-08	1362	1308
+Prostate cancer	Parkinson's disease	Gene Ontology	tube development	down-up	-1.59	1.73	5.18e-07	1.26e-08	904	857
+Prostate cancer	Parkinson's disease	Gene Ontology	tube morphogenesis	down-up	-1.62	1.76	1.59e-06	1.26e-08	734	694
+Prostate cancer	Parkinson's disease	Gene Ontology	epithelial cell differentiation	down-up	-1.54	1.73	7.81e-04	2.91e-08	570	532
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of cell activation	down-up	-1.36	1.8	3.45e-02	4.55e-08	459	432
+Prostate cancer	Parkinson's disease	Gene Ontology	embryo development	down-up	-1.44	1.55	5.47e-04	1.10e-07	893	796
+Prostate cancer	Parkinson's disease	Gene Ontology	circulatory system development	down-up	-1.74	1.52	3.20e-08	1.38e-07	932	880
+Prostate cancer	Parkinson's disease	Gene Ontology	cell activation	down-up	-1.26	1.43	2.99e-02	2.55e-07	1151	1094
+Prostate cancer	Parkinson's disease	Gene Ontology	positive regulation of locomotion	down-up	-1.69	1.69	5.32e-06	4.16e-07	481	466
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of vasculature development	down-up	-1.71	1.91	1.67e-04	6.22e-07	287	274
+Prostate cancer	Parkinson's disease	Gene Ontology	negative regulation of multicellular organismal process	down-up	-1.63	1.47	3.20e-08	7.45e-07	1044	967
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of cell adhesion	down-up	-1.58	1.6	8.29e-05	9.65e-07	584	562
+Prostate cancer	Parkinson's disease	Gene Ontology	positive regulation of intracellular signal transduction	down-up	-1.39	1.49	4.09e-03	2.01e-06	855	792
+Prostate cancer	Parkinson's disease	Gene Ontology	i kappab kinase nf kappab signaling	down-up	-1.57	1.94	1.01e-02	3.94e-06	231	202
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of cellular component movement	down-up	-1.79	1.47	3.20e-08	5.20e-06	855	801
+Prostate cancer	Parkinson's disease	Gene Ontology	skeletal system development	down-up	-1.8	1.67	2.90e-07	5.58e-06	456	419
+Prostate cancer	Parkinson's disease	Gene Ontology	cell motility	down-up	-1.58	1.3	3.20e-08	8.91e-06	1361	1242
+Prostate cancer	Parkinson's disease	Gene Ontology	embryonic organ development	down-up	-1.66	1.7	2.08e-04	1.12e-05	378	347
+Prostate cancer	Parkinson's disease	Gene Ontology	positive regulation of multicellular organismal process	down-up	-1.38	1.3	1.76e-04	1.12e-05	1498	1410
+Prostate cancer	Parkinson's disease	Gene Ontology	positive regulation of vasculature development	down-up	-1.64	1.97	8.94e-03	1.37e-05	164	158
+Prostate cancer	Parkinson's disease	Gene Ontology	positive regulation of developmental process	down-up	-1.52	1.32	5.65e-07	1.81e-05	1176	1090
+Prostate cancer	Parkinson's disease	Gene Ontology	reproductive system development	down-up	-1.46	1.66	1.43e-02	1.81e-05	376	361
+Prostate cancer	Parkinson's disease	Gene Ontology	embryonic morphogenesis	down-up	-1.57	1.61	3.06e-04	2.01e-05	513	462
+Prostate cancer	Parkinson's disease	Gene Ontology	extracellular matrix	down-up	-1.82	1.62	1.32e-07	2.13e-05	461	412
+Prostate cancer	Parkinson's disease	Gene Ontology	cell surface	down-up	-1.59	1.48	9.32e-06	2.25e-05	695	665
+Prostate cancer	Parkinson's disease	Gene Ontology	negative regulation of developmental process	down-up	-1.62	1.44	3.34e-07	3.69e-05	812	741
+Prostate cancer	Parkinson's disease	Gene Ontology	muscle structure development	down-up	-1.76	1.56	5.47e-08	4.01e-05	543	504
+Prostate cancer	Parkinson's disease	Gene Ontology	cell cell adhesion	down-up	-1.45	1.48	1.46e-03	5.81e-05	695	632
+Prostate cancer	Parkinson's disease	Gene Ontology	positive regulation of i kappab kinase nf kappab signaling	down-up	-1.53	1.94	3.76e-02	7.73e-05	163	143
+Prostate cancer	Parkinson's disease	Gene Ontology	collagen containing extracellular matrix	down-up	-1.97	1.66	3.20e-08	9.15e-05	355	327
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of ossification	down-up	-1.85	1.8	1.83e-04	1.56e-04	175	157
+Prostate cancer	Parkinson's disease	Gene Ontology	response to lipid	down-up	-1.39	1.4	3.13e-03	1.69e-04	798	782
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of epithelial cell differentiation	down-up	-1.77	1.87	2.30e-03	1.70e-04	124	124
+Prostate cancer	Parkinson's disease	Gene Ontology	locomotion	down-up	-1.54	1.21	3.20e-08	2.73e-04	1555	1404
+Prostate cancer	Parkinson's disease	Gene Ontology	epithelium development	down-up	-1.52	1.32	3.14e-06	2.90e-04	1034	937
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of intracellular signal transduction	down-up	-1.35	1.24	5.27e-04	3.16e-04	1534	1398
+Prostate cancer	Parkinson's disease	Gene Ontology	cell substrate adhesion	down-up	-1.91	1.63	2.36e-07	3.28e-04	301	283
+Prostate cancer	Parkinson's disease	Gene Ontology	negative regulation of cell activation	down-up	-1.56	1.84	2.90e-02	4.05e-04	164	159
+Prostate cancer	Parkinson's disease	Gene Ontology	negative regulation of cell adhesion	down-up	-1.45	1.61	4.53e-02	7.46e-04	233	229
+Prostate cancer	Parkinson's disease	Gene Ontology	cell fate commitment	down-up	-1.65	1.64	1.93e-03	7.72e-04	230	206
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of cell cell adhesion	down-up	-1.43	1.53	2.28e-02	8.77e-04	349	332
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of osteoblast differentiation	down-up	-1.98	1.85	9.88e-05	1.24e-03	106	94
+Prostate cancer	Parkinson's disease	Gene Ontology	muscle organ development	down-up	-1.6	1.52	1.35e-03	1.28e-03	333	308
+Prostate cancer	Parkinson's disease	Gene Ontology	renal system development	down-up	-1.83	1.6	9.32e-06	1.29e-03	265	247
+Prostate cancer	Parkinson's disease	Gene Ontology	positive regulation of cell adhesion	down-up	-1.65	1.51	2.06e-04	1.52e-03	348	333
+Prostate cancer	Parkinson's disease	Gene Ontology	wound healing	down-up	-1.73	1.43	1.07e-06	1.61e-03	468	461
+Prostate cancer	Parkinson's disease	Gene Ontology	ossification	down-up	-1.57	1.51	1.96e-03	1.63e-03	346	320
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of extrinsic apoptotic signaling pathway	down-up	-1.68	1.73	1.11e-02	1.67e-03	131	130
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of endothelial cell migration	down-up	-1.89	1.72	1.38e-04	1.77e-03	139	133
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of cell death	down-up	-1.3	1.2	1.09e-02	2.00e-03	1371	1311
+Prostate cancer	Parkinson's disease	Gene Ontology	positive regulation of cell differentiation	down-up	-1.57	1.3	4.57e-06	2.20e-03	841	792
+Prostate cancer	Parkinson's disease	Gene Ontology	urogenital system development	down-up	-1.88	1.54	1.26e-06	2.38e-03	298	282
+Prostate cancer	Parkinson's disease	Gene Ontology	negative regulation of cell differentiation	down-up	-1.67	1.4	1.91e-06	2.49e-03	601	539
+Prostate cancer	Parkinson's disease	Gene Ontology	sensory organ development	down-up	-1.6	1.41	7.79e-05	2.65e-03	486	429
+Prostate cancer	Parkinson's disease	Gene Ontology	endothelial cell migration	down-up	-1.74	1.6	1.83e-03	2.96e-03	177	173
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of dna binding transcription factor activity	down-up	-1.4	1.46	2.69e-02	3.29e-03	365	336
+Prostate cancer	Parkinson's disease	Gene Ontology	negative regulation of cell population proliferation	down-up	-1.64	1.36	1.18e-05	3.69e-03	595	579
+Prostate cancer	Parkinson's disease	Gene Ontology	negative regulation of immune effector process	down-up	-1.63	1.74	3.81e-02	4.06e-03	96	99
+Prostate cancer	Parkinson's disease	Gene Ontology	integrin mediated signaling pathway	down-up	-1.88	1.83	1.13e-03	4.29e-03	93	90
+Prostate cancer	Parkinson's disease	Gene Ontology	skeletal system morphogenesis	down-up	-1.79	1.59	2.05e-04	4.35e-03	208	191
+Prostate cancer	Parkinson's disease	Gene Ontology	response to wounding	down-up	-1.77	1.34	3.54e-08	4.68e-03	566	557
+Prostate cancer	Parkinson's disease	Gene Ontology	epithelial cell apoptotic process	down-up	-1.64	1.81	3.81e-02	5.29e-03	89	90
+Prostate cancer	Parkinson's disease	Gene Ontology	gland morphogenesis	down-up	-1.76	1.69	8.29e-03	6.88e-03	104	109
+Prostate cancer	Parkinson's disease	Gene Ontology	glomerulus development	down-up	-1.88	1.85	4.39e-03	7.23e-03	57	56
+Prostate cancer	Parkinson's disease	Gene Ontology	signaling receptor binding	down-up	-1.56	1.15	6.77e-08	7.74e-03	1256	1183
+Prostate cancer	Parkinson's disease	Gene Ontology	extracellular matrix structural constituent	down-up	-1.87	1.62	2.06e-04	7.91e-03	150	133
+Prostate cancer	Parkinson's disease	Gene Ontology	negative regulation of cell death	down-up	-1.36	1.26	8.84e-03	8.16e-03	804	793
+Prostate cancer	Parkinson's disease	Gene Ontology	cell differentiation involved in kidney development	down-up	-1.96	1.81	1.86e-03	8.73e-03	52	51
+Prostate cancer	Parkinson's disease	Gene Ontology	bone development	down-up	-1.84	1.53	1.10e-04	9.25e-03	191	175
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of cell differentiation	down-up	-1.53	1.16	3.20e-08	9.34e-03	1553	1406
+Prostate cancer	Parkinson's disease	Gene Ontology	embryonic organ morphogenesis	down-up	-1.58	1.47	4.50e-03	9.45e-03	258	228
+Prostate cancer	Parkinson's disease	Gene Ontology	appendage morphogenesis	down-up	-1.62	1.62	2.88e-02	1.00e-02	133	118
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of chondrocyte differentiation	down-up	-1.84	1.8	1.68e-02	1.03e-02	47	42
+Prostate cancer	Parkinson's disease	Gene Ontology	cell matrix adhesion	down-up	-1.82	1.52	9.61e-05	1.32e-02	193	186
+Prostate cancer	Parkinson's disease	Gene Ontology	digestive system development	down-up	-1.86	1.64	3.75e-04	1.32e-02	126	119
+Prostate cancer	Parkinson's disease	Gene Ontology	cartilage development	down-up	-1.97	1.52	6.39e-06	1.34e-02	179	167
+Prostate cancer	Parkinson's disease	Gene Ontology	positive regulation of endothelial cell migration	down-up	-1.73	1.7	1.49e-02	1.41e-02	85	82
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of chemotaxis	down-up	-1.55	1.51	2.11e-02	1.43e-02	181	179
+Prostate cancer	Parkinson's disease	Gene Ontology	extrinsic apoptotic signaling pathway	down-up	-1.59	1.5	1.24e-02	1.44e-02	191	191
+Prostate cancer	Parkinson's disease	Gene Ontology	tissue migration	down-up	-1.77	1.45	9.84e-05	1.57e-02	257	249
+Prostate cancer	Parkinson's disease	Gene Ontology	enzyme linked receptor protein signaling pathway	down-up	-1.61	1.24	3.12e-07	1.74e-02	874	826
+Prostate cancer	Parkinson's disease	Gene Ontology	negative regulation of growth	down-up	-1.61	1.48	1.05e-02	1.75e-02	205	204
+Prostate cancer	Parkinson's disease	Gene Ontology	cytokine production involved in immune response	down-up	-1.72	1.61	1.63e-02	1.81e-02	89	93
+Prostate cancer	Parkinson's disease	Gene Ontology	embryonic appendage morphogenesis	down-up	-1.66	1.64	2.69e-02	1.81e-02	114	103
+Prostate cancer	Parkinson's disease	Gene Ontology	taxis	down-up	-1.55	1.28	2.99e-04	1.81e-02	545	514
+Prostate cancer	Parkinson's disease	Gene Ontology	mesodermal cell differentiation	down-up	-1.92	1.79	1.64e-02	1.95e-02	26	28
+Prostate cancer	Parkinson's disease	Gene Ontology	negative regulation of alpha beta t cell activation	down-up	-1.79	1.79	4.75e-02	1.95e-02	26	28
+Prostate cancer	Parkinson's disease	Gene Ontology	side of membrane	down-up	-1.37	1.36	4.78e-02	2.09e-02	430	406
+Prostate cancer	Parkinson's disease	Gene Ontology	positive regulation of mapk cascade	down-up	-1.53	1.33	1.75e-03	2.17e-02	446	437
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of epithelial cell migration	down-up	-1.71	1.45	1.52e-03	2.29e-02	196	190
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of endothelial cell differentiation	down-up	-1.88	1.81	1.19e-02	2.30e-02	27	29
+Prostate cancer	Parkinson's disease	Gene Ontology	nephron development	down-up	-1.82	1.57	1.45e-03	2.36e-02	129	120
+Prostate cancer	Parkinson's disease	Gene Ontology	ruffle	down-up	-1.55	1.48	4.99e-02	2.53e-02	153	145
+Prostate cancer	Parkinson's disease	Gene Ontology	odontogenesis	down-up	-1.67	1.53	1.63e-02	2.66e-02	122	109
+Prostate cancer	Parkinson's disease	Gene Ontology	negative regulation of defense response	down-up	-1.54	1.48	3.17e-02	2.68e-02	173	157
+Prostate cancer	Parkinson's disease	Gene Ontology	connective tissue development	down-up	-1.8	1.39	7.77e-05	2.74e-02	238	218
+Prostate cancer	Parkinson's disease	Gene Ontology	appendage development	down-up	-1.58	1.5	2.31e-02	2.78e-02	160	140
+Prostate cancer	Parkinson's disease	Gene Ontology	ameboidal type cell migration	down-up	-1.85	1.34	1.37e-06	2.89e-02	341	330
+Prostate cancer	Parkinson's disease	Gene Ontology	multicellular organismal homeostasis	down-up	-1.53	1.32	2.38e-03	2.90e-02	423	388
+Prostate cancer	Parkinson's disease	Gene Ontology	osteoblast differentiation	down-up	-1.61	1.43	1.88e-02	3.07e-02	188	169
+Prostate cancer	Parkinson's disease	Gene Ontology	positive regulation of epithelial cell migration	down-up	-1.69	1.51	1.44e-02	3.08e-02	125	122
+Prostate cancer	Parkinson's disease	Gene Ontology	muscle tissue development	down-up	-1.63	1.37	2.54e-04	3.10e-02	337	316
+Prostate cancer	Parkinson's disease	Gene Ontology	anchoring junction	down-up	-1.69	1.25	3.74e-07	3.15e-02	696	657
+Prostate cancer	Parkinson's disease	Gene Ontology	cell substrate junction organization	down-up	-2.01	1.58	1.76e-04	3.17e-02	84	87
+Prostate cancer	Parkinson's disease	Gene Ontology	multi multicellular organism process	down-up	-1.57	1.42	1.58e-02	3.17e-02	191	195
+Prostate cancer	Parkinson's disease	Gene Ontology	positive regulation of protein modification process	down-up	-1.38	1.18	1.56e-03	3.23e-02	1028	963
+Prostate cancer	Parkinson's disease	Gene Ontology	epithelial cell differentiation involved in kidney development	down-up	-1.81	1.72	1.63e-02	3.27e-02	43	43
+Prostate cancer	Parkinson's disease	Gene Ontology	vascular endothelial growth factor receptor signaling pathway	down-up	-1.71	1.61	2.09e-02	3.29e-02	81	80
+Prostate cancer	Parkinson's disease	Gene Ontology	animal organ morphogenesis	down-up	-1.7	1.2	3.20e-08	3.32e-02	943	845
+Prostate cancer	Parkinson's disease	Gene Ontology	inositol lipid mediated signaling	down-up	-1.65	1.42	5.13e-03	3.40e-02	166	162
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of bmp signaling pathway	down-up	-1.88	1.58	1.86e-03	3.75e-02	79	67
+Prostate cancer	Parkinson's disease	Gene Ontology	cell junction assembly	down-up	-1.95	1.41	1.72e-06	3.79e-02	212	204
+Prostate cancer	Parkinson's disease	Gene Ontology	transmembrane receptor protein tyrosine kinase signaling pathway	down-up	-1.57	1.24	9.80e-05	4.00e-02	610	584
+Prostate cancer	Parkinson's disease	Gene Ontology	formation of primary germ layer	down-up	-1.85	1.53	1.40e-03	4.15e-02	103	94
+Prostate cancer	Parkinson's disease	Gene Ontology	positive regulation of map kinase activity	down-up	-1.58	1.36	1.22e-02	4.18e-02	217	217
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of cartilage development	down-up	-1.88	1.62	4.16e-03	4.47e-02	60	56
+Prostate cancer	Parkinson's disease	Gene Ontology	growth factor binding	down-up	-1.63	1.53	2.19e-02	4.62e-02	119	119
+Prostate cancer	Parkinson's disease	Gene Ontology	regulation of epithelial cell apoptotic process	down-up	-1.62	1.61	4.23e-02	4.62e-02	68	69
+Prostate cancer	Parkinson's disease	Gene Ontology	hindlimb morphogenesis	down-up	-1.76	1.71	3.60e-02	4.71e-02	35	31
+Prostate cancer	Parkinson's disease	Gene Ontology	response to steroid hormone	down-up	-1.43	1.29	2.80e-02	4.90e-02	339	335
+Prostate cancer	Parkinson's disease	Gene Ontology	negative regulation of cytokine production involved in immune response	down-up	-1.82	1.77	1.95e-02	4.96e-02	21	24
+Prostate cancer	Parkinson's disease	Gene Ontology	cell cell junction	down-up	-1.53	1.25	3.05e-03	4.97e-02	428	378
+Prostate cancer	Parkinson's disease	Gene Ontology	negative regulation of cellular response to growth factor stimulus	down-up	-1.87	1.46	3.17e-04	4.99e-02	126	108
+Prostate cancer	Parkinson's disease	Gene Ontology	cellular protein containing complex assembly	up-down	1.21	-1.73	4.06e-02	1.26e-08	802	745
+Prostate cancer	Parkinson's disease	Gene Ontology	hydrolase activity acting on acid anhydrides	up-down	1.22	-1.86	3.46e-02	1.26e-08	701	609
+Prostate cancer	Parkinson's disease	Gene Ontology	intracellular transport	up-down	1.16	-1.74	4.27e-02	1.26e-08	1387	1258
+Prostate cancer	Parkinson's disease	Gene Ontology	mitochondrial gene expression	up-down	2.05	-2.41	6.76e-06	1.26e-08	146	109
+Prostate cancer	Parkinson's disease	Gene Ontology	mitochondrial matrix	up-down	1.81	-2.42	1.93e-07	1.26e-08	400	343
+Prostate cancer	Parkinson's disease	Gene Ontology	mitochondrial protein complex	up-down	1.88	-2.96	6.03e-06	1.26e-08	209	168
+Prostate cancer	Parkinson's disease	Gene Ontology	mitochondrial translation	up-down	2.06	-2.45	1.15e-05	1.26e-08	122	92
+Prostate cancer	Parkinson's disease	Gene Ontology	mitochondrion	up-down	1.29	-2.23	7.93e-04	1.26e-08	1311	1099
+Prostate cancer	Parkinson's disease	Gene Ontology	nucleobase containing small molecule metabolic process	up-down	1.4	-1.89	2.38e-03	1.26e-08	523	475
+Prostate cancer	Parkinson's disease	Gene Ontology	organelle inner membrane	up-down	1.39	-2.6	8.27e-03	1.26e-08	444	340
+Prostate cancer	Parkinson's disease	Gene Ontology	organophosphate metabolic process	up-down	1.21	-1.71	4.37e-02	1.26e-08	872	770
+Prostate cancer	Parkinson's disease	Gene Ontology	small molecule metabolic process	up-down	1.24	-1.64	5.96e-04	1.26e-08	1611	1469
+Prostate cancer	Parkinson's disease	Gene Ontology	organic acid metabolic process	up-down	1.37	-1.65	2.06e-04	3.20e-08	943	875
+Prostate cancer	Parkinson's disease	Gene Ontology	cellular amino acid metabolic process	up-down	1.79	-1.99	3.15e-06	4.15e-08	290	257
+Prostate cancer	Parkinson's disease	Gene Ontology	golgi vesicle transport	up-down	1.4	-1.96	3.01e-02	6.95e-08	289	274
+Prostate cancer	Parkinson's disease	Gene Ontology	organellar ribosome	up-down	1.83	-2.36	9.82e-03	5.41e-07	78	56
+Prostate cancer	Parkinson's disease	Gene Ontology	organonitrogen compound biosynthetic process	up-down	1.46	-1.49	3.40e-08	1.04e-06	1467	1275
+Prostate cancer	Parkinson's disease	Gene Ontology	trna metabolic process	up-down	1.91	-2.15	3.96e-05	1.09e-06	159	125
+Prostate cancer	Parkinson's disease	Gene Ontology	translational termination	up-down	1.82	-2.26	1.90e-03	1.18e-06	94	72
+Prostate cancer	Parkinson's disease	Gene Ontology	mitochondrial translational termination	up-down	1.95	-2.3	1.34e-03	1.82e-06	80	58
+Prostate cancer	Parkinson's disease	Gene Ontology	amine metabolic process	up-down	1.57	-2.14	3.85e-02	1.85e-06	119	111
+Prostate cancer	Parkinson's disease	Gene Ontology	cellular amide metabolic process	up-down	1.62	-1.56	3.20e-08	6.56e-06	855	767
+Prostate cancer	Parkinson's disease	Gene Ontology	ribonucleotide binding	up-down	1.23	-1.43	2.47e-03	1.81e-05	1555	1383
+Prostate cancer	Parkinson's disease	Gene Ontology	translational elongation	up-down	1.77	-2.09	3.05e-03	2.66e-05	115	90
+Prostate cancer	Parkinson's disease	Gene Ontology	carbohydrate derivative metabolic process	up-down	1.27	-1.52	3.84e-03	2.68e-05	940	835
+Prostate cancer	Parkinson's disease	Gene Ontology	amide biosynthetic process	up-down	1.81	-1.6	3.20e-08	3.30e-05	634	566
+Prostate cancer	Parkinson's disease	Gene Ontology	protein targeting	up-down	1.46	-1.73	4.86e-03	1.01e-04	329	305
+Prostate cancer	Parkinson's disease	Gene Ontology	ligase activity	up-down	1.79	-1.99	1.64e-03	1.28e-04	120	101
+Prostate cancer	Parkinson's disease	Gene Ontology	retrograde vesicle mediated transport golgi to endoplasmic reticulum	up-down	1.66	-1.99	3.80e-02	3.34e-04	68	70
+Prostate cancer	Parkinson's disease	Gene Ontology	coenzyme metabolic process	up-down	1.52	-1.8	6.96e-03	3.74e-04	215	188
+Prostate cancer	Parkinson's disease	Gene Ontology	amino acid activation	up-down	2.31	-2.04	2.75e-05	8.43e-04	40	36
+Prostate cancer	Parkinson's disease	Gene Ontology	catalytic activity acting on a trna	up-down	2.28	-1.88	1.02e-07	1.61e-03	107	83
+Prostate cancer	Parkinson's disease	Gene Ontology	ligase activity forming carbon oxygen bonds	up-down	2.22	-2.03	3.31e-04	2.37e-03	33	30
+Prostate cancer	Parkinson's disease	Gene Ontology	carbohydrate derivative biosynthetic process	up-down	1.38	-1.49	3.84e-03	2.44e-03	565	493
+Prostate cancer	Parkinson's disease	Gene Ontology	protein localization to organelle	up-down	1.27	-1.42	1.18e-02	2.64e-03	765	712
+Prostate cancer	Parkinson's disease	Gene Ontology	ncrna metabolic process	up-down	2.12	-1.55	3.20e-08	3.18e-03	387	311
+Prostate cancer	Parkinson's disease	Gene Ontology	ribosome biogenesis	up-down	2.35	-1.58	3.20e-08	4.63e-03	233	210
+Prostate cancer	Parkinson's disease	Gene Ontology	peptide biosynthetic process	up-down	1.89	-1.46	3.20e-08	4.79e-03	517	461
+Prostate cancer	Parkinson's disease	Gene Ontology	catalytic activity acting on rna	up-down	1.93	-1.58	3.40e-08	5.48e-03	319	256
+Prostate cancer	Parkinson's disease	Gene Ontology	organelle subcompartment	up-down	1.45	-1.54	5.87e-03	7.94e-03	292	257
+Prostate cancer	Parkinson's disease	Gene Ontology	peptide metabolic process	up-down	1.62	-1.42	1.57e-06	1.02e-02	634	573
+Prostate cancer	Parkinson's disease	Gene Ontology	ribonucleoprotein complex biogenesis	up-down	2.32	-1.51	3.20e-08	1.04e-02	337	314
+Prostate cancer	Parkinson's disease	Gene Ontology	establishment of protein localization to organelle	up-down	1.39	-1.39	7.82e-03	2.11e-02	438	433
+Prostate cancer	Parkinson's disease	Gene Ontology	adenyl nucleotide binding	up-down	1.29	-1.27	8.83e-04	2.55e-02	1282	1146
+Prostate cancer	Parkinson's disease	Gene Ontology	mitotic metaphase plate congression	up-down	1.82	-1.71	2.31e-02	2.78e-02	41	35
+Prostate cancer	Parkinson's disease	Gene Ontology	nucleoid	up-down	1.95	-1.74	4.43e-03	2.81e-02	37	36
+Prostate cancer	Parkinson's disease	Gene Ontology	atpase activity	up-down	1.57	-1.42	4.03e-04	3.08e-02	355	318
+Prostate cancer	Parkinson's disease	Gene Ontology	ncrna processing	up-down	1.99	-1.44	3.20e-08	3.13e-02	311	262
+Prostate cancer	Parkinson's disease	Gene Ontology	ribosome	up-down	2.26	-1.53	3.20e-08	3.44e-02	162	149
+Prostate cancer	Parkinson's disease	Gene Ontology	kinetochore	up-down	1.97	-1.55	7.77e-05	3.54e-02	118	100
+Prostate cancer	Parkinson's disease	Gene Ontology	ribonucleoprotein complex	up-down	1.85	-1.36	3.20e-08	3.62e-02	536	480
+Prostate cancer	Parkinson's disease	Gene Ontology	nucleotide phosphorylation	up-down	1.53	-1.55	3.04e-02	4.08e-02	111	111
+Prostate cancer	Parkinson's disease	Gene Ontology	ribonucleoprotein complex binding	up-down	2.03	-1.56	3.87e-05	4.70e-02	108	97
+Prostate cancer	Parkinson's disease	Gene Ontology	adp metabolic process	up-down	1.61	-1.54	4.06e-02	4.95e-02	102	105
+Prostate cancer	Alzheimer's disease	Gene Ontology	anatomical structure formation involved in morphogenesis	down-up	-1.68	2.09	3.20e-08	5.63e-09	960	883
+Prostate cancer	Alzheimer's disease	Gene Ontology	animal organ morphogenesis	down-up	-1.7	2.05	3.20e-08	5.63e-09	943	846
+Prostate cancer	Alzheimer's disease	Gene Ontology	appendage development	down-up	-1.58	2.4	2.31e-02	5.63e-09	160	142
+Prostate cancer	Alzheimer's disease	Gene Ontology	biological adhesion	down-up	-1.6	1.92	3.20e-08	5.63e-09	1169	1084
+Prostate cancer	Alzheimer's disease	Gene Ontology	blood vessel morphogenesis	down-up	-1.71	2.36	1.26e-06	5.63e-09	519	510
+Prostate cancer	Alzheimer's disease	Gene Ontology	bone development	down-up	-1.84	2.34	1.10e-04	5.63e-09	191	175
+Prostate cancer	Alzheimer's disease	Gene Ontology	cardiovascular system development	down-up	-1.73	2.32	5.47e-08	5.63e-09	625	601
+Prostate cancer	Alzheimer's disease	Gene Ontology	cartilage development	down-up	-1.97	2.31	6.39e-06	5.63e-09	179	167
+Prostate cancer	Alzheimer's disease	Gene Ontology	cell activation	down-up	-1.26	1.77	2.99e-02	5.63e-09	1151	1094
+Prostate cancer	Alzheimer's disease	Gene Ontology	cell cell adhesion	down-up	-1.45	1.87	1.46e-03	5.63e-09	695	633
+Prostate cancer	Alzheimer's disease	Gene Ontology	cell fate commitment	down-up	-1.65	2.48	1.93e-03	5.63e-09	230	206
+Prostate cancer	Alzheimer's disease	Gene Ontology	cell motility	down-up	-1.58	1.77	3.20e-08	5.63e-09	1361	1245
+Prostate cancer	Alzheimer's disease	Gene Ontology	cell surface	down-up	-1.59	2.11	9.32e-06	5.63e-09	695	667
+Prostate cancer	Alzheimer's disease	Gene Ontology	circulatory system development	down-up	-1.74	2.15	3.20e-08	5.63e-09	932	883
+Prostate cancer	Alzheimer's disease	Gene Ontology	collagen containing extracellular matrix	down-up	-1.97	2.59	3.20e-08	5.63e-09	355	327
+Prostate cancer	Alzheimer's disease	Gene Ontology	connective tissue development	down-up	-1.8	2.19	7.77e-05	5.63e-09	238	218
+Prostate cancer	Alzheimer's disease	Gene Ontology	cytokine production	down-up	-1.33	2.04	3.49e-02	5.63e-09	640	607
+Prostate cancer	Alzheimer's disease	Gene Ontology	embryonic morphogenesis	down-up	-1.57	2.3	3.06e-04	5.63e-09	513	464
+Prostate cancer	Alzheimer's disease	Gene Ontology	embryonic organ development	down-up	-1.66	2.48	2.08e-04	5.63e-09	378	348
+Prostate cancer	Alzheimer's disease	Gene Ontology	embryonic organ morphogenesis	down-up	-1.58	2.38	4.50e-03	5.63e-09	258	228
+Prostate cancer	Alzheimer's disease	Gene Ontology	embryo development	down-up	-1.44	1.81	5.47e-04	5.63e-09	893	798
+Prostate cancer	Alzheimer's disease	Gene Ontology	epithelial cell differentiation	down-up	-1.54	2.32	7.81e-04	5.63e-09	570	537
+Prostate cancer	Alzheimer's disease	Gene Ontology	epithelium development	down-up	-1.52	1.93	3.14e-06	5.63e-09	1034	944
+Prostate cancer	Alzheimer's disease	Gene Ontology	extracellular matrix	down-up	-1.82	2.67	1.32e-07	5.63e-09	461	412
+Prostate cancer	Alzheimer's disease	Gene Ontology	extracellular matrix structural constituent	down-up	-1.87	2.49	2.06e-04	5.63e-09	150	133
+Prostate cancer	Alzheimer's disease	Gene Ontology	extracellular structure organization	down-up	-1.77	2.51	7.59e-06	5.63e-09	326	310
+Prostate cancer	Alzheimer's disease	Gene Ontology	intrinsic component of plasma membrane	down-up	-1.4	1.56	3.54e-05	5.63e-09	1443	1295
+Prostate cancer	Alzheimer's disease	Gene Ontology	locomotion	down-up	-1.54	1.65	3.20e-08	5.63e-09	1555	1407
+Prostate cancer	Alzheimer's disease	Gene Ontology	negative regulation of developmental process	down-up	-1.62	1.78	3.34e-07	5.63e-09	812	741
+Prostate cancer	Alzheimer's disease	Gene Ontology	negative regulation of multicellular organismal process	down-up	-1.63	1.8	3.20e-08	5.63e-09	1044	967
+Prostate cancer	Alzheimer's disease	Gene Ontology	positive regulation of developmental process	down-up	-1.52	1.66	5.65e-07	5.63e-09	1176	1092
+Prostate cancer	Alzheimer's disease	Gene Ontology	positive regulation of multicellular organismal process	down-up	-1.38	1.51	1.76e-04	5.63e-09	1498	1412
+Prostate cancer	Alzheimer's disease	Gene Ontology	positive regulation of vasculature development	down-up	-1.64	2.44	8.94e-03	5.63e-09	164	158
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of cell activation	down-up	-1.36	2.11	3.45e-02	5.63e-09	459	432
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of cell adhesion	down-up	-1.58	1.83	8.29e-05	5.63e-09	584	563
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of cell population proliferation	down-up	-1.48	1.89	1.49e-06	5.63e-09	1362	1310
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of vasculature development	down-up	-1.71	2.18	1.67e-04	5.63e-09	287	274
+Prostate cancer	Alzheimer's disease	Gene Ontology	response to lipid	down-up	-1.39	1.72	3.13e-03	5.63e-09	798	784
+Prostate cancer	Alzheimer's disease	Gene Ontology	response to wounding	down-up	-1.77	1.93	3.54e-08	5.63e-09	566	557
+Prostate cancer	Alzheimer's disease	Gene Ontology	sensory organ development	down-up	-1.6	2.11	7.79e-05	5.63e-09	486	432
+Prostate cancer	Alzheimer's disease	Gene Ontology	skeletal system development	down-up	-1.8	2.33	2.90e-07	5.63e-09	456	419
+Prostate cancer	Alzheimer's disease	Gene Ontology	skeletal system morphogenesis	down-up	-1.79	2.38	2.05e-04	5.63e-09	208	191
+Prostate cancer	Alzheimer's disease	Gene Ontology	tube development	down-up	-1.59	2.35	5.18e-07	5.63e-09	904	858
+Prostate cancer	Alzheimer's disease	Gene Ontology	tube morphogenesis	down-up	-1.62	2.34	1.59e-06	5.63e-09	734	694
+Prostate cancer	Alzheimer's disease	Gene Ontology	urogenital system development	down-up	-1.88	2.13	1.26e-06	5.63e-09	298	284
+Prostate cancer	Alzheimer's disease	Gene Ontology	wound healing	down-up	-1.73	2.02	1.07e-06	5.63e-09	468	461
+Prostate cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell adhesion	down-up	-1.65	2	2.06e-04	8.21e-09	348	333
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of cell cell adhesion	down-up	-1.43	1.96	2.28e-02	2.37e-08	349	332
+Prostate cancer	Alzheimer's disease	Gene Ontology	renal system development	down-up	-1.83	2.09	9.32e-06	2.66e-08	265	249
+Prostate cancer	Alzheimer's disease	Gene Ontology	sensory system development	down-up	-1.69	2	7.73e-05	2.97e-08	334	297
+Prostate cancer	Alzheimer's disease	Gene Ontology	appendage morphogenesis	down-up	-1.62	2.42	2.88e-02	3.63e-08	133	120
+Prostate cancer	Alzheimer's disease	Gene Ontology	heart development	down-up	-1.83	1.82	3.20e-08	4.92e-08	491	460
+Prostate cancer	Alzheimer's disease	Gene Ontology	muscle structure development	down-up	-1.76	1.76	5.47e-08	4.99e-08	543	505
+Prostate cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell differentiation	down-up	-1.67	1.72	1.91e-06	8.51e-08	601	539
+Prostate cancer	Alzheimer's disease	Gene Ontology	morphogenesis of a branching structure	down-up	-1.7	2.16	3.50e-03	1.02e-07	179	172
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of cell differentiation	down-up	-1.53	1.46	3.20e-08	1.12e-07	1553	1408
+Prostate cancer	Alzheimer's disease	Gene Ontology	embryonic appendage morphogenesis	down-up	-1.66	2.39	2.69e-02	1.40e-07	114	105
+Prostate cancer	Alzheimer's disease	Gene Ontology	branching morphogenesis of an epithelial tube	down-up	-1.56	2.31	3.89e-02	1.64e-07	136	129
+Prostate cancer	Alzheimer's disease	Gene Ontology	positive regulation of intracellular signal transduction	down-up	-1.39	1.6	4.09e-03	1.67e-07	855	794
+Prostate cancer	Alzheimer's disease	Gene Ontology	receptor complex	down-up	-1.55	1.93	5.22e-03	1.67e-07	344	323
+Prostate cancer	Alzheimer's disease	Gene Ontology	kidney epithelium development	down-up	-1.77	2.34	1.79e-03	1.81e-07	123	120
+Prostate cancer	Alzheimer's disease	Gene Ontology	digestive system development	down-up	-1.86	2.34	3.75e-04	1.84e-07	126	120
+Prostate cancer	Alzheimer's disease	Gene Ontology	sensory organ morphogenesis	down-up	-1.5	2.08	2.86e-02	3.49e-07	233	204
+Prostate cancer	Alzheimer's disease	Gene Ontology	cell fate specification	down-up	-1.63	2.43	3.42e-02	4.03e-07	87	76
+Prostate cancer	Alzheimer's disease	Gene Ontology	tissue morphogenesis	down-up	-1.71	1.69	5.69e-07	4.82e-07	593	537
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of epithelial cell differentiation	down-up	-1.77	2.24	2.30e-03	6.26e-07	124	125
+Prostate cancer	Alzheimer's disease	Gene Ontology	gland morphogenesis	down-up	-1.76	2.28	8.29e-03	7.02e-07	104	109
+Prostate cancer	Alzheimer's disease	Gene Ontology	side of membrane	down-up	-1.37	1.8	4.78e-02	7.99e-07	430	407
+Prostate cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell activation	down-up	-1.56	2.13	2.90e-02	1.69e-06	164	159
+Prostate cancer	Alzheimer's disease	Gene Ontology	epithelial cell proliferation	down-up	-1.58	1.82	2.21e-03	1.95e-06	335	321
+Prostate cancer	Alzheimer's disease	Gene Ontology	positive regulation of locomotion	down-up	-1.69	1.66	5.32e-06	1.96e-06	481	467
+Prostate cancer	Alzheimer's disease	Gene Ontology	reproductive system development	down-up	-1.46	1.77	1.43e-02	2.06e-06	376	362
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of cellular component movement	down-up	-1.79	1.54	3.20e-08	2.19e-06	855	803
+Prostate cancer	Alzheimer's disease	Gene Ontology	growth factor binding	down-up	-1.63	2.21	2.19e-02	2.36e-06	119	120
+Prostate cancer	Alzheimer's disease	Gene Ontology	heart morphogenesis	down-up	-1.8	1.93	2.05e-05	3.20e-06	226	209
+Prostate cancer	Alzheimer's disease	Gene Ontology	mesonephros development	down-up	-1.76	2.21	8.73e-03	3.53e-06	88	87
+Prostate cancer	Alzheimer's disease	Gene Ontology	gastrulation	down-up	-1.6	2.08	1.93e-02	4.50e-06	157	143
+Prostate cancer	Alzheimer's disease	Gene Ontology	epithelial cell apoptotic process	down-up	-1.64	2.26	3.81e-02	4.88e-06	89	90
+Prostate cancer	Alzheimer's disease	Gene Ontology	signaling receptor binding	down-up	-1.56	1.4	6.77e-08	5.03e-06	1256	1185
+Prostate cancer	Alzheimer's disease	Gene Ontology	muscle organ development	down-up	-1.6	1.86	1.35e-03	5.95e-06	333	308
+Prostate cancer	Alzheimer's disease	Gene Ontology	odontogenesis	down-up	-1.67	2.18	1.63e-02	6.67e-06	122	109
+Prostate cancer	Alzheimer's disease	Gene Ontology	formation of primary germ layer	down-up	-1.85	2.21	1.40e-03	6.70e-06	103	94
+Prostate cancer	Alzheimer's disease	Gene Ontology	response to growth factor	down-up	-1.74	1.56	1.88e-07	6.97e-06	597	572
+Prostate cancer	Alzheimer's disease	Gene Ontology	nephron development	down-up	-1.82	2.14	1.45e-03	7.47e-06	129	120
+Prostate cancer	Alzheimer's disease	Gene Ontology	ossification	down-up	-1.57	1.8	1.96e-03	7.58e-06	346	320
+Prostate cancer	Alzheimer's disease	Gene Ontology	cell substrate adhesion	down-up	-1.91	1.83	2.36e-07	8.74e-06	301	284
+Prostate cancer	Alzheimer's disease	Gene Ontology	positive regulation of mapk cascade	down-up	-1.53	1.65	1.75e-03	1.08e-05	446	437
+Prostate cancer	Alzheimer's disease	Gene Ontology	response to bmp	down-up	-1.63	2.12	1.26e-02	1.23e-05	138	122
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of body fluid levels	down-up	-1.46	1.66	8.87e-03	1.46e-05	424	419
+Prostate cancer	Alzheimer's disease	Gene Ontology	positive regulation of signaling	down-up	-1.34	1.36	5.99e-04	1.74e-05	1581	1439
+Prostate cancer	Alzheimer's disease	Gene Ontology	bone morphogenesis	down-up	-1.74	2.2	1.12e-02	1.77e-05	100	91
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of cartilage development	down-up	-1.88	2.32	4.16e-03	2.09e-05	60	56
+Prostate cancer	Alzheimer's disease	Gene Ontology	embryonic skeletal system morphogenesis	down-up	-1.65	2.23	3.22e-02	2.17e-05	83	78
+Prostate cancer	Alzheimer's disease	Gene Ontology	positive regulation of phosphorus metabolic process	down-up	-1.44	1.44	4.22e-04	2.40e-05	948	905
+Prostate cancer	Alzheimer's disease	Gene Ontology	morphogenesis of an epithelium	down-up	-1.54	1.6	4.91e-04	3.06e-05	486	439
+Prostate cancer	Alzheimer's disease	Gene Ontology	multicellular organismal homeostasis	down-up	-1.53	1.65	2.38e-03	3.17e-05	423	388
+Prostate cancer	Alzheimer's disease	Gene Ontology	glomerulus development	down-up	-1.88	2.3	4.39e-03	3.36e-05	57	56
+Prostate cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell differentiation	down-up	-1.57	1.47	4.57e-06	3.67e-05	841	794
+Prostate cancer	Alzheimer's disease	Gene Ontology	endothelial cell apoptotic process	down-up	-2.07	2.32	8.75e-04	5.38e-05	49	48
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of embryonic development	down-up	-1.57	2.09	4.29e-02	5.64e-05	115	97
+Prostate cancer	Alzheimer's disease	Gene Ontology	basement membrane	down-up	-1.94	2.16	6.86e-04	6.03e-05	83	71
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of chondrocyte differentiation	down-up	-1.84	2.28	1.68e-02	6.79e-05	47	42
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of bmp signaling pathway	down-up	-1.88	2.16	1.86e-03	8.13e-05	79	67
+Prostate cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell population proliferation	down-up	-1.64	1.49	1.18e-05	9.24e-05	595	580
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of epithelial cell apoptotic process	down-up	-1.62	2.18	4.23e-02	9.26e-05	68	69
+Prostate cancer	Alzheimer's disease	Gene Ontology	cell differentiation involved in kidney development	down-up	-1.96	2.25	1.86e-03	1.00e-04	52	51
+Prostate cancer	Alzheimer's disease	Gene Ontology	anchoring junction	down-up	-1.69	1.46	3.74e-07	1.01e-04	696	659
+Prostate cancer	Alzheimer's disease	Gene Ontology	mesenchyme development	down-up	-1.69	1.81	9.73e-04	1.23e-04	233	210
+Prostate cancer	Alzheimer's disease	Gene Ontology	outflow tract morphogenesis	down-up	-1.71	2.14	2.92e-02	1.30e-04	73	72
+Prostate cancer	Alzheimer's disease	Gene Ontology	hindlimb morphogenesis	down-up	-1.76	2.32	3.60e-02	1.45e-04	35	31
+Prostate cancer	Alzheimer's disease	Gene Ontology	chondrocyte differentiation	down-up	-2.14	2.04	2.99e-06	1.64e-04	105	96
+Prostate cancer	Alzheimer's disease	Gene Ontology	taxis	down-up	-1.55	1.5	2.99e-04	1.96e-04	545	516
+Prostate cancer	Alzheimer's disease	Gene Ontology	i kappab kinase nf kappab signaling	down-up	-1.57	1.77	1.01e-02	2.15e-04	231	202
+Prostate cancer	Alzheimer's disease	Gene Ontology	vasculogenesis	down-up	-1.93	2.07	1.61e-03	2.17e-04	73	70
+Prostate cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell adhesion	down-up	-1.45	1.73	4.53e-02	2.21e-04	233	230
+Prostate cancer	Alzheimer's disease	Gene Ontology	embryonic skeletal system development	down-up	-1.64	1.98	2.19e-02	2.33e-04	107	101
+Prostate cancer	Alzheimer's disease	Gene Ontology	positive regulation of protein modification process	down-up	-1.38	1.38	1.56e-03	2.41e-04	1028	964
+Prostate cancer	Alzheimer's disease	Gene Ontology	neural precursor cell proliferation	down-up	-1.69	1.98	1.04e-02	2.79e-04	132	118
+Prostate cancer	Alzheimer's disease	Gene Ontology	stem cell proliferation	down-up	-1.72	1.98	7.45e-03	3.63e-04	98	93
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of fat cell differentiation	down-up	-1.91	1.9	4.68e-04	6.16e-04	108	88
+Prostate cancer	Alzheimer's disease	Gene Ontology	cardiac chamber morphogenesis	down-up	-1.97	1.88	1.06e-04	6.67e-04	116	114
+Prostate cancer	Alzheimer's disease	Gene Ontology	endoplasmic reticulum lumen	down-up	-1.43	1.63	3.76e-02	6.82e-04	281	246
+Prostate cancer	Alzheimer's disease	Gene Ontology	muscle system process	down-up	-2.05	1.54	3.20e-08	7.21e-04	380	374
+Prostate cancer	Alzheimer's disease	Gene Ontology	cardiac ventricle development	down-up	-1.62	1.86	2.71e-02	7.59e-04	118	106
+Prostate cancer	Alzheimer's disease	Gene Ontology	mesoderm morphogenesis	down-up	-1.82	2.09	1.47e-02	7.63e-04	62	58
+Prostate cancer	Alzheimer's disease	Gene Ontology	cardiac ventricle morphogenesis	down-up	-1.72	1.99	2.62e-02	7.81e-04	67	65
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of cellular response to growth factor stimulus	down-up	-1.92	1.7	3.15e-06	8.20e-04	231	205
+Prostate cancer	Alzheimer's disease	Gene Ontology	mesodermal cell differentiation	down-up	-1.92	2.29	1.64e-02	8.80e-04	26	28
+Prostate cancer	Alzheimer's disease	Gene Ontology	muscle cell proliferation	down-up	-1.83	1.7	3.14e-04	9.19e-04	178	173
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of anatomical structure morphogenesis	down-up	-1.58	1.36	9.05e-07	9.22e-04	941	852
+Prostate cancer	Alzheimer's disease	Gene Ontology	transmembrane receptor protein serine threonine kinase signaling pathway	down-up	-1.5	1.64	2.02e-02	9.22e-04	279	256
+Prostate cancer	Alzheimer's disease	Gene Ontology	positive regulation of bmp signaling pathway	down-up	-1.73	2.23	4.66e-02	9.37e-04	31	29
+Prostate cancer	Alzheimer's disease	Gene Ontology	circulatory system process	down-up	-1.74	1.47	1.62e-06	9.98e-04	467	462
+Prostate cancer	Alzheimer's disease	Gene Ontology	integrin mediated signaling pathway	down-up	-1.88	1.93	1.13e-03	1.16e-03	93	90
+Prostate cancer	Alzheimer's disease	Gene Ontology	muscle tissue development	down-up	-1.63	1.57	2.54e-04	1.16e-03	337	318
+Prostate cancer	Alzheimer's disease	Gene Ontology	cardiac septum development	down-up	-1.71	1.87	2.06e-02	1.18e-03	97	92
+Prostate cancer	Alzheimer's disease	Gene Ontology	negative regulation of immune effector process	down-up	-1.63	1.86	3.81e-02	1.20e-03	96	99
+Prostate cancer	Alzheimer's disease	Gene Ontology	fat cell differentiation	down-up	-1.7	1.72	2.51e-03	1.23e-03	183	162
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of neural precursor cell proliferation	down-up	-1.63	1.93	4.13e-02	1.66e-03	77	71
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of cell death	down-up	-1.3	1.27	1.09e-02	1.72e-03	1371	1313
+Prostate cancer	Alzheimer's disease	Gene Ontology	mesenchymal cell differentiation	down-up	-1.6	1.68	1.59e-02	1.85e-03	183	167
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of ossification	down-up	-1.85	1.75	1.83e-04	1.86e-03	175	157
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of mapk cascade	down-up	-1.5	1.4	7.85e-04	1.88e-03	620	594
+Prostate cancer	Alzheimer's disease	Gene Ontology	inositol lipid mediated signaling	down-up	-1.65	1.69	5.13e-03	1.98e-03	166	162
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of transmembrane receptor protein serine threonine kinase signaling pathway	down-up	-1.71	1.72	2.69e-03	2.15e-03	197	180
+Prostate cancer	Alzheimer's disease	Gene Ontology	epithelial cell differentiation involved in kidney development	down-up	-1.81	2.01	1.63e-02	2.19e-03	43	43
+Prostate cancer	Alzheimer's disease	Gene Ontology	collagen binding	down-up	-1.84	1.96	7.00e-03	2.35e-03	65	60
+Prostate cancer	Alzheimer's disease	Gene Ontology	lipid binding	down-up	-1.44	1.39	3.05e-03	2.35e-03	625	530
+Prostate cancer	Alzheimer's disease	Gene Ontology	response to steroid hormone	down-up	-1.43	1.52	2.80e-02	2.36e-03	339	335
+Prostate cancer	Alzheimer's disease	Gene Ontology	muscle contraction	down-up	-2.13	1.55	3.20e-08	2.42e-03	303	299
+Prostate cancer	Alzheimer's disease	Gene Ontology	cardiac chamber development	down-up	-1.87	1.71	3.92e-04	2.71e-03	153	144
+Prostate cancer	Alzheimer's disease	Gene Ontology	cell junction organization	down-up	-1.86	1.59	5.59e-06	2.72e-03	253	239
+Prostate cancer	Alzheimer's disease	Gene Ontology	positive regulation of i kappab kinase nf kappab signaling	down-up	-1.53	1.67	3.76e-02	2.79e-03	163	143
+Prostate cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell death	down-up	-1.36	1.33	8.84e-03	2.95e-03	804	793
+Prostate cancer	Alzheimer's disease	Gene Ontology	osteoblast differentiation	down-up	-1.61	1.66	1.88e-02	3.16e-03	188	169
+Prostate cancer	Alzheimer's disease	Gene Ontology	cell substrate junction	down-up	-1.88	1.48	2.55e-07	3.23e-03	338	352
+Prostate cancer	Alzheimer's disease	Gene Ontology	heart formation	down-up	-1.81	2.07	2.61e-02	3.31e-03	27	22
+Prostate cancer	Alzheimer's disease	Gene Ontology	negative regulation of cytokine production involved in immune response	down-up	-1.82	2.09	1.95e-02	3.39e-03	21	24
+Prostate cancer	Alzheimer's disease	Gene Ontology	enzyme linked receptor protein signaling pathway	down-up	-1.61	1.33	3.12e-07	3.48e-03	874	827
+Prostate cancer	Alzheimer's disease	Gene Ontology	extracellular matrix structural constituent conferring tensile strength	down-up	-1.74	2.04	3.12e-02	3.53e-03	38	31
+Prostate cancer	Alzheimer's disease	Gene Ontology	apical plasma membrane	down-up	-1.48	1.55	1.51e-02	3.99e-03	282	256
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of extrinsic apoptotic signaling pathway	down-up	-1.68	1.74	1.11e-02	4.58e-03	131	130
+Prostate cancer	Alzheimer's disease	Gene Ontology	organ growth	down-up	-1.72	1.64	3.32e-03	4.66e-03	158	149
+Prostate cancer	Alzheimer's disease	Gene Ontology	sodium ion homeostasis	down-up	-2	1.93	2.87e-03	4.66e-03	47	49
+Prostate cancer	Alzheimer's disease	Gene Ontology	cell cell junction	down-up	-1.53	1.45	3.05e-03	4.73e-03	428	379
+Prostate cancer	Alzheimer's disease	Gene Ontology	hemidesmosome	down-up	-1.81	1.99	1.72e-02	4.88e-03	7	7
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of stem cell proliferation	down-up	-1.66	1.89	3.80e-02	4.88e-03	56	56
+Prostate cancer	Alzheimer's disease	Gene Ontology	cell matrix adhesion	down-up	-1.82	1.58	9.61e-05	4.96e-03	193	187
+Prostate cancer	Alzheimer's disease	Gene Ontology	cell junction assembly	down-up	-1.95	1.51	1.72e-06	5.48e-03	212	206
+Prostate cancer	Alzheimer's disease	Gene Ontology	spinal cord motor neuron cell fate specification	down-up	-1.78	1.99	4.29e-02	5.48e-03	12	9
+Prostate cancer	Alzheimer's disease	Gene Ontology	female pregnancy	down-up	-1.55	1.59	4.16e-02	5.53e-03	161	167
+Prostate cancer	Alzheimer's disease	Gene Ontology	plasma membrane signaling receptor complex	down-up	-1.6	1.61	1.84e-02	5.64e-03	171	150
+Prostate cancer	Alzheimer's disease	Gene Ontology	insulin like growth factor binding	down-up	-1.73	2.01	4.99e-02	6.03e-03	27	26
+Prostate cancer	Alzheimer's disease	Gene Ontology	fluid transport	down-up	-1.82	2	3.25e-02	6.55e-03	22	22
+Prostate cancer	Alzheimer's disease	Gene Ontology	multi multicellular organism process	down-up	-1.57	1.6	1.58e-02	6.55e-03	191	196
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of cytosolic calcium ion concentration	down-up	-1.52	1.49	4.24e-03	6.56e-03	317	304
+Prostate cancer	Alzheimer's disease	Gene Ontology	muscle cell differentiation	down-up	-1.66	1.44	8.16e-04	6.74e-03	296	278
+Prostate cancer	Alzheimer's disease	Gene Ontology	actin filament based process	down-up	-1.94	1.31	3.20e-08	7.12e-03	632	589
+Prostate cancer	Alzheimer's disease	Gene Ontology	extracellular matrix assembly	down-up	-1.91	1.93	7.12e-03	7.24e-03	35	34
+Prostate cancer	Alzheimer's disease	Gene Ontology	transmembrane receptor protein kinase activity	down-up	-1.88	1.77	4.22e-03	7.24e-03	69	72
+Prostate cancer	Alzheimer's disease	Gene Ontology	prostate gland development	down-up	-1.85	1.87	1.19e-02	7.55e-03	45	45
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of phosphorylation	down-up	-1.29	1.21	1.86e-02	7.64e-03	1345	1244
+Prostate cancer	Alzheimer's disease	Gene Ontology	response to transforming growth factor beta	down-up	-1.62	1.57	4.50e-03	7.72e-03	203	197
+Prostate cancer	Alzheimer's disease	Gene Ontology	negative regulation of alpha beta t cell activation	down-up	-1.79	2.05	4.75e-02	8.23e-03	26	28
+Prostate cancer	Alzheimer's disease	Gene Ontology	growth	down-up	-1.41	1.27	1.84e-03	8.66e-03	835	770
+Prostate cancer	Alzheimer's disease	Gene Ontology	cellular response to endogenous stimulus	down-up	-1.42	1.22	1.12e-04	8.78e-03	1208	1142
+Prostate cancer	Alzheimer's disease	Gene Ontology	structural constituent of muscle	down-up	-1.99	1.85	1.62e-03	9.62e-03	39	39
+Prostate cancer	Alzheimer's disease	Gene Ontology	response to endogenous stimulus	down-up	-1.39	1.22	1.43e-04	9.95e-03	1432	1363
+Prostate cancer	Alzheimer's disease	Gene Ontology	cytokine production involved in immune response	down-up	-1.72	1.7	1.63e-02	1.00e-02	89	93
+Prostate cancer	Alzheimer's disease	Gene Ontology	phosphatidylinositol 3 kinase signaling	down-up	-1.55	1.66	4.68e-02	1.12e-02	131	130
+Prostate cancer	Alzheimer's disease	Gene Ontology	keratinocyte proliferation	down-up	-1.72	1.86	4.50e-02	1.23e-02	37	36
+Prostate cancer	Alzheimer's disease	Gene Ontology	regeneration	down-up	-1.56	1.53	2.74e-02	1.24e-02	163	163
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of calcium ion transport	down-up	-1.62	1.49	7.80e-03	1.34e-02	218	200
+Prostate cancer	Alzheimer's disease	Gene Ontology	homotypic cell cell adhesion	down-up	-1.78	1.69	1.42e-02	1.36e-02	73	67
+Prostate cancer	Alzheimer's disease	Gene Ontology	platelet activation	down-up	-1.69	1.57	6.25e-03	1.43e-02	144	136
+Prostate cancer	Alzheimer's disease	Gene Ontology	metal ion homeostasis	down-up	-1.52	1.3	1.24e-03	1.57e-02	570	538
+Prostate cancer	Alzheimer's disease	Gene Ontology	cardiocyte differentiation	down-up	-1.6	1.55	2.94e-02	1.63e-02	121	120
+Prostate cancer	Alzheimer's disease	Gene Ontology	ameboidal type cell migration	down-up	-1.85	1.41	1.37e-06	1.66e-02	341	331
+Prostate cancer	Alzheimer's disease	Gene Ontology	sarcolemma	down-up	-1.99	1.53	2.69e-05	1.68e-02	120	115
+Prostate cancer	Alzheimer's disease	Gene Ontology	morphogenesis of an epithelial sheet	down-up	-1.71	1.75	4.99e-02	1.79e-02	48	43
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of endothelial cell differentiation	down-up	-1.88	1.9	1.19e-02	1.82e-02	27	29
+Prostate cancer	Alzheimer's disease	Gene Ontology	endochondral bone morphogenesis	down-up	-1.69	1.76	4.01e-02	1.83e-02	65	59
+Prostate cancer	Alzheimer's disease	Gene Ontology	negative regulation of production of molecular mediator of immune response	down-up	-1.75	1.83	4.23e-02	1.85e-02	29	34
+Prostate cancer	Alzheimer's disease	Gene Ontology	negative regulation of fat cell differentiation	down-up	-1.9	1.82	8.07e-03	2.04e-02	40	37
+Prostate cancer	Alzheimer's disease	Gene Ontology	actin cytoskeleton	down-up	-1.71	1.34	1.12e-05	2.10e-02	423	391
+Prostate cancer	Alzheimer's disease	Gene Ontology	response to corticosteroid	down-up	-1.65	1.49	1.43e-02	2.16e-02	149	143
+Prostate cancer	Alzheimer's disease	Gene Ontology	developmental growth	down-up	-1.56	1.28	1.44e-04	2.26e-02	574	530
+Prostate cancer	Alzheimer's disease	Gene Ontology	embryonic digestive tract development	down-up	-1.89	1.85	8.00e-03	2.29e-02	30	30
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of dna binding transcription factor activity	down-up	-1.4	1.36	2.69e-02	2.29e-02	365	336
+Prostate cancer	Alzheimer's disease	Gene Ontology	response to organic cyclic compound	down-up	-1.32	1.24	1.78e-02	2.35e-02	825	811
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of intracellular signal transduction	down-up	-1.35	1.18	5.27e-04	2.38e-02	1534	1400
+Prostate cancer	Alzheimer's disease	Gene Ontology	transmembrane receptor protein tyrosine kinase activity	down-up	-1.76	1.67	2.66e-02	2.65e-02	53	57
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of blood pressure	down-up	-1.54	1.45	4.54e-02	2.65e-02	161	161
+Prostate cancer	Alzheimer's disease	Gene Ontology	smad binding	down-up	-1.88	1.56	4.24e-03	2.67e-02	65	66
+Prostate cancer	Alzheimer's disease	Gene Ontology	smooth muscle cell differentiation	down-up	-1.91	1.68	9.41e-03	2.86e-02	48	43
+Prostate cancer	Alzheimer's disease	Gene Ontology	cartilage development involved in endochondral bone morphogenesis	down-up	-1.73	1.71	4.92e-02	3.05e-02	40	36
+Prostate cancer	Alzheimer's disease	Gene Ontology	extrinsic apoptotic signaling pathway	down-up	-1.59	1.38	1.24e-02	3.16e-02	191	191
+Prostate cancer	Alzheimer's disease	Gene Ontology	integrin binding	down-up	-1.74	1.51	6.38e-03	3.16e-02	121	123
+Prostate cancer	Alzheimer's disease	Gene Ontology	negative regulation of response to external stimulus	down-up	-1.59	1.36	2.28e-03	3.19e-02	309	287
+Prostate cancer	Alzheimer's disease	Gene Ontology	regulation of cell substrate adhesion	down-up	-1.71	1.42	1.90e-03	3.21e-02	181	173
+Prostate cancer	Alzheimer's disease	Gene Ontology	signal transduction by protein phosphorylation	down-up	-1.45	1.23	3.87e-04	3.26e-02	798	768
+Prostate cancer	Alzheimer's disease	Gene Ontology	plasma membrane protein complex	down-up	-1.65	1.29	1.68e-05	3.33e-02	491	441
+Prostate cancer	Alzheimer's disease	Gene Ontology	transforming growth factor beta receptor signaling pathway	down-up	-1.56	1.45	4.54e-02	3.35e-02	153	148
+Prostate cancer	Alzheimer's disease	Gene Ontology	terpenoid metabolic process	down-up	-1.62	1.54	4.14e-02	3.70e-02	87	89
+Prostate cancer	Alzheimer's disease	Gene Ontology	striated muscle cell differentiation	down-up	-1.52	1.37	1.72e-02	3.73e-02	235	218
+Prostate cancer	Alzheimer's disease	Gene Ontology	lens development in camera type eye	down-up	-2.05	1.59	2.13e-04	3.82e-02	73	64
+Prostate cancer	Alzheimer's disease	Gene Ontology	endothelial cell migration	down-up	-1.74	1.45	1.83e-03	3.89e-02	177	174
+Prostate cancer	Alzheimer's disease	Gene Ontology	animal organ formation	down-up	-1.87	1.64	5.07e-03	3.94e-02	59	54
+Prostate cancer	Alzheimer's disease	Gene Ontology	bone growth	down-up	-1.91	1.69	6.21e-03	3.99e-02	39	35
+Prostate cancer	Alzheimer's disease	Gene Ontology	extracellular matrix binding	down-up	-1.91	1.7	3.71e-03	4.01e-02	52	48
+Prostate cancer	Alzheimer's disease	Gene Ontology	cellular response to organic cyclic compound	down-up	-1.38	1.27	1.97e-02	4.04e-02	520	509
+Prostate cancer	Alzheimer's disease	Gene Ontology	cardiac muscle tissue development	down-up	-1.77	1.43	5.60e-04	4.04e-02	183	177
+Prostate cancer	Alzheimer's disease	Gene Ontology	response to retinoic acid	down-up	-1.67	1.56	2.67e-02	4.04e-02	96	97
+Prostate cancer	Alzheimer's disease	Gene Ontology	negative regulation of cellular response to growth factor stimulus	down-up	-1.87	1.48	3.17e-04	4.72e-02	126	108
+Prostate cancer	Alzheimer's disease	Gene Ontology	negative regulation of growth	down-up	-1.61	1.42	1.05e-02	4.99e-02	205	204
+Prostate cancer	Alzheimer's disease	Gene Ontology	amide biosynthetic process	up-down	1.81	-2.19	3.20e-08	5.63e-09	634	566
+Prostate cancer	Alzheimer's disease	Gene Ontology	catalytic activity acting on rna	up-down	1.93	-2.15	3.40e-08	5.63e-09	319	257
+Prostate cancer	Alzheimer's disease	Gene Ontology	cellular amide metabolic process	up-down	1.62	-1.91	3.20e-08	5.63e-09	855	770
+Prostate cancer	Alzheimer's disease	Gene Ontology	cellular protein containing complex assembly	up-down	1.21	-2.06	4.06e-02	5.63e-09	802	747
+Prostate cancer	Alzheimer's disease	Gene Ontology	golgi vesicle transport	up-down	1.4	-2.16	3.01e-02	5.63e-09	289	277
+Prostate cancer	Alzheimer's disease	Gene Ontology	hydrolase activity acting on acid anhydrides	up-down	1.22	-1.84	3.46e-02	5.63e-09	701	613
+Prostate cancer	Alzheimer's disease	Gene Ontology	intracellular transport	up-down	1.16	-2.01	4.27e-02	5.63e-09	1387	1265
+Prostate cancer	Alzheimer's disease	Gene Ontology	mitochondrial gene expression	up-down	2.05	-2.89	6.76e-06	5.63e-09	146	109
+Prostate cancer	Alzheimer's disease	Gene Ontology	mitochondrial matrix	up-down	1.81	-2.5	1.93e-07	5.63e-09	400	343
+Prostate cancer	Alzheimer's disease	Gene Ontology	mitochondrial protein complex	up-down	1.88	-3.42	6.03e-06	5.63e-09	209	168
+Prostate cancer	Alzheimer's disease	Gene Ontology	mitochondrial translation	up-down	2.06	-2.91	1.15e-05	5.63e-09	122	92
+Prostate cancer	Alzheimer's disease	Gene Ontology	mitochondrial translational termination	up-down	1.95	-2.71	1.34e-03	5.63e-09	80	58
+Prostate cancer	Alzheimer's disease	Gene Ontology	mitochondrion	up-down	1.29	-2.44	7.93e-04	5.63e-09	1311	1099
+Prostate cancer	Alzheimer's disease	Gene Ontology	ncrna metabolic process	up-down	2.12	-2.18	3.20e-08	5.63e-09	387	313
+Prostate cancer	Alzheimer's disease	Gene Ontology	ncrna processing	up-down	1.99	-2.13	3.20e-08	5.63e-09	311	264
+Prostate cancer	Alzheimer's disease	Gene Ontology	organellar ribosome	up-down	1.83	-2.77	9.82e-03	5.63e-09	78	56
+Prostate cancer	Alzheimer's disease	Gene Ontology	organelle inner membrane	up-down	1.39	-3.05	8.27e-03	5.63e-09	444	340
+Prostate cancer	Alzheimer's disease	Gene Ontology	organonitrogen compound biosynthetic process	up-down	1.46	-1.72	3.40e-08	5.63e-09	1467	1277
+Prostate cancer	Alzheimer's disease	Gene Ontology	peptide biosynthetic process	up-down	1.89	-2.15	3.20e-08	5.63e-09	517	461
+Prostate cancer	Alzheimer's disease	Gene Ontology	peptide metabolic process	up-down	1.62	-1.95	1.57e-06	5.63e-09	634	576
+Prostate cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex	up-down	1.85	-2.11	3.20e-08	5.63e-09	536	480
+Prostate cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex biogenesis	up-down	2.32	-2.33	3.20e-08	5.63e-09	337	315
+Prostate cancer	Alzheimer's disease	Gene Ontology	ribosome biogenesis	up-down	2.35	-2.23	3.20e-08	5.63e-09	233	211
+Prostate cancer	Alzheimer's disease	Gene Ontology	rna binding	up-down	1.65	-1.84	3.20e-08	5.63e-09	1325	1178
+Prostate cancer	Alzheimer's disease	Gene Ontology	rna processing	up-down	1.38	-1.83	3.91e-04	5.63e-09	746	653
+Prostate cancer	Alzheimer's disease	Gene Ontology	translational elongation	up-down	1.77	-2.73	3.05e-03	5.63e-09	115	90
+Prostate cancer	Alzheimer's disease	Gene Ontology	translational termination	up-down	1.82	-2.76	1.90e-03	5.63e-09	94	72
+Prostate cancer	Alzheimer's disease	Gene Ontology	trna metabolic process	up-down	1.91	-2.47	3.96e-05	5.63e-09	159	126
+Prostate cancer	Alzheimer's disease	Gene Ontology	ribosome	up-down	2.26	-2.33	3.20e-08	7.59e-09	162	149
+Prostate cancer	Alzheimer's disease	Gene Ontology	cellular amino acid metabolic process	up-down	1.79	-2.11	3.15e-06	7.85e-09	290	257
+Prostate cancer	Alzheimer's disease	Gene Ontology	ribosomal subunit	up-down	2.19	-2.35	2.55e-07	1.83e-08	124	121
+Prostate cancer	Alzheimer's disease	Gene Ontology	protein targeting	up-down	1.46	-1.99	4.86e-03	3.29e-08	329	306
+Prostate cancer	Alzheimer's disease	Gene Ontology	catalytic activity acting on a trna	up-down	2.28	-2.42	1.02e-07	8.71e-08	107	83
+Prostate cancer	Alzheimer's disease	Gene Ontology	ribonucleotide binding	up-down	1.23	-1.54	2.47e-03	1.28e-07	1555	1386
+Prostate cancer	Alzheimer's disease	Gene Ontology	nucleolus	up-down	1.53	-1.72	3.15e-06	1.33e-07	753	667
+Prostate cancer	Alzheimer's disease	Gene Ontology	organophosphate metabolic process	up-down	1.21	-1.67	4.37e-02	1.46e-07	872	771
+Prostate cancer	Alzheimer's disease	Gene Ontology	nucleobase containing small molecule metabolic process	up-down	1.4	-1.8	2.38e-03	3.35e-07	523	475
+Prostate cancer	Alzheimer's disease	Gene Ontology	protein localization to organelle	up-down	1.27	-1.65	1.18e-02	5.09e-07	765	715
+Prostate cancer	Alzheimer's disease	Gene Ontology	establishment of protein localization to organelle	up-down	1.39	-1.8	7.82e-03	5.78e-07	438	434
+Prostate cancer	Alzheimer's disease	Gene Ontology	posttranscriptional regulation of gene expression	up-down	1.31	-1.81	1.92e-02	1.32e-06	481	445
+Prostate cancer	Alzheimer's disease	Gene Ontology	structural constituent of ribosome	up-down	2.18	-2.22	4.57e-06	1.75e-06	106	105
+Prostate cancer	Alzheimer's disease	Gene Ontology	ligase activity	up-down	1.79	-2.2	1.64e-03	2.05e-06	120	101
+Prostate cancer	Alzheimer's disease	Gene Ontology	rrna metabolic process	up-down	2.2	-2.1	3.20e-08	2.09e-06	183	158
+Prostate cancer	Alzheimer's disease	Gene Ontology	amino acid activation	up-down	2.31	-2.44	2.75e-05	2.63e-06	40	36
+Prostate cancer	Alzheimer's disease	Gene Ontology	small molecule metabolic process	up-down	1.24	-1.45	5.96e-04	5.06e-06	1611	1473
+Prostate cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex subunit organization	up-down	1.98	-2.07	1.63e-05	5.07e-06	147	151
+Prostate cancer	Alzheimer's disease	Gene Ontology	large ribosomal subunit	up-down	1.95	-2.25	7.20e-04	6.16e-06	83	73
+Prostate cancer	Alzheimer's disease	Gene Ontology	adenyl nucleotide binding	up-down	1.29	-1.48	8.83e-04	1.24e-05	1282	1147
+Prostate cancer	Alzheimer's disease	Gene Ontology	ligase activity forming carbon oxygen bonds	up-down	2.22	-2.32	3.31e-04	4.02e-05	33	30
+Prostate cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex binding	up-down	2.03	-2.02	3.87e-05	9.86e-05	108	97
+Prostate cancer	Alzheimer's disease	Gene Ontology	rna localization	up-down	1.69	-1.83	1.66e-03	1.67e-04	180	176
+Prostate cancer	Alzheimer's disease	Gene Ontology	organelle subcompartment	up-down	1.45	-1.74	5.87e-03	2.05e-04	292	259
+Prostate cancer	Alzheimer's disease	Gene Ontology	amine metabolic process	up-down	1.57	-1.96	3.85e-02	2.73e-04	119	111
+Prostate cancer	Alzheimer's disease	Gene Ontology	drug binding	up-down	1.29	-1.4	4.54e-04	2.88e-04	1428	1289
+Prostate cancer	Alzheimer's disease	Gene Ontology	coenzyme metabolic process	up-down	1.52	-1.83	6.96e-03	2.91e-04	215	188
+Prostate cancer	Alzheimer's disease	Gene Ontology	translation factor activity rna binding	up-down	1.67	-2.1	3.43e-02	3.19e-04	68	62
+Prostate cancer	Alzheimer's disease	Gene Ontology	trna binding	up-down	2.05	-2.15	1.16e-03	3.88e-04	49	38
+Prostate cancer	Alzheimer's disease	Gene Ontology	telomerase rna localization	up-down	1.83	-2.12	4.46e-02	4.42e-04	16	16
+Prostate cancer	Alzheimer's disease	Gene Ontology	retrograde vesicle mediated transport golgi to endoplasmic reticulum	up-down	1.66	-1.98	3.80e-02	4.85e-04	68	71
+Prostate cancer	Alzheimer's disease	Gene Ontology	atpase activity	up-down	1.57	-1.66	4.03e-04	5.30e-04	355	320
+Prostate cancer	Alzheimer's disease	Gene Ontology	cytoplasmic translation	up-down	2.09	-1.99	1.32e-04	6.45e-04	75	68
+Prostate cancer	Alzheimer's disease	Gene Ontology	positive regulation of telomerase rna localization to cajal body	up-down	1.97	-2.09	1.37e-02	1.14e-03	12	12
+Prostate cancer	Alzheimer's disease	Gene Ontology	carbohydrate derivative biosynthetic process	up-down	1.38	-1.53	3.84e-03	1.35e-03	565	493
+Prostate cancer	Alzheimer's disease	Gene Ontology	small ribosomal subunit	up-down	1.93	-1.97	4.50e-03	2.07e-03	44	52
+Prostate cancer	Alzheimer's disease	Gene Ontology	preribosome	up-down	2.24	-1.97	2.05e-05	2.33e-03	62	53
+Prostate cancer	Alzheimer's disease	Gene Ontology	organic acid metabolic process	up-down	1.37	-1.4	2.06e-04	2.85e-03	943	878
+Prostate cancer	Alzheimer's disease	Gene Ontology	kinetochore	up-down	1.97	-1.78	7.77e-05	2.90e-03	118	101
+Prostate cancer	Alzheimer's disease	Gene Ontology	ribosomal large subunit biogenesis	up-down	2.22	-1.93	6.86e-05	3.39e-03	49	48
+Prostate cancer	Alzheimer's disease	Gene Ontology	dna repair	up-down	1.56	-1.5	4.00e-05	3.85e-03	454	394
+Prostate cancer	Alzheimer's disease	Gene Ontology	spliceosomal snrnp assembly	up-down	1.78	-1.96	3.63e-02	4.45e-03	35	33
+Prostate cancer	Alzheimer's disease	Gene Ontology	translation regulator activity	up-down	1.55	-1.76	2.45e-02	4.68e-03	109	99
+Prostate cancer	Alzheimer's disease	Gene Ontology	rna export from nucleus	up-down	1.83	-1.72	3.05e-03	5.26e-03	105	101
+Prostate cancer	Alzheimer's disease	Gene Ontology	translation initiation factor activity	up-down	1.76	-1.94	3.89e-02	5.47e-03	41	39
+Prostate cancer	Alzheimer's disease	Gene Ontology	organic cyclic compound catabolic process	up-down	1.23	-1.43	4.06e-02	8.02e-03	495	469
+Prostate cancer	Alzheimer's disease	Gene Ontology	protein localization to endoplasmic reticulum	up-down	2.02	-1.69	2.99e-04	9.42e-03	87	98
+Prostate cancer	Alzheimer's disease	Gene Ontology	small subunit processome	up-down	1.94	-1.86	2.04e-02	1.05e-02	32	28
+Prostate cancer	Alzheimer's disease	Gene Ontology	nucleobase containing compound transport	up-down	1.46	-1.58	3.28e-02	1.06e-02	191	179
+Prostate cancer	Alzheimer's disease	Gene Ontology	protein n linked glycosylation	up-down	2.05	-1.73	4.16e-04	1.08e-02	66	58
+Prostate cancer	Alzheimer's disease	Gene Ontology	spindle organization	up-down	1.6	-1.66	1.07e-02	1.29e-02	138	127
+Prostate cancer	Alzheimer's disease	Gene Ontology	carbohydrate derivative metabolic process	up-down	1.27	-1.34	3.84e-03	1.34e-02	940	835
+Prostate cancer	Alzheimer's disease	Gene Ontology	protein targeting to membrane	up-down	1.5	-1.64	3.81e-02	1.82e-02	136	126
+Prostate cancer	Alzheimer's disease	Gene Ontology	nucleoid	up-down	1.95	-1.77	4.43e-03	2.53e-02	37	36
+Prostate cancer	Alzheimer's disease	Gene Ontology	mitotic cell cycle	up-down	1.26	-1.31	1.09e-02	2.61e-02	854	792
+Prostate cancer	Alzheimer's disease	Gene Ontology	ribosome assembly	up-down	1.96	-1.74	4.11e-03	2.62e-02	37	42
+Prostate cancer	Alzheimer's disease	Gene Ontology	translational initiation	up-down	2.26	-1.56	3.20e-08	3.21e-02	123	137
+Prostate cancer	Alzheimer's disease	Gene Ontology	nucleoside monophosphate metabolic process	up-down	1.71	-1.69	3.36e-02	3.67e-02	57	55
+Prostate cancer	Alzheimer's disease	Gene Ontology	condensed chromosome centromeric region	up-down	2.09	-1.57	2.05e-05	3.88e-02	101	87
+Prostate cancer	Alzheimer's disease	Gene Ontology	nucleotide phosphorylation	up-down	1.53	-1.51	3.04e-02	3.96e-02	111	111
+Prostate cancer	Alzheimer's disease	Gene Ontology	ncrna export from nucleus	up-down	2	-1.7	1.07e-02	4.01e-02	31	31
+Prostate cancer	Alzheimer's disease	Gene Ontology	90s preribosome	up-down	2.03	-1.75	4.29e-03	4.18e-02	25	21
+Prostate cancer	Alzheimer's disease	Gene Ontology	ribonucleoside monophosphate biosynthetic process	up-down	1.78	-1.69	4.66e-02	4.72e-02	27	28
+Prostate cancer	Alzheimer's disease	Gene Ontology	dna templated transcription termination	up-down	1.62	-1.58	4.75e-02	4.82e-02	65	58
+Prostate cancer	Parkinson's disease	Canonical Pathways	naba - matrisome	down-up	-1.63	1.66	8.61e-07	2.26e-08	831	731
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - extracellular matrix organization	down-up	-1.95	1.93	4.00e-07	7.30e-08	269	251
+Prostate cancer	Parkinson's disease	Canonical Pathways	naba - matrisome associated	down-up	-1.48	1.61	1.61e-03	1.22e-07	583	535
+Prostate cancer	Parkinson's disease	Canonical Pathways	kegg - hematopoietic cell lineage	down-up	-1.72	2.19	1.45e-02	8.26e-06	71	78
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - degradation of the extracellular matrix	down-up	-1.67	1.88	8.57e-03	2.56e-04	120	113
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - collagen formation	down-up	-1.69	2.02	1.66e-02	2.98e-04	84	72
+Prostate cancer	Parkinson's disease	Canonical Pathways	pid - myc repress pathway	down-up	-1.63	1.88	4.44e-02	3.39e-03	56	57
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - integrin cell surface interactions	down-up	-1.84	1.78	6.83e-03	5.21e-03	76	75
+Prostate cancer	Parkinson's disease	Canonical Pathways	pid - integrin cs pathway	down-up	-1.85	1.96	1.62e-02	8.86e-03	23	22
+Prostate cancer	Parkinson's disease	Canonical Pathways	pid - angiopoietin receptor pathway	down-up	-1.73	1.78	2.93e-02	1.02e-02	43	48
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - response to metal ions	down-up	-1.82	1.99	1.89e-02	1.41e-02	9	12
+Prostate cancer	Parkinson's disease	Canonical Pathways	pid - integrin1 pathway	down-up	-1.89	1.69	3.27e-03	2.74e-02	61	60
+Prostate cancer	Parkinson's disease	Canonical Pathways	naba - core matrisome	down-up	-1.77	1.39	1.39e-04	4.37e-02	248	196
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - cell surface interactions at the vascular wall	down-up	-1.64	1.47	2.09e-02	4.61e-02	114	123
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - regulation of lipid - metabolism by pparalpha	down-up	-1.69	1.44	1.27e-02	4.65e-02	99	97
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - hiv infection	up-down	1.47	-2.17	2.07e-02	7.41e-09	191	196
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - host interactions of hiv factors	up-down	1.51	-2.47	4.83e-02	7.41e-09	108	113
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - metabolism of polyamines	up-down	1.72	-2.6	2.34e-02	7.41e-09	53	52
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - separation of sister chromatids	up-down	1.68	-2.24	1.36e-03	7.41e-09	153	151
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - mitotic metaphase and anaphase	up-down	1.79	-2.14	2.78e-04	2.62e-08	190	184
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - mitochondrial translation	up-down	1.97	-2.37	2.78e-04	1.47e-07	84	61
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - intra golgi and retrograde golgi to er traffic	up-down	1.58	-2.13	6.84e-03	2.07e-07	157	155
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - vesicle mediated transport	up-down	1.29	-1.77	3.73e-02	2.29e-07	534	509
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - asparagine n linked glycosylation	up-down	1.94	-1.87	1.28e-06	3.81e-06	228	235
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - translation	up-down	2.59	-1.9	7.44e-08	3.81e-06	221	212
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - cell cycle checkpoints	up-down	1.85	-1.88	1.08e-05	5.27e-06	237	233
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - g2 m checkpoints	up-down	1.78	-1.96	5.39e-04	1.05e-05	131	137
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - metabolism of rna	up-down	1.95	-1.64	7.44e-08	1.80e-05	538	506
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - metabolism of amino acids and derivatives	up-down	1.82	-1.74	8.76e-06	6.73e-05	283	281
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - m phase	up-down	1.62	-1.7	2.59e-04	7.53e-05	314	315
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - mitotic g1 phase and g1 s transition	up-down	1.51	-1.86	3.73e-02	2.45e-04	137	138
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - trna aminoacylation	up-down	2.28	-2.11	4.96e-05	2.56e-04	34	32
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - cytosolic trna aminoacylation	up-down	2.2	-2.17	3.53e-04	2.80e-04	20	20
+Prostate cancer	Parkinson's disease	Canonical Pathways	kegg - aminoacyl trna biosynthesis	up-down	2.15	-2.01	4.15e-04	2.13e-03	34	28
+Prostate cancer	Parkinson's disease	Canonical Pathways	kegg - protein export	up-down	1.99	-2	9.31e-03	2.15e-03	22	19
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - cell cycle	up-down	1.61	-1.47	1.08e-05	2.16e-03	540	533
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - cell cycle mitotic	up-down	1.64	-1.52	1.10e-05	2.41e-03	445	443
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - regulation of expression of slits and robos	up-down	1.65	-1.73	7.68e-03	3.22e-03	114	133
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - cellular responses to external stimuli	up-down	1.3	-1.41	4.47e-02	8.58e-03	446	475
+Prostate cancer	Parkinson's disease	Canonical Pathways	reactome - snrnp assembly	up-down	2.18	-1.77	1.78e-04	2.17e-02	46	44
+Prostate cancer	Alzheimer's disease	Canonical Pathways	naba - core matrisome	down-up	-1.77	2.28	1.39e-04	5.07e-09	248	196
+Prostate cancer	Alzheimer's disease	Canonical Pathways	naba - matrisome	down-up	-1.63	2.47	8.61e-07	5.07e-09	831	733
+Prostate cancer	Alzheimer's disease	Canonical Pathways	naba - matrisome associated	down-up	-1.48	2.33	1.61e-03	5.07e-09	583	537
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - extracellular matrix organization	down-up	-1.95	2.54	4.00e-07	5.07e-09	269	251
+Prostate cancer	Alzheimer's disease	Canonical Pathways	kegg - hematopoietic cell lineage	down-up	-1.72	2.4	1.45e-02	2.22e-07	71	78
+Prostate cancer	Alzheimer's disease	Canonical Pathways	naba - ecm glycoproteins	down-up	-1.74	2.16	1.49e-03	6.72e-07	172	135
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - elastic fibre formation	down-up	-1.91	2.57	6.84e-03	1.42e-06	42	37
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - collagen formation	down-up	-1.69	2.28	1.66e-02	4.05e-06	84	72
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - cell surface interactions at the vascular wall	down-up	-1.64	2.12	2.09e-02	4.29e-06	114	124
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - molecules associated with elastic fibres	down-up	-1.93	2.48	8.57e-03	6.69e-06	35	32
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - assembly of collagen fibrils and other multimeric structures	down-up	-1.94	2.32	1.68e-03	1.94e-05	56	52
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - non integrin membrane ecm interactions	down-up	-1.99	2.25	1.36e-03	3.83e-05	51	54
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of the extracellular matrix	down-up	-1.67	1.95	8.57e-03	5.05e-05	120	113
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - integrin cell surface interactions	down-up	-1.84	2.11	6.83e-03	7.96e-05	76	75
+Prostate cancer	Alzheimer's disease	Canonical Pathways	pid - integrin1 pathway	down-up	-1.89	2.19	3.27e-03	1.46e-04	61	60
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - collagen degradation	down-up	-1.6	2.14	4.62e-02	1.58e-04	58	55
+Prostate cancer	Alzheimer's disease	Canonical Pathways	pid - angiopoietin receptor pathway	down-up	-1.73	2.15	2.93e-02	3.10e-04	43	48
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - syndecan interactions	down-up	-1.93	2.15	8.53e-03	1.09e-03	22	24
+Prostate cancer	Alzheimer's disease	Canonical Pathways	pid - myc repress pathway	down-up	-1.63	1.96	4.44e-02	1.69e-03	56	57
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - laminin interactions	down-up	-2.1	2.13	8.75e-04	1.82e-03	27	28
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - hemostasis	down-up	-1.47	1.38	4.61e-03	3.82e-03	509	521
+Prostate cancer	Alzheimer's disease	Canonical Pathways	naba - collagens	down-up	-1.73	2.02	4.25e-02	4.60e-03	41	31
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - collagen chain trimerization	down-up	-1.73	2.02	4.25e-02	4.60e-03	41	31
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - met activates ptk2 signaling	down-up	-1.84	2.01	1.44e-02	4.79e-03	28	28
+Prostate cancer	Alzheimer's disease	Canonical Pathways	naba - basement membranes	down-up	-1.99	1.95	2.97e-03	6.28e-03	36	32
+Prostate cancer	Alzheimer's disease	Canonical Pathways	pid - integrin cs pathway	down-up	-1.85	2.01	1.62e-02	7.64e-03	23	22
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - response to metal ions	down-up	-1.82	1.95	1.89e-02	1.36e-02	9	12
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - met promotes cell motility	down-up	-1.85	1.82	1.50e-02	1.49e-02	39	38
+Prostate cancer	Alzheimer's disease	Canonical Pathways	biocarta - alk pathway	down-up	-1.98	1.8	5.50e-03	1.77e-02	34	34
+Prostate cancer	Alzheimer's disease	Canonical Pathways	kegg - focal adhesion	down-up	-1.86	1.51	5.18e-05	1.98e-02	176	184
+Prostate cancer	Alzheimer's disease	Canonical Pathways	pid - avb3 integrin pathway	down-up	-2.02	1.53	2.84e-04	2.93e-02	67	68
+Prostate cancer	Alzheimer's disease	Canonical Pathways	kegg - arrhythmogenic right ventricular cardiomyopathy arvc	down-up	-1.78	1.58	1.37e-02	3.99e-02	68	66
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - asparagine n linked glycosylation	up-down	1.94	-2.17	1.28e-06	5.07e-09	228	237
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle checkpoints	up-down	1.85	-2.16	1.08e-05	5.07e-09	237	234
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv infection	up-down	1.47	-2.45	2.07e-02	5.07e-09	191	197
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - host interactions of hiv factors	up-down	1.51	-2.51	4.83e-02	5.07e-09	108	113
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of rna	up-down	1.95	-2.2	7.44e-08	5.07e-09	538	508
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - mitochondrial translation	up-down	1.97	-2.76	2.78e-04	5.07e-09	84	61
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic metaphase and anaphase	up-down	1.79	-2.28	2.78e-04	5.07e-09	190	185
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - separation of sister chromatids	up-down	1.68	-2.35	1.36e-03	5.07e-09	153	152
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - translation	up-down	2.59	-2.49	7.44e-08	5.07e-09	221	212
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of polyamines	up-down	1.72	-2.6	2.34e-02	5.32e-09	53	52
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - vesicle mediated transport	up-down	1.29	-1.81	3.73e-02	2.13e-08	534	514
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of expression of slits and robos	up-down	1.65	-2.24	7.68e-03	5.28e-08	114	133
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - g2 m checkpoints	up-down	1.78	-2.22	5.39e-04	9.31e-08	131	137
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - m phase	up-down	1.62	-1.84	2.59e-04	1.80e-06	314	316
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle	up-down	1.61	-1.7	1.08e-05	1.81e-06	540	534
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv life cycle	up-down	1.53	-2.1	2.75e-02	7.24e-06	122	126
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - trna aminoacylation	up-down	2.28	-2.38	4.96e-05	1.01e-05	34	32
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle mitotic	up-down	1.64	-1.7	1.10e-05	1.21e-05	445	444
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular responses to external stimuli	up-down	1.3	-1.65	4.47e-02	3.11e-05	446	475
+Prostate cancer	Alzheimer's disease	Canonical Pathways	kegg - aminoacyl trna biosynthesis	up-down	2.15	-2.3	4.15e-04	5.35e-05	34	28
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic g1 phase and g1 s transition	up-down	1.51	-1.93	3.73e-02	6.43e-05	137	138
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of amino acids and derivatives	up-down	1.82	-1.75	8.76e-06	8.41e-05	283	281
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - cytosolic trna aminoacylation	up-down	2.2	-2.25	3.53e-04	1.86e-04	20	20
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - intra golgi and retrograde golgi to er traffic	up-down	1.58	-1.82	6.84e-03	3.65e-04	157	157
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - trna processing	up-down	2.13	-1.95	8.76e-06	4.38e-04	98	84
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - rrna processing	up-down	2.41	-1.8	7.44e-08	9.76e-04	139	146
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - rrna modification in the nucleus and cytosol	up-down	2.15	-2.01	1.39e-04	1.44e-03	50	47
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic spindle checkpoint	up-down	1.68	-1.83	9.50e-03	1.78e-03	93	86
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - dna repair	up-down	1.51	-1.64	7.68e-03	1.89e-03	260	254
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - snrnp assembly	up-down	2.18	-1.95	1.78e-04	2.35e-03	46	44
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - biosynthesis of the n glycan precursor dolichol lipid - linked oligosaccharide llo and transfer to a nascent protein	up-down	1.81	-1.86	3.65e-03	4.45e-03	64	54
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - trna processing in the nucleus	up-down	1.95	-1.88	1.49e-03	6.43e-03	52	46
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - influenza infection	up-down	2.03	-1.67	4.09e-05	1.08e-02	96	116
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic prometaphase	up-down	1.49	-1.52	2.62e-02	2.43e-02	163	160
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - resolution of sister chromatid cohesion	up-down	1.79	-1.58	3.08e-03	2.50e-02	101	99
+Prostate cancer	Alzheimer's disease	Canonical Pathways	kegg - protein export	up-down	1.99	-1.83	9.31e-03	2.54e-02	22	19
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - transport of the slbp dependant mature mrna	up-down	1.97	-1.76	4.61e-03	2.60e-02	30	30
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - protein ubiquitination	up-down	1.6	-1.64	3.73e-02	2.61e-02	67	58
+Prostate cancer	Alzheimer's disease	Canonical Pathways	reactome - interactions of rev with host cellular proteins	up-down	2	-1.72	3.08e-03	3.65e-02	29	30

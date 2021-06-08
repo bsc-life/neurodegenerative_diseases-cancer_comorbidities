@@ -1,0 +1,25 @@
+Name	Acronym
+Alzheimer's disease	AD
+Parkinson's disease	PD
+Acute lymphoblastic leukemia	ALL
+Acute myeloid leukemia	AML
+Bladder cancer	BLCA
+Breast cancer	BRCA
+Brain cancer	BRNCA
+Cervical cancer	CERV
+Cholangiocarcinoma	CHLCA
+Chronic lymphocytic leukemia	CLL
+Chronic Myeloid Leukemia	CML
+Colorectal cancer	CRCA
+Diffuse large B-cell lymphoma	DLBCL
+Follicular lymphoma	FLYMPH
+Head and neck cancer	HANC
+Kidney cancer	KDNCA
+Lung cancer	LGCA
+Liver cancer	LIVCA
+Ovarian cancer	OVCA
+Pancreatic cancer	PACA
+Prostate cancer	PRCA
+Skin cancer melanoma	SKCM
+Stomach cancer	STCA
+Thyroid cancer	THCA

@@ -1,0 +1,292 @@
+disease.1	disease.2	category	pathway	overlap	nes.1	nes.2	fdr.1	fdr.2	genes.1	ngenes.2
+Skin cancer melanoma	Alzheimer's disease	HallMark	myogenesis	down-up	-1.69	1.85	2.71e-04	1.64e-05	193	194
+Skin cancer melanoma	Alzheimer's disease	HallMark	kras signaling dn	down-up	-1.48	1.67	3.43e-03	3.75e-04	189	190
+Skin cancer melanoma	Alzheimer's disease	HallMark	p53 pathway	down-up	-1.58	1.5	1.37e-03	3.51e-03	190	186
+Skin cancer melanoma	Alzheimer's disease	HallMark	apical junction	down-up	-1.39	1.37	1.53e-02	1.69e-02	176	176
+Skin cancer melanoma	Alzheimer's disease	HallMark	estrogen response early	down-up	-2.11	1.32	3.02e-08	2.86e-02	191	186
+Skin cancer melanoma	Alzheimer's disease	HallMark	myc targets v1	up-down	1.59	-2.54	3.07e-03	2.50e-09	186	182
+Skin cancer melanoma	Alzheimer's disease	HallMark	mtorc1 signaling	up-down	1.65	-2.19	6.95e-04	6.78e-09	193	191
+Skin cancer melanoma	Alzheimer's disease	HallMark	dna repair	up-down	2.01	-2.01	5.04e-06	9.30e-06	130	128
+Skin cancer melanoma	Alzheimer's disease	HallMark	unfolded protein response	up-down	1.8	-1.99	6.72e-04	2.28e-05	107	105
+Skin cancer melanoma	Alzheimer's disease	HallMark	uv response up	up-down	1.54	-1.48	6.51e-03	1.49e-02	150	152
+Skin cancer melanoma	Alzheimer's disease	HallMark	myc targets v2	up-down	2.07	-1.57	1.09e-04	1.99e-02	51	52
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	anatomical structure formation involved in morphogenesis	down-up	-1.33	2.09	5.19e-03	5.63e-09	888	883
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	animal organ morphogenesis	down-up	-1.56	2.05	5.08e-06	5.63e-09	850	846
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	biological adhesion	down-up	-1.3	1.92	8.01e-03	5.63e-09	1096	1084
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	cardiovascular system development	down-up	-1.36	2.32	1.63e-02	5.63e-09	605	601
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	cell motility	down-up	-1.29	1.77	3.26e-03	5.63e-09	1256	1245
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	circulatory system development	down-up	-1.46	2.15	2.62e-04	5.63e-09	884	883
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	collagen containing extracellular matrix	down-up	-1.41	2.59	3.73e-02	5.63e-09	330	327
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	epidermis development	down-up	-2.53	2.23	2.12e-08	5.63e-09	279	275
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	epithelial cell differentiation	down-up	-1.92	2.32	2.12e-08	5.63e-09	539	537
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	epithelium development	down-up	-1.64	1.93	2.25e-08	5.63e-09	945	944
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	extracellular matrix	down-up	-1.43	2.67	2.03e-02	5.63e-09	415	412
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	extracellular matrix structural constituent	down-up	-1.64	2.49	1.98e-02	5.63e-09	132	133
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	locomotion	down-up	-1.28	1.65	5.15e-03	5.63e-09	1426	1407
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	negative regulation of developmental process	down-up	-1.29	1.78	2.18e-02	5.63e-09	755	741
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	negative regulation of transcription by rna polymerase ii	down-up	-1.37	1.98	8.88e-03	5.63e-09	667	667
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	skin development	down-up	-2.68	2.18	2.12e-08	5.63e-09	240	238
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	tube development	down-up	-1.39	2.35	2.33e-03	5.63e-09	862	858
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	tube morphogenesis	down-up	-1.43	2.34	1.67e-03	5.63e-09	699	694
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	urogenital system development	down-up	-2.05	2.13	2.17e-08	5.63e-09	284	284
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	epidermal cell differentiation	down-up	-2.51	2.26	2.12e-08	8.47e-09	191	189
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	renal system development	down-up	-1.93	2.09	7.32e-06	2.66e-08	249	249
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	heart development	down-up	-1.59	1.82	3.60e-04	4.92e-08	455	460
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	gland development	down-up	-1.63	1.9	2.89e-04	4.99e-08	382	375
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	muscle structure development	down-up	-1.53	1.76	6.61e-04	4.99e-08	501	505
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	negative regulation of cell differentiation	down-up	-1.4	1.72	7.55e-03	8.51e-08	547	539
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	keratinocyte differentiation	down-up	-2.69	2.21	2.12e-08	1.68e-07	148	147
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	kidney epithelium development	down-up	-2.13	2.34	2.24e-05	1.81e-07	120	120
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	odontogenesis of dentin containing tooth	down-up	-1.68	2.42	4.90e-02	2.16e-07	74	74
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	gland morphogenesis	down-up	-1.76	2.28	8.49e-03	7.02e-07	110	109
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	respiratory system development	down-up	-1.61	2.09	1.22e-02	9.76e-07	167	167
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	epithelial cell development	down-up	-1.48	2.08	3.75e-02	1.07e-06	174	174
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	nephron epithelium development	down-up	-1.91	2.31	2.77e-03	1.19e-06	92	92
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	epithelial cell proliferation	down-up	-1.79	1.82	2.99e-05	1.95e-06	328	321
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	reproductive system development	down-up	-1.65	1.77	5.93e-04	2.06e-06	369	362
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	regulation of cellular component movement	down-up	-1.31	1.54	7.61e-03	2.19e-06	811	803
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	heart morphogenesis	down-up	-1.68	1.93	2.61e-03	3.20e-06	207	209
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	mesonephros development	down-up	-1.97	2.21	1.11e-03	3.53e-06	87	87
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	muscle organ development	down-up	-1.64	1.86	7.52e-04	5.95e-06	305	308
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	odontogenesis	down-up	-1.82	2.18	5.05e-03	6.67e-06	109	109
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	response to growth factor	down-up	-1.36	1.56	2.11e-02	6.97e-06	573	572
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	metanephros development	down-up	-1.83	2.29	6.58e-03	7.02e-06	79	78
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	nephron development	down-up	-1.8	2.14	4.62e-03	7.47e-06	121	120
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	ossification	down-up	-1.55	1.8	3.08e-03	7.58e-06	322	320
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	cell substrate adhesion	down-up	-1.48	1.83	2.95e-02	8.74e-06	287	284
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	response to bmp	down-up	-1.81	2.12	3.16e-03	1.23e-05	124	122
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	golgi lumen	down-up	-1.75	2.2	2.42e-02	2.28e-05	72	76
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	multicellular organismal homeostasis	down-up	-1.47	1.65	7.50e-03	3.17e-05	391	388
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	glomerulus development	down-up	-1.65	2.3	4.88e-02	3.36e-05	57	56
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	regulation of bmp signaling pathway	down-up	-1.68	2.16	2.89e-02	8.13e-05	69	67
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	negative regulation of cell population proliferation	down-up	-1.37	1.49	1.54e-02	9.24e-05	585	580
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	anchoring junction	down-up	-1.63	1.46	3.95e-06	1.01e-04	658	659
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	hindlimb morphogenesis	down-up	-1.8	2.32	4.17e-02	1.45e-04	31	31
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	keratinization	down-up	-2.6	2.11	2.12e-08	1.73e-04	81	81
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	regulation of epidermis development	down-up	-1.95	2.09	3.34e-03	2.59e-04	71	72
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	cornification	down-up	-2.61	2.05	2.12e-08	4.56e-04	72	73
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	renal tubule development	down-up	-1.77	2.02	1.60e-02	4.60e-04	78	78
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	regulation of fat cell differentiation	down-up	-1.89	1.9	3.47e-03	6.16e-04	92	88
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	molting cycle	down-up	-2.22	1.99	1.60e-05	6.57e-04	83	83
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	cardiac chamber morphogenesis	down-up	-1.7	1.88	1.07e-02	6.67e-04	112	114
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	muscle system process	down-up	-1.42	1.54	2.87e-02	7.21e-04	377	374
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	molting cycle process	down-up	-2.16	2.01	1.20e-04	7.36e-04	69	69
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	regulation of cellular response to growth factor stimulus	down-up	-1.48	1.7	2.88e-02	8.20e-04	207	205
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	muscle cell proliferation	down-up	-1.53	1.7	3.62e-02	9.19e-04	172	173
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	transmembrane receptor protein serine threonine kinase signaling pathway	down-up	-1.44	1.64	3.20e-02	9.22e-04	264	256
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	circulatory system process	down-up	-1.45	1.47	6.68e-03	9.98e-04	466	462
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	muscle tissue development	down-up	-1.6	1.57	1.32e-03	1.16e-03	312	318
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	fat cell differentiation	down-up	-1.91	1.72	4.20e-04	1.23e-03	166	162
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	keratin filament	down-up	-2.26	2.15	9.70e-04	1.29e-03	23	23
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	tight junction organization	down-up	-1.7	2.07	4.02e-02	1.77e-03	47	46
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	regulation of ossification	down-up	-1.65	1.75	1.47e-02	1.86e-03	158	157
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	regulation of epidermal cell differentiation	down-up	-1.85	1.98	1.67e-02	2.06e-03	50	51
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	regulation of keratinocyte proliferation	down-up	-1.76	2.16	4.56e-02	2.14e-03	26	27
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	lipid homeostasis	down-up	-1.78	1.83	1.16e-02	2.34e-03	106	102
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	lipid binding	down-up	-1.34	1.39	4.15e-02	2.35e-03	536	530
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	response to steroid hormone	down-up	-1.51	1.52	9.70e-03	2.36e-03	335	335
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	hemidesmosome assembly	down-up	-1.91	2.09	3.70e-02	2.48e-03	12	12
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	cardiac chamber development	down-up	-1.58	1.71	2.64e-02	2.71e-03	144	144
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	cell junction organization	down-up	-1.81	1.59	6.80e-05	2.72e-03	237	239
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	enzyme linked receptor protein signaling pathway	down-up	-1.33	1.33	6.06e-03	3.48e-03	841	827
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	sex differentiation	down-up	-1.57	1.55	8.24e-03	4.37e-03	222	217
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	cell cell junction	down-up	-1.72	1.45	4.87e-05	4.73e-03	371	379
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	t cell differentiation in thymus	down-up	-1.7	1.83	2.64e-02	5.18e-03	62	63
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	cell junction assembly	down-up	-1.81	1.51	3.89e-04	5.48e-03	203	206
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	apical junction assembly	down-up	-1.81	1.95	2.53e-02	6.52e-03	49	48
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	actin filament based process	down-up	-1.3	1.31	3.96e-02	7.12e-03	599	589
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	positive regulation of epidermis development	down-up	-1.99	1.93	7.38e-03	7.24e-03	34	34
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	transmembrane receptor protein kinase activity	down-up	-2.34	1.77	7.00e-06	7.24e-03	72	72
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	prostate gland development	down-up	-1.79	1.87	2.08e-02	7.55e-03	45	45
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	ligand activated transcription factor activity	down-up	-1.73	1.87	3.89e-02	7.64e-03	45	45
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	response to transforming growth factor beta	down-up	-1.52	1.57	2.63e-02	7.72e-03	200	197
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	notch signaling pathway	down-up	-1.61	1.61	1.57e-02	8.54e-03	148	148
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	epithelial cell morphogenesis	down-up	-1.83	2	2.74e-02	9.27e-03	27	27
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	response to endogenous stimulus	down-up	-1.26	1.22	7.61e-03	9.95e-03	1380	1363
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	keratinocyte proliferation	down-up	-2.04	1.86	3.78e-03	1.23e-02	36	36
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	response to hormone	down-up	-1.24	1.25	4.40e-02	1.23e-02	833	822
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	renal system vasculature development	down-up	-1.94	1.91	1.12e-02	1.25e-02	26	25
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	ammonium transmembrane transporter activity	down-up	-1.89	1.97	3.75e-02	1.33e-02	21	20
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	prostate gland morphogenesis	down-up	-1.88	1.91	1.71e-02	1.34e-02	26	26
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	adaptive thermogenesis	down-up	-1.62	1.54	2.03e-02	1.47e-02	137	137
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	cell cell junction organization	down-up	-1.64	1.55	1.64e-02	1.52e-02	146	145
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	positive regulation of epidermal cell differentiation	down-up	-1.99	1.91	1.64e-02	1.53e-02	21	21
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	mesenchymal cell proliferation	down-up	-1.93	1.76	1.14e-02	1.64e-02	42	42
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	ameboidal type cell migration	down-up	-1.41	1.41	4.10e-02	1.66e-02	335	331
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	sarcolemma	down-up	-1.88	1.53	1.93e-03	1.68e-02	115	115
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	regulation of response to wounding	down-up	-1.57	1.54	2.50e-02	1.70e-02	149	146
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	placenta development	down-up	-1.64	1.55	1.21e-02	1.87e-02	134	132
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	hepaticobiliary system development	down-up	-1.82	1.59	3.29e-03	1.88e-02	122	122
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	beta catenin binding	down-up	-1.81	1.64	2.05e-02	1.92e-02	68	67
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	male sex differentiation	down-up	-1.59	1.55	2.90e-02	2.58e-02	135	133
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	positive regulation of wound healing	down-up	-1.75	1.72	3.24e-02	2.61e-02	52	50
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	transmembrane receptor protein tyrosine kinase activity	down-up	-2.14	1.67	2.46e-04	2.65e-02	57	57
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	steroid binding	down-up	-1.96	1.57	3.10e-03	3.16e-02	80	79
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	metanephric epithelium development	down-up	-1.9	1.77	2.34e-02	3.25e-02	22	22
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	apicolateral plasma membrane	down-up	-2.09	1.84	5.66e-03	3.26e-02	17	17
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	terpenoid metabolic process	down-up	-2.08	1.54	1.71e-04	3.70e-02	88	89
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	response to retinoic acid	down-up	-1.6	1.56	4.87e-02	4.04e-02	98	97
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	metanephric nephron tubule morphogenesis	down-up	-1.8	1.71	2.81e-02	4.28e-02	5	5
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	calcium independent cell cell adhesion via plasma membrane cell adhesion molecules	down-up	-1.87	1.78	4.27e-02	4.39e-02	16	17
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	metanephric nephron epithelium development	down-up	-2	1.77	1.40e-02	4.51e-02	19	19
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	sterol binding	down-up	-1.74	1.68	2.56e-02	4.79e-02	47	46
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	anaphase promoting complex dependent catabolic process	up-down	2.28	-2.58	3.23e-06	5.63e-09	68	67
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	catalytic activity acting on rna	up-down	1.68	-2.15	8.52e-04	5.63e-09	261	257
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	cellular protein catabolic process	up-down	1.45	-1.96	9.44e-03	5.63e-09	542	531
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	hydrolase activity acting on acid anhydrides	up-down	1.61	-1.84	2.77e-05	5.63e-09	621	613
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	mitochondrial gene expression	up-down	1.63	-2.89	4.33e-02	5.63e-09	111	109
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	mitochondrial translation	up-down	1.63	-2.91	4.87e-02	5.63e-09	93	92
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	ncrna metabolic process	up-down	1.58	-2.18	2.88e-03	5.63e-09	315	313
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	ncrna processing	up-down	1.51	-2.13	2.11e-02	5.63e-09	264	264
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	proteasomal protein catabolic process	up-down	1.53	-2.08	5.79e-03	5.63e-09	347	338
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	trna metabolic process	up-down	1.65	-2.47	1.31e-02	5.63e-09	127	126
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	regulation of cell cycle g2 m phase transition	up-down	1.91	-2.18	7.56e-05	3.66e-08	176	173
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	regulation of cellular amino acid metabolic process	up-down	1.78	-2.56	3.44e-02	6.99e-08	53	52
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	protein catabolic process	up-down	1.35	-1.72	3.06e-02	9.09e-08	662	648
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	ribonucleotide binding	up-down	1.29	-1.54	1.23e-02	1.28e-07	1409	1386
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	cell cycle g2 m phase transition	up-down	1.84	-2.07	5.76e-05	1.64e-07	222	218
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	negative regulation of cell cycle g2 m phase transition	up-down	1.89	-2.33	1.79e-03	3.09e-07	84	84
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	organelle localization	up-down	1.61	-1.73	2.92e-04	2.02e-06	495	479
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton	up-down	1.57	-1.56	1.29e-05	7.96e-06	852	836
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	microtubule	up-down	1.61	-1.84	1.18e-03	8.19e-06	290	284
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	adenyl nucleotide binding	up-down	1.34	-1.48	3.70e-03	1.24e-05	1166	1147
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	antigen processing and presentation of peptide antigen	up-down	1.82	-2	3.88e-04	1.42e-05	163	154
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	antigen processing and presentation of exogenous peptide antigen via mhc class i	up-down	1.87	-2.14	9.48e-03	1.76e-04	66	61
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	cellular component disassembly	up-down	1.46	-1.64	9.98e-03	2.39e-04	423	414
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	drug binding	up-down	1.3	-1.4	1.31e-02	2.88e-04	1311	1289
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	atpase activity coupled to transmembrane movement of ions rotational mechanism	up-down	2.07	-2.14	5.54e-03	3.15e-04	18	18
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	establishment of organelle localization	up-down	1.63	-1.69	7.60e-04	3.31e-04	328	316
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	antigen processing and presentation	up-down	1.86	-1.77	9.62e-05	4.17e-04	193	184
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	retrograde vesicle mediated transport golgi to endoplasmic reticulum	up-down	1.7	-1.98	2.88e-02	4.85e-04	71	71
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	atpase activity	up-down	1.84	-1.66	5.40e-06	5.30e-04	324	320
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	proton transporting v type atpase complex	up-down	1.84	-2.13	4.57e-02	5.88e-04	20	19
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	cell cycle phase transition	up-down	1.86	-1.49	3.90e-08	1.81e-03	486	479
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	kinetochore	up-down	2.28	-1.78	2.47e-07	2.90e-03	104	101
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	regulation of ph	up-down	1.79	-1.8	1.32e-02	3.14e-03	78	77
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	regulation of cell cycle phase transition	up-down	1.75	-1.54	3.06e-05	3.14e-03	358	351
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	dna repair	up-down	2.07	-1.5	2.12e-08	3.85e-03	400	394
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	antigen processing and presentation of peptide antigen via mhc class i	up-down	1.71	-1.84	1.54e-02	3.95e-03	86	79
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	vacuolar membrane	up-down	1.64	-1.56	7.88e-04	4.30e-03	302	292
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	whole membrane	up-down	1.24	-1.3	4.36e-02	5.52e-03	1303	1261
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton organization	up-down	1.51	-1.49	6.21e-03	6.47e-03	395	389
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	ph reduction	up-down	1.99	-1.89	4.42e-03	6.47e-03	44	43
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	rna polymerase complex	up-down	1.9	-1.81	4.16e-03	7.01e-03	81	83
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	antigen processing and presentation of peptide or polysaccharide antigen via mhc class ii	up-down	1.66	-1.78	3.35e-02	7.81e-03	84	82
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	protein n linked glycosylation	up-down	1.76	-1.73	1.71e-02	1.08e-02	60	58
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	centrosome	up-down	1.75	-1.47	1.00e-05	1.10e-02	433	417
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	nuclear pore	up-down	1.82	-1.77	9.48e-03	1.14e-02	70	70
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	rna capping	up-down	1.86	-1.89	4.18e-02	1.19e-02	30	30
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	spindle organization	up-down	1.98	-1.66	1.13e-04	1.29e-02	131	127
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	rna polymerase activity	up-down	1.89	-1.81	3.20e-02	1.72e-02	29	29
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	microtubule associated complex	up-down	1.86	-1.62	1.45e-03	1.83e-02	106	104
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	rna modification	up-down	1.59	-1.61	4.45e-02	2.04e-02	106	106
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	phagosome acidification	up-down	2.07	-1.85	7.04e-03	2.38e-02	23	22
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	mitotic cell cycle	up-down	1.75	-1.31	2.12e-08	2.61e-02	798	792
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	spindle	up-down	1.95	-1.46	1.39e-06	2.80e-02	265	261
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	mitotic cytokinesis	up-down	1.7	-1.73	4.91e-02	2.84e-02	51	51
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	postreplication repair	up-down	1.88	-1.73	2.01e-02	2.85e-02	39	39
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	microtubule organizing center	up-down	1.66	-1.36	4.87e-05	3.16e-02	535	520
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton organization involved in mitosis	up-down	2.03	-1.53	9.62e-05	3.45e-02	114	109
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	vesicle membrane	up-down	1.33	-1.31	4.53e-02	3.63e-02	610	596
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	spindle microtubule	up-down	2.38	-1.66	3.86e-06	3.82e-02	48	48
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	condensed chromosome centromeric region	up-down	2.33	-1.57	7.79e-07	3.88e-02	90	87
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	phagosome maturation	up-down	1.87	-1.67	2.04e-02	4.32e-02	34	32
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	microtubule depolymerization	up-down	1.82	-1.7	2.81e-02	4.49e-02	35	35
+Skin cancer melanoma	Alzheimer's disease	Gene Ontology	response to endoplasmic reticulum stress	up-down	1.53	-1.41	2.30e-02	4.68e-02	218	215
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	naba - core matrisome	down-up	-1.76	2.28	5.61e-04	5.07e-09	197	196
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	naba - matrisome	down-up	-1.25	2.47	3.82e-02	5.07e-09	743	733
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	naba - ecm glycoproteins	down-up	-1.83	2.16	3.78e-04	6.72e-07	136	135
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - elastic fibre formation	down-up	-1.71	2.57	3.41e-02	1.42e-06	37	37
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - molecules associated with elastic fibres	down-up	-1.73	2.48	3.56e-02	6.69e-06	32	32
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - formation of the cornified envelope	down-up	-2.59	2.17	1.17e-08	1.33e-05	73	73
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - keratinization	down-up	-2.62	2.2	1.17e-08	2.28e-05	77	75
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	kegg - basal cell carcinoma	down-up	-1.74	2.28	2.27e-02	8.24e-05	44	43
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	pid - myc repress pathway	down-up	-1.71	1.96	2.80e-02	1.69e-03	59	57
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - tight junction interactions	down-up	-2	2.07	6.29e-03	3.07e-03	21	21
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - cell junction organization	down-up	-1.83	1.73	3.73e-03	3.84e-03	74	73
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - type i hemidesmosome assembly	down-up	-1.99	1.98	1.53e-02	4.60e-03	11	11
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - cell cell communication	down-up	-1.52	1.59	4.29e-02	9.01e-03	107	107
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - phase i functionalization of compounds	down-up	-2.04	1.68	2.51e-04	1.03e-02	89	85
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	pid - rxr vdr pathway	down-up	-1.78	1.82	4.89e-02	2.14e-02	24	24
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	kegg - drug metabolism cytochrome p450	down-up	-1.95	1.67	3.35e-03	2.18e-02	51	46
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - nuclear receptor transcription pathway	down-up	-1.7	1.62	4.15e-02	2.21e-02	49	50
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - cytochrome p450 arranged by substrate type	down-up	-1.86	1.53	7.91e-03	4.27e-02	53	50
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - rora activates gene expression	down-up	-2	1.74	6.29e-03	4.30e-02	16	16
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - arachidonic acid metabolism	down-up	-1.82	1.54	1.24e-02	4.71e-02	48	46
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - regulation of foxo transcriptional activity by acetylation	down-up	-1.83	1.72	4.49e-02	4.72e-02	10	10
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	up-down	2.11	-2.64	2.66e-04	5.07e-09	60	60
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - asparagine n linked glycosylation	up-down	1.44	-2.17	2.88e-02	5.07e-09	247	237
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - assembly of the pre replicative complex	up-down	2.14	-2.6	1.15e-04	5.07e-09	62	62
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - auf1 hnrnp d0 binds and destabilizes mrna	up-down	1.63	-2.65	4.69e-02	5.07e-09	48	48
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - cell cycle checkpoints	up-down	2.44	-2.16	1.17e-08	5.07e-09	238	234
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - degradation of gli1 by the proteasome	up-down	1.68	-2.69	3.84e-02	5.07e-09	53	53
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - dna replication	up-down	2.58	-2.47	1.17e-08	5.07e-09	112	113
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - hedgehog ligand biogenesis	up-down	1.64	-2.66	4.67e-02	5.07e-09	53	54
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - hiv infection	up-down	1.75	-2.45	6.97e-04	5.07e-09	198	197
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - host interactions of hiv factors	up-down	1.68	-2.51	7.29e-03	5.07e-09	115	113
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - mitotic g2 g2 m phases	up-down	1.96	-2.26	1.21e-05	5.07e-09	167	163
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - mitotic metaphase and anaphase	up-down	2.03	-2.28	8.81e-07	5.07e-09	191	185
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - orc1 removal from chromatin	up-down	2.1	-2.68	1.83e-04	5.07e-09	65	65
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - separation of sister chromatids	up-down	2.01	-2.35	4.26e-06	5.07e-09	155	152
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - switching of origins to a post replicative state	up-down	2.21	-2.7	6.06e-06	5.07e-09	77	77
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - the role of gtse1 in g2 m progression after g2 checkpoint	up-down	1.83	-2.54	8.43e-03	5.07e-09	66	66
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - metabolism of polyamines	up-down	1.96	-2.6	2.19e-03	5.32e-09	52	52
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - degradation of axin	up-down	1.67	-2.6	3.25e-02	6.93e-09	49	49
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	kegg - proteasome	up-down	1.83	-2.64	1.58e-02	7.66e-09	39	39
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - dna replication pre initiation	up-down	2.28	-2.48	2.35e-06	1.16e-08	78	78
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - post translational protein modification	up-down	1.28	-1.65	2.09e-02	2.07e-08	1038	1021
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - apc c mediated degradation of cell cycle proteins	up-down	2.32	-2.49	6.89e-07	2.21e-08	74	73
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - scf skp2 mediated degradation of p27 p21	up-down	1.77	-2.51	1.19e-02	2.48e-08	57	57
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - regulation of mrna stability by proteins that bind au rich elements	up-down	1.63	-2.39	2.34e-02	7.19e-08	77	76
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - stabilization of p53	up-down	1.72	-2.49	3.32e-02	7.39e-08	51	51
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - g2 m checkpoints	up-down	2.3	-2.22	1.17e-08	9.31e-08	138	137
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - regulation of runx3 expression and activity	up-down	1.71	-2.45	3.38e-02	1.96e-07	51	51
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - s phase	up-down	2.31	-2.2	1.17e-08	5.17e-07	139	140
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - cyclin a cdk2 associated events at s phase entry	up-down	1.85	-2.31	2.22e-03	5.78e-07	77	77
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - m phase	up-down	1.93	-1.84	3.00e-07	1.80e-06	325	316
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - cell cycle	up-down	2.35	-1.7	1.17e-08	1.81e-06	546	534
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - g1 s dna damage checkpoints	up-down	1.94	-2.31	1.80e-03	2.00e-06	61	61
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - nucleotide excision repair	up-down	1.58	-2.23	4.89e-02	3.27e-06	96	95
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - fceri mediated nf kb activation	up-down	1.66	-2.27	4.60e-02	6.88e-06	70	71
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - hiv life cycle	up-down	1.65	-2.1	7.91e-03	7.24e-06	127	126
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - trna aminoacylation	up-down	1.71	-2.38	4.60e-02	1.01e-05	33	32
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - cell cycle mitotic	up-down	2.32	-1.7	1.17e-08	1.21e-05	453	444
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - golgi to er retrograde transport	up-down	1.67	-2.11	1.49e-02	5.04e-05	103	104
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	kegg - aminoacyl trna biosynthesis	up-down	1.83	-2.3	2.09e-02	5.35e-05	28	28
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - mitotic g1 phase and g1 s transition	up-down	2.33	-1.93	1.17e-08	6.43e-05	139	138
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - mhc class ii antigen presentation	up-down	1.61	-2.03	3.11e-02	6.46e-05	99	97
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - global genome nucleotide excision repair gg ner	up-down	1.65	-2.11	2.27e-02	1.23e-04	74	74
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - intra golgi and retrograde golgi to er traffic	up-down	1.48	-1.82	2.80e-02	3.65e-04	156	157
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - insulin receptor recycling	up-down	1.85	-2.2	1.98e-02	4.56e-04	22	20
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - antigen processing cross presentation	up-down	1.95	-1.97	4.25e-04	4.68e-04	89	82
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - interleukin 1 signaling	up-down	1.63	-1.92	2.67e-02	9.76e-04	89	89
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - tnfr2 non canonical nf kb pathway	up-down	1.72	-1.91	7.91e-03	1.21e-03	90	88
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - mitotic spindle checkpoint	up-down	2.09	-1.83	4.97e-05	1.78e-03	89	86
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - dna repair	up-down	2.06	-1.64	1.65e-08	1.89e-03	260	254
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - adaptive immune system	up-down	1.68	-1.47	4.11e-06	1.90e-03	588	567
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - transcriptional regulation by tp53	up-down	1.48	-1.57	1.74e-02	4.27e-03	298	291
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - biosynthesis of the n glycan precursor dolichol lipid - linked oligosaccharide llo and transfer to a nascent protein	up-down	1.67	-1.86	3.86e-02	4.45e-03	55	54
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - antiviral mechanism by ifn stimulated genes	up-down	1.89	-1.81	2.68e-03	6.21e-03	71	70
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - copi dependent golgi to er retrograde traffic	up-down	2.01	-1.8	4.00e-04	6.27e-03	75	75
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	kegg - rna polymerase	up-down	1.79	-1.97	3.88e-02	7.55e-03	20	20
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - mrna capping	up-down	1.76	-1.93	4.24e-02	9.80e-03	27	27
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - formation of the early elongation complex	up-down	1.78	-1.9	3.78e-02	1.04e-02	29	28
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	kegg - purine metabolism	up-down	1.55	-1.67	4.16e-02	1.06e-02	129	130
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - rho gtpases activate formins	up-down	1.8	-1.69	2.55e-03	1.21e-02	113	109
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - transcription of the hiv genome	up-down	1.8	-1.75	9.40e-03	1.41e-02	61	62
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - aurka activation by tpx2	up-down	1.67	-1.67	3.00e-02	1.65e-02	64	61
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - hiv transcription initiation	up-down	1.73	-1.78	3.38e-02	1.66e-02	40	42
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - apc cdc20 mediated degradation of nek2a	up-down	1.92	-1.83	1.59e-02	1.90e-02	19	18
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - hiv transcription elongation	up-down	1.84	-1.73	1.56e-02	2.03e-02	39	38
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - dna damage bypass	up-down	1.74	-1.69	3.25e-02	2.28e-02	40	40
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - mitotic prometaphase	up-down	1.9	-1.52	5.84e-05	2.43e-02	166	160
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - resolution of sister chromatid cohesion	up-down	1.96	-1.58	2.15e-04	2.50e-02	102	99
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - ros and rns production in phagocytes	up-down	1.81	-1.76	3.13e-02	2.65e-02	30	29
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - resolution of ap sites via the multiple nucleotide patch replacement pathway	up-down	1.98	-1.73	7.08e-03	2.78e-02	21	22
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	kegg - vibrio cholerae infection	up-down	1.72	-1.71	2.32e-02	2.91e-02	48	47
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - rna polymerase iii transcription initiation from type 3 promoter	up-down	1.89	-1.72	1.27e-02	2.93e-02	22	22
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - tcr signaling	up-down	1.51	-1.61	4.51e-02	3.97e-02	105	105
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - recognition of dna damage by pcna containing replication complex	up-down	1.83	-1.74	2.47e-02	4.23e-02	27	28
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - inhibition of the proteolytic activity of apc c required for the onset of anaphase by mitotic spindle checkpoint components	up-down	1.76	-1.71	4.89e-02	4.28e-02	14	13
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - rna polymerase iii chain elongation	up-down	1.8	-1.7	3.34e-02	4.48e-02	13	13
+Skin cancer melanoma	Alzheimer's disease	Canonical Pathways	reactome - pcna dependent long patch base excision repair	up-down	1.96	-1.7	1.10e-02	4.80e-02	19	20

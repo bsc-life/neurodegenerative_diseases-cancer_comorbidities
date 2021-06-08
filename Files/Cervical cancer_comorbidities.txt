@@ -1,0 +1,527 @@
+disease.1	disease.2	category	pathway	overlap	nes.1	nes.2	fdr.1	fdr.2	genes.1	ngenes.2
+Cervical cancer	Alzheimer's disease	HallMark	myogenesis	down-up	-1.79	1.85	2.18e-05	1.64e-05	183	194
+Cervical cancer	Alzheimer's disease	HallMark	kras signaling dn	down-up	-1.62	1.67	2.24e-04	3.75e-04	176	190
+Cervical cancer	Alzheimer's disease	HallMark	estrogen response early	down-up	-2.1	1.32	1.56e-08	2.86e-02	181	186
+Cervical cancer	Alzheimer's disease	HallMark	myc targets v1	up-down	2.64	-2.54	6.25e-10	2.50e-09	180	182
+Cervical cancer	Alzheimer's disease	HallMark	mtorc1 signaling	up-down	2.25	-2.19	6.25e-10	6.78e-09	180	191
+Cervical cancer	Alzheimer's disease	HallMark	dna repair	up-down	2.24	-2.01	6.25e-10	9.30e-06	129	128
+Cervical cancer	Alzheimer's disease	HallMark	unfolded protein response	up-down	1.92	-1.99	1.87e-05	2.28e-05	103	105
+Cervical cancer	Alzheimer's disease	HallMark	uv response up	up-down	1.68	-1.48	6.52e-04	1.49e-02	148	152
+Cervical cancer	Alzheimer's disease	HallMark	myc targets v2	up-down	2.3	-1.57	1.21e-07	1.99e-02	52	52
+Cervical cancer	Alzheimer's disease	Gene Ontology	anatomical structure formation involved in morphogenesis	down-up	-1.2	2.09	3.17e-02	5.63e-09	962	883
+Cervical cancer	Alzheimer's disease	Gene Ontology	biological adhesion	down-up	-1.36	1.92	5.86e-06	5.63e-09	1208	1084
+Cervical cancer	Alzheimer's disease	Gene Ontology	blood vessel morphogenesis	down-up	-1.33	2.36	1.01e-02	5.63e-09	528	510
+Cervical cancer	Alzheimer's disease	Gene Ontology	cardiovascular system development	down-up	-1.32	2.32	9.65e-03	5.63e-09	631	601
+Cervical cancer	Alzheimer's disease	Gene Ontology	cell cell adhesion	down-up	-1.39	1.87	3.37e-04	5.63e-09	714	633
+Cervical cancer	Alzheimer's disease	Gene Ontology	cell fate commitment	down-up	-1.39	2.48	3.07e-02	5.63e-09	233	206
+Cervical cancer	Alzheimer's disease	Gene Ontology	cell motility	down-up	-1.13	1.77	3.62e-02	5.63e-09	1380	1245
+Cervical cancer	Alzheimer's disease	Gene Ontology	circulatory system development	down-up	-1.25	2.15	2.49e-03	5.63e-09	943	883
+Cervical cancer	Alzheimer's disease	Gene Ontology	collagen containing extracellular matrix	down-up	-1.77	2.59	1.03e-06	5.63e-09	367	327
+Cervical cancer	Alzheimer's disease	Gene Ontology	epidermis development	down-up	-2.43	2.23	5.85e-09	5.63e-09	330	275
+Cervical cancer	Alzheimer's disease	Gene Ontology	epithelial cell differentiation	down-up	-1.88	2.32	5.85e-09	5.63e-09	599	537
+Cervical cancer	Alzheimer's disease	Gene Ontology	epithelium development	down-up	-1.51	1.93	1.32e-07	5.63e-09	1069	944
+Cervical cancer	Alzheimer's disease	Gene Ontology	extracellular matrix	down-up	-1.81	2.67	2.93e-08	5.63e-09	472	412
+Cervical cancer	Alzheimer's disease	Gene Ontology	extracellular matrix structural constituent	down-up	-1.69	2.49	2.77e-03	5.63e-09	149	133
+Cervical cancer	Alzheimer's disease	Gene Ontology	intrinsic component of plasma membrane	down-up	-1.61	1.56	5.85e-09	5.63e-09	1465	1295
+Cervical cancer	Alzheimer's disease	Gene Ontology	locomotion	down-up	-1	1.65	3.75e-02	5.63e-09	1583	1407
+Cervical cancer	Alzheimer's disease	Gene Ontology	molecular transducer activity	down-up	-1.67	2.28	5.85e-09	5.63e-09	972	853
+Cervical cancer	Alzheimer's disease	Gene Ontology	positive regulation of developmental process	down-up	-1.18	1.66	1.92e-02	5.63e-09	1178	1092
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of vasculature development	down-up	-1.36	2.18	4.11e-02	5.63e-09	287	274
+Cervical cancer	Alzheimer's disease	Gene Ontology	response to bacterium	down-up	-1.27	2.17	4.90e-02	5.63e-09	501	459
+Cervical cancer	Alzheimer's disease	Gene Ontology	skin development	down-up	-2.32	2.18	5.85e-09	5.63e-09	286	238
+Cervical cancer	Alzheimer's disease	Gene Ontology	tube development	down-up	-1.32	2.35	2.58e-04	5.63e-09	917	858
+Cervical cancer	Alzheimer's disease	Gene Ontology	tube morphogenesis	down-up	-1.32	2.34	1.18e-03	5.63e-09	742	694
+Cervical cancer	Alzheimer's disease	Gene Ontology	urogenital system development	down-up	-1.55	2.13	1.10e-03	5.63e-09	301	284
+Cervical cancer	Alzheimer's disease	Gene Ontology	epidermal cell differentiation	down-up	-2.56	2.26	5.85e-09	8.47e-09	231	189
+Cervical cancer	Alzheimer's disease	Gene Ontology	renal system development	down-up	-1.41	2.09	1.76e-02	2.66e-08	268	249
+Cervical cancer	Alzheimer's disease	Gene Ontology	cytokine binding	down-up	-1.6	2.4	9.63e-03	5.18e-08	121	111
+Cervical cancer	Alzheimer's disease	Gene Ontology	receptor complex	down-up	-1.35	1.93	1.64e-02	1.67e-07	342	323
+Cervical cancer	Alzheimer's disease	Gene Ontology	keratinocyte differentiation	down-up	-2.64	2.21	5.85e-09	1.68e-07	183	147
+Cervical cancer	Alzheimer's disease	Gene Ontology	kidney epithelium development	down-up	-1.87	2.34	2.93e-04	1.81e-07	128	120
+Cervical cancer	Alzheimer's disease	Gene Ontology	gland morphogenesis	down-up	-1.81	2.28	1.30e-03	7.02e-07	108	109
+Cervical cancer	Alzheimer's disease	Gene Ontology	g protein coupled receptor activity	down-up	-2.14	1.86	5.85e-09	7.50e-07	430	345
+Cervical cancer	Alzheimer's disease	Gene Ontology	nephron epithelium development	down-up	-1.65	2.31	1.06e-02	1.19e-06	99	92
+Cervical cancer	Alzheimer's disease	Gene Ontology	defense response to bacterium	down-up	-1.64	2.11	1.49e-03	1.51e-06	183	157
+Cervical cancer	Alzheimer's disease	Gene Ontology	epithelial cell proliferation	down-up	-1.39	1.82	1.45e-02	1.95e-06	338	321
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of cellular component movement	down-up	-1.24	1.54	3.11e-03	2.19e-06	862	803
+Cervical cancer	Alzheimer's disease	Gene Ontology	growth factor binding	down-up	-1.62	2.21	1.08e-02	2.36e-06	132	120
+Cervical cancer	Alzheimer's disease	Gene Ontology	mesonephros development	down-up	-1.89	2.21	8.42e-04	3.53e-06	92	87
+Cervical cancer	Alzheimer's disease	Gene Ontology	receptor regulator activity	down-up	-1.48	1.73	1.05e-03	4.43e-06	419	364
+Cervical cancer	Alzheimer's disease	Gene Ontology	metanephros development	down-up	-1.53	2.29	3.05e-02	7.02e-06	85	78
+Cervical cancer	Alzheimer's disease	Gene Ontology	positive regulation of mapk cascade	down-up	-1.29	1.65	3.86e-02	1.08e-05	463	437
+Cervical cancer	Alzheimer's disease	Gene Ontology	response to bmp	down-up	-1.57	2.12	1.54e-02	1.23e-05	141	122
+Cervical cancer	Alzheimer's disease	Gene Ontology	multicellular organismal homeostasis	down-up	-1.41	1.65	5.56e-03	3.17e-05	419	388
+Cervical cancer	Alzheimer's disease	Gene Ontology	glomerulus development	down-up	-1.92	2.3	2.27e-03	3.36e-05	58	56
+Cervical cancer	Alzheimer's disease	Gene Ontology	pituitary gland development	down-up	-1.76	2.4	2.81e-02	3.98e-05	39	36
+Cervical cancer	Alzheimer's disease	Gene Ontology	positive regulation of epithelial cell differentiation	down-up	-1.55	2.26	4.57e-02	4.59e-05	56	54
+Cervical cancer	Alzheimer's disease	Gene Ontology	cardiac septum morphogenesis	down-up	-1.58	2.11	4.15e-02	1.08e-04	67	65
+Cervical cancer	Alzheimer's disease	Gene Ontology	outflow tract morphogenesis	down-up	-1.7	2.14	1.52e-02	1.30e-04	72	72
+Cervical cancer	Alzheimer's disease	Gene Ontology	scavenger receptor activity	down-up	-1.85	2.32	3.35e-03	1.30e-04	48	36
+Cervical cancer	Alzheimer's disease	Gene Ontology	sensory perception of light stimulus	down-up	-1.49	1.87	1.52e-02	1.55e-04	194	156
+Cervical cancer	Alzheimer's disease	Gene Ontology	keratinization	down-up	-2.95	2.11	5.85e-09	1.73e-04	111	81
+Cervical cancer	Alzheimer's disease	Gene Ontology	taxis	down-up	-1.35	1.5	5.63e-03	1.96e-04	558	516
+Cervical cancer	Alzheimer's disease	Gene Ontology	mesonephric tubule morphogenesis	down-up	-1.7	2.16	1.70e-02	2.54e-04	59	56
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of epidermis development	down-up	-1.59	2.09	2.93e-02	2.59e-04	81	72
+Cervical cancer	Alzheimer's disease	Gene Ontology	mammary gland morphogenesis	down-up	-2.29	2.22	1.69e-05	2.62e-04	41	41
+Cervical cancer	Alzheimer's disease	Gene Ontology	peptide receptor activity	down-up	-1.89	1.96	1.70e-04	2.86e-04	131	122
+Cervical cancer	Alzheimer's disease	Gene Ontology	positive regulation of epithelial cell proliferation	down-up	-1.68	1.81	2.48e-03	4.31e-04	161	155
+Cervical cancer	Alzheimer's disease	Gene Ontology	cornification	down-up	-3.11	2.05	5.85e-09	4.56e-04	88	73
+Cervical cancer	Alzheimer's disease	Gene Ontology	renal tubule development	down-up	-1.53	2.02	3.27e-02	4.60e-04	87	78
+Cervical cancer	Alzheimer's disease	Gene Ontology	molting cycle	down-up	-1.57	1.99	2.54e-02	6.57e-04	99	83
+Cervical cancer	Alzheimer's disease	Gene Ontology	cardiac chamber morphogenesis	down-up	-1.63	1.88	8.20e-03	6.67e-04	118	114
+Cervical cancer	Alzheimer's disease	Gene Ontology	growth factor activity	down-up	-1.75	1.86	1.26e-03	6.93e-04	137	133
+Cervical cancer	Alzheimer's disease	Gene Ontology	muscle system process	down-up	-1.49	1.54	1.84e-03	7.21e-04	383	374
+Cervical cancer	Alzheimer's disease	Gene Ontology	cardiac ventricle development	down-up	-1.76	1.86	1.82e-03	7.59e-04	117	106
+Cervical cancer	Alzheimer's disease	Gene Ontology	muscle cell proliferation	down-up	-1.63	1.7	5.63e-03	9.19e-04	174	173
+Cervical cancer	Alzheimer's disease	Gene Ontology	positive regulation of bmp signaling pathway	down-up	-1.74	2.23	4.96e-02	9.37e-04	31	29
+Cervical cancer	Alzheimer's disease	Gene Ontology	kidney morphogenesis	down-up	-1.53	1.97	3.05e-02	9.51e-04	85	73
+Cervical cancer	Alzheimer's disease	Gene Ontology	circulatory system process	down-up	-1.74	1.47	1.08e-07	9.98e-04	481	462
+Cervical cancer	Alzheimer's disease	Gene Ontology	actinin binding	down-up	-1.75	2.15	2.78e-02	1.05e-03	33	31
+Cervical cancer	Alzheimer's disease	Gene Ontology	cardiac septum development	down-up	-1.81	1.87	1.89e-03	1.18e-03	95	92
+Cervical cancer	Alzheimer's disease	Gene Ontology	olfactory receptor activity	down-up	-2.1	2.14	1.41e-04	1.23e-03	67	36
+Cervical cancer	Alzheimer's disease	Gene Ontology	keratin filament	down-up	-1.96	2.15	2.61e-03	1.29e-03	43	23
+Cervical cancer	Alzheimer's disease	Gene Ontology	sensory perception	down-up	-1.84	1.47	5.85e-09	1.34e-03	530	429
+Cervical cancer	Alzheimer's disease	Gene Ontology	sensory perception of chemical stimulus	down-up	-2.08	1.88	2.58e-06	1.63e-03	137	93
+Cervical cancer	Alzheimer's disease	Gene Ontology	inositol lipid mediated signaling	down-up	-1.6	1.69	8.41e-03	1.98e-03	168	162
+Cervical cancer	Alzheimer's disease	Gene Ontology	lipid binding	down-up	-1.27	1.39	1.35e-02	2.35e-03	626	530
+Cervical cancer	Alzheimer's disease	Gene Ontology	muscle contraction	down-up	-1.68	1.55	5.44e-05	2.42e-03	307	299
+Cervical cancer	Alzheimer's disease	Gene Ontology	positive regulation of animal organ morphogenesis	down-up	-1.64	1.91	1.58e-02	2.47e-03	79	69
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of renal system process	down-up	-1.7	2.07	3.59e-02	2.48e-03	33	34
+Cervical cancer	Alzheimer's disease	Gene Ontology	nephron morphogenesis	down-up	-1.59	1.94	2.99e-02	2.53e-03	70	62
+Cervical cancer	Alzheimer's disease	Gene Ontology	cardiac chamber development	down-up	-1.81	1.71	3.38e-04	2.71e-03	151	144
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of systemic arterial blood pressure	down-up	-1.73	1.85	5.74e-03	2.85e-03	84	85
+Cervical cancer	Alzheimer's disease	Gene Ontology	heart formation	down-up	-2	2.07	5.13e-03	3.31e-03	24	22
+Cervical cancer	Alzheimer's disease	Gene Ontology	steroid hormone receptor activity	down-up	-1.75	1.95	1.77e-02	3.47e-03	53	52
+Cervical cancer	Alzheimer's disease	Gene Ontology	enzyme linked receptor protein signaling pathway	down-up	-1.16	1.33	3.54e-02	3.48e-03	899	827
+Cervical cancer	Alzheimer's disease	Gene Ontology	hydrolase activity acting on acid phosphorus nitrogen bonds	down-up	-1.9	1.76	5.37e-05	3.53e-03	148	130
+Cervical cancer	Alzheimer's disease	Gene Ontology	apical plasma membrane	down-up	-1.6	1.55	3.52e-04	3.99e-03	286	256
+Cervical cancer	Alzheimer's disease	Gene Ontology	organ growth	down-up	-1.52	1.64	1.75e-02	4.66e-03	163	149
+Cervical cancer	Alzheimer's disease	Gene Ontology	cell cell junction	down-up	-1.34	1.45	1.97e-02	4.73e-03	433	379
+Cervical cancer	Alzheimer's disease	Gene Ontology	renal system process	down-up	-1.67	1.74	6.01e-03	5.31e-03	108	104
+Cervical cancer	Alzheimer's disease	Gene Ontology	cell fate determination	down-up	-1.91	1.96	7.21e-03	6.12e-03	33	36
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of cytosolic calcium ion concentration	down-up	-1.34	1.49	2.52e-02	6.56e-03	307	304
+Cervical cancer	Alzheimer's disease	Gene Ontology	g protein coupled receptor signaling pathway	down-up	-1.71	1.3	5.85e-09	7.10e-03	849	726
+Cervical cancer	Alzheimer's disease	Gene Ontology	transmembrane receptor protein kinase activity	down-up	-1.79	1.77	3.60e-03	7.24e-03	74	72
+Cervical cancer	Alzheimer's disease	Gene Ontology	prostate gland development	down-up	-2.03	1.87	7.49e-04	7.55e-03	46	45
+Cervical cancer	Alzheimer's disease	Gene Ontology	ureter development	down-up	-2.09	1.98	2.60e-03	8.69e-03	16	12
+Cervical cancer	Alzheimer's disease	Gene Ontology	structural constituent of muscle	down-up	-1.68	1.85	3.43e-02	9.62e-03	38	39
+Cervical cancer	Alzheimer's disease	Gene Ontology	renal system vasculature development	down-up	-1.88	1.91	1.89e-02	1.25e-02	26	25
+Cervical cancer	Alzheimer's disease	Gene Ontology	ammonium transmembrane transporter activity	down-up	-1.74	1.97	4.64e-02	1.33e-02	25	20
+Cervical cancer	Alzheimer's disease	Gene Ontology	prostate gland morphogenesis	down-up	-1.88	1.91	1.15e-02	1.34e-02	27	26
+Cervical cancer	Alzheimer's disease	Gene Ontology	renal system process involved in regulation of systemic arterial blood pressure	down-up	-1.99	1.92	4.96e-03	1.62e-02	23	24
+Cervical cancer	Alzheimer's disease	Gene Ontology	striated muscle cell proliferation	down-up	-1.66	1.77	2.63e-02	1.77e-02	60	58
+Cervical cancer	Alzheimer's disease	Gene Ontology	mammary gland duct morphogenesis	down-up	-2.35	1.89	3.39e-05	1.83e-02	29	30
+Cervical cancer	Alzheimer's disease	Gene Ontology	ventricular septum development	down-up	-1.68	1.76	1.64e-02	1.91e-02	65	59
+Cervical cancer	Alzheimer's disease	Gene Ontology	detection of stimulus involved in sensory perception	down-up	-2.14	1.64	6.56e-07	1.97e-02	149	101
+Cervical cancer	Alzheimer's disease	Gene Ontology	apical part of cell	down-up	-1.37	1.41	2.07e-02	2.11e-02	347	311
+Cervical cancer	Alzheimer's disease	Gene Ontology	bmp signaling pathway involved in heart development	down-up	-1.85	1.76	1.68e-02	2.20e-02	6	5
+Cervical cancer	Alzheimer's disease	Gene Ontology	extracellular matrix structural constituent conferring compression resistance	down-up	-1.91	1.88	1.28e-02	2.20e-02	22	19
+Cervical cancer	Alzheimer's disease	Gene Ontology	heparin binding	down-up	-1.62	1.51	6.43e-03	2.49e-02	152	132
+Cervical cancer	Alzheimer's disease	Gene Ontology	sensory perception of smell	down-up	-2.1	1.68	3.95e-05	2.61e-02	83	52
+Cervical cancer	Alzheimer's disease	Gene Ontology	glycosaminoglycan binding	down-up	-1.65	1.5	1.07e-03	2.61e-02	207	180
+Cervical cancer	Alzheimer's disease	Gene Ontology	transmembrane receptor protein tyrosine kinase activity	down-up	-1.77	1.67	1.10e-02	2.65e-02	58	57
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of blood pressure	down-up	-1.99	1.45	1.10e-05	2.65e-02	161	161
+Cervical cancer	Alzheimer's disease	Gene Ontology	antibacterial humoral response	down-up	-1.77	1.83	3.37e-02	2.84e-02	29	30
+Cervical cancer	Alzheimer's disease	Gene Ontology	steroid hydroxylase activity	down-up	-2.09	1.87	2.15e-03	2.84e-02	30	28
+Cervical cancer	Alzheimer's disease	Gene Ontology	mammary gland epithelium development	down-up	-2.02	1.66	6.26e-04	3.16e-02	61	60
+Cervical cancer	Alzheimer's disease	Gene Ontology	steroid binding	down-up	-1.77	1.57	2.64e-03	3.16e-02	87	79
+Cervical cancer	Alzheimer's disease	Gene Ontology	plasma membrane protein complex	down-up	-1.24	1.29	4.70e-02	3.33e-02	490	441
+Cervical cancer	Alzheimer's disease	Gene Ontology	leukotriene metabolic process	down-up	-1.85	1.79	2.00e-02	3.39e-02	22	21
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of animal organ formation	down-up	-2.19	1.73	8.42e-04	3.48e-02	34	31
+Cervical cancer	Alzheimer's disease	Gene Ontology	antimicrobial humoral response	down-up	-1.62	1.6	2.08e-02	3.66e-02	92	81
+Cervical cancer	Alzheimer's disease	Gene Ontology	terpenoid metabolic process	down-up	-1.68	1.54	7.21e-03	3.70e-02	97	89
+Cervical cancer	Alzheimer's disease	Gene Ontology	endothelial cell migration	down-up	-1.49	1.45	2.27e-02	3.89e-02	176	174
+Cervical cancer	Alzheimer's disease	Gene Ontology	animal organ formation	down-up	-2.33	1.64	6.41e-06	3.94e-02	57	54
+Cervical cancer	Alzheimer's disease	Gene Ontology	cerebellar purkinje cell granule cell precursor cell signaling involved in regulation of granule cell precursor cell proliferation	down-up	-1.68	1.77	4.94e-02	4.06e-02	5	6
+Cervical cancer	Alzheimer's disease	Gene Ontology	response to fungus	down-up	-1.7	1.67	2.91e-02	4.36e-02	38	35
+Cervical cancer	Alzheimer's disease	Gene Ontology	ventricular septum morphogenesis	down-up	-1.65	1.67	4.37e-02	4.42e-02	38	35
+Cervical cancer	Alzheimer's disease	Gene Ontology	metanephric tubule morphogenesis	down-up	-1.9	1.79	1.51e-02	4.48e-02	9	7
+Cervical cancer	Alzheimer's disease	Gene Ontology	negative regulation of cytokine secretion	down-up	-1.58	1.66	3.93e-02	4.64e-02	56	49
+Cervical cancer	Alzheimer's disease	Gene Ontology	negative regulation of growth	down-up	-1.4	1.42	4.58e-02	4.99e-02	218	204
+Cervical cancer	Alzheimer's disease	Gene Ontology	amide biosynthetic process	up-down	1.46	-2.19	1.10e-03	5.63e-09	655	566
+Cervical cancer	Alzheimer's disease	Gene Ontology	anaphase promoting complex dependent catabolic process	up-down	2.3	-2.58	4.21e-07	5.63e-09	71	67
+Cervical cancer	Alzheimer's disease	Gene Ontology	atp metabolic process	up-down	1.75	-2.61	1.88e-04	5.63e-09	243	227
+Cervical cancer	Alzheimer's disease	Gene Ontology	catalytic activity acting on rna	up-down	2.39	-2.15	5.85e-09	5.63e-09	327	257
+Cervical cancer	Alzheimer's disease	Gene Ontology	catalytic complex	up-down	2.25	-2.04	5.85e-09	5.63e-09	1182	990
+Cervical cancer	Alzheimer's disease	Gene Ontology	cellular amide metabolic process	up-down	1.34	-1.91	9.54e-03	5.63e-09	883	770
+Cervical cancer	Alzheimer's disease	Gene Ontology	cellular macromolecule catabolic process	up-down	1.75	-1.75	5.85e-09	5.63e-09	980	816
+Cervical cancer	Alzheimer's disease	Gene Ontology	cellular macromolecule localization	up-down	1.38	-1.71	1.05e-05	5.63e-09	1645	1416
+Cervical cancer	Alzheimer's disease	Gene Ontology	cellular protein catabolic process	up-down	1.69	-1.96	8.77e-08	5.63e-09	656	531
+Cervical cancer	Alzheimer's disease	Gene Ontology	cellular protein containing complex assembly	up-down	1.81	-2.06	5.85e-09	5.63e-09	831	747
+Cervical cancer	Alzheimer's disease	Gene Ontology	envelope	up-down	1.77	-2.48	5.85e-09	5.63e-09	1006	826
+Cervical cancer	Alzheimer's disease	Gene Ontology	hydrolase activity acting on acid anhydrides	up-down	1.74	-1.84	5.85e-09	5.63e-09	742	613
+Cervical cancer	Alzheimer's disease	Gene Ontology	intracellular protein transport	up-down	1.32	-1.94	1.10e-02	5.63e-09	957	833
+Cervical cancer	Alzheimer's disease	Gene Ontology	intracellular transport	up-down	1.35	-2.01	4.47e-04	5.63e-09	1456	1265
+Cervical cancer	Alzheimer's disease	Gene Ontology	mitochondrial envelope	up-down	1.42	-2.76	2.68e-03	5.63e-09	620	488
+Cervical cancer	Alzheimer's disease	Gene Ontology	mitochondrial gene expression	up-down	2.34	-2.89	5.85e-09	5.63e-09	144	109
+Cervical cancer	Alzheimer's disease	Gene Ontology	mitochondrial matrix	up-down	1.52	-2.5	2.85e-03	5.63e-09	409	343
+Cervical cancer	Alzheimer's disease	Gene Ontology	mitochondrial protein complex	up-down	1.84	-3.42	1.05e-04	5.63e-09	200	168
+Cervical cancer	Alzheimer's disease	Gene Ontology	mitochondrial translation	up-down	2.26	-2.91	1.98e-08	5.63e-09	118	92
+Cervical cancer	Alzheimer's disease	Gene Ontology	mitochondrial translational termination	up-down	2.15	-2.71	1.13e-05	5.63e-09	74	58
+Cervical cancer	Alzheimer's disease	Gene Ontology	mitochondrial transport	up-down	1.5	-2.3	2.13e-02	5.63e-09	217	186
+Cervical cancer	Alzheimer's disease	Gene Ontology	mitochondrion	up-down	1.45	-2.44	4.89e-06	5.63e-09	1330	1099
+Cervical cancer	Alzheimer's disease	Gene Ontology	mitochondrion organization	up-down	1.73	-2.63	2.02e-06	5.63e-09	446	374
+Cervical cancer	Alzheimer's disease	Gene Ontology	modification dependent macromolecule catabolic process	up-down	1.73	-2.14	1.29e-07	5.63e-09	535	426
+Cervical cancer	Alzheimer's disease	Gene Ontology	ncrna metabolic process	up-down	2.22	-2.18	5.85e-09	5.63e-09	398	313
+Cervical cancer	Alzheimer's disease	Gene Ontology	ncrna processing	up-down	2.2	-2.13	5.85e-09	5.63e-09	322	264
+Cervical cancer	Alzheimer's disease	Gene Ontology	organellar ribosome	up-down	2.22	-2.77	2.92e-06	5.63e-09	75	56
+Cervical cancer	Alzheimer's disease	Gene Ontology	organelle inner membrane	up-down	1.63	-3.05	5.73e-05	5.63e-09	442	340
+Cervical cancer	Alzheimer's disease	Gene Ontology	organonitrogen compound biosynthetic process	up-down	1.21	-1.72	4.31e-02	5.63e-09	1506	1277
+Cervical cancer	Alzheimer's disease	Gene Ontology	peptidase complex	up-down	2.17	-2.57	6.79e-06	5.63e-09	74	71
+Cervical cancer	Alzheimer's disease	Gene Ontology	peptide biosynthetic process	up-down	1.58	-2.15	7.76e-05	5.63e-09	533	461
+Cervical cancer	Alzheimer's disease	Gene Ontology	peptide metabolic process	up-down	1.43	-1.95	2.96e-03	5.63e-09	653	576
+Cervical cancer	Alzheimer's disease	Gene Ontology	proteasomal protein catabolic process	up-down	1.74	-2.08	1.98e-06	5.63e-09	415	338
+Cervical cancer	Alzheimer's disease	Gene Ontology	protein containing complex assembly	up-down	1.52	-1.67	1.31e-08	5.63e-09	1472	1324
+Cervical cancer	Alzheimer's disease	Gene Ontology	protein modification by small protein conjugation	up-down	1.89	-2.04	5.85e-09	5.63e-09	786	616
+Cervical cancer	Alzheimer's disease	Gene Ontology	protein modification by small protein conjugation or removal	up-down	1.91	-2.03	5.85e-09	5.63e-09	934	748
+Cervical cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex	up-down	2.07	-2.11	5.85e-09	5.63e-09	559	480
+Cervical cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex biogenesis	up-down	2.22	-2.33	5.85e-09	5.63e-09	362	315
+Cervical cancer	Alzheimer's disease	Gene Ontology	ribosome biogenesis	up-down	2.01	-2.23	2.93e-08	5.63e-09	254	211
+Cervical cancer	Alzheimer's disease	Gene Ontology	rna binding	up-down	2.31	-1.84	5.85e-09	5.63e-09	1383	1178
+Cervical cancer	Alzheimer's disease	Gene Ontology	rna processing	up-down	2.4	-1.83	5.85e-09	5.63e-09	773	653
+Cervical cancer	Alzheimer's disease	Gene Ontology	scf dependent proteasomal ubiquitin dependent protein catabolic process	up-down	1.75	-2.56	1.18e-02	5.63e-09	80	69
+Cervical cancer	Alzheimer's disease	Gene Ontology	translational elongation	up-down	1.84	-2.73	1.69e-03	5.63e-09	113	90
+Cervical cancer	Alzheimer's disease	Gene Ontology	translational termination	up-down	2.02	-2.76	8.65e-05	5.63e-09	88	72
+Cervical cancer	Alzheimer's disease	Gene Ontology	trna metabolic process	up-down	2.15	-2.47	8.68e-08	5.63e-09	161	126
+Cervical cancer	Alzheimer's disease	Gene Ontology	endopeptidase complex	up-down	2.16	-2.61	4.34e-05	5.80e-09	56	55
+Cervical cancer	Alzheimer's disease	Gene Ontology	ribose phosphate metabolic process	up-down	1.4	-2.02	3.18e-02	1.70e-08	362	328
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of cell cycle g2 m phase transition	up-down	2.51	-2.18	5.85e-09	3.66e-08	188	173
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of cellular amino acid metabolic process	up-down	1.98	-2.56	1.16e-03	6.99e-08	53	52
+Cervical cancer	Alzheimer's disease	Gene Ontology	catalytic activity acting on a trna	up-down	1.99	-2.42	3.34e-05	8.71e-08	106	83
+Cervical cancer	Alzheimer's disease	Gene Ontology	protein catabolic process	up-down	1.54	-1.72	1.38e-05	9.09e-08	789	648
+Cervical cancer	Alzheimer's disease	Gene Ontology	ribonucleotide binding	up-down	1.64	-1.54	5.85e-09	1.28e-07	1629	1386
+Cervical cancer	Alzheimer's disease	Gene Ontology	nucleolus	up-down	2.11	-1.72	5.85e-09	1.33e-07	788	667
+Cervical cancer	Alzheimer's disease	Gene Ontology	cell cycle g2 m phase transition	up-down	2.49	-2.07	5.85e-09	1.64e-07	241	218
+Cervical cancer	Alzheimer's disease	Gene Ontology	protein polyubiquitination	up-down	1.76	-2.06	6.76e-05	1.83e-07	267	219
+Cervical cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell cycle g2 m phase transition	up-down	2.14	-2.33	8.04e-06	3.09e-07	90	84
+Cervical cancer	Alzheimer's disease	Gene Ontology	nucleobase containing small molecule metabolic process	up-down	1.38	-1.8	1.59e-02	3.35e-07	539	475
+Cervical cancer	Alzheimer's disease	Gene Ontology	protein modification by small protein removal	up-down	2.03	-2.03	9.53e-08	4.07e-07	235	218
+Cervical cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein transferase activity	up-down	1.65	-1.98	3.45e-04	4.55e-07	349	257
+Cervical cancer	Alzheimer's disease	Gene Ontology	protein localization to organelle	up-down	1.56	-1.65	5.45e-06	5.09e-07	805	715
+Cervical cancer	Alzheimer's disease	Gene Ontology	transferase complex	up-down	2.23	-1.71	5.85e-09	9.44e-07	693	565
+Cervical cancer	Alzheimer's disease	Gene Ontology	mitochondrial large ribosomal subunit	up-down	2.09	-2.46	1.79e-04	1.25e-06	50	35
+Cervical cancer	Alzheimer's disease	Gene Ontology	posttranscriptional regulation of gene expression	up-down	2.19	-1.81	5.85e-09	1.32e-06	491	445
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of cellular amine metabolic process	up-down	1.67	-2.36	3.09e-02	1.50e-06	71	70
+Cervical cancer	Alzheimer's disease	Gene Ontology	organelle localization	up-down	1.68	-1.73	1.94e-06	2.02e-06	549	479
+Cervical cancer	Alzheimer's disease	Gene Ontology	ligase activity	up-down	1.65	-2.2	1.55e-02	2.05e-06	123	101
+Cervical cancer	Alzheimer's disease	Gene Ontology	rrna metabolic process	up-down	2.02	-2.1	4.92e-07	2.09e-06	193	158
+Cervical cancer	Alzheimer's disease	Gene Ontology	mitochondrial membrane organization	up-down	1.63	-2.21	1.61e-02	2.26e-06	116	97
+Cervical cancer	Alzheimer's disease	Gene Ontology	protein localization to mitochondrion	up-down	1.58	-2.16	2.76e-02	2.43e-06	123	107
+Cervical cancer	Alzheimer's disease	Gene Ontology	transcription coupled nucleotide excision repair	up-down	2.06	-2.29	2.33e-04	2.80e-06	65	65
+Cervical cancer	Alzheimer's disease	Gene Ontology	mrna metabolic process	up-down	2.2	-1.67	5.85e-09	2.87e-06	689	614
+Cervical cancer	Alzheimer's disease	Gene Ontology	unfolded protein binding	up-down	1.91	-2.22	6.60e-04	3.94e-06	93	84
+Cervical cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex subunit organization	up-down	1.97	-2.07	1.55e-05	5.07e-06	156	151
+Cervical cancer	Alzheimer's disease	Gene Ontology	protein folding	up-down	1.63	-2.04	6.08e-03	5.43e-06	174	157
+Cervical cancer	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton	up-down	1.84	-1.56	5.85e-09	7.96e-06	1044	836
+Cervical cancer	Alzheimer's disease	Gene Ontology	microtubule	up-down	1.64	-1.84	2.33e-04	8.19e-06	356	284
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of transcription from rna polymerase ii promoter in response to hypoxia	up-down	1.83	-2.27	1.06e-02	8.83e-06	69	70
+Cervical cancer	Alzheimer's disease	Gene Ontology	adenyl nucleotide binding	up-down	1.72	-1.48	5.85e-09	1.24e-05	1338	1147
+Cervical cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation of peptide antigen	up-down	1.73	-2	2.16e-03	1.42e-05	153	154
+Cervical cancer	Alzheimer's disease	Gene Ontology	macromolecule catabolic process	up-down	1.6	-1.5	5.85e-09	1.71e-05	1181	998
+Cervical cancer	Alzheimer's disease	Gene Ontology	microtubule based process	up-down	1.72	-1.66	5.84e-08	2.64e-05	641	513
+Cervical cancer	Alzheimer's disease	Gene Ontology	proteasome accessory complex	up-down	1.94	-2.35	7.33e-03	2.73e-05	21	23
+Cervical cancer	Alzheimer's disease	Gene Ontology	coenzyme biosynthetic process	up-down	1.53	-2.04	4.93e-02	3.06e-05	127	110
+Cervical cancer	Alzheimer's disease	Gene Ontology	trna processing	up-down	2.03	-2.11	2.49e-05	3.53e-05	114	89
+Cervical cancer	Alzheimer's disease	Gene Ontology	ligase activity forming carbon oxygen bonds	up-down	1.71	-2.32	4.55e-02	4.02e-05	36	30
+Cervical cancer	Alzheimer's disease	Gene Ontology	organelle envelope lumen	up-down	1.68	-2.14	2.02e-02	4.28e-05	74	65
+Cervical cancer	Alzheimer's disease	Gene Ontology	ubiquitin ligase complex	up-down	1.79	-1.88	4.18e-05	4.82e-05	256	184
+Cervical cancer	Alzheimer's disease	Gene Ontology	rna splicing via transesterification reactions	up-down	2.63	-1.79	5.85e-09	4.97e-05	291	261
+Cervical cancer	Alzheimer's disease	Gene Ontology	rna catabolic process	up-down	1.83	-1.74	1.65e-06	6.04e-05	325	294
+Cervical cancer	Alzheimer's disease	Gene Ontology	protein containing complex localization	up-down	1.72	-1.8	3.24e-04	8.83e-05	244	214
+Cervical cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex binding	up-down	1.87	-2.02	6.89e-04	9.86e-05	114	97
+Cervical cancer	Alzheimer's disease	Gene Ontology	nucleotide excision repair	up-down	2.13	-2.06	4.78e-06	1.14e-04	97	94
+Cervical cancer	Alzheimer's disease	Gene Ontology	rna localization	up-down	2.45	-1.83	5.85e-09	1.67e-04	189	176
+Cervical cancer	Alzheimer's disease	Gene Ontology	proteasome core complex	up-down	1.94	-2.18	1.13e-02	1.69e-04	16	16
+Cervical cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation of exogenous peptide antigen via mhc class i	up-down	2.06	-2.14	2.08e-04	1.76e-04	58	61
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of mrna catabolic process	up-down	2.01	-1.88	2.66e-06	1.99e-04	171	156
+Cervical cancer	Alzheimer's disease	Gene Ontology	cellular component disassembly	up-down	1.39	-1.64	2.57e-02	2.39e-04	466	414
+Cervical cancer	Alzheimer's disease	Gene Ontology	nuclear envelope	up-down	2.02	-1.66	5.85e-09	2.51e-04	406	357
+Cervical cancer	Alzheimer's disease	Gene Ontology	drug binding	up-down	1.63	-1.4	5.85e-09	2.88e-04	1480	1289
+Cervical cancer	Alzheimer's disease	Gene Ontology	proteasomal ubiquitin independent protein catabolic process	up-down	1.99	-2.15	2.77e-03	2.89e-04	18	18
+Cervical cancer	Alzheimer's disease	Gene Ontology	establishment of organelle localization	up-down	1.64	-1.69	2.39e-04	3.31e-04	356	316
+Cervical cancer	Alzheimer's disease	Gene Ontology	trna binding	up-down	1.89	-2.15	4.48e-03	3.88e-04	56	38
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of catabolic process	up-down	1.61	-1.49	2.83e-07	4.09e-04	848	747
+Cervical cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation	up-down	1.64	-1.77	4.34e-03	4.17e-04	183	184
+Cervical cancer	Alzheimer's disease	Gene Ontology	telomerase rna localization	up-down	1.78	-2.12	3.86e-02	4.42e-04	15	16
+Cervical cancer	Alzheimer's disease	Gene Ontology	tubulin binding	up-down	1.46	-1.73	2.97e-02	4.80e-04	292	245
+Cervical cancer	Alzheimer's disease	Gene Ontology	organonitrogen compound catabolic process	up-down	1.26	-1.43	3.39e-02	4.85e-04	1090	911
+Cervical cancer	Alzheimer's disease	Gene Ontology	atpase activity	up-down	2.26	-1.66	5.85e-09	5.30e-04	378	320
+Cervical cancer	Alzheimer's disease	Gene Ontology	post translational protein modification	up-down	1.46	-1.67	2.25e-02	5.94e-04	325	270
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of cellular catabolic process	up-down	1.58	-1.5	5.81e-06	6.11e-04	716	627
+Cervical cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein ligase binding	up-down	1.88	-1.7	3.21e-06	7.77e-04	268	255
+Cervical cancer	Alzheimer's disease	Gene Ontology	spliceosomal tri snrnp complex	up-down	2.09	-2.13	3.89e-04	8.09e-04	29	27
+Cervical cancer	Alzheimer's disease	Gene Ontology	trna modification	up-down	1.9	-1.96	2.61e-03	8.15e-04	77	58
+Cervical cancer	Alzheimer's disease	Gene Ontology	rna splicing	up-down	2.56	-1.63	5.85e-09	1.06e-03	363	320
+Cervical cancer	Alzheimer's disease	Gene Ontology	mrna processing	up-down	2.53	-1.6	5.85e-09	1.21e-03	423	365
+Cervical cancer	Alzheimer's disease	Gene Ontology	sm like protein family complex	up-down	2.42	-1.93	1.55e-08	1.40e-03	66	58
+Cervical cancer	Alzheimer's disease	Gene Ontology	u2 type spliceosomal complex	up-down	2.4	-1.93	2.54e-08	1.70e-03	80	70
+Cervical cancer	Alzheimer's disease	Gene Ontology	cell cycle phase transition	up-down	2.45	-1.49	5.85e-09	1.81e-03	541	479
+Cervical cancer	Alzheimer's disease	Gene Ontology	nuclear transcribed mrna catabolic process exonucleolytic	up-down	1.99	-2.03	1.30e-03	2.05e-03	35	29
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of protein containing complex assembly	up-down	1.44	-1.58	1.64e-02	2.29e-03	360	321
+Cervical cancer	Alzheimer's disease	Gene Ontology	preribosome	up-down	1.99	-1.97	4.86e-04	2.33e-03	66	53
+Cervical cancer	Alzheimer's disease	Gene Ontology	threonine type peptidase activity	up-down	1.88	-2.05	7.16e-03	2.68e-03	17	17
+Cervical cancer	Alzheimer's disease	Gene Ontology	kinetochore	up-down	2.72	-1.78	5.85e-09	2.90e-03	116	101
+Cervical cancer	Alzheimer's disease	Gene Ontology	pyruvate metabolic process	up-down	2.02	-1.74	3.99e-06	2.91e-03	131	132
+Cervical cancer	Alzheimer's disease	Gene Ontology	spliceosomal complex	up-down	2.55	-1.74	5.85e-09	3.09e-03	155	135
+Cervical cancer	Alzheimer's disease	Gene Ontology	cullin ring ubiquitin ligase complex	up-down	1.6	-1.8	1.66e-02	3.10e-03	144	98
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of cell cycle phase transition	up-down	2.24	-1.54	5.85e-09	3.14e-03	400	351
+Cervical cancer	Alzheimer's disease	Gene Ontology	cellular nitrogen compound catabolic process	up-down	1.53	-1.49	1.09e-03	3.20e-03	486	427
+Cervical cancer	Alzheimer's disease	Gene Ontology	hematopoietic stem cell differentiation	up-down	1.73	-1.86	1.57e-02	3.48e-03	73	75
+Cervical cancer	Alzheimer's disease	Gene Ontology	dna repair	up-down	2.69	-1.5	5.85e-09	3.85e-03	466	394
+Cervical cancer	Alzheimer's disease	Gene Ontology	mitochondrial rna metabolic process	up-down	2.01	-1.94	1.58e-03	3.90e-03	43	32
+Cervical cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation of peptide antigen via mhc class i	up-down	1.94	-1.84	1.38e-03	3.95e-03	77	79
+Cervical cancer	Alzheimer's disease	Gene Ontology	cellular ketone metabolic process	up-down	1.53	-1.63	1.83e-02	4.11e-03	206	197
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of cellular ketone metabolic process	up-down	1.64	-1.7	8.44e-03	4.13e-03	143	141
+Cervical cancer	Alzheimer's disease	Gene Ontology	spliceosomal snrnp assembly	up-down	2.13	-1.96	9.13e-05	4.45e-03	35	33
+Cervical cancer	Alzheimer's disease	Gene Ontology	catalytic step 2 spliceosome	up-down	2.45	-1.83	5.85e-09	4.52e-03	73	64
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of mitochondrial gene expression	up-down	1.88	-2	1.35e-02	5.04e-03	27	17
+Cervical cancer	Alzheimer's disease	Gene Ontology	protein localization to chromosome telomeric region	up-down	1.81	-1.99	2.99e-02	5.08e-03	25	25
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of mrna metabolic process	up-down	2.16	-1.59	5.85e-09	5.10e-03	277	250
+Cervical cancer	Alzheimer's disease	Gene Ontology	de novo protein folding	up-down	1.83	-1.94	2.13e-02	5.26e-03	28	28
+Cervical cancer	Alzheimer's disease	Gene Ontology	rna export from nucleus	up-down	2.47	-1.72	5.85e-09	5.26e-03	113	101
+Cervical cancer	Alzheimer's disease	Gene Ontology	nuclear export	up-down	2.45	-1.66	5.85e-09	5.27e-03	166	148
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of dna templated transcription in response to stress	up-down	1.71	-1.73	6.92e-03	5.31e-03	107	104
+Cervical cancer	Alzheimer's disease	Gene Ontology	establishment of rna localization	up-down	2.34	-1.69	5.85e-09	5.52e-03	161	150
+Cervical cancer	Alzheimer's disease	Gene Ontology	rna polymerase ii holoenzyme	up-down	1.97	-1.81	4.43e-04	5.53e-03	64	64
+Cervical cancer	Alzheimer's disease	Gene Ontology	membrane docking	up-down	1.87	-1.71	6.20e-05	6.36e-03	162	142
+Cervical cancer	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton organization	up-down	1.9	-1.49	5.85e-09	6.47e-03	477	389
+Cervical cancer	Alzheimer's disease	Gene Ontology	organelle assembly	up-down	1.58	-1.41	5.42e-06	6.47e-03	699	571
+Cervical cancer	Alzheimer's disease	Gene Ontology	metal cluster binding	up-down	1.95	-1.86	1.45e-03	6.73e-03	55	52
+Cervical cancer	Alzheimer's disease	Gene Ontology	rna polymerase complex	up-down	2.09	-1.81	8.57e-06	7.01e-03	89	83
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of microtubule based process	up-down	1.89	-1.62	2.79e-05	7.17e-03	190	166
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of establishment of protein localization to chromosome	up-down	1.76	-1.96	4.49e-02	7.48e-03	9	10
+Cervical cancer	Alzheimer's disease	Gene Ontology	u2 type catalytic step 2 spliceosome	up-down	2.1	-1.91	7.55e-04	7.54e-03	28	24
+Cervical cancer	Alzheimer's disease	Gene Ontology	protein monoubiquitination	up-down	1.77	-1.88	1.61e-02	7.81e-03	63	50
+Cervical cancer	Alzheimer's disease	Gene Ontology	organic cyclic compound catabolic process	up-down	1.53	-1.43	4.89e-04	8.02e-03	525	469
+Cervical cancer	Alzheimer's disease	Gene Ontology	ficolin 1 rich granule	up-down	1.65	-1.69	1.47e-02	8.18e-03	107	111
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of hematopoietic progenitor cell differentiation	up-down	1.91	-1.79	1.53e-03	8.23e-03	75	75
+Cervical cancer	Alzheimer's disease	Gene Ontology	small nuclear ribonucleoprotein complex	up-down	2.38	-1.86	1.38e-07	9.04e-03	57	51
+Cervical cancer	Alzheimer's disease	Gene Ontology	fc receptor signaling pathway	up-down	1.57	-1.62	2.36e-02	1.04e-02	158	158
+Cervical cancer	Alzheimer's disease	Gene Ontology	nucleobase containing compound transport	up-down	2.28	-1.58	5.85e-09	1.06e-02	200	179
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of cellular localization	up-down	1.38	-1.37	5.92e-03	1.08e-02	697	626
+Cervical cancer	Alzheimer's disease	Gene Ontology	centrosome	up-down	2.06	-1.47	5.85e-09	1.10e-02	503	417
+Cervical cancer	Alzheimer's disease	Gene Ontology	multi organism localization	up-down	2.06	-1.85	3.24e-04	1.11e-02	53	50
+Cervical cancer	Alzheimer's disease	Gene Ontology	precatalytic spliceosome	up-down	2.25	-1.85	7.73e-06	1.13e-02	49	42
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of cellular protein localization	up-down	1.61	-1.44	8.22e-05	1.14e-02	476	429
+Cervical cancer	Alzheimer's disease	Gene Ontology	nuclear pore	up-down	2.35	-1.77	6.66e-08	1.14e-02	72	70
+Cervical cancer	Alzheimer's disease	Gene Ontology	cellular response to heat	up-down	2.07	-1.64	2.00e-05	1.17e-02	113	107
+Cervical cancer	Alzheimer's disease	Gene Ontology	rna capping	up-down	1.89	-1.89	8.66e-03	1.19e-02	29	30
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of intracellular protein transport	up-down	1.52	-1.57	2.68e-02	1.20e-02	198	184
+Cervical cancer	Alzheimer's disease	Gene Ontology	spindle organization	up-down	2.49	-1.66	5.85e-09	1.29e-02	139	127
+Cervical cancer	Alzheimer's disease	Gene Ontology	microtubule binding	up-down	1.46	-1.54	4.44e-02	1.33e-02	217	178
+Cervical cancer	Alzheimer's disease	Gene Ontology	positive regulation of telomere maintenance via telomere lengthening	up-down	1.79	-1.88	2.36e-02	1.34e-02	32	30
+Cervical cancer	Alzheimer's disease	Gene Ontology	error free translesion synthesis	up-down	1.82	-1.84	1.64e-02	1.55e-02	20	19
+Cervical cancer	Alzheimer's disease	Gene Ontology	methylosome	up-down	1.86	-1.88	1.61e-02	1.63e-02	12	12
+Cervical cancer	Alzheimer's disease	Gene Ontology	rna dependent dna biosynthetic process	up-down	1.97	-1.73	1.11e-03	1.63e-02	63	59
+Cervical cancer	Alzheimer's disease	Gene Ontology	h4 histone acetyltransferase complex	up-down	2.11	-1.79	3.28e-04	1.70e-02	37	32
+Cervical cancer	Alzheimer's disease	Gene Ontology	rna polymerase activity	up-down	1.8	-1.81	1.35e-02	1.72e-02	35	29
+Cervical cancer	Alzheimer's disease	Gene Ontology	microtubule associated complex	up-down	1.62	-1.62	9.56e-03	1.83e-02	133	104
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of cellular amide metabolic process	up-down	1.72	-1.48	6.36e-05	1.92e-02	344	300
+Cervical cancer	Alzheimer's disease	Gene Ontology	rna modification	up-down	1.93	-1.61	3.29e-05	2.04e-02	144	106
+Cervical cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein binding	up-down	1.7	-1.68	1.22e-02	2.05e-02	88	76
+Cervical cancer	Alzheimer's disease	Gene Ontology	proteasome core complex beta subunit complex	up-down	1.84	-1.86	2.18e-02	2.08e-02	9	10
+Cervical cancer	Alzheimer's disease	Gene Ontology	nucleotide excision repair preincision complex assembly	up-down	1.78	-1.82	3.16e-02	2.19e-02	27	27
+Cervical cancer	Alzheimer's disease	Gene Ontology	histone mrna metabolic process	up-down	1.96	-1.83	6.43e-03	2.21e-02	23	17
+Cervical cancer	Alzheimer's disease	Gene Ontology	cytoskeleton dependent cytokinesis	up-down	1.89	-1.7	2.18e-03	2.39e-02	82	67
+Cervical cancer	Alzheimer's disease	Gene Ontology	positive regulation of establishment of protein localization to telomere	up-down	1.74	-1.82	3.81e-02	2.39e-02	7	8
+Cervical cancer	Alzheimer's disease	Gene Ontology	error prone translesion synthesis	up-down	1.87	-1.77	9.65e-03	2.41e-02	20	18
+Cervical cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein specific protease activity	up-down	1.85	-1.7	2.21e-03	2.45e-02	86	66
+Cervical cancer	Alzheimer's disease	Gene Ontology	nucleoid	up-down	1.81	-1.77	2.22e-02	2.53e-02	38	36
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of telomere maintenance via telomere lengthening	up-down	1.88	-1.69	5.93e-03	2.60e-02	53	46
+Cervical cancer	Alzheimer's disease	Gene Ontology	mitotic cell cycle	up-down	2.44	-1.31	5.85e-09	2.61e-02	882	792
+Cervical cancer	Alzheimer's disease	Gene Ontology	regulation of proteasomal protein catabolic process	up-down	1.47	-1.56	4.97e-02	2.67e-02	160	135
+Cervical cancer	Alzheimer's disease	Gene Ontology	ribonucleoside monophosphate metabolic process	up-down	1.76	-1.77	1.97e-02	2.67e-02	48	40
+Cervical cancer	Alzheimer's disease	Gene Ontology	smn sm protein complex	up-down	1.86	-1.85	1.93e-02	2.72e-02	15	13
+Cervical cancer	Alzheimer's disease	Gene Ontology	nad metabolic process	up-down	1.7	-1.73	3.82e-02	2.77e-02	48	43
+Cervical cancer	Alzheimer's disease	Gene Ontology	spindle	up-down	2.38	-1.46	5.85e-09	2.80e-02	305	261
+Cervical cancer	Alzheimer's disease	Gene Ontology	establishment of protein localization to telomere	up-down	1.92	-1.75	8.66e-03	2.82e-02	15	16
+Cervical cancer	Alzheimer's disease	Gene Ontology	mitotic cytokinesis	up-down	1.93	-1.73	2.53e-03	2.84e-02	61	51
+Cervical cancer	Alzheimer's disease	Gene Ontology	postreplication repair	up-down	2.09	-1.73	2.78e-04	2.85e-02	47	39
+Cervical cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein ligase activity	up-down	1.57	-1.52	1.76e-02	2.92e-02	199	140
+Cervical cancer	Alzheimer's disease	Gene Ontology	dna templated transcription elongation	up-down	2.08	-1.59	2.15e-05	2.95e-02	92	89
+Cervical cancer	Alzheimer's disease	Gene Ontology	response to heat	up-down	1.88	-1.52	1.15e-04	2.98e-02	149	140
+Cervical cancer	Alzheimer's disease	Gene Ontology	microtubule organizing center	up-down	1.99	-1.36	5.85e-09	3.16e-02	650	520
+Cervical cancer	Alzheimer's disease	Gene Ontology	centriolar satellite	up-down	1.81	-1.66	3.52e-03	3.29e-02	86	69
+Cervical cancer	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton organization involved in mitosis	up-down	2.27	-1.53	3.65e-08	3.45e-02	112	109
+Cervical cancer	Alzheimer's disease	Gene Ontology	nuclear exosome rnase complex	up-down	1.85	-1.77	2.76e-02	3.64e-02	16	14
+Cervical cancer	Alzheimer's disease	Gene Ontology	nucleoside monophosphate metabolic process	up-down	1.83	-1.69	7.69e-03	3.67e-02	66	55
+Cervical cancer	Alzheimer's disease	Gene Ontology	host cellular component	up-down	1.95	-1.63	1.16e-03	3.78e-02	66	59
+Cervical cancer	Alzheimer's disease	Gene Ontology	spindle microtubule	up-down	2.24	-1.66	6.46e-06	3.82e-02	51	48
+Cervical cancer	Alzheimer's disease	Gene Ontology	condensed chromosome centromeric region	up-down	2.81	-1.57	5.85e-09	3.88e-02	100	87
+Cervical cancer	Alzheimer's disease	Gene Ontology	nucleotide phosphorylation	up-down	1.91	-1.51	3.38e-04	3.96e-02	114	111
+Cervical cancer	Alzheimer's disease	Gene Ontology	ncrna export from nucleus	up-down	2.3	-1.7	1.44e-05	4.01e-02	32	31
+Cervical cancer	Alzheimer's disease	Gene Ontology	innate immune response activating cell surface receptor signaling pathway	up-down	1.57	-1.6	3.64e-02	4.04e-02	94	90
+Cervical cancer	Alzheimer's disease	Gene Ontology	ciliary basal body plasma membrane docking	up-down	2.22	-1.54	1.18e-06	4.35e-02	84	77
+Cervical cancer	Alzheimer's disease	Gene Ontology	response to endoplasmic reticulum stress	up-down	1.65	-1.41	2.68e-03	4.68e-02	251	215
+Cervical cancer	Alzheimer's disease	Gene Ontology	ribonucleoside monophosphate biosynthetic process	up-down	2.02	-1.69	2.01e-03	4.72e-02	31	28
+Cervical cancer	Alzheimer's disease	Gene Ontology	dna templated transcription termination	up-down	2.29	-1.58	1.28e-06	4.82e-02	65	58
+Cervical cancer	Alzheimer's disease	Gene Ontology	cell redox homeostasis	up-down	1.78	-1.62	1.97e-02	4.86e-02	61	54
+Cervical cancer	Alzheimer's disease	Gene Ontology	apoptotic mitochondrial changes	up-down	1.77	-1.55	2.49e-03	4.95e-02	109	97
+Cervical cancer	Alzheimer's disease	Gene Ontology	snorna metabolic process	up-down	1.81	-1.75	2.41e-02	4.95e-02	14	9
+Cervical cancer	Alzheimer's disease	Canonical Pathways	naba - core matrisome	down-up	-1.89	2.28	4.19e-07	5.07e-09	245	196
+Cervical cancer	Alzheimer's disease	Canonical Pathways	naba - matrisome	down-up	-1.86	2.47	3.66e-09	5.07e-09	864	733
+Cervical cancer	Alzheimer's disease	Canonical Pathways	naba - matrisome associated	down-up	-1.75	2.33	3.66e-09	5.07e-09	619	537
+Cervical cancer	Alzheimer's disease	Canonical Pathways	naba - secreted factors	down-up	-1.71	2.17	1.38e-05	5.07e-09	283	249
+Cervical cancer	Alzheimer's disease	Canonical Pathways	naba - ecm regulators	down-up	-1.43	2.1	1.71e-02	7.39e-08	211	185
+Cervical cancer	Alzheimer's disease	Canonical Pathways	naba - ecm glycoproteins	down-up	-2	2.16	2.05e-06	6.72e-07	173	135
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - class a 1 rhodopsin like receptors	down-up	-1.33	1.9	2.63e-02	8.78e-07	281	261
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of the cornified envelope	down-up	-3.11	2.17	3.66e-09	1.33e-05	90	73
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - keratinization	down-up	-2.96	2.2	3.66e-09	2.28e-05	103	75
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - gpcr ligand binding	down-up	-1.46	1.69	3.98e-04	2.32e-05	387	353
+Cervical cancer	Alzheimer's disease	Canonical Pathways	naba - ecm affiliated	down-up	-1.63	1.73	6.39e-03	4.78e-03	125	103
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by gpcr	down-up	-1.55	1.31	1.35e-07	7.64e-03	755	657
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - phase i functionalization of compounds	down-up	-1.9	1.68	3.61e-04	1.03e-02	90	85
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of fibrin clot clotting cascade	down-up	-1.91	1.8	5.14e-03	1.46e-02	34	35
+Cervical cancer	Alzheimer's disease	Canonical Pathways	kegg - olfactory transduction	down-up	-2.18	1.59	9.85e-06	1.98e-02	95	61
+Cervical cancer	Alzheimer's disease	Canonical Pathways	kegg - drug metabolism cytochrome p450	down-up	-2.33	1.67	1.10e-05	2.18e-02	48	46
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - defective chst6 causes mcdc1	down-up	-1.74	1.7	3.36e-02	3.80e-02	8	7
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - defective st3gal3 causes mct12 and eiee15	down-up	-1.81	1.7	1.70e-02	3.80e-02	8	7
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - antimicrobial peptides	down-up	-2.05	1.62	2.15e-04	4.27e-02	58	40
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - cytochrome p450 arranged by substrate type	down-up	-1.97	1.53	2.17e-03	4.27e-02	54	50
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - arachidonic acid metabolism	down-up	-2.03	1.54	9.00e-04	4.71e-02	54	46
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - antigen processing ubiquitination proteasome degradation	up-down	1.88	-2.41	2.99e-06	5.07e-09	273	213
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	up-down	2.21	-2.64	5.12e-06	5.07e-09	64	60
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - assembly of the pre replicative complex	up-down	2.44	-2.6	1.81e-08	5.07e-09	60	62
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - auf1 hnrnp d0 binds and destabilizes mrna	up-down	2	-2.65	5.18e-04	5.07e-09	46	48
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle checkpoints	up-down	3.01	-2.16	3.66e-09	5.07e-09	243	234
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - class i mhc mediated antigen processing presentation	up-down	1.86	-2.19	3.56e-07	5.07e-09	319	261
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - defective cftr causes cystic fibrosis	up-down	1.81	-2.72	1.18e-02	5.07e-09	52	51
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of gli1 by the proteasome	up-down	1.69	-2.69	3.19e-02	5.07e-09	52	53
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - dna replication	up-down	2.81	-2.47	3.66e-09	5.07e-09	116	113
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - hedgehog ligand biogenesis	up-down	1.85	-2.66	3.10e-03	5.07e-09	56	54
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv infection	up-down	2.46	-2.45	3.66e-09	5.07e-09	202	197
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - host interactions of hiv factors	up-down	2.37	-2.51	3.66e-09	5.07e-09	116	113
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of rna	up-down	2.39	-2.2	3.66e-09	5.07e-09	561	508
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - mitochondrial translation	up-down	2.2	-2.76	4.91e-07	5.07e-09	79	61
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic g2 g2 m phases	up-down	2.49	-2.26	3.66e-09	5.07e-09	166	163
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic metaphase and anaphase	up-down	2.76	-2.28	3.66e-09	5.07e-09	197	185
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - neddylation	up-down	1.66	-2.38	1.81e-03	5.07e-09	208	164
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - negative regulation of notch4 signaling	up-down	1.99	-2.85	6.33e-04	5.07e-09	47	50
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - orc1 removal from chromatin	up-down	2.44	-2.68	7.82e-09	5.07e-09	62	65
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of pten stability and activity	up-down	2.02	-2.58	3.82e-04	5.07e-09	60	63
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of ras by gaps	up-down	1.8	-2.85	5.14e-03	5.07e-09	56	55
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of runx2 expression and activity	up-down	1.9	-2.59	1.57e-03	5.07e-09	65	67
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - separation of sister chromatids	up-down	2.66	-2.35	3.66e-09	5.07e-09	159	152
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - switching of origins to a post replicative state	up-down	2.46	-2.7	3.66e-09	5.07e-09	80	77
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - the role of gtse1 in g2 m progression after g2 checkpoint	up-down	2.03	-2.54	1.41e-04	5.07e-09	62	66
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of polyamines	up-down	2.07	-2.6	3.15e-04	5.32e-09	51	52
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of axin	up-down	2.06	-2.6	2.36e-04	6.93e-09	46	49
+Cervical cancer	Alzheimer's disease	Canonical Pathways	kegg - proteasome	up-down	2.17	-2.64	3.06e-05	7.66e-09	37	39
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of dvl	up-down	2.06	-2.57	2.32e-04	8.12e-09	49	51
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - dna replication pre initiation	up-down	2.69	-2.48	3.66e-09	1.16e-08	76	78
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - cross presentation of soluble exogenous antigens endosomes	up-down	1.9	-2.63	4.81e-03	1.37e-08	41	43
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - post translational protein modification	up-down	1.55	-1.65	1.86e-08	2.07e-08	1190	1021
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - apc c mediated degradation of cell cycle proteins	up-down	2.24	-2.49	1.24e-06	2.21e-08	75	73
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - scf skp2 mediated degradation of p27 p21	up-down	2.03	-2.51	1.84e-04	2.48e-08	53	57
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular response to hypoxia	up-down	1.92	-2.48	8.81e-04	5.04e-08	67	67
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - organelle biogenesis and maintenance	up-down	1.87	-2.1	1.30e-06	7.19e-08	251	222
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of mrna stability by proteins that bind au rich elements	up-down	2.16	-2.39	2.87e-06	7.19e-08	76	76
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - stabilization of p53	up-down	2.11	-2.49	6.72e-05	7.39e-08	50	51
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - asymmetric localization of pcp proteins	up-down	1.7	-2.47	1.76e-02	7.92e-08	56	56
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - g2 m checkpoints	up-down	2.78	-2.22	3.66e-09	9.31e-08	137	137
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - dectin 1 mediated noncanonical nf kb signaling	up-down	1.77	-2.46	9.71e-03	1.18e-07	55	57
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of runx3 expression and activity	up-down	2.18	-2.45	3.06e-05	1.96e-07	48	51
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - abc transporter disorders	up-down	1.63	-2.36	3.19e-02	4.00e-07	64	64
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - s phase	up-down	2.79	-2.2	3.66e-09	5.17e-07	150	140
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - cyclin a cdk2 associated events at s phase entry	up-down	2.22	-2.31	6.85e-07	5.78e-07	77	77
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - downstream signaling events of b cell receptor bcr	up-down	1.79	-2.32	6.43e-03	1.56e-06	72	73
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - m phase	up-down	2.8	-1.84	3.66e-09	1.80e-06	331	316
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle	up-down	2.99	-1.7	3.66e-09	1.81e-06	564	534
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - uch proteinases	up-down	2.23	-2.25	2.53e-07	1.99e-06	78	76
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - g1 s dna damage checkpoints	up-down	2.3	-2.31	1.23e-06	2.00e-06	60	61
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - processing of capped intron containing pre mrna	up-down	2.85	-2.01	3.66e-09	2.11e-06	205	188
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - transcription coupled nucleotide excision repair tc ner	up-down	2.17	-2.3	1.77e-06	2.86e-06	69	69
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - nucleotide excision repair	up-down	2.33	-2.23	4.34e-09	3.27e-06	99	95
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of tc ner pre incision complex	up-down	1.78	-2.36	9.50e-03	4.15e-06	47	47
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - fceri mediated nf kb activation	up-down	1.63	-2.27	2.13e-02	6.88e-06	71	71
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv life cycle	up-down	2.4	-2.1	3.66e-09	7.24e-06	128	126
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - mapk6 mapk4 signaling	up-down	1.7	-2.2	1.08e-02	8.14e-06	80	79
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - trna aminoacylation	up-down	1.79	-2.38	6.40e-03	1.01e-05	38	32
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle mitotic	up-down	2.97	-1.7	3.66e-09	1.21e-05	466	444
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by notch4	up-down	1.79	-2.21	2.43e-03	2.28e-05	73	74
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular responses to external stimuli	up-down	1.63	-1.65	9.85e-06	3.11e-05	492	475
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of beta catenin by the destruction complex	up-down	1.75	-2.11	4.03e-03	4.67e-05	73	76
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - pten regulation	up-down	1.87	-2.05	1.21e-04	4.83e-05	124	118
+Cervical cancer	Alzheimer's disease	Canonical Pathways	kegg - aminoacyl trna biosynthesis	up-down	1.71	-2.3	2.10e-02	5.35e-05	37	28
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - mitochondrial biogenesis	up-down	1.54	-2.13	3.82e-02	6.12e-05	81	75
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic g1 phase and g1 s transition	up-down	2.81	-1.93	3.66e-09	6.43e-05	136	138
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna splicing	up-down	2.73	-1.91	3.66e-09	8.89e-05	164	147
+Cervical cancer	Alzheimer's disease	Canonical Pathways	kegg - ubiquitin mediated proteolysis	up-down	1.97	-2.01	2.98e-05	1.08e-04	121	110
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - global genome nucleotide excision repair gg ner	up-down	2.23	-2.11	2.81e-07	1.23e-04	79	74
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - infectious disease	up-down	1.58	-1.54	2.08e-05	2.58e-04	595	582
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - ub specific processing proteases	up-down	1.89	-1.85	5.77e-05	2.58e-04	155	160
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - deubiquitination	up-down	1.96	-1.76	3.43e-07	3.66e-04	220	217
+Cervical cancer	Alzheimer's disease	Canonical Pathways	kegg - rna degradation	up-down	2.32	-2.1	5.43e-07	4.38e-04	56	47
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - trna processing	up-down	2.35	-1.95	3.66e-09	4.38e-04	96	84
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - antigen processing cross presentation	up-down	1.91	-1.97	4.94e-04	4.68e-04	77	82
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - cilium assembly	up-down	1.84	-1.8	6.16e-05	6.01e-04	170	147
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - dual incision in tc ner	up-down	2.18	-2.03	3.57e-05	6.07e-04	58	56
+Cervical cancer	Alzheimer's disease	Canonical Pathways	kegg - spliceosome	up-down	2.67	-1.88	3.66e-09	8.97e-04	108	97
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of incision complex in gg ner	up-down	2.03	-2.03	3.65e-04	9.27e-04	40	39
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - viral messenger rna synthesis	up-down	2.34	-2.03	1.33e-06	1.19e-03	36	38
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - tnfr2 non canonical nf kb pathway	up-down	1.64	-1.91	1.71e-02	1.21e-03	90	88
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - clec7a dectin 1 signaling	up-down	1.63	-1.9	2.52e-02	1.25e-03	86	89
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - rrna modification in the nucleus and cytosol	up-down	1.6	-2.01	4.83e-02	1.44e-03	53	47
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by the b cell receptor bcr	up-down	1.51	-1.84	3.22e-02	1.56e-03	96	99
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic spindle checkpoint	up-down	2.79	-1.83	3.66e-09	1.78e-03	94	86
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - dna repair	up-down	2.74	-1.64	3.66e-09	1.89e-03	270	254
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - adaptive immune system	up-down	1.58	-1.47	1.26e-05	1.90e-03	643	567
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna splicing minor pathway	up-down	2.17	-2.04	3.71e-05	2.09e-03	48	43
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - snrnp assembly	up-down	2.51	-1.95	1.03e-08	2.35e-03	46	44
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - disorders of transmembrane transporters	up-down	1.72	-1.71	1.70e-03	3.42e-03	149	147
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - transcriptional regulation by tp53	up-down	2.4	-1.57	3.66e-09	4.27e-03	318	291
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - folding of actin by cct tric	up-down	1.82	-1.98	7.17e-03	4.50e-03	8	9
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - transcriptional regulation by runx2	up-down	1.51	-1.76	3.27e-02	4.78e-03	108	108
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular response to heat stress	up-down	2.16	-1.81	2.78e-06	5.49e-03	86	83
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of hsf1 mediated heat shock response	up-down	2.29	-1.82	5.14e-07	5.66e-03	67	67
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - antiviral mechanism by ifn stimulated genes	up-down	2.39	-1.81	4.60e-09	6.21e-03	70	70
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - copi dependent golgi to er retrograde traffic	up-down	1.59	-1.8	3.58e-02	6.27e-03	80	75
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - trna processing in the nucleus	up-down	2.41	-1.88	1.35e-07	6.43e-03	51	46
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of plk1 activity at g2 m transition	up-down	2.2	-1.82	5.43e-07	6.43e-03	78	74
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - dna damage recognition in gg ner	up-down	1.7	-1.88	2.45e-02	7.19e-03	37	34
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - translesion synthesis by polk	up-down	1.76	-1.89	2.55e-02	7.56e-03	17	15
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - ns1 mediated effects on host pathways	up-down	2.45	-1.88	3.53e-08	7.78e-03	33	34
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - glucose metabolism	up-down	2.16	-1.72	2.78e-06	8.48e-03	83	82
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - protein folding	up-down	1.65	-1.76	1.44e-02	8.75e-03	81	76
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna capping	up-down	1.85	-1.93	8.87e-03	9.80e-03	25	27
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of the early elongation complex	up-down	1.97	-1.9	1.92e-03	1.04e-02	27	28
+Cervical cancer	Alzheimer's disease	Canonical Pathways	kegg - purine metabolism	up-down	1.51	-1.67	2.89e-02	1.06e-02	142	130
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - rho gtpases activate formins	up-down	2.59	-1.69	3.66e-09	1.21e-02	114	109
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - translesion synthesis by polh	up-down	1.89	-1.89	8.57e-03	1.24e-02	19	18
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - ksrp khsrp binds and destabilizes mrna	up-down	1.91	-1.83	6.39e-03	1.38e-02	17	15
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - transcription of the hiv genome	up-down	2.23	-1.75	1.32e-05	1.41e-02	58	62
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - aurka activation by tpx2	up-down	2.4	-1.67	3.69e-08	1.65e-02	65	61
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - glycolysis	up-down	2.33	-1.67	2.96e-07	1.65e-02	64	63
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv transcription initiation	up-down	2.02	-1.78	3.90e-04	1.66e-02	40	42
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - deadenylation dependent mrna decay	up-down	1.84	-1.83	5.31e-03	1.70e-02	54	43
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - recruitment of mitotic centrosome proteins and complexes	up-down	2.26	-1.74	4.61e-07	1.85e-02	68	65
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - c type lectin receptors clrs	up-down	1.44	-1.62	3.95e-02	1.88e-02	120	116
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - apc cdc20 mediated degradation of nek2a	up-down	1.9	-1.83	4.25e-03	1.90e-02	23	18
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of rna pol ii elongation complex	up-down	1.97	-1.71	8.97e-04	1.97e-02	49	50
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - runx1 regulates transcription of genes involved in differentiation of hscs	up-down	1.96	-1.68	1.47e-04	1.98e-02	91	94
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - recruitment of numa to mitotic centrosomes	up-down	2.13	-1.69	4.97e-06	2.03e-02	76	74
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv transcription elongation	up-down	2.1	-1.73	2.94e-04	2.03e-02	36	38
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - interactions of vpr with host cellular proteins	up-down	2.37	-1.8	5.43e-07	2.05e-02	31	31
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - transport of mature transcript to cytoplasm	up-down	2.63	-1.62	3.66e-09	2.26e-02	65	61
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - dna damage bypass	up-down	2.2	-1.69	2.95e-05	2.28e-02	44	40
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic prometaphase	up-down	2.87	-1.52	3.66e-09	2.43e-02	167	160
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - resolution of sister chromatid cohesion	up-down	2.73	-1.58	3.66e-09	2.50e-02	102	99
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - transport of the slbp dependant mature mrna	up-down	2.37	-1.76	6.43e-07	2.60e-02	30	30
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - protein ubiquitination	up-down	1.88	-1.64	8.88e-04	2.61e-02	71	58
+Cervical cancer	Alzheimer's disease	Canonical Pathways	kegg - nucleotide excision repair	up-down	2.25	-1.67	1.80e-05	2.63e-02	41	40
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - resolution of ap sites via the multiple nucleotide patch replacement pathway	up-down	2.34	-1.73	3.31e-06	2.78e-02	23	22
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - nuclear envelope ne reassembly	up-down	2.22	-1.65	4.50e-06	2.93e-02	57	54
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - rna polymerase iii transcription initiation from type 3 promoter	up-down	1.71	-1.72	2.63e-02	2.93e-02	23	22
+Cervical cancer	Alzheimer's disease	Canonical Pathways	biocarta - sm pathway	up-down	1.95	-1.76	4.37e-03	3.00e-02	13	13
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - processing and activation of sumo	up-down	1.85	-1.67	4.73e-03	3.36e-02	8	7
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - interactions of rev with host cellular proteins	up-down	2.34	-1.72	1.39e-06	3.65e-02	30	30
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - tcr signaling	up-down	1.91	-1.61	1.18e-04	3.97e-02	102	105
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - dual incision in gg ner	up-down	2.18	-1.68	3.24e-05	4.11e-02	39	37
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - recognition of dna damage by pcna containing replication complex	up-down	1.99	-1.74	8.28e-04	4.23e-02	29	28
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - anchoring of the basal body to the plasma membrane	up-down	2.19	-1.54	1.28e-06	4.27e-02	85	78
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - programmed cell death	up-down	1.91	-1.47	2.95e-05	4.27e-02	164	161
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - inhibition of the proteolytic activity of apc c required for the onset of anaphase by mitotic spindle checkpoint components	up-down	2.01	-1.71	2.65e-03	4.28e-02	18	13
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - abortive elongation of hiv 1 transcript in the absence of tat	up-down	1.86	-1.74	1.70e-02	4.32e-02	18	19
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - perk regulates gene expression	up-down	1.94	-1.69	2.31e-03	4.52e-02	30	30
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna decay by 5 to 3 exoribonuclease	up-down	1.76	-1.74	3.94e-02	4.56e-02	15	12
+Cervical cancer	Alzheimer's disease	Canonical Pathways	reactome - pcna dependent long patch base excision repair	up-down	2.28	-1.7	1.22e-05	4.80e-02	20	20

@@ -1,0 +1,754 @@
+disease.1	disease.2	category	pathway	overlap	nes.1	nes.2	fdr.1	fdr.2	genes.1	ngenes.2
+Liver cancer	Alzheimer's disease	HallMark	inflammatory response	down-up	-1.87	2.12	8.76e-06	4.46e-08	192	192
+Liver cancer	Alzheimer's disease	HallMark	allograft rejection	down-up	-1.84	2.09	2.38e-05	7.03e-08	174	186
+Liver cancer	Alzheimer's disease	HallMark	il6 jak stat3 signaling	down-up	-1.67	2.19	1.43e-03	4.69e-06	78	85
+Liver cancer	Alzheimer's disease	HallMark	coagulation	down-up	-2.05	2.01	3.04e-06	9.30e-06	122	130
+Liver cancer	Alzheimer's disease	HallMark	myogenesis	down-up	-1.41	1.85	2.24e-02	1.64e-05	177	194
+Liver cancer	Alzheimer's disease	HallMark	tnfa signaling via nfkb	down-up	-1.41	1.74	2.44e-02	1.21e-04	178	190
+Liver cancer	Alzheimer's disease	HallMark	il2 stat5 signaling	down-up	-1.29	1.7	5.00e-02	2.69e-04	164	173
+Liver cancer	Alzheimer's disease	HallMark	hypoxia	down-up	-1.29	1.61	5.00e-02	3.75e-04	179	193
+Liver cancer	Alzheimer's disease	HallMark	kras signaling dn	down-up	-1.89	1.67	3.04e-06	3.75e-04	176	190
+Liver cancer	Alzheimer's disease	HallMark	interferon gamma response	down-up	-1.53	1.54	4.44e-03	3.51e-03	156	170
+Liver cancer	Alzheimer's disease	HallMark	complement	down-up	-1.56	1.45	2.73e-03	1.01e-02	160	179
+Liver cancer	Alzheimer's disease	HallMark	kras signaling up	down-up	-1.52	1.43	3.69e-03	1.10e-02	175	190
+Liver cancer	Alzheimer's disease	HallMark	estrogen response early	down-up	-1.61	1.32	1.35e-03	2.86e-02	178	186
+Liver cancer	Alzheimer's disease	HallMark	myc targets v1	up-down	3.06	-2.54	1.00e-09	2.50e-09	169	182
+Liver cancer	Alzheimer's disease	HallMark	mtorc1 signaling	up-down	1.88	-2.19	9.99e-06	6.78e-09	174	191
+Liver cancer	Alzheimer's disease	HallMark	protein secretion	up-down	1.89	-2.31	3.50e-04	4.14e-08	81	91
+Liver cancer	Alzheimer's disease	HallMark	dna repair	up-down	2.21	-2.01	2.89e-08	9.30e-06	123	128
+Liver cancer	Alzheimer's disease	HallMark	unfolded protein response	up-down	2.21	-1.99	5.02e-08	2.28e-05	99	105
+Liver cancer	Alzheimer's disease	HallMark	myc targets v2	up-down	2.02	-1.57	1.69e-04	1.99e-02	50	52
+Liver cancer	Alzheimer's disease	Gene Ontology	adaptive immune response	down-up	-2.14	2.36	6.69e-09	5.63e-09	291	320
+Liver cancer	Alzheimer's disease	Gene Ontology	alpha beta t cell activation	down-up	-1.82	2.49	2.55e-03	5.63e-09	98	106
+Liver cancer	Alzheimer's disease	Gene Ontology	biological adhesion	down-up	-1.6	1.92	6.69e-09	5.63e-09	997	1084
+Liver cancer	Alzheimer's disease	Gene Ontology	blood vessel morphogenesis	down-up	-1.37	2.36	3.49e-03	5.63e-09	481	510
+Liver cancer	Alzheimer's disease	Gene Ontology	cardiovascular system development	down-up	-1.34	2.32	9.27e-03	5.63e-09	569	601
+Liver cancer	Alzheimer's disease	Gene Ontology	cell activation	down-up	-1.24	1.77	2.16e-03	5.63e-09	1008	1094
+Liver cancer	Alzheimer's disease	Gene Ontology	cell cell adhesion	down-up	-1.46	1.87	1.49e-04	5.63e-09	577	633
+Liver cancer	Alzheimer's disease	Gene Ontology	cell motility	down-up	-1.35	1.77	3.38e-05	5.63e-09	1170	1245
+Liver cancer	Alzheimer's disease	Gene Ontology	cell surface	down-up	-1.92	2.11	6.69e-09	5.63e-09	610	667
+Liver cancer	Alzheimer's disease	Gene Ontology	circulatory system development	down-up	-1.25	2.15	7.02e-03	5.63e-09	835	883
+Liver cancer	Alzheimer's disease	Gene Ontology	collagen containing extracellular matrix	down-up	-2.12	2.59	6.69e-09	5.63e-09	306	327
+Liver cancer	Alzheimer's disease	Gene Ontology	cytokine production	down-up	-1.31	2.04	1.12e-02	5.63e-09	564	607
+Liver cancer	Alzheimer's disease	Gene Ontology	defense response	down-up	-1.55	1.66	6.69e-09	5.63e-09	1116	1216
+Liver cancer	Alzheimer's disease	Gene Ontology	external side of plasma membrane	down-up	-2.15	2.31	8.76e-09	5.63e-09	238	258
+Liver cancer	Alzheimer's disease	Gene Ontology	extracellular matrix	down-up	-2.09	2.67	6.69e-09	5.63e-09	386	412
+Liver cancer	Alzheimer's disease	Gene Ontology	extracellular matrix structural constituent	down-up	-2	2.49	5.83e-05	5.63e-09	131	133
+Liver cancer	Alzheimer's disease	Gene Ontology	extracellular structure organization	down-up	-1.33	2.51	4.43e-02	5.63e-09	292	310
+Liver cancer	Alzheimer's disease	Gene Ontology	immune receptor activity	down-up	-2.58	2.8	6.69e-09	5.63e-09	92	104
+Liver cancer	Alzheimer's disease	Gene Ontology	inflammatory response	down-up	-1.84	2.04	6.69e-09	5.63e-09	527	567
+Liver cancer	Alzheimer's disease	Gene Ontology	intrinsic component of plasma membrane	down-up	-2.3	1.56	6.69e-09	5.63e-09	1202	1295
+Liver cancer	Alzheimer's disease	Gene Ontology	leukocyte cell cell adhesion	down-up	-1.64	2.21	2.46e-04	5.63e-09	255	281
+Liver cancer	Alzheimer's disease	Gene Ontology	leukocyte differentiation	down-up	-1.27	2.14	4.97e-02	5.63e-09	393	416
+Liver cancer	Alzheimer's disease	Gene Ontology	leukocyte migration	down-up	-1.52	2.09	8.72e-04	5.63e-09	344	373
+Liver cancer	Alzheimer's disease	Gene Ontology	leukocyte proliferation	down-up	-1.69	2.21	5.95e-04	5.63e-09	221	246
+Liver cancer	Alzheimer's disease	Gene Ontology	locomotion	down-up	-1.35	1.65	1.59e-05	5.63e-09	1322	1407
+Liver cancer	Alzheimer's disease	Gene Ontology	lymphocyte activation	down-up	-1.34	2.09	9.34e-03	5.63e-09	488	529
+Liver cancer	Alzheimer's disease	Gene Ontology	lymphocyte differentiation	down-up	-1.43	2.24	7.25e-03	5.63e-09	264	283
+Liver cancer	Alzheimer's disease	Gene Ontology	molecular transducer activity	down-up	-2.55	2.28	6.69e-09	5.63e-09	793	853
+Liver cancer	Alzheimer's disease	Gene Ontology	negative regulation of developmental process	down-up	-1.27	1.78	6.72e-03	5.63e-09	705	741
+Liver cancer	Alzheimer's disease	Gene Ontology	negative regulation of immune system process	down-up	-1.31	2.04	3.23e-02	5.63e-09	323	357
+Liver cancer	Alzheimer's disease	Gene Ontology	negative regulation of multicellular organismal process	down-up	-1.52	1.8	8.04e-08	5.63e-09	916	967
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of developmental process	down-up	-1.19	1.66	1.13e-02	5.63e-09	1028	1092
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of immune system process	down-up	-1.43	1.71	6.72e-05	5.63e-09	772	843
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of multicellular organismal process	down-up	-1.39	1.51	1.43e-06	5.63e-09	1319	1412
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of vasculature development	down-up	-1.59	2.44	8.10e-03	5.63e-09	153	158
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of cell activation	down-up	-1.53	2.11	2.41e-04	5.63e-09	391	432
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of cell adhesion	down-up	-1.35	1.83	3.01e-03	5.63e-09	517	563
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of cell population proliferation	down-up	-1.21	1.89	8.39e-03	5.63e-09	1211	1310
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of immune system process	down-up	-1.32	1.83	1.42e-04	5.63e-09	1082	1185
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte proliferation	down-up	-1.71	2.38	1.41e-03	5.63e-09	164	183
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of lymphocyte activation	down-up	-1.39	2.09	1.31e-02	5.63e-09	306	337
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of vasculature development	down-up	-1.59	2.18	5.06e-04	5.63e-09	266	274
+Liver cancer	Alzheimer's disease	Gene Ontology	response to bacterium	down-up	-1.74	2.17	6.80e-07	5.63e-09	430	459
+Liver cancer	Alzheimer's disease	Gene Ontology	response to biotic stimulus	down-up	-1.33	1.63	2.01e-04	5.63e-09	998	1089
+Liver cancer	Alzheimer's disease	Gene Ontology	response to lipid	down-up	-1.53	1.72	1.96e-06	5.63e-09	735	784
+Liver cancer	Alzheimer's disease	Gene Ontology	response to molecule of bacterial origin	down-up	-1.8	2.11	1.36e-05	5.63e-09	272	289
+Liver cancer	Alzheimer's disease	Gene Ontology	response to wounding	down-up	-1.56	1.93	1.66e-05	5.63e-09	511	557
+Liver cancer	Alzheimer's disease	Gene Ontology	tube development	down-up	-1.35	2.35	1.36e-03	5.63e-09	805	858
+Liver cancer	Alzheimer's disease	Gene Ontology	tube morphogenesis	down-up	-1.29	2.34	9.67e-03	5.63e-09	656	694
+Liver cancer	Alzheimer's disease	Gene Ontology	t cell activation	down-up	-1.37	2.18	1.62e-02	5.63e-09	340	373
+Liver cancer	Alzheimer's disease	Gene Ontology	wound healing	down-up	-1.44	2.02	2.21e-03	5.63e-09	421	461
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell adhesion	down-up	-1.48	2	2.69e-03	8.21e-09	306	333
+Liver cancer	Alzheimer's disease	Gene Ontology	cytokine receptor activity	down-up	-2.56	2.6	3.19e-08	1.33e-08	78	84
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of cell cell adhesion	down-up	-1.64	1.96	7.44e-05	2.37e-08	304	332
+Liver cancer	Alzheimer's disease	Gene Ontology	defense response to other organism	down-up	-1.23	1.62	2.74e-02	2.75e-08	731	805
+Liver cancer	Alzheimer's disease	Gene Ontology	humoral immune response	down-up	-2.29	2.19	9.64e-09	4.22e-08	165	194
+Liver cancer	Alzheimer's disease	Gene Ontology	cytokine binding	down-up	-1.85	2.4	1.98e-03	5.18e-08	100	111
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of immune response	down-up	-1.43	1.62	1.64e-04	6.55e-08	698	775
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell activation	down-up	-1.53	2.06	4.62e-03	7.28e-08	235	263
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of immune effector process	down-up	-1.82	1.98	3.15e-06	7.72e-08	286	314
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of t cell activation	down-up	-1.49	2.07	1.03e-02	9.03e-08	230	256
+Liver cancer	Alzheimer's disease	Gene Ontology	t cell proliferation	down-up	-1.7	2.21	3.22e-03	1.66e-07	139	154
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of intracellular signal transduction	down-up	-1.25	1.6	8.49e-03	1.67e-07	742	794
+Liver cancer	Alzheimer's disease	Gene Ontology	receptor complex	down-up	-2.07	1.93	6.69e-09	1.67e-07	301	323
+Liver cancer	Alzheimer's disease	Gene Ontology	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	down-up	-1.96	2.02	6.85e-06	3.03e-07	192	206
+Liver cancer	Alzheimer's disease	Gene Ontology	cytokine activity	down-up	-1.77	2.14	1.04e-03	6.02e-07	148	162
+Liver cancer	Alzheimer's disease	Gene Ontology	g protein coupled receptor activity	down-up	-2.45	1.86	6.69e-09	7.50e-07	323	345
+Liver cancer	Alzheimer's disease	Gene Ontology	side of membrane	down-up	-1.67	1.8	6.13e-06	7.99e-07	376	407
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of leukocyte cell cell adhesion	down-up	-1.54	2.08	1.41e-02	9.19e-07	165	183
+Liver cancer	Alzheimer's disease	Gene Ontology	defense response to bacterium	down-up	-1.45	2.11	3.50e-02	1.51e-06	144	157
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of receptor signaling pathway via stat	down-up	-1.82	2.33	4.42e-03	1.52e-06	72	75
+Liver cancer	Alzheimer's disease	Gene Ontology	negative regulation of lymphocyte activation	down-up	-1.56	2.23	3.03e-02	1.62e-06	103	120
+Liver cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell activation	down-up	-1.74	2.13	2.82e-03	1.69e-06	140	159
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of cellular component movement	down-up	-1.22	1.54	3.32e-02	2.19e-06	754	803
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell cell adhesion	down-up	-1.67	1.96	8.72e-04	2.54e-06	198	217
+Liver cancer	Alzheimer's disease	Gene Ontology	cytokine receptor binding	down-up	-1.47	1.9	1.04e-02	4.02e-06	196	219
+Liver cancer	Alzheimer's disease	Gene Ontology	receptor regulator activity	down-up	-1.43	1.73	3.72e-03	4.43e-06	339	364
+Liver cancer	Alzheimer's disease	Gene Ontology	signaling receptor binding	down-up	-1.23	1.4	3.95e-03	5.03e-06	1096	1185
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of phosphatidylinositol 3 kinase signaling	down-up	-1.69	2.31	1.83e-02	6.06e-06	76	80
+Liver cancer	Alzheimer's disease	Gene Ontology	collagen trimer	down-up	-1.91	2.39	3.85e-03	7.14e-06	54	55
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of tyrosine phosphorylation of stat protein	down-up	-1.89	2.38	3.59e-03	8.06e-06	52	55
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of mapk cascade	down-up	-1.4	1.65	3.53e-03	1.08e-05	398	437
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of body fluid levels	down-up	-1.56	1.66	1.34e-04	1.46e-05	385	419
+Liver cancer	Alzheimer's disease	Gene Ontology	cytokine secretion	down-up	-1.46	1.94	4.14e-02	1.82e-05	156	175
+Liver cancer	Alzheimer's disease	Gene Ontology	immune effector process	down-up	-1.34	1.43	4.59e-04	2.07e-05	842	924
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of leukocyte proliferation	down-up	-1.75	2.12	5.76e-03	2.09e-05	100	109
+Liver cancer	Alzheimer's disease	Gene Ontology	golgi lumen	down-up	-1.76	2.2	8.29e-03	2.28e-05	72	76
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of immune response	down-up	-1.33	1.54	1.08e-02	2.32e-05	555	609
+Liver cancer	Alzheimer's disease	Gene Ontology	cell chemotaxis	down-up	-1.53	1.81	6.28e-03	2.70e-05	224	246
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of phagocytosis	down-up	-1.65	2.18	2.70e-02	2.99e-05	72	79
+Liver cancer	Alzheimer's disease	Gene Ontology	multicellular organismal homeostasis	down-up	-1.41	1.65	4.44e-03	3.17e-05	362	388
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte mediated immunity	down-up	-1.95	1.91	7.41e-05	3.95e-05	149	161
+Liver cancer	Alzheimer's disease	Gene Ontology	negative regulation of leukocyte cell cell adhesion	down-up	-1.57	2.11	4.74e-02	4.28e-05	85	99
+Liver cancer	Alzheimer's disease	Gene Ontology	granulocyte migration	down-up	-1.56	2.01	2.84e-02	4.55e-05	108	119
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of t cell proliferation	down-up	-1.96	2.13	9.53e-04	4.59e-05	69	75
+Liver cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell cell adhesion	down-up	-1.63	1.96	1.61e-02	4.82e-05	123	140
+Liver cancer	Alzheimer's disease	Gene Ontology	coagulation	down-up	-1.48	1.72	6.92e-03	5.27e-05	258	285
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of response to external stimulus	down-up	-1.23	1.45	1.74e-02	5.45e-05	782	845
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of inflammatory response	down-up	-1.58	1.77	1.54e-03	8.09e-05	239	256
+Liver cancer	Alzheimer's disease	Gene Ontology	erk1 and erk2 cascade	down-up	-1.66	1.76	1.16e-03	8.79e-05	226	245
+Liver cancer	Alzheimer's disease	Gene Ontology	lymphocyte mediated immunity	down-up	-2.09	1.81	6.84e-07	9.19e-05	183	200
+Liver cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell population proliferation	down-up	-1.25	1.49	2.57e-02	9.24e-05	542	580
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of sterol transport	down-up	-2.08	2.34	2.46e-03	1.02e-04	31	34
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of alpha beta t cell activation	down-up	-1.75	2.11	1.72e-02	1.24e-04	64	71
+Liver cancer	Alzheimer's disease	Gene Ontology	cellular defense response	down-up	-1.68	2.25	4.41e-02	1.27e-04	41	45
+Liver cancer	Alzheimer's disease	Gene Ontology	scavenger receptor activity	down-up	-2.02	2.32	3.20e-03	1.30e-04	33	36
+Liver cancer	Alzheimer's disease	Gene Ontology	b cell proliferation	down-up	-1.55	2.07	4.54e-02	1.32e-04	67	75
+Liver cancer	Alzheimer's disease	Gene Ontology	complement activation	down-up	-3.07	2.18	6.69e-09	1.43e-04	54	60
+Liver cancer	Alzheimer's disease	Gene Ontology	sensory perception of light stimulus	down-up	-1.66	1.87	5.07e-03	1.55e-04	149	156
+Liver cancer	Alzheimer's disease	Gene Ontology	taxis	down-up	-1.47	1.5	6.70e-04	1.96e-04	478	516
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of humoral immune response	down-up	-2.52	2.14	4.73e-07	2.24e-04	53	60
+Liver cancer	Alzheimer's disease	Gene Ontology	phagocytosis	down-up	-1.42	1.72	2.79e-02	2.79e-04	195	214
+Liver cancer	Alzheimer's disease	Gene Ontology	peptide receptor activity	down-up	-2.29	1.96	1.18e-06	2.86e-04	117	122
+Liver cancer	Alzheimer's disease	Gene Ontology	tyrosine phosphorylation of stat protein	down-up	-1.64	2	3.58e-02	3.22e-04	63	66
+Liver cancer	Alzheimer's disease	Gene Ontology	cytolysis	down-up	-2.17	2.27	1.42e-03	3.27e-04	30	33
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of wound healing	down-up	-1.67	1.89	9.41e-03	3.70e-04	117	124
+Liver cancer	Alzheimer's disease	Gene Ontology	myeloid leukocyte migration	down-up	-1.52	1.75	1.53e-02	3.93e-04	160	175
+Liver cancer	Alzheimer's disease	Gene Ontology	cornification	down-up	-1.66	2.05	1.68e-02	4.56e-04	57	73
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of adaptive immune response	down-up	-1.74	1.88	1.81e-03	4.85e-04	120	129
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of cell killing	down-up	-2.03	1.96	7.36e-04	4.95e-04	66	75
+Liver cancer	Alzheimer's disease	Gene Ontology	cell killing	down-up	-1.93	1.85	5.65e-04	5.23e-04	108	125
+Liver cancer	Alzheimer's disease	Gene Ontology	b cell receptor signaling pathway	down-up	-2.25	2.12	2.80e-04	5.33e-04	42	43
+Liver cancer	Alzheimer's disease	Gene Ontology	blood microparticle	down-up	-2.61	1.98	8.88e-09	6.32e-04	78	85
+Liver cancer	Alzheimer's disease	Gene Ontology	cardiac chamber morphogenesis	down-up	-1.55	1.88	3.58e-02	6.67e-04	107	114
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of lymphocyte mediated immunity	down-up	-1.98	1.83	1.91e-04	6.72e-04	106	115
+Liver cancer	Alzheimer's disease	Gene Ontology	cd4 positive alpha beta t cell activation	down-up	-1.77	1.96	5.57e-03	6.77e-04	65	70
+Liver cancer	Alzheimer's disease	Gene Ontology	endoplasmic reticulum lumen	down-up	-1.46	1.63	9.09e-03	6.82e-04	240	246
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of peptidyl tyrosine phosphorylation	down-up	-1.53	1.79	2.27e-02	6.97e-04	149	159
+Liver cancer	Alzheimer's disease	Gene Ontology	activation of immune response	down-up	-1.35	1.49	1.33e-02	6.97e-04	436	475
+Liver cancer	Alzheimer's disease	Gene Ontology	t cell selection	down-up	-1.78	2.14	2.86e-02	7.13e-04	39	41
+Liver cancer	Alzheimer's disease	Gene Ontology	muscle system process	down-up	-1.41	1.54	6.62e-03	7.21e-04	346	374
+Liver cancer	Alzheimer's disease	Gene Ontology	interferon gamma production	down-up	-1.82	1.9	4.58e-03	7.57e-04	81	87
+Liver cancer	Alzheimer's disease	Gene Ontology	peptidyl tyrosine modification	down-up	-1.53	1.64	2.70e-03	7.98e-04	281	308
+Liver cancer	Alzheimer's disease	Gene Ontology	b cell mediated immunity	down-up	-1.98	1.92	3.44e-04	9.14e-04	88	97
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of erk1 and erk2 cascade	down-up	-1.75	1.75	1.73e-03	9.19e-04	154	168
+Liver cancer	Alzheimer's disease	Gene Ontology	sterol transport	down-up	-2.17	1.97	6.78e-05	9.22e-04	57	65
+Liver cancer	Alzheimer's disease	Gene Ontology	complement activation alternative pathway	down-up	-2.25	2.16	2.63e-04	9.72e-04	12	14
+Liver cancer	Alzheimer's disease	Gene Ontology	circulatory system process	down-up	-1.73	1.47	5.06e-07	9.98e-04	434	462
+Liver cancer	Alzheimer's disease	Gene Ontology	positive t cell selection	down-up	-1.76	2.23	3.22e-02	1.02e-03	27	29
+Liver cancer	Alzheimer's disease	Gene Ontology	endocrine process	down-up	-1.58	1.89	4.49e-02	1.17e-03	71	75
+Liver cancer	Alzheimer's disease	Gene Ontology	olfactory receptor activity	down-up	-2.44	2.14	1.56e-05	1.23e-03	32	36
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of antigen receptor mediated signaling pathway	down-up	-1.66	2.06	3.92e-02	1.29e-03	43	49
+Liver cancer	Alzheimer's disease	Gene Ontology	sensory perception	down-up	-1.94	1.47	6.69e-09	1.34e-03	406	429
+Liver cancer	Alzheimer's disease	Gene Ontology	leukocyte chemotaxis	down-up	-1.5	1.63	1.90e-02	1.63e-03	169	185
+Liver cancer	Alzheimer's disease	Gene Ontology	sensory perception of chemical stimulus	down-up	-2.21	1.88	9.78e-06	1.63e-03	84	93
+Liver cancer	Alzheimer's disease	Gene Ontology	cd4 positive alpha beta t cell differentiation	down-up	-1.61	2.01	3.37e-02	1.82e-03	55	58
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of mapk cascade	down-up	-1.36	1.4	2.74e-03	1.88e-03	547	594
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte mediated cytotoxicity	down-up	-2.01	1.97	1.01e-03	1.92e-03	52	57
+Liver cancer	Alzheimer's disease	Gene Ontology	inositol lipid mediated signaling	down-up	-1.54	1.69	1.67e-02	1.98e-03	151	162
+Liver cancer	Alzheimer's disease	Gene Ontology	immunoglobulin binding	down-up	-1.95	2.16	1.07e-02	2.14e-03	16	19
+Liver cancer	Alzheimer's disease	Gene Ontology	excretion	down-up	-1.9	1.95	3.63e-03	2.30e-03	55	55
+Liver cancer	Alzheimer's disease	Gene Ontology	protein kinase b signaling	down-up	-1.5	1.66	1.78e-02	2.33e-03	193	212
+Liver cancer	Alzheimer's disease	Gene Ontology	lipid homeostasis	down-up	-2.13	1.83	3.04e-05	2.34e-03	94	102
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of immune effector process	down-up	-1.53	1.63	2.05e-02	2.35e-03	158	175
+Liver cancer	Alzheimer's disease	Gene Ontology	lipid binding	down-up	-1.52	1.39	1.66e-04	2.35e-03	501	530
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of coagulation	down-up	-1.86	1.82	3.27e-03	2.35e-03	70	74
+Liver cancer	Alzheimer's disease	Gene Ontology	response to steroid hormone	down-up	-1.28	1.52	4.27e-02	2.36e-03	314	335
+Liver cancer	Alzheimer's disease	Gene Ontology	negative regulation of leukocyte mediated immunity	down-up	-2.12	2.07	1.48e-03	2.41e-03	32	40
+Liver cancer	Alzheimer's disease	Gene Ontology	muscle contraction	down-up	-1.34	1.55	3.39e-02	2.42e-03	275	299
+Liver cancer	Alzheimer's disease	Gene Ontology	carreceptor activity	down-up	-2.11	1.96	1.89e-04	2.44e-03	57	60
+Liver cancer	Alzheimer's disease	Gene Ontology	humoral immune response mediated by circulating immunoglobulin	down-up	-2.69	2.03	8.69e-08	2.53e-03	37	41
+Liver cancer	Alzheimer's disease	Gene Ontology	g protein coupled chemoattractant receptor activity	down-up	-1.8	2.12	3.48e-02	2.56e-03	22	24
+Liver cancer	Alzheimer's disease	Gene Ontology	fat soluble vitamin metabolic process	down-up	-1.74	2.07	2.96e-02	2.59e-03	35	40
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of systemic arterial blood pressure	down-up	-1.83	1.85	3.25e-03	2.85e-03	80	85
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of lipid localization	down-up	-1.61	1.76	1.51e-02	2.95e-03	105	112
+Liver cancer	Alzheimer's disease	Gene Ontology	aminoglycan catabolic process	down-up	-1.75	1.92	1.30e-02	2.96e-03	52	55
+Liver cancer	Alzheimer's disease	Gene Ontology	protein tyrosine kinase activity	down-up	-1.73	1.74	4.56e-03	3.10e-03	105	121
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of phosphatidylinositol 3 kinase signaling	down-up	-1.53	1.76	4.41e-02	3.38e-03	100	109
+Liver cancer	Alzheimer's disease	Gene Ontology	steroid hormone receptor activity	down-up	-1.69	1.95	2.83e-02	3.47e-03	48	52
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell killing	down-up	-1.69	1.95	2.35e-02	3.53e-03	50	52
+Liver cancer	Alzheimer's disease	Gene Ontology	hydrolase activity acting on acid phosphorus nitrogen bonds	down-up	-2.28	1.76	9.53e-07	3.53e-03	114	130
+Liver cancer	Alzheimer's disease	Gene Ontology	lipid localization	down-up	-1.84	1.51	4.76e-06	3.56e-03	274	295
+Liver cancer	Alzheimer's disease	Gene Ontology	leukocyte mediated immunity	down-up	-1.38	1.33	1.38e-03	3.74e-03	565	622
+Liver cancer	Alzheimer's disease	Gene Ontology	apical plasma membrane	down-up	-1.55	1.55	4.35e-03	3.99e-03	242	256
+Liver cancer	Alzheimer's disease	Gene Ontology	macrophage activation	down-up	-1.76	1.82	1.59e-02	4.41e-03	64	72
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of cholesterol efflux	down-up	-1.74	2.02	4.74e-02	4.52e-03	15	14
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of peptidyl tyrosine phosphorylation	down-up	-1.35	1.55	4.74e-02	4.57e-03	195	209
+Liver cancer	Alzheimer's disease	Gene Ontology	sodium ion homeostasis	down-up	-1.69	1.93	2.88e-02	4.66e-03	45	49
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of inflammatory response	down-up	-1.65	1.71	1.93e-02	4.73e-03	102	112
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of sterol transport	down-up	-1.94	2.1	1.74e-02	4.78e-03	19	20
+Liver cancer	Alzheimer's disease	Gene Ontology	negative regulation of lymphocyte mediated immunity	down-up	-1.83	2	2.82e-02	5.06e-03	23	31
+Liver cancer	Alzheimer's disease	Gene Ontology	plasma membrane signaling receptor complex	down-up	-1.71	1.61	2.29e-03	5.64e-03	148	150
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of lipid transport	down-up	-1.66	1.74	1.75e-02	6.10e-03	83	89
+Liver cancer	Alzheimer's disease	Gene Ontology	antigen binding	down-up	-2.06	1.92	2.89e-03	6.47e-03	31	38
+Liver cancer	Alzheimer's disease	Gene Ontology	fluid transport	down-up	-1.69	2	4.53e-02	6.55e-03	20	22
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of cytosolic calcium ion concentration	down-up	-1.71	1.49	4.13e-05	6.56e-03	289	304
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of cd4 positive alpha beta t cell activation	down-up	-1.71	1.93	3.80e-02	6.73e-03	41	46
+Liver cancer	Alzheimer's disease	Gene Ontology	t cell mediated immunity	down-up	-1.8	1.69	4.28e-03	7.07e-03	80	87
+Liver cancer	Alzheimer's disease	Gene Ontology	g protein coupled receptor signaling pathway	down-up	-2.1	1.3	6.69e-09	7.10e-03	692	726
+Liver cancer	Alzheimer's disease	Gene Ontology	transmembrane receptor protein kinase activity	down-up	-1.96	1.77	1.95e-03	7.24e-03	64	72
+Liver cancer	Alzheimer's disease	Gene Ontology	ligand activated transcription factor activity	down-up	-1.71	1.87	3.82e-02	7.64e-03	41	45
+Liver cancer	Alzheimer's disease	Gene Ontology	interleukin 2 production	down-up	-1.86	1.83	7.67e-03	7.69e-03	49	56
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of b cell receptor signaling pathway	down-up	-1.76	1.94	4.20e-02	7.79e-03	15	16
+Liver cancer	Alzheimer's disease	Gene Ontology	leukocyte mediated cytotoxicity	down-up	-1.74	1.75	1.22e-02	7.90e-03	74	82
+Liver cancer	Alzheimer's disease	Gene Ontology	negative regulation of coagulation	down-up	-1.9	1.91	4.90e-03	8.29e-03	45	48
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of cytokine production involved in immune response	down-up	-1.68	1.71	2.85e-02	8.54e-03	68	75
+Liver cancer	Alzheimer's disease	Gene Ontology	sterol homeostasis	down-up	-1.98	1.74	1.64e-03	9.08e-03	60	65
+Liver cancer	Alzheimer's disease	Gene Ontology	cholesterol efflux	down-up	-1.88	1.89	1.29e-02	9.70e-03	32	33
+Liver cancer	Alzheimer's disease	Gene Ontology	interleukin 2 biosynthetic process	down-up	-1.96	2	1.02e-02	9.73e-03	18	20
+Liver cancer	Alzheimer's disease	Gene Ontology	response to endogenous stimulus	down-up	-1.18	1.22	1.44e-02	9.95e-03	1267	1363
+Liver cancer	Alzheimer's disease	Gene Ontology	cytokine production involved in immune response	down-up	-1.65	1.7	1.41e-02	1.00e-02	86	93
+Liver cancer	Alzheimer's disease	Gene Ontology	c c chemokine binding	down-up	-2.1	1.94	3.85e-03	1.03e-02	21	23
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of lipid localization	down-up	-1.65	1.72	3.07e-02	1.05e-02	61	67
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of cholesterol efflux	down-up	-1.8	1.99	4.68e-02	1.10e-02	19	19
+Liver cancer	Alzheimer's disease	Gene Ontology	phosphatidylinositol 3 kinase signaling	down-up	-1.59	1.66	2.21e-02	1.12e-02	121	130
+Liver cancer	Alzheimer's disease	Gene Ontology	intestinal absorption	down-up	-1.94	1.93	8.98e-03	1.13e-02	28	32
+Liver cancer	Alzheimer's disease	Gene Ontology	fibrinolysis	down-up	-2.07	1.9	3.84e-03	1.30e-02	24	25
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of leukocyte mediated cytotoxicity	down-up	-1.67	1.84	4.74e-02	1.37e-02	39	41
+Liver cancer	Alzheimer's disease	Gene Ontology	response to mechanical stimulus	down-up	-1.45	1.55	2.84e-02	1.45e-02	173	180
+Liver cancer	Alzheimer's disease	Gene Ontology	adaptive thermogenesis	down-up	-1.61	1.54	1.47e-02	1.47e-02	131	137
+Liver cancer	Alzheimer's disease	Gene Ontology	metal ion homeostasis	down-up	-1.71	1.3	2.69e-07	1.57e-02	506	538
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of response to wounding	down-up	-1.57	1.54	1.81e-02	1.70e-02	136	146
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of t cell mediated immunity	down-up	-1.7	1.72	1.17e-02	1.87e-02	57	62
+Liver cancer	Alzheimer's disease	Gene Ontology	acylglycerol homeostasis	down-up	-2.28	1.86	4.41e-04	1.96e-02	22	23
+Liver cancer	Alzheimer's disease	Gene Ontology	detection of stimulus involved in sensory perception	down-up	-2.03	1.64	2.57e-04	1.97e-02	91	101
+Liver cancer	Alzheimer's disease	Gene Ontology	response to protozoan	down-up	-1.83	1.89	2.16e-02	1.97e-02	17	18
+Liver cancer	Alzheimer's disease	Gene Ontology	apical part of cell	down-up	-1.51	1.41	2.59e-03	2.11e-02	291	311
+Liver cancer	Alzheimer's disease	Gene Ontology	response to corticosteroid	down-up	-1.8	1.49	1.18e-03	2.16e-02	136	143
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of cold induced thermogenesis	down-up	-1.59	1.56	3.33e-02	2.33e-02	81	87
+Liver cancer	Alzheimer's disease	Gene Ontology	response to organic cyclic compound	down-up	-1.24	1.24	1.37e-02	2.35e-02	756	811
+Liver cancer	Alzheimer's disease	Gene Ontology	response to oxygen containing compound	down-up	-1.41	1.2	5.56e-07	2.38e-02	1286	1376
+Liver cancer	Alzheimer's disease	Gene Ontology	chylomicron	down-up	-1.8	1.85	3.20e-02	2.40e-02	10	11
+Liver cancer	Alzheimer's disease	Gene Ontology	heparin binding	down-up	-1.69	1.51	5.74e-03	2.49e-02	126	132
+Liver cancer	Alzheimer's disease	Gene Ontology	neuroinflammatory response	down-up	-1.85	1.67	6.86e-03	2.55e-02	50	56
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of wound healing	down-up	-1.87	1.72	6.30e-03	2.61e-02	48	50
+Liver cancer	Alzheimer's disease	Gene Ontology	sensory perception of smell	down-up	-2.34	1.68	2.52e-05	2.61e-02	48	52
+Liver cancer	Alzheimer's disease	Gene Ontology	glycosaminoglycan binding	down-up	-1.85	1.5	1.07e-04	2.61e-02	169	180
+Liver cancer	Alzheimer's disease	Gene Ontology	transmembrane receptor protein tyrosine kinase activity	down-up	-1.87	1.67	7.35e-03	2.65e-02	49	57
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of blood pressure	down-up	-1.97	1.45	5.07e-05	2.65e-02	154	161
+Liver cancer	Alzheimer's disease	Gene Ontology	negative regulation of wound healing	down-up	-1.84	1.58	6.05e-03	2.81e-02	62	65
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of peptide secretion	down-up	-1.33	1.31	1.89e-02	2.81e-02	362	391
+Liver cancer	Alzheimer's disease	Gene Ontology	glial cell activation	down-up	-1.74	1.68	3.58e-02	3.12e-02	39	45
+Liver cancer	Alzheimer's disease	Gene Ontology	steroid binding	down-up	-1.99	1.57	6.28e-04	3.16e-02	74	79
+Liver cancer	Alzheimer's disease	Gene Ontology	negative regulation of response to external stimulus	down-up	-1.44	1.36	1.32e-02	3.19e-02	272	287
+Liver cancer	Alzheimer's disease	Gene Ontology	phospholipid efflux	down-up	-2.23	1.79	2.00e-04	3.24e-02	9	10
+Liver cancer	Alzheimer's disease	Gene Ontology	plasma membrane protein complex	down-up	-1.62	1.29	2.56e-05	3.33e-02	420	441
+Liver cancer	Alzheimer's disease	Gene Ontology	phosphatidylcholine sterol o acyltransferase activator activity	down-up	-1.78	1.73	1.25e-02	3.56e-02	4	5
+Liver cancer	Alzheimer's disease	Gene Ontology	terpenoid metabolic process	down-up	-1.95	1.54	1.42e-03	3.70e-02	71	89
+Liver cancer	Alzheimer's disease	Gene Ontology	negative regulation of adaptive immune response	down-up	-1.73	1.72	4.68e-02	3.79e-02	31	38
+Liver cancer	Alzheimer's disease	Gene Ontology	negative regulation of ossification	down-up	-1.76	1.67	1.04e-02	3.83e-02	60	59
+Liver cancer	Alzheimer's disease	Gene Ontology	response to retinoic acid	down-up	-1.67	1.56	1.50e-02	4.04e-02	89	97
+Liver cancer	Alzheimer's disease	Gene Ontology	intestinal lipid absorption	down-up	-1.86	1.78	2.69e-02	4.05e-02	12	15
+Liver cancer	Alzheimer's disease	Gene Ontology	response to fungus	down-up	-1.73	1.67	3.40e-02	4.36e-02	32	35
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of leukocyte mediated immunity	down-up	-1.61	1.5	2.45e-02	4.64e-02	100	106
+Liver cancer	Alzheimer's disease	Gene Ontology	negative regulation of cellular response to growth factor stimulus	down-up	-1.86	1.48	1.88e-03	4.72e-02	100	108
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of production of molecular mediator of immune response	down-up	-1.52	1.56	4.31e-02	4.74e-02	107	118
+Liver cancer	Alzheimer's disease	Gene Ontology	sterol binding	down-up	-1.96	1.68	3.92e-03	4.79e-02	43	46
+Liver cancer	Alzheimer's disease	Gene Ontology	organic hydroxy compound transmembrane transporter activity	down-up	-2.19	1.71	1.14e-03	4.88e-02	30	32
+Liver cancer	Alzheimer's disease	Gene Ontology	chemokine activity	down-up	-1.72	1.64	3.49e-02	4.91e-02	32	36
+Liver cancer	Alzheimer's disease	Gene Ontology	amide biosynthetic process	up-down	1.89	-2.19	6.69e-09	5.63e-09	517	566
+Liver cancer	Alzheimer's disease	Gene Ontology	anaphase promoting complex dependent catabolic process	up-down	2.56	-2.58	6.69e-09	5.63e-09	62	67
+Liver cancer	Alzheimer's disease	Gene Ontology	catalytic activity acting on rna	up-down	2.46	-2.15	6.69e-09	5.63e-09	244	257
+Liver cancer	Alzheimer's disease	Gene Ontology	catalytic complex	up-down	2.31	-2.04	6.69e-09	5.63e-09	932	990
+Liver cancer	Alzheimer's disease	Gene Ontology	cellular amide metabolic process	up-down	1.57	-1.91	3.52e-05	5.63e-09	704	770
+Liver cancer	Alzheimer's disease	Gene Ontology	cellular macromolecule catabolic process	up-down	2	-1.75	6.69e-09	5.63e-09	750	816
+Liver cancer	Alzheimer's disease	Gene Ontology	cellular macromolecule localization	up-down	1.62	-1.71	6.69e-09	5.63e-09	1305	1416
+Liver cancer	Alzheimer's disease	Gene Ontology	cellular protein catabolic process	up-down	1.82	-1.96	1.70e-07	5.63e-09	495	531
+Liver cancer	Alzheimer's disease	Gene Ontology	cellular protein containing complex assembly	up-down	2.17	-2.06	6.69e-09	5.63e-09	683	747
+Liver cancer	Alzheimer's disease	Gene Ontology	envelope	up-down	1.47	-2.48	6.37e-04	5.63e-09	771	826
+Liver cancer	Alzheimer's disease	Gene Ontology	golgi vesicle transport	up-down	1.48	-2.16	2.50e-02	5.63e-09	250	277
+Liver cancer	Alzheimer's disease	Gene Ontology	hydrolase activity acting on acid anhydrides	up-down	1.89	-1.84	6.69e-09	5.63e-09	558	613
+Liver cancer	Alzheimer's disease	Gene Ontology	intracellular protein transport	up-down	1.76	-1.94	6.69e-09	5.63e-09	761	833
+Liver cancer	Alzheimer's disease	Gene Ontology	intracellular transport	up-down	1.72	-2.01	6.69e-09	5.63e-09	1153	1265
+Liver cancer	Alzheimer's disease	Gene Ontology	macroautophagy	up-down	1.75	-2.21	3.70e-04	5.63e-09	198	209
+Liver cancer	Alzheimer's disease	Gene Ontology	mitochondrial gene expression	up-down	2.25	-2.89	1.41e-06	5.63e-09	101	109
+Liver cancer	Alzheimer's disease	Gene Ontology	mitochondrial protein complex	up-down	1.71	-3.42	1.81e-03	5.63e-09	159	168
+Liver cancer	Alzheimer's disease	Gene Ontology	mitochondrial translation	up-down	2.25	-2.91	4.47e-06	5.63e-09	86	92
+Liver cancer	Alzheimer's disease	Gene Ontology	mitochondrial translational termination	up-down	2	-2.71	1.85e-03	5.63e-09	55	58
+Liver cancer	Alzheimer's disease	Gene Ontology	modification dependent macromolecule catabolic process	up-down	2	-2.14	6.69e-09	5.63e-09	398	426
+Liver cancer	Alzheimer's disease	Gene Ontology	ncrna metabolic process	up-down	2.68	-2.18	6.69e-09	5.63e-09	293	313
+Liver cancer	Alzheimer's disease	Gene Ontology	ncrna processing	up-down	2.66	-2.13	6.69e-09	5.63e-09	245	264
+Liver cancer	Alzheimer's disease	Gene Ontology	organellar ribosome	up-down	2.05	-2.77	1.07e-03	5.63e-09	53	56
+Liver cancer	Alzheimer's disease	Gene Ontology	organonitrogen compound biosynthetic process	up-down	1.25	-1.72	3.09e-02	5.63e-09	1181	1277
+Liver cancer	Alzheimer's disease	Gene Ontology	peptidase complex	up-down	2.35	-2.57	6.30e-07	5.63e-09	67	71
+Liver cancer	Alzheimer's disease	Gene Ontology	peptide biosynthetic process	up-down	2.2	-2.15	6.69e-09	5.63e-09	421	461
+Liver cancer	Alzheimer's disease	Gene Ontology	peptide metabolic process	up-down	2.01	-1.95	6.69e-09	5.63e-09	528	576
+Liver cancer	Alzheimer's disease	Gene Ontology	proteasomal protein catabolic process	up-down	2.03	-2.08	6.69e-09	5.63e-09	318	338
+Liver cancer	Alzheimer's disease	Gene Ontology	protein containing complex assembly	up-down	1.67	-1.67	6.69e-09	5.63e-09	1234	1324
+Liver cancer	Alzheimer's disease	Gene Ontology	protein modification by small protein conjugation	up-down	2.12	-2.04	6.69e-09	5.63e-09	567	616
+Liver cancer	Alzheimer's disease	Gene Ontology	protein modification by small protein conjugation or removal	up-down	2.18	-2.03	6.69e-09	5.63e-09	692	748
+Liver cancer	Alzheimer's disease	Gene Ontology	proton transporting two sector atpase complex	up-down	1.83	-2.79	7.50e-03	5.63e-09	33	36
+Liver cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex	up-down	2.67	-2.11	6.69e-09	5.63e-09	441	480
+Liver cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex biogenesis	up-down	2.84	-2.33	6.69e-09	5.63e-09	287	315
+Liver cancer	Alzheimer's disease	Gene Ontology	ribosome biogenesis	up-down	2.65	-2.23	6.69e-09	5.63e-09	191	211
+Liver cancer	Alzheimer's disease	Gene Ontology	rna binding	up-down	2.47	-1.84	6.69e-09	5.63e-09	1093	1178
+Liver cancer	Alzheimer's disease	Gene Ontology	rna processing	up-down	2.58	-1.83	6.69e-09	5.63e-09	606	653
+Liver cancer	Alzheimer's disease	Gene Ontology	scf dependent proteasomal ubiquitin dependent protein catabolic process	up-down	2.27	-2.56	5.06e-06	5.63e-09	67	69
+Liver cancer	Alzheimer's disease	Gene Ontology	translational elongation	up-down	2.12	-2.73	3.52e-05	5.63e-09	83	90
+Liver cancer	Alzheimer's disease	Gene Ontology	translational termination	up-down	1.97	-2.76	9.21e-04	5.63e-09	68	72
+Liver cancer	Alzheimer's disease	Gene Ontology	trna metabolic process	up-down	2.55	-2.47	6.69e-09	5.63e-09	117	126
+Liver cancer	Alzheimer's disease	Gene Ontology	endopeptidase complex	up-down	2.43	-2.61	3.59e-07	5.80e-09	52	55
+Liver cancer	Alzheimer's disease	Gene Ontology	ribosome	up-down	2.37	-2.33	6.69e-09	7.59e-09	126	149
+Liver cancer	Alzheimer's disease	Gene Ontology	cellular protein complex disassembly	up-down	1.86	-2.27	2.27e-04	9.23e-09	147	160
+Liver cancer	Alzheimer's disease	Gene Ontology	ribosomal subunit	up-down	2.31	-2.35	1.63e-07	1.83e-08	98	121
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of cell cycle g2 m phase transition	up-down	2.4	-2.18	6.69e-09	3.66e-08	162	173
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of cellular amino acid metabolic process	up-down	2.08	-2.56	2.43e-04	6.99e-08	52	52
+Liver cancer	Alzheimer's disease	Gene Ontology	catalytic activity acting on a trna	up-down	2.39	-2.42	1.08e-07	8.71e-08	77	83
+Liver cancer	Alzheimer's disease	Gene Ontology	protein catabolic process	up-down	1.72	-1.72	5.30e-07	9.09e-08	599	648
+Liver cancer	Alzheimer's disease	Gene Ontology	ribonucleotide binding	up-down	1.44	-1.54	5.67e-05	1.28e-07	1274	1386
+Liver cancer	Alzheimer's disease	Gene Ontology	nucleolus	up-down	2.3	-1.72	6.69e-09	1.33e-07	618	667
+Liver cancer	Alzheimer's disease	Gene Ontology	cell cycle g2 m phase transition	up-down	2.46	-2.07	6.69e-09	1.64e-07	206	218
+Liver cancer	Alzheimer's disease	Gene Ontology	protein polyubiquitination	up-down	1.88	-2.06	3.02e-05	1.83e-07	205	219
+Liver cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell cycle g2 m phase transition	up-down	2.36	-2.33	3.16e-07	3.09e-07	80	84
+Liver cancer	Alzheimer's disease	Gene Ontology	protein modification by small protein removal	up-down	2.19	-2.03	6.69e-09	4.07e-07	202	218
+Liver cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein transferase activity	up-down	1.8	-1.98	8.00e-05	4.55e-07	243	257
+Liver cancer	Alzheimer's disease	Gene Ontology	protein localization to organelle	up-down	1.78	-1.65	6.69e-09	5.09e-07	655	715
+Liver cancer	Alzheimer's disease	Gene Ontology	establishment of protein localization to organelle	up-down	1.73	-1.8	2.61e-05	5.78e-07	389	434
+Liver cancer	Alzheimer's disease	Gene Ontology	transferase complex	up-down	2.29	-1.71	6.69e-09	9.44e-07	539	565
+Liver cancer	Alzheimer's disease	Gene Ontology	mitochondrial large ribosomal subunit	up-down	1.73	-2.46	2.78e-02	1.25e-06	34	35
+Liver cancer	Alzheimer's disease	Gene Ontology	posttranscriptional regulation of gene expression	up-down	2.2	-1.81	6.69e-09	1.32e-06	413	445
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of cellular amine metabolic process	up-down	1.78	-2.36	9.52e-03	1.50e-06	67	70
+Liver cancer	Alzheimer's disease	Gene Ontology	structural constituent of ribosome	up-down	2.22	-2.22	2.90e-06	1.75e-06	85	105
+Liver cancer	Alzheimer's disease	Gene Ontology	organelle localization	up-down	1.74	-1.73	2.39e-06	2.02e-06	436	479
+Liver cancer	Alzheimer's disease	Gene Ontology	protein containing complex disassembly	up-down	1.91	-1.96	6.22e-06	2.06e-06	219	238
+Liver cancer	Alzheimer's disease	Gene Ontology	rrna metabolic process	up-down	2.58	-2.1	6.69e-09	2.09e-06	148	158
+Liver cancer	Alzheimer's disease	Gene Ontology	amino acid activation	up-down	2.09	-2.44	5.91e-04	2.63e-06	32	36
+Liver cancer	Alzheimer's disease	Gene Ontology	transcription coupled nucleotide excision repair	up-down	2.22	-2.29	2.03e-05	2.80e-06	57	65
+Liver cancer	Alzheimer's disease	Gene Ontology	mrna metabolic process	up-down	2.5	-1.67	6.69e-09	2.87e-06	563	614
+Liver cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex subunit organization	up-down	2.57	-2.07	6.69e-09	5.07e-06	136	151
+Liver cancer	Alzheimer's disease	Gene Ontology	protein folding	up-down	1.63	-2.04	1.18e-02	5.43e-06	144	157
+Liver cancer	Alzheimer's disease	Gene Ontology	large ribosomal subunit	up-down	2.13	-2.25	1.58e-04	6.16e-06	63	73
+Liver cancer	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton	up-down	2.05	-1.56	6.69e-09	7.96e-06	783	836
+Liver cancer	Alzheimer's disease	Gene Ontology	microtubule	up-down	2.01	-1.84	1.23e-07	8.19e-06	260	284
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of transcription from rna polymerase ii promoter in response to hypoxia	up-down	2	-2.27	8.06e-04	8.83e-06	64	70
+Liver cancer	Alzheimer's disease	Gene Ontology	adenyl nucleotide binding	up-down	1.44	-1.48	5.08e-04	1.24e-05	1060	1147
+Liver cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation of peptide antigen	up-down	1.99	-2	3.72e-05	1.42e-05	132	154
+Liver cancer	Alzheimer's disease	Gene Ontology	macromolecule catabolic process	up-down	1.78	-1.5	6.69e-09	1.71e-05	917	998
+Liver cancer	Alzheimer's disease	Gene Ontology	mitochondrial small ribosomal subunit	up-down	1.9	-2.35	1.46e-02	2.08e-05	19	21
+Liver cancer	Alzheimer's disease	Gene Ontology	microtubule based process	up-down	1.97	-1.66	6.69e-09	2.64e-05	475	513
+Liver cancer	Alzheimer's disease	Gene Ontology	proteasome accessory complex	up-down	2.25	-2.35	4.01e-05	2.73e-05	23	23
+Liver cancer	Alzheimer's disease	Gene Ontology	trna processing	up-down	2.37	-2.11	1.33e-07	3.53e-05	83	89
+Liver cancer	Alzheimer's disease	Gene Ontology	ligase activity forming carbon oxygen bonds	up-down	2.01	-2.32	2.94e-03	4.02e-05	26	30
+Liver cancer	Alzheimer's disease	Gene Ontology	process utilizing autophagic mechanism	up-down	1.53	-1.73	4.57e-03	4.59e-05	339	362
+Liver cancer	Alzheimer's disease	Gene Ontology	ubiquitin ligase complex	up-down	1.92	-1.88	1.42e-05	4.82e-05	177	184
+Liver cancer	Alzheimer's disease	Gene Ontology	rna splicing via transesterification reactions	up-down	2.5	-1.79	6.69e-09	4.97e-05	249	261
+Liver cancer	Alzheimer's disease	Gene Ontology	membrane coat	up-down	1.79	-2.14	1.24e-02	5.22e-05	57	67
+Liver cancer	Alzheimer's disease	Gene Ontology	rna catabolic process	up-down	2.35	-1.74	6.69e-09	6.04e-05	261	294
+Liver cancer	Alzheimer's disease	Gene Ontology	endosomal transport	up-down	1.81	-1.9	6.78e-04	7.23e-05	147	154
+Liver cancer	Alzheimer's disease	Gene Ontology	protein containing complex localization	up-down	2.01	-1.8	5.33e-07	8.83e-05	199	214
+Liver cancer	Alzheimer's disease	Gene Ontology	protein localization to membrane	up-down	1.33	-1.64	4.43e-02	9.15e-05	419	456
+Liver cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex binding	up-down	2.13	-2.02	3.97e-05	9.86e-05	90	97
+Liver cancer	Alzheimer's disease	Gene Ontology	nucleotide excision repair	up-down	2.12	-2.06	4.86e-05	1.14e-04	86	94
+Liver cancer	Alzheimer's disease	Gene Ontology	rna localization	up-down	2.38	-1.83	6.69e-09	1.67e-04	161	176
+Liver cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation of exogenous peptide antigen via mhc class i	up-down	1.97	-2.14	1.74e-03	1.76e-04	58	61
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of mrna catabolic process	up-down	2.02	-1.88	1.27e-05	1.99e-04	142	156
+Liver cancer	Alzheimer's disease	Gene Ontology	organelle subcompartment	up-down	1.54	-1.74	8.25e-03	2.05e-04	230	259
+Liver cancer	Alzheimer's disease	Gene Ontology	cellular component disassembly	up-down	1.7	-1.64	4.54e-05	2.39e-04	387	414
+Liver cancer	Alzheimer's disease	Gene Ontology	nuclear envelope	up-down	1.96	-1.66	6.65e-08	2.51e-04	329	357
+Liver cancer	Alzheimer's disease	Gene Ontology	establishment of protein localization to membrane	up-down	1.73	-1.78	5.95e-04	2.86e-04	202	224
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of macroautophagy	up-down	1.6	-1.92	2.45e-02	3.00e-04	123	127
+Liver cancer	Alzheimer's disease	Gene Ontology	atpase activity coupled to transmembrane movement of ions rotational mechanism	up-down	1.98	-2.14	5.16e-03	3.15e-04	15	18
+Liver cancer	Alzheimer's disease	Gene Ontology	translation factor activity rna binding	up-down	2.26	-2.1	2.48e-05	3.19e-04	59	62
+Liver cancer	Alzheimer's disease	Gene Ontology	establishment of organelle localization	up-down	1.72	-1.69	1.60e-04	3.31e-04	285	316
+Liver cancer	Alzheimer's disease	Gene Ontology	trna binding	up-down	1.9	-2.15	4.23e-03	3.88e-04	33	38
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of catabolic process	up-down	1.64	-1.49	3.92e-06	4.09e-04	695	747
+Liver cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation	up-down	1.75	-1.77	1.62e-03	4.17e-04	161	184
+Liver cancer	Alzheimer's disease	Gene Ontology	telomerase rna localization	up-down	2.12	-2.12	1.13e-03	4.42e-04	15	16
+Liver cancer	Alzheimer's disease	Gene Ontology	tubulin binding	up-down	1.62	-1.73	2.61e-03	4.80e-04	229	245
+Liver cancer	Alzheimer's disease	Gene Ontology	retrograde vesicle mediated transport golgi to endoplasmic reticulum	up-down	1.96	-1.98	2.02e-03	4.85e-04	63	71
+Liver cancer	Alzheimer's disease	Gene Ontology	atpase activity	up-down	2.07	-1.66	6.69e-09	5.30e-04	290	320
+Liver cancer	Alzheimer's disease	Gene Ontology	fc epsilon receptor signaling pathway	up-down	1.83	-1.96	2.34e-03	5.50e-04	92	102
+Liver cancer	Alzheimer's disease	Gene Ontology	proton transporting v type atpase complex	up-down	2.03	-2.13	3.04e-03	5.88e-04	16	19
+Liver cancer	Alzheimer's disease	Gene Ontology	post translational protein modification	up-down	1.59	-1.67	3.68e-03	5.94e-04	259	270
+Liver cancer	Alzheimer's disease	Gene Ontology	interleukin 1 mediated signaling pathway	up-down	1.95	-1.96	8.17e-04	5.98e-04	83	88
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of cellular catabolic process	up-down	1.53	-1.5	4.52e-04	6.11e-04	584	627
+Liver cancer	Alzheimer's disease	Gene Ontology	cytoplasmic translation	up-down	2.22	-1.99	2.47e-05	6.45e-04	63	68
+Liver cancer	Alzheimer's disease	Gene Ontology	proteasome regulatory particle base subcomplex	up-down	1.99	-2.14	4.71e-03	6.72e-04	12	12
+Liver cancer	Alzheimer's disease	Gene Ontology	gtpase activity	up-down	1.45	-1.73	3.24e-02	7.57e-04	203	222
+Liver cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein ligase binding	up-down	1.7	-1.7	3.47e-04	7.77e-04	232	255
+Liver cancer	Alzheimer's disease	Gene Ontology	spliceosomal tri snrnp complex	up-down	2.29	-2.13	2.47e-05	8.09e-04	25	27
+Liver cancer	Alzheimer's disease	Gene Ontology	trna modification	up-down	2.03	-1.96	4.72e-04	8.15e-04	56	58
+Liver cancer	Alzheimer's disease	Gene Ontology	cytoplasmic dynein complex	up-down	1.78	-2.08	3.89e-02	8.95e-04	15	16
+Liver cancer	Alzheimer's disease	Gene Ontology	microtubule based movement	up-down	1.58	-1.73	9.09e-03	9.22e-04	165	178
+Liver cancer	Alzheimer's disease	Gene Ontology	rna splicing	up-down	2.47	-1.63	6.69e-09	1.06e-03	301	320
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of telomerase rna localization to cajal body	up-down	1.95	-2.09	7.35e-03	1.14e-03	11	12
+Liver cancer	Alzheimer's disease	Gene Ontology	mrna processing	up-down	2.4	-1.6	6.69e-09	1.21e-03	339	365
+Liver cancer	Alzheimer's disease	Gene Ontology	transferrin transport	up-down	1.71	-2.07	4.68e-02	1.34e-03	27	29
+Liver cancer	Alzheimer's disease	Gene Ontology	sm like protein family complex	up-down	2.41	-1.93	1.26e-06	1.40e-03	55	58
+Liver cancer	Alzheimer's disease	Gene Ontology	translation regulator activity nucleic acid binding	up-down	2.22	-1.93	6.31e-06	1.50e-03	69	76
+Liver cancer	Alzheimer's disease	Gene Ontology	u2 type spliceosomal complex	up-down	2.43	-1.93	9.83e-08	1.70e-03	67	70
+Liver cancer	Alzheimer's disease	Gene Ontology	cell cycle phase transition	up-down	2.47	-1.49	6.69e-09	1.81e-03	451	479
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of establishment of planar polarity	up-down	1.85	-1.88	2.09e-03	2.02e-03	88	88
+Liver cancer	Alzheimer's disease	Gene Ontology	nuclear transcribed mrna catabolic process exonucleolytic	up-down	2.11	-2.03	3.61e-04	2.05e-03	29	29
+Liver cancer	Alzheimer's disease	Gene Ontology	small ribosomal subunit	up-down	2.07	-1.97	7.11e-04	2.07e-03	38	52
+Liver cancer	Alzheimer's disease	Gene Ontology	preribosome	up-down	2.15	-1.97	1.46e-04	2.33e-03	48	53
+Liver cancer	Alzheimer's disease	Gene Ontology	pyrophosphate hydrolysis driven proton transmembrane transporter activity	up-down	1.84	-2.03	1.80e-02	2.80e-03	24	27
+Liver cancer	Alzheimer's disease	Gene Ontology	microtubule polymerization or depolymerization	up-down	1.8	-1.86	4.87e-03	2.85e-03	83	90
+Liver cancer	Alzheimer's disease	Gene Ontology	kinetochore	up-down	2.6	-1.78	6.69e-09	2.90e-03	97	101
+Liver cancer	Alzheimer's disease	Gene Ontology	spliceosomal complex	up-down	2.63	-1.74	6.69e-09	3.09e-03	126	135
+Liver cancer	Alzheimer's disease	Gene Ontology	cullin ring ubiquitin ligase complex	up-down	1.96	-1.8	2.41e-04	3.10e-03	95	98
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of cell cycle phase transition	up-down	2.32	-1.54	6.69e-09	3.14e-03	331	351
+Liver cancer	Alzheimer's disease	Gene Ontology	cellular nitrogen compound catabolic process	up-down	1.78	-1.49	3.64e-06	3.20e-03	386	427
+Liver cancer	Alzheimer's disease	Gene Ontology	endomembrane system organization	up-down	1.41	-1.56	4.41e-02	3.32e-03	276	296
+Liver cancer	Alzheimer's disease	Gene Ontology	ribosomal large subunit biogenesis	up-down	2.19	-1.93	7.23e-05	3.39e-03	42	48
+Liver cancer	Alzheimer's disease	Gene Ontology	hematopoietic stem cell differentiation	up-down	1.99	-1.86	6.17e-04	3.48e-03	72	75
+Liver cancer	Alzheimer's disease	Gene Ontology	establishment of protein localization to mitochondrial membrane	up-down	1.79	-2.01	3.62e-02	3.65e-03	11	12
+Liver cancer	Alzheimer's disease	Gene Ontology	ap type membrane coat adaptor complex	up-down	1.74	-2.01	3.81e-02	3.78e-03	25	30
+Liver cancer	Alzheimer's disease	Gene Ontology	dna repair	up-down	2.62	-1.5	6.69e-09	3.85e-03	367	394
+Liver cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation of peptide antigen via mhc class i	up-down	1.82	-1.84	5.43e-03	3.95e-03	75	79
+Liver cancer	Alzheimer's disease	Gene Ontology	spliceosomal snrnp assembly	up-down	2.24	-1.96	3.63e-05	4.45e-03	32	33
+Liver cancer	Alzheimer's disease	Gene Ontology	catalytic step 2 spliceosome	up-down	2.29	-1.83	1.49e-05	4.52e-03	59	64
+Liver cancer	Alzheimer's disease	Gene Ontology	translation regulator activity	up-down	2.02	-1.76	1.40e-04	4.68e-03	92	99
+Liver cancer	Alzheimer's disease	Gene Ontology	protein localization to chromosome telomeric region	up-down	2	-1.99	4.48e-03	5.08e-03	20	25
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of mrna metabolic process	up-down	1.99	-1.59	4.67e-07	5.10e-03	229	250
+Liver cancer	Alzheimer's disease	Gene Ontology	rna export from nucleus	up-down	2.43	-1.72	8.88e-09	5.26e-03	93	101
+Liver cancer	Alzheimer's disease	Gene Ontology	nuclear export	up-down	2.26	-1.66	2.41e-08	5.27e-03	136	148
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of dna templated transcription in response to stress	up-down	1.9	-1.73	6.40e-04	5.31e-03	95	104
+Liver cancer	Alzheimer's disease	Gene Ontology	translation initiation factor activity	up-down	2.22	-1.94	5.83e-05	5.47e-03	38	39
+Liver cancer	Alzheimer's disease	Gene Ontology	establishment of rna localization	up-down	2.21	-1.69	4.58e-08	5.52e-03	137	150
+Liver cancer	Alzheimer's disease	Gene Ontology	rna polymerase ii holoenzyme	up-down	2.29	-1.81	5.76e-06	5.53e-03	60	64
+Liver cancer	Alzheimer's disease	Gene Ontology	membrane docking	up-down	1.7	-1.71	4.68e-03	6.36e-03	130	142
+Liver cancer	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton organization	up-down	1.99	-1.49	6.69e-09	6.47e-03	362	389
+Liver cancer	Alzheimer's disease	Gene Ontology	organelle assembly	up-down	1.57	-1.41	1.97e-04	6.47e-03	518	571
+Liver cancer	Alzheimer's disease	Gene Ontology	intrinsic component of endoplasmic reticulum membrane	up-down	1.62	-1.72	3.58e-02	6.68e-03	94	104
+Liver cancer	Alzheimer's disease	Gene Ontology	rna polymerase complex	up-down	2.4	-1.81	5.50e-08	7.01e-03	78	83
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of microtubule based process	up-down	1.81	-1.62	6.35e-04	7.17e-03	155	166
+Liver cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein conjugating enzyme activity	up-down	1.8	-1.91	1.83e-02	7.42e-03	28	29
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of establishment of protein localization to chromosome	up-down	1.83	-1.96	1.31e-02	7.48e-03	8	10
+Liver cancer	Alzheimer's disease	Gene Ontology	u2 type catalytic step 2 spliceosome	up-down	2.15	-1.91	3.31e-04	7.54e-03	23	24
+Liver cancer	Alzheimer's disease	Gene Ontology	antigen processing and presentation of peptide or polysaccharide antigen via mhc class ii	up-down	1.66	-1.78	3.67e-02	7.81e-03	65	82
+Liver cancer	Alzheimer's disease	Gene Ontology	protein monoubiquitination	up-down	1.77	-1.88	1.53e-02	7.81e-03	47	50
+Liver cancer	Alzheimer's disease	Gene Ontology	organic cyclic compound catabolic process	up-down	1.56	-1.43	8.75e-04	8.02e-03	423	469
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of hematopoietic progenitor cell differentiation	up-down	2.07	-1.79	1.15e-04	8.23e-03	73	75
+Liver cancer	Alzheimer's disease	Gene Ontology	small nuclear ribonucleoprotein complex	up-down	2.37	-1.86	1.41e-06	9.04e-03	48	51
+Liver cancer	Alzheimer's disease	Gene Ontology	protein localization to endoplasmic reticulum	up-down	1.99	-1.69	3.59e-04	9.42e-03	79	98
+Liver cancer	Alzheimer's disease	Gene Ontology	morphogenesis of a polarized epithelium	up-down	1.61	-1.68	2.10e-02	9.60e-03	112	113
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of protein localization to chromosome telomeric region	up-down	1.86	-1.91	8.38e-03	9.82e-03	8	11
+Liver cancer	Alzheimer's disease	Gene Ontology	fc receptor signaling pathway	up-down	1.58	-1.62	2.25e-02	1.04e-02	138	158
+Liver cancer	Alzheimer's disease	Gene Ontology	small subunit processome	up-down	1.88	-1.86	1.23e-02	1.05e-02	27	28
+Liver cancer	Alzheimer's disease	Gene Ontology	nucleobase containing compound transport	up-down	2.09	-1.58	1.83e-07	1.06e-02	165	179
+Liver cancer	Alzheimer's disease	Gene Ontology	centrosome	up-down	2.02	-1.47	6.69e-09	1.10e-02	393	417
+Liver cancer	Alzheimer's disease	Gene Ontology	multi organism localization	up-down	2.36	-1.85	3.15e-06	1.11e-02	44	50
+Liver cancer	Alzheimer's disease	Gene Ontology	precatalytic spliceosome	up-down	2.27	-1.85	2.48e-05	1.13e-02	41	42
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of cellular protein localization	up-down	1.55	-1.44	1.48e-03	1.14e-02	404	429
+Liver cancer	Alzheimer's disease	Gene Ontology	nuclear pore	up-down	2.37	-1.77	4.96e-07	1.14e-02	61	70
+Liver cancer	Alzheimer's disease	Gene Ontology	rrna binding	up-down	1.97	-1.84	3.28e-03	1.14e-02	35	44
+Liver cancer	Alzheimer's disease	Gene Ontology	cellular response to heat	up-down	1.87	-1.64	1.67e-03	1.17e-02	97	107
+Liver cancer	Alzheimer's disease	Gene Ontology	rna capping	up-down	2.02	-1.89	1.71e-03	1.19e-02	28	30
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of vesicle size	up-down	1.71	-1.86	3.75e-02	1.26e-02	7	7
+Liver cancer	Alzheimer's disease	Gene Ontology	spindle organization	up-down	2.44	-1.66	6.69e-09	1.29e-02	119	127
+Liver cancer	Alzheimer's disease	Gene Ontology	microtubule binding	up-down	1.6	-1.54	6.72e-03	1.33e-02	165	178
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of telomere maintenance via telomere lengthening	up-down	1.88	-1.88	1.33e-02	1.34e-02	24	30
+Liver cancer	Alzheimer's disease	Gene Ontology	non canonical wnt signaling pathway	up-down	1.76	-1.64	3.51e-03	1.37e-02	115	119
+Liver cancer	Alzheimer's disease	Gene Ontology	error free translesion synthesis	up-down	1.8	-1.84	3.37e-02	1.55e-02	15	19
+Liver cancer	Alzheimer's disease	Gene Ontology	methylosome	up-down	2.05	-1.88	2.16e-03	1.63e-02	11	12
+Liver cancer	Alzheimer's disease	Gene Ontology	rna dependent dna biosynthetic process	up-down	2.02	-1.73	1.25e-03	1.63e-02	49	59
+Liver cancer	Alzheimer's disease	Gene Ontology	h4 histone acetyltransferase complex	up-down	1.72	-1.79	3.73e-02	1.70e-02	30	32
+Liver cancer	Alzheimer's disease	Gene Ontology	rna polymerase activity	up-down	1.92	-1.81	5.16e-03	1.72e-02	28	29
+Liver cancer	Alzheimer's disease	Gene Ontology	small nucleolar ribonucleoprotein complex	up-down	2.15	-1.86	6.34e-04	1.73e-02	16	17
+Liver cancer	Alzheimer's disease	Gene Ontology	protein targeting to membrane	up-down	1.71	-1.64	7.35e-03	1.82e-02	110	126
+Liver cancer	Alzheimer's disease	Gene Ontology	microtubule associated complex	up-down	1.71	-1.62	7.67e-03	1.83e-02	98	104
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of cellular amide metabolic process	up-down	1.75	-1.48	1.15e-04	1.92e-02	284	300
+Liver cancer	Alzheimer's disease	Gene Ontology	rna modification	up-down	2.04	-1.61	6.85e-05	2.04e-02	102	106
+Liver cancer	Alzheimer's disease	Gene Ontology	chaperone mediated protein folding	up-down	1.84	-1.73	9.73e-03	2.05e-02	38	41
+Liver cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein binding	up-down	2.07	-1.68	1.49e-04	2.05e-02	72	76
+Liver cancer	Alzheimer's disease	Gene Ontology	nucleotide excision repair preincision complex assembly	up-down	1.84	-1.82	1.43e-02	2.19e-02	23	27
+Liver cancer	Alzheimer's disease	Gene Ontology	translation preinitiation complex	up-down	1.92	-1.78	9.84e-03	2.20e-02	16	16
+Liver cancer	Alzheimer's disease	Gene Ontology	histone mrna metabolic process	up-down	2.03	-1.83	3.26e-03	2.21e-02	15	17
+Liver cancer	Alzheimer's disease	Gene Ontology	phagosome acidification	up-down	1.88	-1.85	1.75e-02	2.38e-02	19	22
+Liver cancer	Alzheimer's disease	Gene Ontology	cytoskeleton dependent cytokinesis	up-down	1.64	-1.7	4.68e-02	2.39e-02	56	67
+Liver cancer	Alzheimer's disease	Gene Ontology	positive regulation of establishment of protein localization to telomere	up-down	1.79	-1.82	1.75e-02	2.39e-02	7	8
+Liver cancer	Alzheimer's disease	Gene Ontology	protein localization to nucleoplasm	up-down	1.79	-1.82	1.75e-02	2.39e-02	7	8
+Liver cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein specific protease activity	up-down	1.7	-1.7	2.79e-02	2.45e-02	62	66
+Liver cancer	Alzheimer's disease	Gene Ontology	escrt complex	up-down	1.81	-1.77	3.02e-02	2.57e-02	16	16
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of telomere maintenance via telomere lengthening	up-down	1.94	-1.69	3.60e-03	2.60e-02	38	46
+Liver cancer	Alzheimer's disease	Gene Ontology	mitotic cell cycle	up-down	2.51	-1.31	6.69e-09	2.61e-02	739	792
+Liver cancer	Alzheimer's disease	Gene Ontology	ribosome assembly	up-down	1.95	-1.74	2.08e-03	2.62e-02	33	42
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of proteasomal protein catabolic process	up-down	1.62	-1.56	2.23e-02	2.67e-02	126	135
+Liver cancer	Alzheimer's disease	Gene Ontology	smn sm protein complex	up-down	1.8	-1.85	3.32e-02	2.72e-02	13	13
+Liver cancer	Alzheimer's disease	Gene Ontology	spindle	up-down	2.59	-1.46	6.69e-09	2.80e-02	242	261
+Liver cancer	Alzheimer's disease	Gene Ontology	establishment of protein localization to telomere	up-down	1.95	-1.75	7.39e-03	2.82e-02	13	16
+Liver cancer	Alzheimer's disease	Gene Ontology	postreplication repair	up-down	1.91	-1.73	6.05e-03	2.85e-02	36	39
+Liver cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein ligase activity	up-down	1.56	-1.52	2.72e-02	2.92e-02	133	140
+Liver cancer	Alzheimer's disease	Gene Ontology	synaptic vesicle recycling via endosome	up-down	1.58	-1.57	2.95e-02	2.92e-02	3	3
+Liver cancer	Alzheimer's disease	Gene Ontology	dna templated transcription elongation	up-down	2.15	-1.59	1.44e-05	2.95e-02	82	89
+Liver cancer	Alzheimer's disease	Gene Ontology	response to heat	up-down	1.54	-1.52	3.41e-02	2.98e-02	129	140
+Liver cancer	Alzheimer's disease	Gene Ontology	microtubule organizing center	up-down	1.92	-1.36	6.69e-09	3.16e-02	494	520
+Liver cancer	Alzheimer's disease	Gene Ontology	translational initiation	up-down	2.5	-1.56	6.69e-09	3.21e-02	112	137
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of autophagy	up-down	1.51	-1.46	1.72e-02	3.32e-02	234	247
+Liver cancer	Alzheimer's disease	Gene Ontology	arp2 3 protein complex	up-down	1.67	-1.79	2.28e-02	3.36e-02	5	8
+Liver cancer	Alzheimer's disease	Gene Ontology	microtubule cytoskeleton organization involved in mitosis	up-down	2.29	-1.53	9.69e-08	3.45e-02	103	109
+Liver cancer	Alzheimer's disease	Gene Ontology	proteasome regulatory particle lid subcomplex	up-down	1.77	-1.78	2.07e-02	3.59e-02	7	7
+Liver cancer	Alzheimer's disease	Gene Ontology	cul4 ring e3 ubiquitin ligase complex	up-down	1.78	-1.7	2.83e-02	3.64e-02	24	24
+Liver cancer	Alzheimer's disease	Gene Ontology	nuclear exosome rnase complex	up-down	1.97	-1.77	8.73e-03	3.64e-02	14	14
+Liver cancer	Alzheimer's disease	Gene Ontology	synaptic vesicle endosomal processing	up-down	1.79	-1.69	1.90e-02	3.69e-02	6	6
+Liver cancer	Alzheimer's disease	Gene Ontology	u5 snrnp	up-down	1.98	-1.77	5.43e-03	3.73e-02	13	14
+Liver cancer	Alzheimer's disease	Gene Ontology	host cellular component	up-down	2.2	-1.63	3.93e-05	3.78e-02	52	59
+Liver cancer	Alzheimer's disease	Gene Ontology	spindle microtubule	up-down	2.16	-1.66	1.88e-04	3.82e-02	41	48
+Liver cancer	Alzheimer's disease	Gene Ontology	condensed chromosome centromeric region	up-down	2.54	-1.57	6.69e-09	3.88e-02	81	87
+Liver cancer	Alzheimer's disease	Gene Ontology	outer mitochondrial membrane protein complex	up-down	1.82	-1.77	3.43e-02	3.96e-02	9	10
+Liver cancer	Alzheimer's disease	Gene Ontology	ncrna export from nucleus	up-down	2.43	-1.7	5.46e-07	4.01e-02	29	31
+Liver cancer	Alzheimer's disease	Gene Ontology	innate immune response activating cell surface receptor signaling pathway	up-down	1.81	-1.6	4.53e-03	4.04e-02	86	90
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of proteasomal ubiquitin dependent protein catabolic process	up-down	1.55	-1.58	4.63e-02	4.05e-02	83	92
+Liver cancer	Alzheimer's disease	Gene Ontology	ciliary basal body plasma membrane docking	up-down	1.83	-1.54	6.83e-03	4.35e-02	71	77
+Liver cancer	Alzheimer's disease	Gene Ontology	regulation of translational fidelity	up-down	1.89	-1.79	1.44e-02	4.48e-02	11	13
+Liver cancer	Alzheimer's disease	Gene Ontology	microtubule depolymerization	up-down	1.7	-1.7	3.45e-02	4.49e-02	34	35
+Liver cancer	Alzheimer's disease	Gene Ontology	proton transporting v type atpase v1 domain	up-down	1.79	-1.76	1.75e-02	4.51e-02	7	7
+Liver cancer	Alzheimer's disease	Gene Ontology	response to endoplasmic reticulum stress	up-down	1.51	-1.41	3.33e-02	4.68e-02	201	215
+Liver cancer	Alzheimer's disease	Gene Ontology	dna templated transcription termination	up-down	2.37	-1.58	7.51e-07	4.82e-02	56	58
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - cytokine cytokine receptor interaction	down-up	-2.15	2.67	5.47e-09	5.07e-09	197	218
+Liver cancer	Alzheimer's disease	Canonical Pathways	naba - core matrisome	down-up	-1.97	2.28	8.15e-07	5.07e-09	190	196
+Liver cancer	Alzheimer's disease	Canonical Pathways	naba - matrisome	down-up	-1.93	2.47	3.92e-09	5.07e-09	662	733
+Liver cancer	Alzheimer's disease	Canonical Pathways	naba - matrisome associated	down-up	-1.78	2.33	6.95e-08	5.07e-09	472	537
+Liver cancer	Alzheimer's disease	Canonical Pathways	naba - secreted factors	down-up	-1.66	2.17	1.77e-04	5.07e-09	224	249
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - immunoregulatory interactions between a lymphoid and a non lymphoid cell	down-up	-2.33	2.57	1.66e-06	5.07e-09	74	91
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - interleukin 4 and interleukin 13 signaling	down-up	-1.55	2.45	1.95e-02	2.48e-08	91	100
+Liver cancer	Alzheimer's disease	Canonical Pathways	naba - ecm regulators	down-up	-1.49	2.1	1.37e-02	7.39e-08	158	185
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - hematopoietic cell lineage	down-up	-2.03	2.4	2.38e-04	2.22e-07	71	78
+Liver cancer	Alzheimer's disease	Canonical Pathways	naba - ecm glycoproteins	down-up	-2.04	2.16	1.57e-05	6.72e-07	129	135
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - class a 1 rhodopsin like receptors	down-up	-2.47	1.9	3.92e-09	8.78e-07	247	261
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - complement cascade	down-up	-3.01	2.46	3.92e-09	9.69e-07	45	50
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - complement and coagulation cascades	down-up	-2.79	2.29	3.92e-09	7.62e-06	60	64
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - cell adhesion molecules cams	down-up	-1.91	2.09	1.87e-04	9.90e-06	104	108
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of the cornified envelope	down-up	-1.65	2.17	1.83e-02	1.33e-05	56	73
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - keratinization	down-up	-1.63	2.2	2.74e-02	2.28e-05	57	75
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - gpcr ligand binding	down-up	-2.3	1.69	3.92e-09	2.32e-05	335	353
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - jak stat signaling pathway	down-up	-1.76	1.95	1.27e-03	1.13e-04	113	131
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - intestinal immune network for iga production	down-up	-1.83	2.31	7.75e-03	1.42e-04	34	35
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - peptide ligand binding receptors	down-up	-2.5	1.76	3.92e-09	2.99e-04	151	160
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - chemokine receptors bind chemokines	down-up	-2.11	2.06	2.22e-04	3.21e-04	44	50
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - graft versus host disease	down-up	-1.88	2.25	1.01e-02	4.94e-04	21	23
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - autoimmune thyroid disease	down-up	-1.95	2.17	6.29e-03	5.74e-04	27	34
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - interleukin 10 signaling	down-up	-1.89	2.12	3.63e-03	5.74e-04	39	43
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - asthma	down-up	-1.85	2.17	1.27e-02	9.24e-04	23	24
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - allograft rejection	down-up	-1.94	2.24	6.94e-03	1.19e-03	24	26
+Liver cancer	Alzheimer's disease	Canonical Pathways	biocarta - dc pathway	down-up	-1.78	2.16	2.83e-02	2.21e-03	16	16
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of insulin like growth factor igf transport and uptake by insulin like growth factor binding proteins igfbps	down-up	-1.45	1.75	4.97e-02	2.72e-03	103	106
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - hemostasis	down-up	-1.24	1.38	3.49e-02	3.82e-03	469	521
+Liver cancer	Alzheimer's disease	Canonical Pathways	naba - ecm affiliated	down-up	-1.88	1.73	4.54e-04	4.78e-03	90	103
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - initial triggering of complement	down-up	-2.53	2.05	1.18e-06	5.65e-03	18	19
+Liver cancer	Alzheimer's disease	Canonical Pathways	biocarta - comp pathway	down-up	-2.41	2.04	7.58e-06	6.14e-03	15	16
+Liver cancer	Alzheimer's disease	Canonical Pathways	biocarta - ctl pathway	down-up	-1.81	2.03	2.50e-02	6.32e-03	12	12
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by gpcr	down-up	-2.03	1.31	3.92e-09	7.64e-03	617	657
+Liver cancer	Alzheimer's disease	Canonical Pathways	pid - il23 pathway	down-up	-2	1.88	1.31e-03	8.48e-03	33	35
+Liver cancer	Alzheimer's disease	Canonical Pathways	biocarta - tcra pathway	down-up	-1.87	1.95	1.30e-02	9.31e-03	9	9
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - phase i functionalization of compounds	down-up	-2.26	1.68	5.76e-06	1.03e-02	64	85
+Liver cancer	Alzheimer's disease	Canonical Pathways	biocarta - nuclearrs pathway	down-up	-1.93	1.85	6.66e-03	1.08e-02	26	32
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - common pathway of fibrin clot formation	down-up	-1.89	1.96	9.48e-03	1.10e-02	21	20
+Liver cancer	Alzheimer's disease	Canonical Pathways	biocarta - alternative pathway	down-up	-2.16	1.92	2.16e-04	1.33e-02	9	9
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of fibrin clot clotting cascade	down-up	-2.2	1.8	1.07e-04	1.46e-02	35	35
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - metallothioneins bind metals	down-up	-1.84	1.88	1.39e-02	1.77e-02	6	9
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - plasma lipoprotein remodeling	down-up	-2.12	1.9	1.73e-03	1.83e-02	24	26
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - olfactory transduction	down-up	-2.39	1.59	3.88e-06	1.98e-02	54	61
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - drug metabolism cytochrome p450	down-up	-2.29	1.67	1.01e-04	2.18e-02	28	46
+Liver cancer	Alzheimer's disease	Canonical Pathways	biocarta - ami pathway	down-up	-1.79	1.81	3.45e-02	2.28e-02	19	19
+Liver cancer	Alzheimer's disease	Canonical Pathways	naba - proteoglycans	down-up	-1.66	1.72	4.29e-02	2.40e-02	30	30
+Liver cancer	Alzheimer's disease	Canonical Pathways	biocarta - lair pathway	down-up	-1.81	1.88	2.64e-02	2.43e-02	17	17
+Liver cancer	Alzheimer's disease	Canonical Pathways	biocarta - extrinsic pathway	down-up	-1.93	1.87	8.06e-03	2.56e-02	13	12
+Liver cancer	Alzheimer's disease	Canonical Pathways	biocarta - classic pathway	down-up	-2.19	1.76	2.50e-04	3.03e-02	10	11
+Liver cancer	Alzheimer's disease	Canonical Pathways	biocarta - cytokine pathway	down-up	-1.66	1.8	4.75e-02	3.13e-02	18	18
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - chylomicron remodeling	down-up	-1.74	1.7	3.83e-02	3.80e-02	7	7
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - creation of c4 and c2 activators	down-up	-2.34	1.8	1.67e-05	4.16e-02	12	13
+Liver cancer	Alzheimer's disease	Canonical Pathways	biocarta - stem pathway	down-up	-1.79	1.75	2.71e-02	4.24e-02	14	15
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - cytochrome p450 arranged by substrate type	down-up	-2.02	1.53	1.89e-03	4.27e-02	37	50
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - anti inflammatory response favouring leishmania parasite infection	down-up	-1.55	1.42	1.78e-02	4.48e-02	125	131
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - arachidonic acid metabolism	down-up	-2.01	1.54	9.70e-04	4.71e-02	39	46
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - huntingtons disease	up-down	1.54	-2.8	1.86e-02	5.07e-09	135	139
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - oxidative phosphorylation	up-down	1.68	-3.34	1.07e-02	5.07e-09	86	91
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - antigen processing ubiquitination proteasome degradation	up-down	2.1	-2.41	1.12e-07	5.07e-09	196	213
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1	up-down	2.44	-2.64	8.75e-08	5.07e-09	55	60
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - asparagine n linked glycosylation	up-down	1.59	-2.17	3.83e-03	5.07e-09	200	237
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - assembly of the pre replicative complex	up-down	2.62	-2.6	3.92e-09	5.07e-09	58	62
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - auf1 hnrnp d0 binds and destabilizes mrna	up-down	2.4	-2.65	1.18e-06	5.07e-09	43	48
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle checkpoints	up-down	3.01	-2.16	3.92e-09	5.07e-09	215	234
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - class i mhc mediated antigen processing presentation	up-down	1.86	-2.19	6.10e-06	5.07e-09	239	261
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - defective cftr causes cystic fibrosis	up-down	2.12	-2.72	5.84e-05	5.07e-09	47	51
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of gli1 by the proteasome	up-down	2.17	-2.69	6.98e-05	5.07e-09	49	53
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - dna replication	up-down	2.73	-2.47	3.92e-09	5.07e-09	108	113
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - hedgehog ligand biogenesis	up-down	2.33	-2.66	2.89e-06	5.07e-09	48	54
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv infection	up-down	2.62	-2.45	3.92e-09	5.07e-09	179	197
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - host interactions of hiv factors	up-down	2.46	-2.51	3.92e-09	5.07e-09	103	113
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - membrane trafficking	up-down	1.62	-1.91	1.23e-04	5.07e-09	423	482
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of rna	up-down	2.84	-2.2	3.92e-09	5.07e-09	467	508
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - mitochondrial translation	up-down	2.01	-2.76	4.40e-04	5.07e-09	58	61
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic g2 g2 m phases	up-down	2.52	-2.26	3.92e-09	5.07e-09	147	163
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic metaphase and anaphase	up-down	3.04	-2.28	3.92e-09	5.07e-09	170	185
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - neddylation	up-down	2.12	-2.38	7.67e-07	5.07e-09	154	164
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - negative regulation of notch4 signaling	up-down	2.24	-2.85	8.43e-06	5.07e-09	47	50
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - orc1 removal from chromatin	up-down	2.54	-2.68	3.92e-09	5.07e-09	61	65
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of pten stability and activity	up-down	2.19	-2.58	3.14e-05	5.07e-09	57	63
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of ras by gaps	up-down	2.21	-2.85	1.33e-05	5.07e-09	52	55
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of runx2 expression and activity	up-down	2.06	-2.59	3.18e-04	5.07e-09	62	67
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - separation of sister chromatids	up-down	2.95	-2.35	3.92e-09	5.07e-09	138	152
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - switching of origins to a post replicative state	up-down	2.55	-2.7	3.92e-09	5.07e-09	73	77
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - the role of gtse1 in g2 m progression after g2 checkpoint	up-down	2.51	-2.54	1.19e-08	5.07e-09	55	66
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - translation	up-down	2.62	-2.49	3.92e-09	5.07e-09	186	212
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of polyamines	up-down	2.19	-2.6	2.11e-05	5.32e-09	51	52
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of axin	up-down	2.29	-2.6	7.56e-06	6.93e-09	45	49
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - proteasome	up-down	2.27	-2.64	2.49e-05	7.66e-09	38	39
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of dvl	up-down	2.27	-2.57	1.11e-05	8.12e-09	48	51
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - dna replication pre initiation	up-down	2.65	-2.48	3.92e-09	1.16e-08	74	78
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - cross presentation of soluble exogenous antigens endosomes	up-down	2.03	-2.63	1.28e-03	1.37e-08	42	43
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - post translational protein modification	up-down	1.73	-1.65	3.92e-09	2.07e-08	926	1021
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - vesicle mediated transport	up-down	1.48	-1.81	2.53e-03	2.13e-08	451	514
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - apc c mediated degradation of cell cycle proteins	up-down	2.59	-2.49	3.92e-09	2.21e-08	68	73
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - scf skp2 mediated degradation of p27 p21	up-down	2.34	-2.51	1.27e-06	2.48e-08	53	57
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular response to hypoxia	up-down	2.09	-2.48	1.87e-04	5.04e-08	62	67
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of expression of slits and robos	up-down	2.39	-2.24	3.92e-09	5.28e-08	109	133
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - cristae formation	up-down	1.67	-2.62	4.43e-02	5.36e-08	22	23
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - organelle biogenesis and maintenance	up-down	1.93	-2.1	1.36e-05	7.19e-08	204	222
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of mrna stability by proteins that bind au rich elements	up-down	2.37	-2.39	9.43e-08	7.19e-08	69	76
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - stabilization of p53	up-down	2.35	-2.49	2.23e-06	7.39e-08	45	51
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - asymmetric localization of pcp proteins	up-down	2.18	-2.47	2.54e-05	7.92e-08	52	56
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - g2 m checkpoints	up-down	2.73	-2.22	3.92e-09	9.31e-08	123	137
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - dectin 1 mediated noncanonical nf kb signaling	up-down	2.26	-2.46	6.84e-06	1.18e-07	52	57
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - tp53 regulates metabolic genes	up-down	1.82	-2.42	3.93e-03	1.44e-07	60	61
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of runx3 expression and activity	up-down	2.2	-2.45	1.67e-05	1.96e-07	47	51
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by robo receptors	up-down	2.2	-2.1	7.96e-08	2.95e-07	147	175
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - abc transporter disorders	up-down	1.84	-2.36	3.83e-03	4.00e-07	57	64
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - s phase	up-down	2.64	-2.2	3.92e-09	5.17e-07	133	140
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - cyclin a cdk2 associated events at s phase entry	up-down	2.29	-2.31	1.62e-06	5.78e-07	73	77
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - abc family proteins mediated transport	up-down	1.85	-2.28	4.01e-03	1.00e-06	74	84
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - downstream signaling events of b cell receptor bcr	up-down	2.31	-2.32	5.39e-07	1.56e-06	66	73
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - m phase	up-down	2.91	-1.84	3.92e-09	1.80e-06	284	316
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle	up-down	2.92	-1.7	3.92e-09	1.81e-06	486	534
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - uch proteinases	up-down	2.43	-2.25	2.04e-08	1.99e-06	69	76
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - g1 s dna damage checkpoints	up-down	2.29	-2.31	3.86e-06	2.00e-06	55	61
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - pcp ce pathway	up-down	2.16	-2.25	8.43e-06	2.11e-06	79	82
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - processing of capped intron containing pre mrna	up-down	2.8	-2.01	3.92e-09	2.11e-06	177	188
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - autophagy	up-down	1.83	-2.19	1.29e-03	2.24e-06	100	115
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - transcription coupled nucleotide excision repair tc ner	up-down	2.24	-2.3	8.43e-06	2.86e-06	60	69
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - hedgehog off state	up-down	1.89	-2.23	9.86e-04	3.10e-06	87	95
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - nucleotide excision repair	up-down	2.48	-2.23	3.92e-09	3.27e-06	84	95
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of tc ner pre incision complex	up-down	2.05	-2.36	3.24e-04	4.15e-06	41	47
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by hedgehog	up-down	1.75	-2.11	3.83e-03	5.43e-06	109	119
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - fceri mediated nf kb activation	up-down	2.12	-2.27	2.60e-05	6.88e-06	66	71
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv life cycle	up-down	2.53	-2.1	3.92e-09	7.24e-06	114	126
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - mapk6 mapk4 signaling	up-down	2.24	-2.2	2.66e-06	8.14e-06	72	79
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - trna aminoacylation	up-down	2.08	-2.38	5.75e-04	1.01e-05	28	32
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cycle mitotic	up-down	2.98	-1.7	3.92e-09	1.21e-05	406	444
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - hedgehog on state	up-down	1.93	-2.17	5.20e-04	2.28e-05	65	70
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by notch4	up-down	2.15	-2.21	1.72e-05	2.28e-05	67	74
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular responses to external stimuli	up-down	2.36	-1.65	3.92e-09	3.11e-05	412	475
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of beta catenin by the destruction complex	up-down	2.14	-2.11	2.33e-05	4.67e-05	69	76
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - copi mediated anterograde transport	up-down	1.78	-2.13	3.96e-03	4.78e-05	64	83
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - pten regulation	up-down	2.3	-2.05	2.84e-08	4.83e-05	111	118
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - golgi to er retrograde transport	up-down	2.21	-2.11	2.48e-06	5.04e-05	86	104
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - aminoacyl trna biosynthesis	up-down	2.05	-2.3	8.88e-04	5.35e-05	24	28
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - mitochondrial biogenesis	up-down	1.64	-2.13	2.53e-02	6.12e-05	70	75
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic g1 phase and g1 s transition	up-down	2.67	-1.93	3.92e-09	6.43e-05	131	138
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - mhc class ii antigen presentation	up-down	1.84	-2.03	3.57e-03	6.46e-05	76	97
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna splicing	up-down	2.69	-1.91	3.92e-09	8.89e-05	139	147
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - ubiquitin mediated proteolysis	up-down	1.98	-2.01	1.07e-04	1.08e-04	103	110
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - fc epsilon receptor fceri signaling	up-down	1.88	-1.96	3.38e-04	1.12e-04	106	119
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - global genome nucleotide excision repair gg ner	up-down	2.43	-2.11	3.01e-08	1.23e-04	66	74
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - cytosolic trna aminoacylation	up-down	1.95	-2.25	4.51e-03	1.86e-04	19	20
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - cooperation of prefoldin and tric cct in actin and tubulin folding	up-down	1.88	-2.22	9.77e-03	2.21e-04	20	26
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - infectious disease	up-down	2.02	-1.54	3.92e-09	2.58e-04	512	582
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - ub specific processing proteases	up-down	2.12	-1.85	1.48e-06	2.58e-04	142	160
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - intra golgi and retrograde golgi to er traffic	up-down	2.02	-1.82	1.53e-05	3.65e-04	134	157
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - deubiquitination	up-down	2.27	-1.76	3.92e-09	3.66e-04	200	217
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - copi independent golgi to er retrograde traffic	up-down	1.7	-2.13	1.99e-02	3.71e-04	31	41
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - rna degradation	up-down	2.02	-2.1	5.53e-04	4.38e-04	45	47
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - trna processing	up-down	2.61	-1.95	3.92e-09	4.38e-04	81	84
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - insulin receptor recycling	up-down	2.08	-2.2	1.30e-03	4.56e-04	17	20
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - antigen processing cross presentation	up-down	1.86	-1.97	3.14e-03	4.68e-04	74	82
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - cilium assembly	up-down	1.91	-1.8	1.44e-04	6.01e-04	134	147
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - dual incision in tc ner	up-down	2.12	-2.03	1.56e-04	6.07e-04	49	56
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - spliceosome	up-down	2.42	-1.88	1.65e-08	8.97e-04	91	97
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of incision complex in gg ner	up-down	2.03	-2.03	1.03e-03	9.27e-04	33	39
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - interleukin 1 signaling	up-down	1.9	-1.92	9.86e-04	9.76e-04	84	89
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - rrna processing	up-down	2.4	-1.8	3.92e-09	9.76e-04	123	146
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - viral messenger rna synthesis	up-down	2.25	-2.03	2.62e-05	1.19e-03	36	38
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - tnfr2 non canonical nf kb pathway	up-down	1.72	-1.91	8.55e-03	1.21e-03	82	88
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - clec7a dectin 1 signaling	up-down	2.14	-1.9	1.28e-05	1.25e-03	78	89
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - rrna modification in the nucleus and cytosol	up-down	1.95	-2.01	1.51e-03	1.44e-03	43	47
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by the b cell receptor bcr	up-down	1.93	-1.84	4.86e-04	1.56e-03	90	99
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - beta catenin independent wnt signaling	up-down	2.04	-1.81	1.11e-05	1.69e-03	116	124
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic spindle checkpoint	up-down	2.79	-1.83	3.92e-09	1.78e-03	81	86
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - dna repair	up-down	2.59	-1.64	3.92e-09	1.89e-03	232	254
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - adaptive immune system	up-down	1.37	-1.47	2.18e-02	1.90e-03	498	567
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna splicing minor pathway	up-down	2.15	-2.04	1.09e-04	2.09e-03	40	43
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - snrnp assembly	up-down	2.52	-1.95	8.70e-08	2.35e-03	42	44
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - disorders of transmembrane transporters	up-down	1.7	-1.71	3.60e-03	3.42e-03	132	147
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - amino acids regulate mtorc1	up-down	2.03	-1.95	1.63e-03	3.99e-03	35	36
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - transcriptional regulation by tp53	up-down	2.25	-1.57	3.92e-09	4.27e-03	267	291
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - biosynthesis of the n glycan precursor dolichol lipid - linked oligosaccharide llo and transfer to a nascent protein	up-down	1.65	-1.86	3.45e-02	4.45e-03	50	54
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - transcriptional regulation by runx2	up-down	1.72	-1.76	1.04e-02	4.78e-03	102	108
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular response to heat stress	up-down	2.16	-1.81	2.50e-05	5.49e-03	73	83
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - endosomal sorting complex required for transport escrt	up-down	1.92	-1.98	3.20e-03	5.50e-03	18	21
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of hsf1 mediated heat shock response	up-down	2.32	-1.82	1.17e-06	5.66e-03	61	67
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - budding and maturation of hiv virion	up-down	1.75	-2	2.64e-02	5.99e-03	16	20
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - antiviral mechanism by ifn stimulated genes	up-down	2	-1.81	6.65e-04	6.21e-03	62	70
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - copi dependent golgi to er retrograde traffic	up-down	2.16	-1.8	5.16e-05	6.27e-03	62	75
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - trna processing in the nucleus	up-down	2.56	-1.88	9.20e-09	6.43e-03	45	46
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of plk1 activity at g2 m transition	up-down	2.01	-1.82	1.71e-04	6.43e-03	65	74
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - dna damage recognition in gg ner	up-down	2.13	-1.88	1.70e-04	7.19e-03	31	34
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - response of mtb to phagocytosis	up-down	1.77	-1.94	2.28e-02	7.64e-03	16	21
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - ns1 mediated effects on host pathways	up-down	2.44	-1.88	8.07e-07	7.78e-03	32	34
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - translocation of slc2a4 glut4 to the plasma membrane	up-down	1.87	-1.82	4.01e-03	8.12e-03	46	55
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - protein folding	up-down	1.8	-1.76	5.24e-03	8.75e-03	67	76
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna capping	up-down	1.94	-1.93	4.33e-03	9.80e-03	25	27
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of the early elongation complex	up-down	1.97	-1.9	2.01e-03	1.04e-02	27	28
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - influenza infection	up-down	2.53	-1.67	3.92e-09	1.08e-02	94	116
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - rho gtpases activate formins	up-down	2.69	-1.69	3.92e-09	1.21e-02	99	109
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - translesion synthesis by polh	up-down	1.79	-1.89	1.93e-02	1.24e-02	14	18
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - rna polymerase iii transcription initiation from type 1 promoter	up-down	1.81	-1.88	1.17e-02	1.29e-02	21	21
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of tubulin folding intermediates by cct tric	up-down	1.86	-1.9	8.90e-03	1.35e-02	14	20
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - transcription of the hiv genome	up-down	2.27	-1.75	5.76e-06	1.41e-02	57	62
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - aurka activation by tpx2	up-down	1.93	-1.67	1.64e-03	1.65e-02	55	61
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - glycolysis	up-down	1.71	-1.67	1.70e-02	1.65e-02	57	63
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv transcription initiation	up-down	2.08	-1.78	3.04e-04	1.66e-02	40	42
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - deadenylation dependent mrna decay	up-down	2.14	-1.83	3.18e-04	1.70e-02	42	43
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - recruitment of mitotic centrosome proteins and complexes	up-down	1.87	-1.74	2.33e-03	1.85e-02	59	65
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - c type lectin receptors clrs	up-down	1.9	-1.62	2.52e-04	1.88e-02	104	116
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - apc cdc20 mediated degradation of nek2a	up-down	1.83	-1.83	1.09e-02	1.90e-02	14	18
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of rna pol ii elongation complex	up-down	2.11	-1.71	7.28e-05	1.97e-02	47	50
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - runx1 regulates transcription of genes involved in differentiation of hscs	up-down	2.31	-1.68	3.09e-07	1.98e-02	83	94
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - recruitment of numa to mitotic centrosomes	up-down	1.92	-1.69	6.23e-04	2.03e-02	65	74
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - hiv transcription elongation	up-down	2.03	-1.73	1.63e-03	2.03e-02	35	38
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - interactions of vpr with host cellular proteins	up-down	2.17	-1.8	1.53e-04	2.05e-02	29	31
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - transport of mature transcript to cytoplasm	up-down	2.33	-1.62	1.77e-06	2.26e-02	58	61
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - dna damage bypass	up-down	1.98	-1.69	2.09e-03	2.28e-02	36	40
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - mitotic prometaphase	up-down	2.75	-1.52	3.92e-09	2.43e-02	145	160
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - resolution of sister chromatid cohesion	up-down	2.86	-1.58	3.92e-09	2.50e-02	90	99
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - transport of the slbp dependant mature mrna	up-down	2.35	-1.76	6.88e-06	2.60e-02	28	30
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - protein ubiquitination	up-down	2.24	-1.64	1.67e-05	2.61e-02	54	58
+Liver cancer	Alzheimer's disease	Canonical Pathways	kegg - nucleotide excision repair	up-down	2.01	-1.67	1.35e-03	2.63e-02	38	40
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - mitochondrial trna aminoacylation	up-down	1.86	-1.79	1.04e-02	2.72e-02	10	14
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - resolution of ap sites via the multiple nucleotide patch replacement pathway	up-down	2.07	-1.73	5.60e-04	2.78e-02	21	22
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - nuclear envelope ne reassembly	up-down	2.58	-1.65	8.10e-09	2.93e-02	49	54
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - rna polymerase iii transcription initiation from type 3 promoter	up-down	1.82	-1.72	1.41e-02	2.93e-02	22	22
+Liver cancer	Alzheimer's disease	Canonical Pathways	biocarta - sm pathway	up-down	2.13	-1.76	3.98e-04	3.00e-02	13	13
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - interactions of rev with host cellular proteins	up-down	2.39	-1.72	2.79e-06	3.65e-02	28	30
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - tcr signaling	up-down	1.82	-1.61	1.44e-03	3.97e-02	94	105
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - dual incision in gg ner	up-down	2.03	-1.68	9.86e-04	4.11e-02	32	37
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - recognition of dna damage by pcna containing replication complex	up-down	2.08	-1.74	3.14e-04	4.23e-02	23	28
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - anchoring of the basal body to the plasma membrane	up-down	1.81	-1.54	4.30e-03	4.27e-02	73	78
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - post chaperonin tubulin folding pathway	up-down	1.81	-1.74	2.23e-02	4.27e-02	11	17
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - programmed cell death	up-down	1.97	-1.47	1.57e-05	4.27e-02	151	161
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - inhibition of the proteolytic activity of apc c required for the onset of anaphase by mitotic spindle checkpoint components	up-down	1.76	-1.71	2.23e-02	4.28e-02	12	13
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - abortive elongation of hiv 1 transcript in the absence of tat	up-down	1.69	-1.74	4.51e-02	4.32e-02	19	19
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna decay by 3 to 5 exoribonuclease	up-down	1.88	-1.68	1.09e-02	4.78e-02	13	13
+Liver cancer	Alzheimer's disease	Canonical Pathways	reactome - pcna dependent long patch base excision repair	up-down	1.98	-1.7	3.15e-03	4.80e-02	19	20

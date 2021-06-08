@@ -1,0 +1,509 @@
+disease.1	disease.2	category	pathway	overlap	nes.1	nes.2	fdr.1	fdr.2	genes.1	ngenes.2
+Stomach cancer	Parkinson's disease	HallMark	tnfa signaling via nfkb	up-up	2.3	2.02	5.00e-10	1.63e-07	179	190
+Stomach cancer	Parkinson's disease	HallMark	inflammatory response	up-up	2.25	1.99	5.00e-10	8.68e-07	197	192
+Stomach cancer	Parkinson's disease	HallMark	il2 stat5 signaling	up-up	1.82	1.92	2.12e-05	4.49e-06	184	172
+Stomach cancer	Parkinson's disease	HallMark	il6 jak stat3 signaling	up-up	2.04	2.09	1.76e-05	1.26e-05	78	85
+Stomach cancer	Parkinson's disease	HallMark	complement	up-up	1.93	1.56	3.57e-06	2.79e-03	164	178
+Stomach cancer	Parkinson's disease	HallMark	coagulation	up-up	1.62	1.6	2.82e-03	3.50e-03	121	130
+Stomach cancer	Parkinson's disease	HallMark	allograft rejection	up-up	2.25	1.44	5.00e-10	7.95e-03	178	186
+Stomach cancer	Parkinson's disease	HallMark	tgf beta signaling	up-up	1.48	1.65	3.46e-02	1.04e-02	50	49
+Stomach cancer	Parkinson's disease	HallMark	interferon gamma response	up-up	2.49	1.44	5.00e-10	1.44e-02	172	170
+Stomach cancer	Parkinson's disease	HallMark	interferon alpha response	up-up	2.27	1.51	7.20e-08	1.74e-02	79	77
+Stomach cancer	Parkinson's disease	HallMark	epithelial mesenchymal transition	up-up	2.81	1.36	5.00e-10	2.19e-02	187	190
+Stomach cancer	Parkinson's disease	HallMark	wnt beta catenin signaling	up-up	1.56	1.66	3.46e-02	2.37e-02	37	34
+Stomach cancer	Parkinson's disease	HallMark	oxidative phosphorylation	down-down	-1.77	-3.09	3.27e-05	5.00e-09	172	187
+Stomach cancer	Parkinson's disease	HallMark	fatty acid metabolism	down-down	-2.2	-1.9	6.24e-08	2.09e-05	130	138
+Stomach cancer	Parkinson's disease	HallMark	adipogenesis	down-down	-1.67	-1.69	3.42e-04	3.97e-04	178	174
+Stomach cancer	Parkinson's disease	HallMark	peroxisome	down-down	-1.62	-1.51	2.03e-03	1.35e-02	92	94
+Stomach cancer	Parkinson's disease	HallMark	pancreas beta cells	down-down	-1.94	-1.66	9.75e-04	1.65e-02	39	39
+Stomach cancer	Parkinson's disease	Gene Ontology	adaptive immune response	up-up	1.65	2.01	2.11e-04	1.26e-08	333	319
+Stomach cancer	Parkinson's disease	Gene Ontology	anatomical structure formation involved in morphogenesis	up-up	1.78	1.61	5.47e-09	1.26e-08	957	882
+Stomach cancer	Parkinson's disease	Gene Ontology	biological adhesion	up-up	1.61	1.53	8.62e-09	1.26e-08	1168	1082
+Stomach cancer	Parkinson's disease	Gene Ontology	blood vessel morphogenesis	up-up	1.95	1.83	5.47e-09	1.26e-08	519	510
+Stomach cancer	Parkinson's disease	Gene Ontology	cardiovascular system development	up-up	1.87	1.77	5.47e-09	1.26e-08	623	599
+Stomach cancer	Parkinson's disease	Gene Ontology	chromatin	up-up	1.37	2.14	3.79e-03	1.26e-08	992	878
+Stomach cancer	Parkinson's disease	Gene Ontology	chromatin organization	up-up	1.88	1.75	5.47e-09	1.26e-08	625	575
+Stomach cancer	Parkinson's disease	Gene Ontology	chromosome	up-up	1.95	1.6	5.47e-09	1.26e-08	1416	1242
+Stomach cancer	Parkinson's disease	Gene Ontology	cytokine production	up-up	1.83	1.8	5.47e-09	1.26e-08	635	606
+Stomach cancer	Parkinson's disease	Gene Ontology	double stranded dna binding	up-up	1.33	1.99	1.18e-02	1.26e-08	831	754
+Stomach cancer	Parkinson's disease	Gene Ontology	extracellular structure organization	up-up	2.22	1.97	5.47e-09	1.26e-08	325	310
+Stomach cancer	Parkinson's disease	Gene Ontology	leukocyte differentiation	up-up	1.51	2.05	1.17e-03	1.26e-08	448	416
+Stomach cancer	Parkinson's disease	Gene Ontology	lymphocyte activation	up-up	1.75	1.87	1.32e-07	1.26e-08	568	529
+Stomach cancer	Parkinson's disease	Gene Ontology	lymphocyte differentiation	up-up	1.36	2.09	4.44e-02	1.26e-08	303	283
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of biosynthetic process	up-up	1.43	1.68	7.80e-05	1.26e-08	1298	1167
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of nucleobase containing compound metabolic process	up-up	1.48	1.78	7.20e-06	1.26e-08	1196	1078
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of rna biosynthetic process	up-up	1.39	1.92	1.44e-03	1.26e-08	1049	950
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of transcription by rna polymerase ii	up-up	1.32	2.03	2.71e-02	1.26e-08	732	667
+Stomach cancer	Parkinson's disease	Gene Ontology	nuclear chromosome	up-up	1.58	1.89	1.41e-07	1.26e-08	1032	909
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of cellular biosynthetic process	up-up	1.54	1.59	5.47e-09	1.26e-08	1664	1557
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of nucleobase containing compound metabolic process	up-up	1.54	1.61	5.47e-09	1.26e-08	1579	1459
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of rna metabolic process	up-up	1.43	1.67	2.39e-05	1.26e-08	1451	1339
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of cell population proliferation	up-up	1.58	1.5	5.47e-09	1.26e-08	1360	1308
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of immune system process	up-up	1.84	1.49	5.47e-09	1.26e-08	1244	1182
+Stomach cancer	Parkinson's disease	Gene Ontology	response to bacterium	up-up	1.39	1.85	1.40e-02	1.26e-08	498	458
+Stomach cancer	Parkinson's disease	Gene Ontology	tube development	up-up	1.7	1.73	5.47e-09	1.26e-08	902	857
+Stomach cancer	Parkinson's disease	Gene Ontology	tube morphogenesis	up-up	1.8	1.76	5.47e-09	1.26e-08	732	694
+Stomach cancer	Parkinson's disease	Gene Ontology	inflammatory response	up-up	1.8	1.71	5.47e-09	1.64e-08	596	567
+Stomach cancer	Parkinson's disease	Gene Ontology	t cell activation	up-up	1.8	1.89	8.73e-07	1.73e-08	394	373
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of cell activation	up-up	1.85	1.8	1.83e-08	4.55e-08	458	432
+Stomach cancer	Parkinson's disease	Gene Ontology	transcription coregulator activity	up-up	1.6	1.78	1.11e-04	6.21e-08	481	461
+Stomach cancer	Parkinson's disease	Gene Ontology	embryo development	up-up	1.58	1.55	1.45e-06	1.10e-07	890	796
+Stomach cancer	Parkinson's disease	Gene Ontology	leukocyte cell cell adhesion	up-up	1.7	1.95	1.54e-04	1.36e-07	288	281
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of lymphocyte activation	up-up	1.81	1.85	3.33e-06	1.37e-07	360	337
+Stomach cancer	Parkinson's disease	Gene Ontology	circulatory system development	up-up	1.68	1.52	5.47e-09	1.38e-07	931	880
+Stomach cancer	Parkinson's disease	Gene Ontology	chromatin binding	up-up	1.86	1.75	1.62e-08	2.51e-07	462	431
+Stomach cancer	Parkinson's disease	Gene Ontology	cell activation	up-up	1.96	1.43	5.47e-09	2.55e-07	1145	1094
+Stomach cancer	Parkinson's disease	Gene Ontology	immune system development	up-up	1.81	1.52	5.47e-09	3.99e-07	828	774
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of locomotion	up-up	1.84	1.69	2.16e-08	4.16e-07	482	466
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of vasculature development	up-up	1.71	1.91	1.60e-04	6.22e-07	286	274
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of immune system process	up-up	1.7	1.79	3.23e-05	6.87e-07	371	357
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of multicellular organismal process	up-up	1.36	1.47	2.93e-03	7.45e-07	1042	967
+Stomach cancer	Parkinson's disease	Gene Ontology	b cell activation	up-up	1.66	2.03	2.13e-03	8.15e-07	205	191
+Stomach cancer	Parkinson's disease	Gene Ontology	defense response	up-up	1.84	1.34	5.47e-09	9.10e-07	1293	1215
+Stomach cancer	Parkinson's disease	Gene Ontology	response to molecule of bacterial origin	up-up	1.59	1.88	2.24e-03	9.61e-07	291	289
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of cell adhesion	up-up	1.82	1.6	5.47e-09	9.65e-07	582	562
+Stomach cancer	Parkinson's disease	Gene Ontology	covalent chromatin modification	up-up	1.65	1.73	5.94e-05	1.76e-06	399	364
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of intracellular signal transduction	up-up	1.45	1.49	3.12e-04	2.01e-06	853	792
+Stomach cancer	Parkinson's disease	Gene Ontology	cellular response to biotic stimulus	up-up	1.7	1.99	1.14e-03	2.46e-06	196	194
+Stomach cancer	Parkinson's disease	Gene Ontology	i kappab kinase nf kappab signaling	up-up	1.67	1.94	8.73e-04	3.94e-06	230	202
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of immune effector process	up-up	1.88	1.79	4.56e-07	4.49e-06	324	313
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of cellular component movement	up-up	1.64	1.47	2.11e-07	5.20e-06	861	801
+Stomach cancer	Parkinson's disease	Gene Ontology	epidermis development	up-up	1.4	1.84	2.39e-02	5.40e-06	311	274
+Stomach cancer	Parkinson's disease	Gene Ontology	response to biotic stimulus	up-up	1.84	1.36	5.47e-09	5.42e-06	1160	1088
+Stomach cancer	Parkinson's disease	Gene Ontology	skeletal system development	up-up	1.76	1.67	1.28e-06	5.58e-06	450	419
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of immune response	up-up	2.02	1.47	5.47e-09	5.65e-06	796	772
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of interleukin 6 production	up-up	1.58	2.29	4.11e-02	8.50e-06	79	76
+Stomach cancer	Parkinson's disease	Gene Ontology	cell motility	up-up	1.62	1.3	5.47e-09	8.91e-06	1363	1242
+Stomach cancer	Parkinson's disease	Gene Ontology	embryonic organ development	up-up	1.4	1.7	2.13e-02	1.12e-05	378	347
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of multicellular organismal process	up-up	1.44	1.3	1.50e-05	1.12e-05	1495	1410
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of cytokine production	up-up	2.05	1.68	5.47e-09	1.15e-05	379	364
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of t cell activation	up-up	1.74	1.83	1.25e-04	1.21e-05	268	256
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of adaptive immune response	up-up	1.94	2.05	8.88e-05	1.26e-05	136	129
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of vasculature development	up-up	1.62	1.97	8.07e-03	1.37e-05	162	158
+Stomach cancer	Parkinson's disease	Gene Ontology	phagocytosis	up-up	1.78	1.83	1.86e-04	1.38e-05	214	214
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of lymphocyte differentiation	up-up	1.53	2	2.28e-02	1.61e-05	147	136
+Stomach cancer	Parkinson's disease	Gene Ontology	transcription corepressor activity	up-up	1.47	1.87	3.46e-02	1.67e-05	206	189
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of developmental process	up-up	1.42	1.32	7.12e-05	1.81e-05	1175	1090
+Stomach cancer	Parkinson's disease	Gene Ontology	reproductive system development	up-up	1.42	1.66	1.45e-02	1.81e-05	376	361
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of cell activation	up-up	1.88	1.76	1.36e-06	1.85e-05	273	263
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of immune system process	up-up	1.89	1.44	5.47e-09	1.94e-05	878	841
+Stomach cancer	Parkinson's disease	Gene Ontology	embryonic morphogenesis	up-up	1.5	1.61	3.00e-03	2.01e-05	512	462
+Stomach cancer	Parkinson's disease	Gene Ontology	extracellular matrix	up-up	1.86	1.62	1.15e-08	2.13e-05	457	412
+Stomach cancer	Parkinson's disease	Gene Ontology	cell surface	up-up	1.37	1.48	1.27e-02	2.25e-05	694	665
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of cell population proliferation	up-up	1.74	1.46	5.47e-09	2.25e-05	760	732
+Stomach cancer	Parkinson's disease	Gene Ontology	chromosome organization	up-up	2.34	1.41	5.47e-09	2.42e-05	983	892
+Stomach cancer	Parkinson's disease	Gene Ontology	leukocyte proliferation	up-up	1.57	1.79	4.85e-03	3.01e-05	250	246
+Stomach cancer	Parkinson's disease	Gene Ontology	leukocyte migration	up-up	1.76	1.65	6.73e-06	3.06e-05	371	373
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of developmental process	up-up	1.28	1.44	3.25e-02	3.69e-05	811	741
+Stomach cancer	Parkinson's disease	Gene Ontology	muscle structure development	up-up	1.31	1.56	4.45e-02	4.01e-05	546	504
+Stomach cancer	Parkinson's disease	Gene Ontology	collagen metabolic process	up-up	2.03	2.09	3.15e-05	4.36e-05	94	93
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of multi organism process	up-up	2	1.85	3.37e-06	5.18e-05	174	173
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of leukocyte proliferation	up-up	1.66	1.86	2.38e-03	5.26e-05	189	183
+Stomach cancer	Parkinson's disease	Gene Ontology	tumor necrosis factor superfamily cytokine production	up-up	1.58	1.94	2.04e-02	5.26e-05	126	124
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of lymphocyte activation	up-up	1.94	2.01	9.50e-05	5.31e-05	120	120
+Stomach cancer	Parkinson's disease	Gene Ontology	immune effector process	up-up	2.07	1.41	5.47e-09	5.37e-05	940	922
+Stomach cancer	Parkinson's disease	Gene Ontology	cell cell adhesion	up-up	1.43	1.48	2.56e-03	5.81e-05	698	632
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of leukocyte mediated immunity	up-up	1.78	1.86	4.18e-04	6.08e-05	169	161
+Stomach cancer	Parkinson's disease	Gene Ontology	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	up-up	1.72	1.79	4.82e-04	6.93e-05	217	205
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of i kappab kinase nf kappab signaling	up-up	1.54	1.94	2.78e-02	7.73e-05	163	143
+Stomach cancer	Parkinson's disease	Gene Ontology	transcription factor complex	up-up	1.49	1.68	6.42e-03	8.59e-05	309	298
+Stomach cancer	Parkinson's disease	Gene Ontology	collagen containing extracellular matrix	up-up	1.92	1.66	2.91e-08	9.15e-05	353	327
+Stomach cancer	Parkinson's disease	Gene Ontology	cytokine receptor binding	up-up	1.57	1.73	7.09e-03	9.62e-05	215	218
+Stomach cancer	Parkinson's disease	Gene Ontology	myeloid cell differentiation	up-up	1.59	1.65	9.44e-04	1.00e-04	348	329
+Stomach cancer	Parkinson's disease	Gene Ontology	transcription factor binding	up-up	1.56	1.48	9.02e-05	1.02e-04	566	545
+Stomach cancer	Parkinson's disease	Gene Ontology	in utero embryonic development	up-up	1.66	1.71	2.62e-04	1.19e-04	329	299
+Stomach cancer	Parkinson's disease	Gene Ontology	response to cytokine	up-up	2	1.35	5.47e-09	1.40e-04	958	971
+Stomach cancer	Parkinson's disease	Gene Ontology	cytokine mediated signaling pathway	up-up	2.06	1.45	5.47e-09	1.51e-04	621	635
+Stomach cancer	Parkinson's disease	Gene Ontology	embryo development ending in birth or egg hatching	up-up	1.7	1.49	1.29e-06	1.56e-04	565	506
+Stomach cancer	Parkinson's disease	Gene Ontology	response to lipid	up-up	1.36	1.4	9.23e-03	1.69e-04	795	782
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of lymphocyte mediated immunity	up-up	1.62	1.94	1.16e-02	1.71e-04	123	115
+Stomach cancer	Parkinson's disease	Gene Ontology	skin development	up-up	1.61	1.7	1.63e-03	2.55e-04	265	237
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte cell cell adhesion	up-up	1.89	1.77	4.38e-05	2.64e-04	187	183
+Stomach cancer	Parkinson's disease	Gene Ontology	locomotion	up-up	1.54	1.21	1.25e-08	2.73e-04	1558	1404
+Stomach cancer	Parkinson's disease	Gene Ontology	peptidyl tyrosine modification	up-up	1.4	1.6	2.74e-02	2.83e-04	316	308
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of immune response	up-up	2.01	1.42	5.47e-09	2.88e-04	627	607
+Stomach cancer	Parkinson's disease	Gene Ontology	epithelium development	up-up	1.56	1.32	1.96e-07	2.90e-04	1030	937
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of chromatin organization	up-up	1.59	1.83	1.09e-02	3.08e-04	167	148
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of intracellular signal transduction	up-up	1.39	1.24	6.94e-05	3.16e-04	1532	1398
+Stomach cancer	Parkinson's disease	Gene Ontology	pattern recognition receptor signaling pathway	up-up	1.59	1.81	1.44e-02	3.22e-04	163	154
+Stomach cancer	Parkinson's disease	Gene Ontology	chromatin organization involved in regulation of transcription	up-up	1.92	1.97	8.19e-04	3.24e-04	86	81
+Stomach cancer	Parkinson's disease	Gene Ontology	cell substrate adhesion	up-up	1.64	1.63	5.21e-04	3.28e-04	300	283
+Stomach cancer	Parkinson's disease	Gene Ontology	defense response to other organism	up-up	2.05	1.38	5.47e-09	3.43e-04	855	804
+Stomach cancer	Parkinson's disease	Gene Ontology	tissue remodeling	up-up	1.74	1.77	1.45e-03	3.97e-04	145	145
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of cell activation	up-up	1.92	1.84	2.10e-05	4.05e-04	162	159
+Stomach cancer	Parkinson's disease	Gene Ontology	lymphocyte mediated immunity	up-up	1.56	1.7	1.18e-02	4.22e-04	208	199
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of inflammatory response	up-up	1.74	1.66	6.43e-05	4.44e-04	282	256
+Stomach cancer	Parkinson's disease	Gene Ontology	endothelium development	up-up	1.62	1.84	1.86e-02	6.89e-04	105	105
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of gene expression epigenetic	up-up	1.88	1.94	5.58e-04	6.93e-04	92	87
+Stomach cancer	Parkinson's disease	Gene Ontology	lymphocyte activation involved in immune response	up-up	1.76	1.79	6.40e-04	7.45e-04	144	133
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of cell adhesion	up-up	1.83	1.61	2.03e-05	7.46e-04	233	229
+Stomach cancer	Parkinson's disease	Gene Ontology	myeloid leukocyte differentiation	up-up	1.55	1.71	1.27e-02	7.53e-04	181	168
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of hemopoiesis	up-up	1.57	1.75	1.69e-02	8.00e-04	157	156
+Stomach cancer	Parkinson's disease	Gene Ontology	cell chemotaxis	up-up	1.69	1.63	3.86e-04	8.43e-04	244	244
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of cell cell adhesion	up-up	1.58	1.53	8.57e-04	8.77e-04	349	332
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of phagocytosis	up-up	1.84	1.98	2.55e-03	1.03e-03	77	79
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of b cell activation	up-up	1.79	1.86	3.25e-03	1.09e-03	102	94
+Stomach cancer	Parkinson's disease	Gene Ontology	cellular response to vascular endothelial growth factor stimulus	up-up	1.77	2.11	1.21e-02	1.10e-03	50	46
+Stomach cancer	Parkinson's disease	Gene Ontology	interferon gamma mediated signaling pathway	up-up	1.79	1.97	1.31e-02	1.25e-03	65	66
+Stomach cancer	Parkinson's disease	Gene Ontology	renal system development	up-up	1.4	1.6	3.44e-02	1.29e-03	263	247
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of tumor necrosis factor superfamily cytokine production	up-up	1.72	1.96	2.13e-02	1.41e-03	71	73
+Stomach cancer	Parkinson's disease	Gene Ontology	leukocyte apoptotic process	up-up	1.6	1.86	2.98e-02	1.41e-03	89	89
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of cell adhesion	up-up	1.68	1.51	1.02e-04	1.52e-03	345	333
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of response to cytokine stimulus	up-up	1.98	2.05	1.36e-03	1.54e-03	44	41
+Stomach cancer	Parkinson's disease	Gene Ontology	cytokine metabolic process	up-up	1.6	1.84	2.48e-02	1.59e-03	104	100
+Stomach cancer	Parkinson's disease	Gene Ontology	wound healing	up-up	1.77	1.43	5.15e-07	1.61e-03	469	461
+Stomach cancer	Parkinson's disease	Gene Ontology	cytokine secretion	up-up	1.6	1.67	8.42e-03	1.63e-03	183	174
+Stomach cancer	Parkinson's disease	Gene Ontology	ossification	up-up	1.7	1.51	6.76e-05	1.63e-03	347	320
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of alpha beta t cell activation	up-up	1.55	1.95	4.83e-02	1.67e-03	75	71
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of extrinsic apoptotic signaling pathway	up-up	1.71	1.73	4.29e-03	1.67e-03	131	130
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of adaptive immune response	up-up	1.97	1.86	2.68e-04	1.72e-03	90	83
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of endothelial cell migration	up-up	1.72	1.72	3.75e-03	1.77e-03	139	133
+Stomach cancer	Parkinson's disease	Gene Ontology	placenta development	up-up	1.62	1.74	1.32e-02	1.79e-03	135	132
+Stomach cancer	Parkinson's disease	Gene Ontology	histone methyltransferase complex	up-up	1.92	1.93	1.14e-03	1.96e-03	68	66
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of cell death	up-up	1.49	1.2	6.38e-07	2.00e-03	1368	1311
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of response to external stimulus	up-up	1.91	1.3	5.47e-09	2.12e-03	900	844
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of cell differentiation	up-up	1.36	1.3	7.74e-03	2.20e-03	842	792
+Stomach cancer	Parkinson's disease	Gene Ontology	innate immune response	up-up	2.11	1.33	5.47e-09	2.24e-03	703	671
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of cytokine production	up-up	1.51	1.59	1.89e-02	2.24e-03	224	220
+Stomach cancer	Parkinson's disease	Gene Ontology	intrinsic apoptotic signaling pathway in response to dna damage	up-up	1.82	1.84	2.88e-03	2.36e-03	88	87
+Stomach cancer	Parkinson's disease	Gene Ontology	t cell proliferation	up-up	1.75	1.68	8.19e-04	2.38e-03	160	154
+Stomach cancer	Parkinson's disease	Gene Ontology	myeloid leukocyte activation	up-up	2.08	1.37	5.47e-09	2.54e-03	523	528
+Stomach cancer	Parkinson's disease	Gene Ontology	extracellular matrix disassembly	up-up	2.01	1.9	6.58e-04	2.54e-03	65	64
+Stomach cancer	Parkinson's disease	Gene Ontology	dna packaging complex	up-up	1.73	1.94	1.89e-02	2.72e-03	67	65
+Stomach cancer	Parkinson's disease	Gene Ontology	myeloid leukocyte migration	up-up	1.75	1.62	8.76e-04	2.79e-03	173	175
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of leukocyte cell cell adhesion	up-up	1.58	1.78	3.30e-02	2.81e-03	98	99
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of response to cytokine stimulus	up-up	2	1.71	1.26e-05	2.95e-03	142	138
+Stomach cancer	Parkinson's disease	Gene Ontology	endothelial cell migration	up-up	1.8	1.6	2.19e-04	2.96e-03	178	173
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of nik nf kappab signaling	up-up	1.77	1.9	1.32e-02	2.96e-03	67	62
+Stomach cancer	Parkinson's disease	Gene Ontology	secretory granule membrane	up-up	1.42	1.59	3.33e-02	3.00e-03	238	223
+Stomach cancer	Parkinson's disease	Gene Ontology	protein dna complex	up-up	2.05	1.69	4.12e-06	3.08e-03	140	143
+Stomach cancer	Parkinson's disease	Gene Ontology	homeostasis of number of cells	up-up	1.56	1.6	1.45e-02	3.24e-03	209	204
+Stomach cancer	Parkinson's disease	Gene Ontology	t cell activation involved in immune response	up-up	1.72	1.86	1.15e-02	3.27e-03	82	79
+Stomach cancer	Parkinson's disease	Gene Ontology	histone binding	up-up	2.1	1.67	2.39e-07	3.43e-03	162	150
+Stomach cancer	Parkinson's disease	Gene Ontology	leukocyte mediated immunity	up-up	1.97	1.33	5.47e-09	3.53e-03	629	621
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of syncytium formation by plasma membrane fusion	up-up	1.73	2.07	3.27e-02	3.53e-03	29	27
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of cell population proliferation	up-up	1.44	1.36	3.35e-03	3.69e-03	594	579
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of cell cell adhesion	up-up	1.75	1.55	2.46e-04	3.84e-03	223	217
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of inflammatory response	up-up	2.04	1.74	1.27e-05	3.84e-03	116	112
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of extrinsic apoptotic signaling pathway	up-up	1.6	1.83	3.14e-02	4.04e-03	90	85
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of immune effector process	up-up	2.02	1.74	1.15e-04	4.06e-03	97	99
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of response to stress	up-up	1.99	1.17	5.47e-09	4.27e-03	1238	1169
+Stomach cancer	Parkinson's disease	Gene Ontology	integrin mediated signaling pathway	up-up	1.94	1.83	1.40e-04	4.29e-03	94	90
+Stomach cancer	Parkinson's disease	Gene Ontology	skeletal system morphogenesis	up-up	1.62	1.59	5.07e-03	4.35e-03	205	191
+Stomach cancer	Parkinson's disease	Gene Ontology	blood vessel endothelial cell migration	up-up	1.83	1.7	1.60e-03	4.37e-03	104	101
+Stomach cancer	Parkinson's disease	Gene Ontology	g0 to g1 transition	up-up	1.79	1.99	1.20e-02	4.37e-03	37	35
+Stomach cancer	Parkinson's disease	Gene Ontology	response to wounding	up-up	1.67	1.34	2.22e-06	4.68e-03	567	557
+Stomach cancer	Parkinson's disease	Gene Ontology	activation of immune response	up-up	1.92	1.38	5.47e-09	4.77e-03	488	473
+Stomach cancer	Parkinson's disease	Gene Ontology	cellular response to lipid	up-up	1.38	1.37	1.67e-02	5.03e-03	511	508
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of immune response	up-up	2.2	1.73	9.94e-08	5.14e-03	122	120
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of immune effector process	up-up	1.68	1.58	3.09e-03	5.18e-03	175	175
+Stomach cancer	Parkinson's disease	Gene Ontology	interleukin 1 beta production	up-up	1.92	1.83	1.78e-03	5.34e-03	71	67
+Stomach cancer	Parkinson's disease	Gene Ontology	reproduction	up-up	1.47	1.22	2.17e-05	5.55e-03	1198	1024
+Stomach cancer	Parkinson's disease	Gene Ontology	apoptotic cell clearance	up-up	1.63	1.99	4.75e-02	5.68e-03	39	36
+Stomach cancer	Parkinson's disease	Gene Ontology	granulocyte migration	up-up	1.74	1.72	5.15e-03	5.72e-03	117	119
+Stomach cancer	Parkinson's disease	Gene Ontology	neutrophil migration	up-up	1.88	1.74	1.09e-03	5.75e-03	96	97
+Stomach cancer	Parkinson's disease	Gene Ontology	interleukin 12 production	up-up	1.66	1.85	4.75e-02	6.35e-03	49	50
+Stomach cancer	Parkinson's disease	Gene Ontology	nuclear matrix	up-up	2.08	1.71	5.22e-05	7.24e-03	88	89
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of response to biotic stimulus	up-up	2.11	1.82	1.10e-05	7.43e-03	73	72
+Stomach cancer	Parkinson's disease	Gene Ontology	chromatin dna binding	up-up	1.59	1.74	3.05e-02	7.45e-03	85	87
+Stomach cancer	Parkinson's disease	Gene Ontology	interleukin 1 production	up-up	1.88	1.81	1.46e-03	7.50e-03	82	75
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of defense response	up-up	2.04	1.33	5.47e-09	7.74e-03	622	577
+Stomach cancer	Parkinson's disease	Gene Ontology	signaling receptor binding	up-up	1.38	1.15	4.04e-04	7.74e-03	1251	1183
+Stomach cancer	Parkinson's disease	Gene Ontology	extracellular matrix structural constituent	up-up	2.06	1.62	3.50e-06	7.91e-03	148	133
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	up-up	1.72	1.96	2.93e-02	8.13e-03	34	31
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of cell death	up-up	1.42	1.26	1.89e-03	8.16e-03	802	793
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of extrinsic apoptotic signaling pathway via death domain receptors	up-up	1.78	1.84	1.64e-02	8.16e-03	52	48
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of production of molecular mediator of immune response	up-up	1.51	1.64	4.93e-02	8.41e-03	119	118
+Stomach cancer	Parkinson's disease	Gene Ontology	chromatin remodeling	up-up	2.08	1.62	1.96e-06	8.57e-03	134	126
+Stomach cancer	Parkinson's disease	Gene Ontology	transcription coactivator activity	up-up	1.45	1.51	1.38e-02	8.67e-03	272	272
+Stomach cancer	Parkinson's disease	Gene Ontology	production of molecular mediator of immune response	up-up	1.57	1.55	1.53e-02	8.72e-03	177	172
+Stomach cancer	Parkinson's disease	Gene Ontology	bone development	up-up	1.71	1.53	1.12e-03	9.25e-03	189	175
+Stomach cancer	Parkinson's disease	Gene Ontology	tertiary granule membrane	up-up	2.2	1.85	2.78e-05	9.25e-03	56	59
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of cell differentiation	up-up	1.39	1.16	4.77e-05	9.34e-03	1553	1406
+Stomach cancer	Parkinson's disease	Gene Ontology	cell adhesion mediated by integrin	up-up	1.95	1.8	1.63e-03	1.00e-02	65	58
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte migration	up-up	1.59	1.67	3.15e-02	1.00e-02	114	114
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of nf kappab transcription factor activity	up-up	1.55	1.65	2.78e-02	1.02e-02	125	123
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of leukocyte migration	up-up	1.54	1.56	1.92e-02	1.04e-02	168	164
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of extracellular matrix organization	up-up	1.88	1.87	6.91e-03	1.05e-02	34	33
+Stomach cancer	Parkinson's disease	Gene Ontology	cytokine activity	up-up	1.59	1.53	1.06e-02	1.06e-02	174	162
+Stomach cancer	Parkinson's disease	Gene Ontology	platelet derived growth factor receptor beta signaling pathway	up-up	1.77	1.96	4.10e-02	1.09e-02	14	13
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of cell cell adhesion	up-up	1.51	1.61	4.18e-02	1.10e-02	145	140
+Stomach cancer	Parkinson's disease	Gene Ontology	protein complex involved in cell adhesion	up-up	1.92	1.91	3.13e-03	1.14e-02	31	29
+Stomach cancer	Parkinson's disease	Gene Ontology	response to interferon gamma	up-up	1.93	1.58	2.67e-05	1.14e-02	147	148
+Stomach cancer	Parkinson's disease	Gene Ontology	interferon beta production	up-up	1.92	1.85	2.75e-03	1.18e-02	46	43
+Stomach cancer	Parkinson's disease	Gene Ontology	b cell mediated immunity	up-up	1.74	1.67	7.94e-03	1.19e-02	97	97
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte proliferation	up-up	1.55	1.63	3.07e-02	1.20e-02	119	109
+Stomach cancer	Parkinson's disease	Gene Ontology	cell activation involved in immune response	up-up	2.1	1.32	5.47e-09	1.20e-02	571	566
+Stomach cancer	Parkinson's disease	Gene Ontology	developmental process involved in reproduction	up-up	1.27	1.26	4.12e-02	1.24e-02	801	679
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte mediated immunity	up-up	1.73	1.64	3.66e-03	1.24e-02	112	106
+Stomach cancer	Parkinson's disease	Gene Ontology	coagulation	up-up	1.36	1.43	4.01e-02	1.25e-02	278	285
+Stomach cancer	Parkinson's disease	Gene Ontology	cell matrix adhesion	up-up	1.6	1.52	6.91e-03	1.32e-02	193	186
+Stomach cancer	Parkinson's disease	Gene Ontology	gene silencing	up-up	2.21	1.52	5.47e-09	1.32e-02	205	186
+Stomach cancer	Parkinson's disease	Gene Ontology	cartilage development	up-up	1.72	1.52	1.29e-03	1.34e-02	176	167
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of cytokine biosynthetic process	up-up	1.62	1.76	3.09e-02	1.35e-02	61	60
+Stomach cancer	Parkinson's disease	Gene Ontology	response to lipoteichoic acid	up-up	1.71	1.9	3.25e-02	1.39e-02	10	9
+Stomach cancer	Parkinson's disease	Gene Ontology	syncytium formation	up-up	2.08	1.88	1.95e-04	1.39e-02	55	47
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of endothelial cell migration	up-up	1.72	1.7	9.57e-03	1.41e-02	85	82
+Stomach cancer	Parkinson's disease	Gene Ontology	histone deacetylase binding	up-up	1.54	1.68	4.48e-02	1.43e-02	94	88
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of chemotaxis	up-up	1.71	1.51	1.17e-03	1.43e-02	183	179
+Stomach cancer	Parkinson's disease	Gene Ontology	heterochromatin	up-up	1.94	1.77	8.26e-04	1.43e-02	70	61
+Stomach cancer	Parkinson's disease	Gene Ontology	extrinsic apoptotic signaling pathway	up-up	1.57	1.5	1.14e-02	1.44e-02	193	191
+Stomach cancer	Parkinson's disease	Gene Ontology	entry into host	up-up	1.81	1.63	1.26e-03	1.46e-02	106	114
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of innate immune response	up-up	2.13	1.83	1.26e-04	1.50e-02	44	43
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of peptidyl tyrosine phosphorylation	up-up	1.46	1.58	4.63e-02	1.56e-02	165	159
+Stomach cancer	Parkinson's disease	Gene Ontology	tissue migration	up-up	1.75	1.45	5.89e-05	1.57e-02	257	249
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of blood vessel endothelial cell migration	up-up	1.67	1.74	3.65e-02	1.60e-02	48	48
+Stomach cancer	Parkinson's disease	Gene Ontology	interleukin 2 production	up-up	1.63	1.75	3.82e-02	1.61e-02	54	56
+Stomach cancer	Parkinson's disease	Gene Ontology	tube formation	up-up	1.54	1.56	2.99e-02	1.67e-02	135	116
+Stomach cancer	Parkinson's disease	Gene Ontology	taxis	up-up	1.43	1.28	3.79e-03	1.81e-02	547	514
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of alpha beta t cell activation	up-up	1.73	1.8	1.51e-02	1.83e-02	54	52
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of lymphocyte mediated immunity	up-up	1.59	1.67	4.05e-02	1.85e-02	86	80
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of t helper 1 type immune response	up-up	1.77	2.03	2.58e-02	1.87e-02	17	16
+Stomach cancer	Parkinson's disease	Gene Ontology	artery morphogenesis	up-up	1.79	1.76	6.71e-03	1.87e-02	60	59
+Stomach cancer	Parkinson's disease	Gene Ontology	peptidyl lysine modification	up-up	1.79	1.4	4.92e-06	1.91e-02	328	304
+Stomach cancer	Parkinson's disease	Gene Ontology	macrophage activation	up-up	1.89	1.72	2.94e-03	1.96e-02	71	72
+Stomach cancer	Parkinson's disease	Gene Ontology	epithelial tube morphogenesis	up-up	1.56	1.41	1.97e-03	1.99e-02	290	264
+Stomach cancer	Parkinson's disease	Gene Ontology	nuclear periphery	up-up	2.25	1.57	3.27e-07	1.99e-02	103	108
+Stomach cancer	Parkinson's disease	Gene Ontology	cd40 signaling pathway	up-up	1.92	1.9	3.09e-03	2.02e-02	10	10
+Stomach cancer	Parkinson's disease	Gene Ontology	respiratory system development	up-up	1.58	1.5	1.19e-02	2.10e-02	170	166
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of cytokine secretion	up-up	1.65	1.56	1.53e-02	2.12e-02	110	108
+Stomach cancer	Parkinson's disease	Gene Ontology	chromatin assembly or disassembly	up-up	2.22	1.54	4.90e-08	2.14e-02	132	128
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of alpha beta t cell differentiation	up-up	1.77	1.76	2.20e-02	2.14e-02	41	40
+Stomach cancer	Parkinson's disease	Gene Ontology	maintenance of cell number	up-up	1.52	1.53	3.02e-02	2.18e-02	141	129
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of antigen receptor mediated signaling pathway	up-up	1.65	1.71	5.00e-02	2.22e-02	49	49
+Stomach cancer	Parkinson's disease	Gene Ontology	animal organ regeneration	up-up	1.95	1.69	1.68e-03	2.26e-02	67	68
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of epithelial cell migration	up-up	1.79	1.45	3.06e-04	2.29e-02	195	190
+Stomach cancer	Parkinson's disease	Gene Ontology	anterior posterior pattern specification	up-up	1.52	1.48	2.31e-02	2.30e-02	183	170
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of gene expression epigenetic	up-up	2.29	1.42	5.47e-09	2.30e-02	257	236
+Stomach cancer	Parkinson's disease	Gene Ontology	protein heterodimerization activity	up-up	1.4	1.35	2.39e-02	2.31e-02	385	364
+Stomach cancer	Parkinson's disease	Gene Ontology	leukocyte chemotaxis	up-up	1.74	1.49	8.02e-04	2.42e-02	182	185
+Stomach cancer	Parkinson's disease	Gene Ontology	exogenous protein binding	up-up	1.98	1.72	9.56e-04	2.52e-02	59	63
+Stomach cancer	Parkinson's disease	Gene Ontology	dna methylation	up-up	1.62	1.79	4.64e-02	2.53e-02	59	47
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of neutrophil migration	up-up	1.9	1.76	4.38e-03	2.53e-02	31	33
+Stomach cancer	Parkinson's disease	Gene Ontology	dna binding transcription factor binding	up-up	1.35	1.38	4.66e-02	2.54e-02	305	300
+Stomach cancer	Parkinson's disease	Gene Ontology	dna packaging	up-up	2.1	1.52	1.37e-06	2.65e-02	149	142
+Stomach cancer	Parkinson's disease	Gene Ontology	immune response regulating signaling pathway	up-up	1.83	1.29	7.22e-08	2.66e-02	451	436
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of defense response	up-up	1.65	1.48	4.23e-03	2.68e-02	174	157
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of chromatin silencing	up-up	1.83	1.86	1.63e-02	2.70e-02	13	10
+Stomach cancer	Parkinson's disease	Gene Ontology	connective tissue development	up-up	1.57	1.39	5.20e-03	2.74e-02	235	218
+Stomach cancer	Parkinson's disease	Gene Ontology	cellular response to abiotic stimulus	up-up	1.56	1.4	3.51e-03	2.78e-02	280	270
+Stomach cancer	Parkinson's disease	Gene Ontology	collagen fibril organization	up-up	2.37	1.74	9.18e-07	2.84e-02	48	43
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of cd4 positive alpha beta t cell differentiation	up-up	1.8	1.72	2.42e-02	2.89e-02	38	37
+Stomach cancer	Parkinson's disease	Gene Ontology	ameboidal type cell migration	up-up	1.65	1.34	1.52e-04	2.89e-02	343	330
+Stomach cancer	Parkinson's disease	Gene Ontology	peptidyl amino acid modification	up-up	1.64	1.19	1.54e-08	3.02e-02	1019	948
+Stomach cancer	Parkinson's disease	Gene Ontology	osteoblast differentiation	up-up	1.64	1.43	4.23e-03	3.07e-02	189	169
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of epithelial cell migration	up-up	1.79	1.51	1.27e-03	3.08e-02	124	122
+Stomach cancer	Parkinson's disease	Gene Ontology	anchoring junction	up-up	1.69	1.25	1.32e-07	3.15e-02	698	657
+Stomach cancer	Parkinson's disease	Gene Ontology	mesoderm development	up-up	1.59	1.51	2.52e-02	3.15e-02	109	101
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of protein modification process	up-up	1.48	1.18	1.84e-05	3.23e-02	1017	963
+Stomach cancer	Parkinson's disease	Gene Ontology	vascular endothelial growth factor receptor signaling pathway	up-up	1.78	1.61	3.09e-03	3.29e-02	80	80
+Stomach cancer	Parkinson's disease	Gene Ontology	animal organ morphogenesis	up-up	1.56	1.2	1.59e-06	3.32e-02	940	845
+Stomach cancer	Parkinson's disease	Gene Ontology	type i interferon production	up-up	2.42	1.5	5.47e-09	3.39e-02	114	101
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of intrinsic apoptotic signaling pathway	up-up	1.6	1.63	4.80e-02	3.44e-02	51	48
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of superoxide anion generation	up-up	2.07	1.86	1.26e-03	3.44e-02	19	21
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of t helper 1 type immune response	up-up	1.89	1.86	1.04e-02	3.44e-02	21	21
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of hemopoiesis	up-up	1.78	1.32	1.45e-06	3.49e-02	389	365
+Stomach cancer	Parkinson's disease	Gene Ontology	signal transduction by p53 class mediator	up-up	2.02	1.38	5.58e-08	3.62e-02	228	217
+Stomach cancer	Parkinson's disease	Gene Ontology	dna conformation change	up-up	2.45	1.39	5.47e-09	3.70e-02	241	230
+Stomach cancer	Parkinson's disease	Gene Ontology	pulmonary valve development	up-up	1.98	1.86	4.18e-03	3.79e-02	18	19
+Stomach cancer	Parkinson's disease	Gene Ontology	cell junction assembly	up-up	1.54	1.41	1.10e-02	3.79e-02	213	204
+Stomach cancer	Parkinson's disease	Gene Ontology	superoxide anion generation	up-up	2.04	1.75	7.72e-04	3.79e-02	30	31
+Stomach cancer	Parkinson's disease	Gene Ontology	neuroinflammatory response	up-up	2.02	1.64	9.70e-04	3.85e-02	52	56
+Stomach cancer	Parkinson's disease	Gene Ontology	myoblast fusion	up-up	1.83	1.71	1.04e-02	3.92e-02	40	35
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of chemotaxis	up-up	1.71	1.55	4.54e-03	3.94e-02	118	119
+Stomach cancer	Parkinson's disease	Gene Ontology	collagen catabolic process	up-up	1.79	1.65	1.19e-02	3.95e-02	43	42
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of animal organ morphogenesis	up-up	1.61	1.62	2.63e-02	4.03e-02	74	69
+Stomach cancer	Parkinson's disease	Gene Ontology	response to type i interferon	up-up	2.22	1.57	1.14e-06	4.13e-02	73	80
+Stomach cancer	Parkinson's disease	Gene Ontology	formation of primary germ layer	up-up	2.08	1.53	2.09e-05	4.15e-02	103	94
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of cell death	up-up	1.67	1.25	4.63e-06	4.39e-02	591	575
+Stomach cancer	Parkinson's disease	Gene Ontology	receptor tyrosine kinase binding	up-up	1.73	1.63	1.20e-02	4.49e-02	60	57
+Stomach cancer	Parkinson's disease	Gene Ontology	respiratory burst involved in defense response	up-up	1.73	1.8	4.55e-02	4.59e-02	12	11
+Stomach cancer	Parkinson's disease	Gene Ontology	astrocyte activation	up-up	1.81	1.82	2.66e-02	4.62e-02	18	19
+Stomach cancer	Parkinson's disease	Gene Ontology	growth factor binding	up-up	1.61	1.53	1.52e-02	4.62e-02	119	119
+Stomach cancer	Parkinson's disease	Gene Ontology	peptidyl lysine methylation	up-up	1.51	1.51	4.60e-02	4.62e-02	113	94
+Stomach cancer	Parkinson's disease	Gene Ontology	respiratory burst	up-up	1.78	1.75	2.09e-02	4.62e-02	29	26
+Stomach cancer	Parkinson's disease	Gene Ontology	anoikis	up-up	1.77	1.73	1.93e-02	4.66e-02	31	30
+Stomach cancer	Parkinson's disease	Gene Ontology	protein domain specific binding	up-up	1.37	1.24	1.66e-02	4.68e-02	586	558
+Stomach cancer	Parkinson's disease	Gene Ontology	positive regulation of interleukin 12 production	up-up	1.7	1.71	3.09e-02	4.71e-02	30	31
+Stomach cancer	Parkinson's disease	Gene Ontology	embryonic placenta development	up-up	1.68	1.61	1.63e-02	4.84e-02	81	78
+Stomach cancer	Parkinson's disease	Gene Ontology	negative regulation of cellular response to growth factor stimulus	up-up	1.52	1.46	3.71e-02	4.99e-02	126	108
+Stomach cancer	Parkinson's disease	Gene Ontology	aerobic respiration	down-down	-1.68	-2.6	2.59e-02	1.26e-08	67	68
+Stomach cancer	Parkinson's disease	Gene Ontology	atp synthesis coupled electron transport	down-down	-2.04	-2.64	5.30e-04	1.26e-08	64	62
+Stomach cancer	Parkinson's disease	Gene Ontology	cellular respiration	down-down	-1.72	-2.64	1.30e-03	1.26e-08	146	132
+Stomach cancer	Parkinson's disease	Gene Ontology	electron transport chain	down-down	-1.46	-2.38	4.05e-02	1.26e-08	141	133
+Stomach cancer	Parkinson's disease	Gene Ontology	energy derivation by oxidation of organic compounds	down-down	-1.69	-2.41	4.40e-04	1.26e-08	221	203
+Stomach cancer	Parkinson's disease	Gene Ontology	generation of precursor metabolites and energy	down-down	-1.35	-2.27	1.38e-02	1.26e-08	428	411
+Stomach cancer	Parkinson's disease	Gene Ontology	inner mitochondrial membrane protein complex	down-down	-1.77	-2.96	5.20e-03	1.26e-08	95	80
+Stomach cancer	Parkinson's disease	Gene Ontology	neuron projection	down-down	-1.19	-1.69	2.62e-02	1.26e-08	1136	1005
+Stomach cancer	Parkinson's disease	Gene Ontology	oxidation reduction process	down-down	-1.76	-1.8	5.47e-09	1.26e-08	796	727
+Stomach cancer	Parkinson's disease	Gene Ontology	oxidative phosphorylation	down-down	-1.87	-2.63	7.95e-04	1.26e-08	103	98
+Stomach cancer	Parkinson's disease	Gene Ontology	oxidoreductase complex	down-down	-1.65	-2.45	2.44e-02	1.26e-08	85	77
+Stomach cancer	Parkinson's disease	Gene Ontology	respirasome	down-down	-2.22	-2.85	3.03e-05	1.26e-08	68	61
+Stomach cancer	Parkinson's disease	Gene Ontology	respiratory chain complex	down-down	-2.1	-2.79	2.87e-04	1.26e-08	58	50
+Stomach cancer	Parkinson's disease	Gene Ontology	respiratory electron transport chain	down-down	-1.87	-2.59	2.89e-03	1.26e-08	81	75
+Stomach cancer	Parkinson's disease	Gene Ontology	small molecule metabolic process	down-down	-1.51	-1.64	5.47e-09	1.26e-08	1602	1469
+Stomach cancer	Parkinson's disease	Gene Ontology	organic acid metabolic process	down-down	-1.49	-1.65	1.58e-06	3.20e-08	939	875
+Stomach cancer	Parkinson's disease	Gene Ontology	proton transmembrane transporter activity	down-down	-1.54	-2.34	2.92e-02	7.72e-08	104	86
+Stomach cancer	Parkinson's disease	Gene Ontology	tricarboxylic acid cycle	down-down	-1.98	-2.53	7.45e-03	8.74e-08	29	30
+Stomach cancer	Parkinson's disease	Gene Ontology	nadh dehydrogenase complex	down-down	-2.2	-2.49	4.51e-04	1.08e-07	35	29
+Stomach cancer	Parkinson's disease	Gene Ontology	mitochondrial electron transport nadh to ubiquinone	down-down	-2.06	-2.47	1.80e-03	1.19e-07	38	34
+Stomach cancer	Parkinson's disease	Gene Ontology	transmembrane transport	down-down	-1.28	-1.55	5.20e-04	3.28e-07	1328	1114
+Stomach cancer	Parkinson's disease	Gene Ontology	organophosphate biosynthetic process	down-down	-1.24	-1.77	4.11e-02	3.97e-07	505	452
+Stomach cancer	Parkinson's disease	Gene Ontology	cation transmembrane transport	down-down	-1.4	-1.68	3.41e-04	5.11e-07	733	613
+Stomach cancer	Parkinson's disease	Gene Ontology	nadh dehydrogenase activity	down-down	-2.04	-2.48	3.28e-03	5.50e-07	30	26
+Stomach cancer	Parkinson's disease	Gene Ontology	oxidoreductase activity	down-down	-1.69	-1.68	6.15e-08	1.54e-06	576	535
+Stomach cancer	Parkinson's disease	Gene Ontology	postsynaptic membrane	down-down	-1.45	-1.87	7.73e-03	3.54e-06	290	249
+Stomach cancer	Parkinson's disease	Gene Ontology	oxidoreductase activity acting on nad p h quinone or similar compound as acceptor	down-down	-2.19	-2.34	5.52e-04	5.40e-06	40	38
+Stomach cancer	Parkinson's disease	Gene Ontology	purine containing compound biosynthetic process	down-down	-1.47	-2	2.80e-02	9.56e-06	167	162
+Stomach cancer	Parkinson's disease	Gene Ontology	inorganic ion transmembrane transport	down-down	-1.34	-1.62	3.76e-03	1.12e-05	717	601
+Stomach cancer	Parkinson's disease	Gene Ontology	cofactor metabolic process	down-down	-1.55	-1.77	5.71e-04	1.49e-05	361	331
+Stomach cancer	Parkinson's disease	Gene Ontology	cofactor biosynthetic process	down-down	-1.4	-1.91	4.11e-02	2.40e-05	197	174
+Stomach cancer	Parkinson's disease	Gene Ontology	carbohydrate derivative metabolic process	down-down	-1.19	-1.52	3.49e-02	2.68e-05	933	835
+Stomach cancer	Parkinson's disease	Gene Ontology	ion transmembrane transport	down-down	-1.4	-1.51	1.32e-04	4.68e-05	971	812
+Stomach cancer	Parkinson's disease	Gene Ontology	cristae formation	down-down	-1.86	-2.17	2.45e-02	1.16e-04	27	23
+Stomach cancer	Parkinson's disease	Gene Ontology	coenzyme metabolic process	down-down	-1.43	-1.8	2.52e-02	3.74e-04	210	188
+Stomach cancer	Parkinson's disease	Gene Ontology	atp synthesis coupled proton transport	down-down	-1.76	-2.18	3.86e-02	4.10e-04	20	18
+Stomach cancer	Parkinson's disease	Gene Ontology	microbody	down-down	-1.72	-1.91	3.09e-03	4.54e-04	114	100
+Stomach cancer	Parkinson's disease	Gene Ontology	postsynaptic specialization membrane	down-down	-1.55	-1.95	3.25e-02	4.75e-04	97	81
+Stomach cancer	Parkinson's disease	Gene Ontology	monovalent inorganic cation transport	down-down	-1.78	-1.62	1.11e-07	5.88e-04	442	373
+Stomach cancer	Parkinson's disease	Gene Ontology	proton transporting atp synthase complex	down-down	-1.95	-2.16	9.24e-03	7.00e-04	16	16
+Stomach cancer	Parkinson's disease	Gene Ontology	cation transmembrane transporter activity	down-down	-1.76	-1.54	2.08e-08	8.62e-04	564	462
+Stomach cancer	Parkinson's disease	Gene Ontology	dicarboxylic acid metabolic process	down-down	-1.76	-1.93	7.84e-03	9.16e-04	78	70
+Stomach cancer	Parkinson's disease	Gene Ontology	cation transport	down-down	-1.44	-1.42	9.44e-06	1.09e-03	997	853
+Stomach cancer	Parkinson's disease	Gene Ontology	cofactor binding	down-down	-1.81	-1.58	1.24e-07	1.12e-03	406	400
+Stomach cancer	Parkinson's disease	Gene Ontology	nucleoside bisphosphate metabolic process	down-down	-1.82	-1.84	1.34e-03	1.42e-03	113	100
+Stomach cancer	Parkinson's disease	Gene Ontology	sulfur compound metabolic process	down-down	-1.59	-1.6	4.28e-04	1.64e-03	312	282
+Stomach cancer	Parkinson's disease	Gene Ontology	monocarboxylic acid metabolic process	down-down	-1.95	-1.49	5.47e-09	2.41e-03	515	484
+Stomach cancer	Parkinson's disease	Gene Ontology	carbohydrate derivative biosynthetic process	down-down	-1.3	-1.49	2.09e-02	2.44e-03	563	493
+Stomach cancer	Parkinson's disease	Gene Ontology	thioester metabolic process	down-down	-1.82	-1.87	4.54e-03	2.82e-03	85	74
+Stomach cancer	Parkinson's disease	Gene Ontology	ion transport	down-down	-1.42	-1.32	6.75e-07	2.82e-03	1425	1217
+Stomach cancer	Parkinson's disease	Gene Ontology	signal release	down-down	-1.3	-1.52	4.26e-02	2.87e-03	412	374
+Stomach cancer	Parkinson's disease	Gene Ontology	phosphotransferase activity phosphate group as acceptor	down-down	-1.71	-1.94	3.56e-02	5.29e-03	42	38
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of membrane potential	down-down	-1.63	-1.52	6.66e-05	7.12e-03	378	340
+Stomach cancer	Parkinson's disease	Gene Ontology	oxidoreductase activity acting on the aldehyde or oxo group of donors	down-down	-1.95	-1.92	6.30e-03	8.56e-03	37	37
+Stomach cancer	Parkinson's disease	Gene Ontology	thioester biosynthetic process	down-down	-1.78	-1.86	2.57e-02	8.67e-03	45	43
+Stomach cancer	Parkinson's disease	Gene Ontology	calcium ion regulated exocytosis	down-down	-1.61	-1.82	4.91e-02	9.34e-03	59	49
+Stomach cancer	Parkinson's disease	Gene Ontology	monovalent inorganic cation transmembrane transporter activity	down-down	-1.94	-1.52	2.39e-08	9.76e-03	335	279
+Stomach cancer	Parkinson's disease	Gene Ontology	nad binding	down-down	-1.88	-1.82	6.60e-03	1.08e-02	53	51
+Stomach cancer	Parkinson's disease	Gene Ontology	lyase activity	down-down	-1.59	-1.64	9.24e-03	1.13e-02	149	144
+Stomach cancer	Parkinson's disease	Gene Ontology	cellular lipid metabolic process	down-down	-1.77	-1.35	5.47e-09	1.14e-02	860	749
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of postsynaptic membrane potential	down-down	-1.66	-1.68	9.28e-03	1.19e-02	126	113
+Stomach cancer	Parkinson's disease	Gene Ontology	nucleoside bisphosphate biosynthetic process	down-down	-1.76	-1.79	1.53e-02	1.32e-02	57	54
+Stomach cancer	Parkinson's disease	Gene Ontology	ion transmembrane transporter activity	down-down	-1.63	-1.37	1.96e-07	1.38e-02	751	613
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of transporter activity	down-down	-1.4	-1.56	1.83e-02	1.44e-02	228	193
+Stomach cancer	Parkinson's disease	Gene Ontology	coenzyme binding	down-down	-2	-1.53	1.28e-07	1.48e-02	247	237
+Stomach cancer	Parkinson's disease	Gene Ontology	small molecule catabolic process	down-down	-2.11	-1.42	5.47e-09	1.82e-02	361	336
+Stomach cancer	Parkinson's disease	Gene Ontology	small molecule biosynthetic process	down-down	-1.58	-1.38	1.29e-05	1.99e-02	585	549
+Stomach cancer	Parkinson's disease	Gene Ontology	regulation of dopamine secretion	down-down	-1.66	-1.82	4.96e-02	2.66e-02	31	24
+Stomach cancer	Parkinson's disease	Gene Ontology	transporter activity	down-down	-1.44	-1.3	3.09e-05	2.99e-02	982	816
+Stomach cancer	Parkinson's disease	Gene Ontology	lipid metabolic process	down-down	-1.76	-1.27	5.47e-09	3.08e-02	1134	1009
+Stomach cancer	Parkinson's disease	Gene Ontology	carbohydrate metabolic process	down-down	-1.28	-1.37	2.58e-02	3.19e-02	498	472
+Stomach cancer	Parkinson's disease	Gene Ontology	lipid biosynthetic process	down-down	-1.6	-1.34	6.25e-06	3.43e-02	583	532
+Stomach cancer	Parkinson's disease	Gene Ontology	peroxisome organization	down-down	-1.71	-1.68	1.74e-02	3.46e-02	65	67
+Stomach cancer	Parkinson's disease	Gene Ontology	peroxisomal transport	down-down	-1.76	-1.66	2.00e-02	3.69e-02	56	60
+Stomach cancer	Parkinson's disease	Gene Ontology	acetyl coa biosynthetic process	down-down	-2.23	-1.8	8.18e-04	3.97e-02	21	19
+Stomach cancer	Parkinson's disease	Canonical Pathways	kegg - cytokine cytokine receptor interaction	up-up	1.49	2.16	1.28e-02	7.41e-09	215	218
+Stomach cancer	Parkinson's disease	Canonical Pathways	naba - matrisome	up-up	1.52	1.66	1.96e-05	2.26e-08	827	731
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - extracellular matrix organization	up-up	2.08	1.93	3.63e-09	7.30e-08	268	251
+Stomach cancer	Parkinson's disease	Canonical Pathways	naba - matrisome associated	up-up	1.34	1.61	1.74e-02	1.22e-07	582	535
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - transcriptional regulation of granulopoiesis	up-up	1.92	2.43	1.09e-03	4.06e-07	53	59
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - chromatin modifying enzymes	up-up	2.08	1.95	5.64e-08	2.24e-06	198	198
+Stomach cancer	Parkinson's disease	Canonical Pathways	kegg - pathways in cancer	up-up	1.66	1.73	3.15e-04	1.26e-05	281	300
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - ercc6 csb and ehmt2 g9a positively regulate rrna expression	up-up	2.05	2.28	2.53e-04	5.92e-05	39	43
+Stomach cancer	Parkinson's disease	Canonical Pathways	pid - fra pathway	up-up	1.94	2.3	1.30e-03	8.07e-05	33	35
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - dna methylation	up-up	1.91	2.3	1.60e-03	9.57e-05	29	33
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - prc2 methylates histones and dna	up-up	1.99	2.3	6.58e-04	1.01e-04	37	40
+Stomach cancer	Parkinson's disease	Canonical Pathways	pid - e2f pathway	up-up	2.03	2.12	1.42e-04	1.38e-04	66	68
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - interleukin 4 and interleukin 13 signaling	up-up	1.98	1.94	9.16e-05	1.63e-04	93	100
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - pre notch expression and processing	up-up	1.56	2.09	2.98e-02	2.19e-04	67	67
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - degradation of the extracellular matrix	up-up	1.97	1.88	3.01e-05	2.56e-04	120	113
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - collagen formation	up-up	2.41	2.02	4.25e-09	2.98e-04	83	72
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - hdacs deacetylate histones	up-up	2.04	2.11	1.75e-04	3.22e-04	51	55
+Stomach cancer	Parkinson's disease	Canonical Pathways	kegg - systemic lupus erythematosus	up-up	1.96	1.92	2.16e-04	6.13e-04	74	81
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - interleukin 10 signaling	up-up	1.95	2.07	8.96e-04	9.05e-04	39	43
+Stomach cancer	Parkinson's disease	Canonical Pathways	biocarta - nfkb pathway	up-up	1.63	2.18	3.38e-02	9.56e-04	19	20
+Stomach cancer	Parkinson's disease	Canonical Pathways	biocarta - hivnef pathway	up-up	1.53	2.04	4.82e-02	1.26e-03	49	53
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - hdms demethylate histones	up-up	1.77	2.14	1.14e-02	2.42e-03	25	29
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - positive epigenetic regulation of rrna expression	up-up	2.2	1.9	3.69e-06	2.51e-03	64	68
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - collagen biosynthesis and modifying enzymes	up-up	2.1	1.93	4.35e-05	2.89e-03	62	51
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - sirt1 negatively regulates rrna expression	up-up	1.82	2.03	8.72e-03	3.03e-03	32	37
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - traf6 mediated nf kb activation	up-up	1.76	2.08	8.96e-03	3.24e-03	20	20
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - cellular senescence	up-up	2.08	1.63	8.86e-07	3.38e-03	140	151
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - rna polymerase ii transcription	up-up	1.76	1.24	3.63e-09	3.76e-03	1070	955
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - senescence associated secretory phenotype sasp	up-up	1.88	1.8	7.19e-04	4.06e-03	68	74
+Stomach cancer	Parkinson's disease	Canonical Pathways	naba - ecm regulators	up-up	1.68	1.56	5.85e-04	4.59e-03	195	184
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - integrin cell surface interactions	up-up	2.11	1.78	9.96e-06	5.21e-03	76	75
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - estrogen dependent gene expression	up-up	1.6	1.71	9.33e-03	5.31e-03	103	106
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - sumoylation	up-up	2.11	1.58	6.17e-07	5.36e-03	145	155
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - condensation of prophase chromosomes	up-up	2.05	1.87	1.73e-04	5.55e-03	38	44
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - signaling by nuclear receptors	up-up	1.4	1.5	2.63e-02	5.91e-03	226	221
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - hats acetylate histones	up-up	1.87	1.73	6.93e-04	6.07e-03	92	94
+Stomach cancer	Parkinson's disease	Canonical Pathways	pid - upa upar pathway	up-up	1.97	1.95	5.81e-04	6.26e-03	38	38
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - meiotic recombination	up-up	2.29	1.79	2.49e-06	6.39e-03	47	54
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - transcriptional regulation by e2f6	up-up	1.86	2.05	3.84e-03	6.39e-03	30	29
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - recognition and association of dna glycosylase with site containing an affected purine	up-up	1.76	1.94	1.65e-02	6.56e-03	32	35
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - activation of anterior hox genes in hindbrain development during early embryogenesis	up-up	1.99	1.71	1.38e-04	6.63e-03	74	83
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - formation of the beta catenin tcf transactivating complex	up-up	1.99	1.82	2.60e-04	6.89e-03	55	57
+Stomach cancer	Parkinson's disease	Canonical Pathways	biocarta - il1r pathway	up-up	1.78	1.99	9.63e-03	6.92e-03	25	26
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - base excision repair ap site formation	up-up	1.68	1.89	2.34e-02	7.14e-03	37	40
+Stomach cancer	Parkinson's disease	Canonical Pathways	pid - delta np63 pathway	up-up	1.54	1.83	3.84e-02	7.35e-03	40	44
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - esr mediated signaling	up-up	1.69	1.58	1.66e-03	8.21e-03	166	163
+Stomach cancer	Parkinson's disease	Canonical Pathways	pid - integrin cs pathway	up-up	1.8	1.96	1.16e-02	8.86e-03	23	22
+Stomach cancer	Parkinson's disease	Canonical Pathways	kegg - small cell lung cancer	up-up	2.12	1.66	9.02e-06	9.34e-03	77	84
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - meiotic synapsis	up-up	1.59	1.83	4.36e-02	9.47e-03	53	53
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - dna damage telomere stress induced senescence	up-up	1.95	1.7	6.27e-04	9.53e-03	51	59
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - epigenetic regulation of gene expression	up-up	2.33	1.58	1.10e-08	9.65e-03	102	99
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - ddx58 ifih1 mediated induction of interferon alpha beta	up-up	1.94	1.72	7.31e-04	1.01e-02	59	63
+Stomach cancer	Parkinson's disease	Canonical Pathways	pid - angiopoietin receptor pathway	up-up	1.75	1.78	7.32e-03	1.02e-02	41	48
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - oxidative stress induced senescence	up-up	1.75	1.65	2.33e-03	1.09e-02	81	87
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - reproduction	up-up	1.84	1.65	9.93e-04	1.15e-02	92	94
+Stomach cancer	Parkinson's disease	Canonical Pathways	kegg - chronic myeloid leukemia	up-up	1.59	1.69	2.70e-02	1.27e-02	62	66
+Stomach cancer	Parkinson's disease	Canonical Pathways	biocarta - nkt pathway	up-up	1.86	1.97	6.99e-03	1.32e-02	22	24
+Stomach cancer	Parkinson's disease	Canonical Pathways	kegg - leishmania infection	up-up	2.19	1.73	1.01e-05	1.32e-02	53	58
+Stomach cancer	Parkinson's disease	Canonical Pathways	biocarta - tnfr2 pathway	up-up	1.99	1.95	1.06e-03	1.47e-02	16	17
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - b wich complex positively regulates rrna expression	up-up	2.04	1.75	1.90e-04	1.54e-02	51	55
+Stomach cancer	Parkinson's disease	Canonical Pathways	biocarta - cd40 pathway	up-up	1.7	1.98	3.15e-02	1.54e-02	14	15
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - deposition of new cenpa containing nucleosomes at the centromere	up-up	2.17	1.78	1.23e-05	1.54e-02	44	45
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - meiosis	up-up	2.11	1.64	1.09e-05	1.54e-02	76	81
+Stomach cancer	Parkinson's disease	Canonical Pathways	pid - amb2 neutrophils pathway	up-up	1.78	1.8	8.03e-03	1.60e-02	37	40
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - traf6 mediated irf7 activation	up-up	1.71	1.89	2.64e-02	1.63e-02	18	20
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - clec7a inflammasome pathway	up-up	1.82	1.8	7.20e-03	1.84e-02	6	6
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - interferon gamma signaling	up-up	1.63	1.62	2.11e-02	2.30e-02	65	66
+Stomach cancer	Parkinson's disease	Canonical Pathways	pid - p53 downstream pathway	up-up	1.74	1.47	1.84e-03	2.44e-02	116	115
+Stomach cancer	Parkinson's disease	Canonical Pathways	kegg - toll like receptor signaling pathway	up-up	1.98	1.58	9.23e-05	2.66e-02	80	88
+Stomach cancer	Parkinson's disease	Canonical Pathways	pid - integrin1 pathway	up-up	2.54	1.69	3.63e-09	2.74e-02	61	60
+Stomach cancer	Parkinson's disease	Canonical Pathways	pid - integrin2 pathway	up-up	1.78	1.81	1.21e-02	2.74e-02	26	26
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - ecm proteoglycans	up-up	2.01	1.58	8.92e-05	2.80e-02	68	70
+Stomach cancer	Parkinson's disease	Canonical Pathways	pid - il4 2pathway	up-up	1.9	1.62	1.38e-03	3.15e-02	51	57
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - caspase activation via death receptors in the presence of ligand	up-up	1.64	1.87	4.82e-02	4.22e-02	15	14
+Stomach cancer	Parkinson's disease	Canonical Pathways	kegg - nod like receptor signaling pathway	up-up	1.64	1.63	1.55e-02	4.22e-02	49	51
+Stomach cancer	Parkinson's disease	Canonical Pathways	pid - ap1 pathway	up-up	1.65	1.54	1.88e-02	4.25e-02	63	66
+Stomach cancer	Parkinson's disease	Canonical Pathways	naba - core matrisome	up-up	1.65	1.39	4.63e-04	4.37e-02	245	196
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - interferon alpha beta signaling	up-up	1.92	1.58	9.06e-04	4.37e-02	48	57
+Stomach cancer	Parkinson's disease	Canonical Pathways	pid - tnf pathway	up-up	1.8	1.6	3.18e-03	4.44e-02	40	41
+Stomach cancer	Parkinson's disease	Canonical Pathways	pid - toll endogenous pathway	up-up	1.85	1.76	3.23e-03	4.47e-02	20	20
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - mitotic telophase cytokinesis	up-up	1.65	1.83	3.54e-02	4.47e-02	13	13
+Stomach cancer	Parkinson's disease	Canonical Pathways	pid - rb 1pathway	up-up	1.68	1.62	1.22e-02	4.57e-02	58	60
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - cell surface interactions at the vascular wall	up-up	1.93	1.47	6.90e-05	4.61e-02	113	123
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - eukaryotic translation elongation	up-up	1.93	1.53	8.88e-04	4.74e-02	51	64
+Stomach cancer	Parkinson's disease	Canonical Pathways	kegg - alzheimers disease	down-down	-1.71	-2.34	3.15e-03	7.41e-09	130	134
+Stomach cancer	Parkinson's disease	Canonical Pathways	kegg - huntingtons disease	down-down	-1.44	-2.44	2.74e-02	7.41e-09	140	139
+Stomach cancer	Parkinson's disease	Canonical Pathways	kegg - oxidative phosphorylation	down-down	-1.88	-2.77	2.15e-04	7.41e-09	94	91
+Stomach cancer	Parkinson's disease	Canonical Pathways	kegg - parkinsons disease	down-down	-2	-2.79	7.94e-05	7.41e-09	91	89
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - complex i biogenesis	down-down	-1.65	-2.58	3.05e-02	7.41e-09	41	34
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - respiratory electron transport	down-down	-1.74	-2.8	4.23e-03	7.41e-09	75	67
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	down-down	-2.03	-2.89	2.57e-05	7.41e-09	94	85
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - the citric acid tca cycle and respiratory electron transport	down-down	-2.25	-2.91	9.74e-09	7.41e-09	140	129
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - transmission across chemical synapses	down-down	-1.43	-2.18	1.03e-02	7.41e-09	240	227
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - neuronal system	down-down	-1.57	-1.95	1.24e-04	1.91e-08	367	330
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - cristae formation	down-down	-1.63	-2.36	3.92e-02	4.92e-06	24	23
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - pyruvate metabolism and citric acid tca cycle	down-down	-2.02	-2.26	9.85e-04	1.55e-05	49	48
+Stomach cancer	Parkinson's disease	Canonical Pathways	kegg - pyruvate metabolism	down-down	-1.85	-2.07	4.63e-03	4.34e-04	39	34
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - formation of atp by chemiosmotic coupling	down-down	-1.99	-2.11	6.38e-03	1.36e-03	14	14
+Stomach cancer	Parkinson's disease	Canonical Pathways	kegg - butanoate metabolism	down-down	-2.31	-1.86	3.83e-05	9.53e-03	30	31
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - metabolism of lipids	down-down	-1.63	-1.36	2.13e-07	1.86e-02	605	546
+Stomach cancer	Parkinson's disease	Canonical Pathways	kegg - valine leucine and isoleucine degradation	down-down	-2.4	-1.74	2.64e-06	2.37e-02	42	40
+Stomach cancer	Parkinson's disease	Canonical Pathways	kegg - peroxisome	down-down	-1.94	-1.65	4.26e-04	2.66e-02	69	66
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - mitochondrial fatty acid beta oxidation	down-down	-2.23	-1.75	1.39e-04	2.78e-02	30	26
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - glutathione conjugation	down-down	-1.69	-1.78	3.94e-02	3.30e-02	28	22
+Stomach cancer	Parkinson's disease	Canonical Pathways	reactome - peroxisomal protein import	down-down	-1.82	-1.66	5.01e-03	3.78e-02	50	53

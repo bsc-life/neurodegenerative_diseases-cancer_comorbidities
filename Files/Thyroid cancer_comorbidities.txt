@@ -1,0 +1,851 @@
+disease.1	disease.2	category	pathway	overlap	nes.1	nes.2	fdr.1	fdr.2	genes.1	ngenes.2
+Thyroid cancer	Parkinson's disease	HallMark	tnfa signaling via nfkb	up-up	1.62	2.02	5.71e-04	1.63e-07	196	190
+Thyroid cancer	Parkinson's disease	HallMark	inflammatory response	up-up	2.28	1.99	1.25e-09	8.68e-07	200	192
+Thyroid cancer	Parkinson's disease	HallMark	il2 stat5 signaling	up-up	1.64	1.92	2.75e-04	4.49e-06	198	172
+Thyroid cancer	Parkinson's disease	HallMark	il6 jak stat3 signaling	up-up	2.01	2.09	1.68e-05	1.26e-05	87	85
+Thyroid cancer	Parkinson's disease	HallMark	hypoxia	up-up	1.31	1.66	3.11e-02	2.10e-04	200	193
+Thyroid cancer	Parkinson's disease	HallMark	p53 pathway	up-up	1.68	1.64	3.23e-04	2.25e-04	195	186
+Thyroid cancer	Parkinson's disease	HallMark	complement	up-up	1.8	1.56	1.17e-05	2.79e-03	198	178
+Thyroid cancer	Parkinson's disease	HallMark	coagulation	up-up	2.16	1.6	5.56e-08	3.50e-03	137	130
+Thyroid cancer	Parkinson's disease	HallMark	allograft rejection	up-up	2.06	1.44	2.09e-08	7.95e-03	198	186
+Thyroid cancer	Parkinson's disease	HallMark	interferon gamma response	up-up	2.29	1.44	1.25e-09	1.44e-02	196	170
+Thyroid cancer	Parkinson's disease	HallMark	interferon alpha response	up-up	2.29	1.51	5.56e-08	1.74e-02	94	77
+Thyroid cancer	Parkinson's disease	HallMark	epithelial mesenchymal transition	up-up	2.38	1.36	1.25e-09	2.19e-02	199	190
+Thyroid cancer	Parkinson's disease	HallMark	wnt beta catenin signaling	up-up	1.72	1.66	9.26e-03	2.37e-02	41	34
+Thyroid cancer	Parkinson's disease	HallMark	oxidative phosphorylation	down-down	-2.56	-3.09	1.25e-09	5.00e-09	196	187
+Thyroid cancer	Parkinson's disease	HallMark	fatty acid metabolism	down-down	-1.65	-1.9	1.49e-03	2.09e-05	154	138
+Thyroid cancer	Parkinson's disease	HallMark	adipogenesis	down-down	-1.69	-1.69	2.84e-04	3.97e-04	197	174
+Thyroid cancer	Alzheimer's disease	HallMark	epithelial mesenchymal transition	up-up	2.38	2.13	1.25e-09	4.14e-08	199	190
+Thyroid cancer	Alzheimer's disease	HallMark	inflammatory response	up-up	2.28	2.12	1.25e-09	4.46e-08	200	192
+Thyroid cancer	Alzheimer's disease	HallMark	allograft rejection	up-up	2.06	2.09	2.09e-08	7.03e-08	198	186
+Thyroid cancer	Alzheimer's disease	HallMark	il6 jak stat3 signaling	up-up	2.01	2.19	1.68e-05	4.69e-06	87	85
+Thyroid cancer	Alzheimer's disease	HallMark	coagulation	up-up	2.16	2.01	5.56e-08	9.30e-06	137	130
+Thyroid cancer	Alzheimer's disease	HallMark	tnfa signaling via nfkb	up-up	1.62	1.74	5.71e-04	1.21e-04	196	190
+Thyroid cancer	Alzheimer's disease	HallMark	il2 stat5 signaling	up-up	1.64	1.7	2.75e-04	2.69e-04	198	173
+Thyroid cancer	Alzheimer's disease	HallMark	hypoxia	up-up	1.31	1.61	3.11e-02	3.75e-04	200	193
+Thyroid cancer	Alzheimer's disease	HallMark	interferon gamma response	up-up	2.29	1.54	1.25e-09	3.51e-03	196	170
+Thyroid cancer	Alzheimer's disease	HallMark	p53 pathway	up-up	1.68	1.5	3.23e-04	3.51e-03	195	186
+Thyroid cancer	Alzheimer's disease	HallMark	complement	up-up	1.8	1.45	1.17e-05	1.01e-02	198	179
+Thyroid cancer	Alzheimer's disease	HallMark	kras signaling up	up-up	1.49	1.43	2.88e-03	1.10e-02	198	190
+Thyroid cancer	Alzheimer's disease	HallMark	apical junction	up-up	2.07	1.37	3.90e-08	1.69e-02	195	176
+Thyroid cancer	Alzheimer's disease	HallMark	oxidative phosphorylation	down-down	-2.56	-3.37	1.25e-09	2.50e-09	196	187
+Thyroid cancer	Alzheimer's disease	HallMark	fatty acid metabolism	down-down	-1.65	-1.98	1.49e-03	1.01e-05	154	138
+Thyroid cancer	Alzheimer's disease	HallMark	unfolded protein response	down-down	-1.45	-1.99	4.39e-02	2.28e-05	109	105
+Thyroid cancer	Alzheimer's disease	HallMark	adipogenesis	down-down	-1.69	-1.6	2.84e-04	3.43e-03	197	174
+Thyroid cancer	Parkinson's disease	Gene Ontology	adaptive immune response	up-up	1.54	2.01	4.33e-04	1.26e-08	403	319
+Thyroid cancer	Parkinson's disease	Gene Ontology	anatomical structure formation involved in morphogenesis	up-up	1.55	1.61	5.40e-08	1.26e-08	1048	882
+Thyroid cancer	Parkinson's disease	Gene Ontology	biological adhesion	up-up	1.81	1.53	1.50e-08	1.26e-08	1330	1082
+Thyroid cancer	Parkinson's disease	Gene Ontology	blood vessel morphogenesis	up-up	1.73	1.83	6.35e-08	1.26e-08	572	510
+Thyroid cancer	Parkinson's disease	Gene Ontology	cardiovascular system development	up-up	1.6	1.77	1.01e-06	1.26e-08	688	599
+Thyroid cancer	Parkinson's disease	Gene Ontology	cytokine production	up-up	1.59	1.8	2.63e-06	1.26e-08	725	606
+Thyroid cancer	Parkinson's disease	Gene Ontology	extracellular structure organization	up-up	2.13	1.97	1.50e-08	1.26e-08	355	310
+Thyroid cancer	Parkinson's disease	Gene Ontology	lymphocyte activation	up-up	1.34	1.87	5.68e-03	1.26e-08	654	529
+Thyroid cancer	Parkinson's disease	Gene Ontology	molecular transducer activity	up-up	1.61	1.67	1.50e-08	1.26e-08	1085	851
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of cell population proliferation	up-up	1.42	1.5	7.88e-07	1.26e-08	1529	1308
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of immune system process	up-up	1.5	1.49	3.26e-08	1.26e-08	1456	1182
+Thyroid cancer	Parkinson's disease	Gene Ontology	response to bacterium	up-up	1.5	1.85	2.04e-04	1.26e-08	575	458
+Thyroid cancer	Parkinson's disease	Gene Ontology	tube development	up-up	1.59	1.73	3.47e-08	1.26e-08	996	857
+Thyroid cancer	Parkinson's disease	Gene Ontology	tube morphogenesis	up-up	1.69	1.76	1.50e-08	1.26e-08	805	694
+Thyroid cancer	Parkinson's disease	Gene Ontology	inflammatory response	up-up	1.88	1.71	1.50e-08	1.64e-08	679	567
+Thyroid cancer	Parkinson's disease	Gene Ontology	epithelial cell differentiation	up-up	1.41	1.73	1.00e-03	2.91e-08	660	532
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of cell activation	up-up	1.51	1.8	1.41e-04	4.55e-08	532	432
+Thyroid cancer	Parkinson's disease	Gene Ontology	embryo development	up-up	1.4	1.55	7.71e-05	1.10e-07	987	796
+Thyroid cancer	Parkinson's disease	Gene Ontology	leukocyte cell cell adhesion	up-up	1.37	1.95	1.55e-02	1.36e-07	323	281
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of lymphocyte activation	up-up	1.36	1.85	1.76e-02	1.37e-07	417	337
+Thyroid cancer	Parkinson's disease	Gene Ontology	circulatory system development	up-up	1.41	1.52	2.53e-05	1.38e-07	1029	880
+Thyroid cancer	Parkinson's disease	Gene Ontology	cell activation	up-up	1.77	1.43	1.50e-08	2.55e-07	1320	1094
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of locomotion	up-up	1.5	1.69	3.11e-04	4.16e-07	537	466
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of vasculature development	up-up	1.62	1.91	3.33e-04	6.22e-07	311	274
+Thyroid cancer	Parkinson's disease	Gene Ontology	negative regulation of multicellular organismal process	up-up	1.5	1.47	2.77e-07	7.45e-07	1148	967
+Thyroid cancer	Parkinson's disease	Gene Ontology	defense response to bacterium	up-up	1.71	2.1	3.00e-04	8.27e-07	219	156
+Thyroid cancer	Parkinson's disease	Gene Ontology	defense response	up-up	1.84	1.34	1.50e-08	9.10e-07	1516	1215
+Thyroid cancer	Parkinson's disease	Gene Ontology	response to molecule of bacterial origin	up-up	1.49	1.88	4.11e-03	9.61e-07	326	289
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of cell adhesion	up-up	1.61	1.6	1.61e-06	9.65e-07	656	562
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of intracellular signal transduction	up-up	1.62	1.49	1.50e-08	2.01e-06	951	792
+Thyroid cancer	Parkinson's disease	Gene Ontology	cellular response to biotic stimulus	up-up	1.4	1.99	3.30e-02	2.46e-06	221	194
+Thyroid cancer	Parkinson's disease	Gene Ontology	immune receptor activity	up-up	1.83	2.17	1.22e-03	3.44e-06	122	104
+Thyroid cancer	Parkinson's disease	Gene Ontology	i kappab kinase nf kappab signaling	up-up	1.63	1.94	5.75e-04	3.94e-06	254	202
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of immune effector process	up-up	1.45	1.79	2.74e-03	4.49e-06	380	313
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of cellular component movement	up-up	1.59	1.47	3.62e-08	5.20e-06	956	801
+Thyroid cancer	Parkinson's disease	Gene Ontology	epidermis development	up-up	1.74	1.84	4.75e-06	5.40e-06	370	274
+Thyroid cancer	Parkinson's disease	Gene Ontology	response to biotic stimulus	up-up	1.62	1.36	1.50e-08	5.42e-06	1363	1088
+Thyroid cancer	Parkinson's disease	Gene Ontology	skeletal system development	up-up	1.39	1.67	6.74e-03	5.58e-06	508	419
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of immune response	up-up	1.67	1.47	1.50e-08	5.65e-06	953	772
+Thyroid cancer	Parkinson's disease	Gene Ontology	external side of plasma membrane	up-up	1.53	1.79	2.07e-03	7.97e-06	308	257
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of interleukin 6 production	up-up	1.64	2.29	2.54e-02	8.50e-06	90	76
+Thyroid cancer	Parkinson's disease	Gene Ontology	cell motility	up-up	1.71	1.3	1.50e-08	8.91e-06	1519	1242
+Thyroid cancer	Parkinson's disease	Gene Ontology	humoral immune response	up-up	1.41	1.92	4.44e-02	9.59e-06	238	192
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of multicellular organismal process	up-up	1.44	1.3	1.13e-07	1.12e-05	1668	1410
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of cytokine production	up-up	1.69	1.68	6.10e-06	1.15e-05	434	364
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of vasculature development	up-up	1.47	1.97	2.94e-02	1.37e-05	180	158
+Thyroid cancer	Parkinson's disease	Gene Ontology	phagocytosis	up-up	1.92	1.83	6.63e-07	1.38e-05	253	214
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of developmental process	up-up	1.44	1.32	1.85e-06	1.81e-05	1308	1090
+Thyroid cancer	Parkinson's disease	Gene Ontology	reproductive system development	up-up	1.41	1.66	5.76e-03	1.81e-05	419	361
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of cell activation	up-up	1.41	1.76	1.97e-02	1.85e-05	321	263
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of immune system process	up-up	1.57	1.44	1.50e-08	1.94e-05	1022	841
+Thyroid cancer	Parkinson's disease	Gene Ontology	embryonic morphogenesis	up-up	1.27	1.61	3.53e-02	2.01e-05	566	462
+Thyroid cancer	Parkinson's disease	Gene Ontology	extracellular matrix	up-up	1.92	1.62	1.50e-08	2.13e-05	505	412
+Thyroid cancer	Parkinson's disease	Gene Ontology	cell surface	up-up	1.89	1.48	1.50e-08	2.25e-05	799	665
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of cell population proliferation	up-up	1.47	1.46	1.54e-05	2.25e-05	861	732
+Thyroid cancer	Parkinson's disease	Gene Ontology	leukocyte proliferation	up-up	1.42	1.79	1.60e-02	3.01e-05	289	246
+Thyroid cancer	Parkinson's disease	Gene Ontology	leukocyte migration	up-up	1.99	1.65	1.50e-08	3.06e-05	426	373
+Thyroid cancer	Parkinson's disease	Gene Ontology	negative regulation of developmental process	up-up	1.4	1.44	2.38e-04	3.69e-05	898	741
+Thyroid cancer	Parkinson's disease	Gene Ontology	epidermal cell differentiation	up-up	1.72	1.86	1.50e-04	3.99e-05	264	188
+Thyroid cancer	Parkinson's disease	Gene Ontology	collagen metabolic process	up-up	2.21	2.09	1.83e-06	4.36e-05	103	93
+Thyroid cancer	Parkinson's disease	Gene Ontology	interleukin 6 production	up-up	1.57	2.03	1.95e-02	5.04e-05	141	115
+Thyroid cancer	Parkinson's disease	Gene Ontology	negative regulation of multi organism process	up-up	1.47	1.85	2.70e-02	5.18e-05	206	173
+Thyroid cancer	Parkinson's disease	Gene Ontology	negative regulation of lymphocyte activation	up-up	1.64	2.01	7.49e-03	5.31e-05	142	120
+Thyroid cancer	Parkinson's disease	Gene Ontology	immune effector process	up-up	1.94	1.41	1.50e-08	5.37e-05	1115	922
+Thyroid cancer	Parkinson's disease	Gene Ontology	cell cell adhesion	up-up	1.65	1.48	2.55e-08	5.81e-05	791	632
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of i kappab kinase nf kappab signaling	up-up	1.74	1.94	7.53e-04	7.73e-05	175	143
+Thyroid cancer	Parkinson's disease	Gene Ontology	collagen containing extracellular matrix	up-up	1.92	1.66	1.50e-08	9.15e-05	394	327
+Thyroid cancer	Parkinson's disease	Gene Ontology	cytokine receptor binding	up-up	1.57	1.73	1.43e-03	9.62e-05	252	218
+Thyroid cancer	Parkinson's disease	Gene Ontology	response to cytokine	up-up	1.67	1.35	1.50e-08	1.40e-04	1114	971
+Thyroid cancer	Parkinson's disease	Gene Ontology	cytokine mediated signaling pathway	up-up	1.87	1.45	1.50e-08	1.51e-04	730	635
+Thyroid cancer	Parkinson's disease	Gene Ontology	embryo development ending in birth or egg hatching	up-up	1.44	1.49	5.44e-04	1.56e-04	625	506
+Thyroid cancer	Parkinson's disease	Gene Ontology	response to lipid	up-up	1.3	1.4	4.91e-03	1.69e-04	878	782
+Thyroid cancer	Parkinson's disease	Gene Ontology	keratinocyte differentiation	up-up	1.87	1.83	6.10e-06	1.97e-04	210	146
+Thyroid cancer	Parkinson's disease	Gene Ontology	skin development	up-up	1.8	1.7	3.14e-06	2.55e-04	321	237
+Thyroid cancer	Parkinson's disease	Gene Ontology	locomotion	up-up	1.74	1.21	1.50e-08	2.73e-04	1736	1404
+Thyroid cancer	Parkinson's disease	Gene Ontology	peptidyl tyrosine modification	up-up	1.54	1.6	1.20e-03	2.83e-04	353	308
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of immune response	up-up	1.63	1.42	1.40e-07	2.88e-04	745	607
+Thyroid cancer	Parkinson's disease	Gene Ontology	epithelium development	up-up	1.58	1.32	1.50e-08	2.90e-04	1166	937
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of intracellular signal transduction	up-up	1.34	1.24	2.24e-05	3.16e-04	1722	1398
+Thyroid cancer	Parkinson's disease	Gene Ontology	cell substrate adhesion	up-up	1.73	1.63	2.08e-05	3.28e-04	331	283
+Thyroid cancer	Parkinson's disease	Gene Ontology	defense response to other organism	up-up	1.81	1.38	1.50e-08	3.43e-04	1017	804
+Thyroid cancer	Parkinson's disease	Gene Ontology	tissue remodeling	up-up	1.83	1.77	1.04e-04	3.97e-04	163	145
+Thyroid cancer	Parkinson's disease	Gene Ontology	negative regulation of cell activation	up-up	1.68	1.84	1.46e-03	4.05e-04	189	159
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of inflammatory response	up-up	1.57	1.66	8.78e-04	4.44e-04	321	256
+Thyroid cancer	Parkinson's disease	Gene Ontology	negative regulation of cell adhesion	up-up	1.59	1.61	2.07e-03	7.46e-04	265	229
+Thyroid cancer	Parkinson's disease	Gene Ontology	cell chemotaxis	up-up	1.71	1.63	8.98e-05	8.43e-04	276	244
+Thyroid cancer	Parkinson's disease	Gene Ontology	interferon gamma mediated signaling pathway	up-up	1.94	1.97	8.29e-04	1.25e-03	80	66
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of tumor necrosis factor superfamily cytokine production	up-up	1.62	1.96	4.56e-02	1.41e-03	81	73
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of cell adhesion	up-up	1.52	1.51	1.49e-03	1.52e-03	388	333
+Thyroid cancer	Parkinson's disease	Gene Ontology	wound healing	up-up	1.83	1.43	1.50e-08	1.61e-03	540	461
+Thyroid cancer	Parkinson's disease	Gene Ontology	cytokine secretion	up-up	1.81	1.67	6.20e-05	1.63e-03	220	174
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of extrinsic apoptotic signaling pathway	up-up	1.75	1.73	1.62e-03	1.67e-03	146	130
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of cell death	up-up	1.37	1.2	1.89e-05	2.00e-03	1557	1311
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of response to external stimulus	up-up	1.64	1.3	1.50e-08	2.12e-03	1029	844
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of cell differentiation	up-up	1.38	1.3	4.74e-04	2.20e-03	937	792
+Thyroid cancer	Parkinson's disease	Gene Ontology	innate immune response	up-up	1.86	1.33	1.50e-08	2.24e-03	844	671
+Thyroid cancer	Parkinson's disease	Gene Ontology	g protein coupled receptor activity	up-up	1.46	1.48	1.36e-03	2.29e-03	485	345
+Thyroid cancer	Parkinson's disease	Gene Ontology	t cell proliferation	up-up	1.46	1.68	3.71e-02	2.38e-03	181	154
+Thyroid cancer	Parkinson's disease	Gene Ontology	negative regulation of cell differentiation	up-up	1.28	1.4	2.56e-02	2.49e-03	663	539
+Thyroid cancer	Parkinson's disease	Gene Ontology	myeloid leukocyte activation	up-up	2.05	1.37	1.50e-08	2.54e-03	616	528
+Thyroid cancer	Parkinson's disease	Gene Ontology	extracellular matrix disassembly	up-up	2.28	1.9	4.38e-06	2.54e-03	76	64
+Thyroid cancer	Parkinson's disease	Gene Ontology	myeloid leukocyte migration	up-up	1.63	1.62	3.59e-03	2.79e-03	196	175
+Thyroid cancer	Parkinson's disease	Gene Ontology	interleukin 8 production	up-up	1.61	1.9	3.52e-02	2.81e-03	74	62
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of response to cytokine stimulus	up-up	1.48	1.71	2.89e-02	2.95e-03	163	138
+Thyroid cancer	Parkinson's disease	Gene Ontology	endothelial cell migration	up-up	1.61	1.6	3.52e-03	2.96e-03	198	173
+Thyroid cancer	Parkinson's disease	Gene Ontology	secretory granule membrane	up-up	1.77	1.59	3.70e-05	3.00e-03	287	223
+Thyroid cancer	Parkinson's disease	Gene Ontology	leukocyte mediated immunity	up-up	1.95	1.33	1.50e-08	3.53e-03	743	621
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of inflammatory response	up-up	1.5	1.74	3.40e-02	3.84e-03	132	112
+Thyroid cancer	Parkinson's disease	Gene Ontology	negative regulation of extrinsic apoptotic signaling pathway	up-up	1.85	1.83	2.96e-03	4.04e-03	96	85
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of response to stress	up-up	1.37	1.17	2.53e-05	4.27e-03	1427	1169
+Thyroid cancer	Parkinson's disease	Gene Ontology	integrin mediated signaling pathway	up-up	2.03	1.83	9.50e-05	4.29e-03	101	90
+Thyroid cancer	Parkinson's disease	Gene Ontology	response to wounding	up-up	1.73	1.34	2.77e-08	4.68e-03	649	557
+Thyroid cancer	Parkinson's disease	Gene Ontology	activation of immune response	up-up	1.57	1.38	2.24e-05	4.77e-03	581	473
+Thyroid cancer	Parkinson's disease	Gene Ontology	negative regulation of immune response	up-up	1.54	1.73	1.93e-02	5.14e-03	145	120
+Thyroid cancer	Parkinson's disease	Gene Ontology	reproduction	up-up	1.3	1.22	4.70e-04	5.55e-03	1353	1024
+Thyroid cancer	Parkinson's disease	Gene Ontology	apoptotic cell clearance	up-up	2.07	1.99	1.31e-03	5.68e-03	42	36
+Thyroid cancer	Parkinson's disease	Gene Ontology	granulocyte migration	up-up	2	1.72	2.51e-05	5.72e-03	132	119
+Thyroid cancer	Parkinson's disease	Gene Ontology	neutrophil migration	up-up	1.84	1.74	8.12e-04	5.75e-03	109	97
+Thyroid cancer	Parkinson's disease	Gene Ontology	gliogenesis	up-up	1.58	1.53	1.56e-03	6.78e-03	279	239
+Thyroid cancer	Parkinson's disease	Gene Ontology	interleukin 1 production	up-up	1.63	1.81	3.03e-02	7.50e-03	96	75
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of defense response	up-up	1.58	1.33	2.19e-06	7.74e-03	717	577
+Thyroid cancer	Parkinson's disease	Gene Ontology	signaling receptor binding	up-up	1.57	1.15	1.50e-08	7.74e-03	1437	1183
+Thyroid cancer	Parkinson's disease	Gene Ontology	extracellular matrix structural constituent	up-up	1.64	1.62	3.23e-03	7.91e-03	161	133
+Thyroid cancer	Parkinson's disease	Gene Ontology	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	up-up	1.77	1.96	2.98e-02	8.13e-03	35	31
+Thyroid cancer	Parkinson's disease	Gene Ontology	cellular defense response	up-up	1.92	1.9	2.45e-03	8.15e-03	49	45
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of extrinsic apoptotic signaling pathway via death domain receptors	up-up	1.8	1.84	2.24e-02	8.16e-03	54	48
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of epidermal cell differentiation	up-up	1.69	1.82	2.55e-02	8.41e-03	59	50
+Thyroid cancer	Parkinson's disease	Gene Ontology	tertiary granule membrane	up-up	2.28	1.85	3.09e-06	9.25e-03	71	59
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of cell differentiation	up-up	1.35	1.16	8.94e-06	9.34e-03	1730	1406
+Thyroid cancer	Parkinson's disease	Gene Ontology	glial cell differentiation	up-up	1.53	1.54	8.16e-03	9.83e-03	209	178
+Thyroid cancer	Parkinson's disease	Gene Ontology	cell adhesion mediated by integrin	up-up	1.93	1.8	2.68e-03	1.00e-02	66	58
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte migration	up-up	1.64	1.67	1.20e-02	1.00e-02	126	114
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of leukocyte migration	up-up	1.67	1.56	9.44e-04	1.04e-02	187	164
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of extracellular matrix organization	up-up	1.78	1.87	1.93e-02	1.05e-02	37	33
+Thyroid cancer	Parkinson's disease	Gene Ontology	cytokine activity	up-up	1.7	1.53	6.51e-04	1.06e-02	203	162
+Thyroid cancer	Parkinson's disease	Gene Ontology	keratinization	up-up	1.88	1.7	5.20e-04	1.10e-02	135	81
+Thyroid cancer	Parkinson's disease	Gene Ontology	response to interferon gamma	up-up	1.94	1.58	8.83e-06	1.14e-02	178	148
+Thyroid cancer	Parkinson's disease	Gene Ontology	cell activation involved in immune response	up-up	1.99	1.32	1.50e-08	1.20e-02	679	566
+Thyroid cancer	Parkinson's disease	Gene Ontology	coagulation	up-up	1.45	1.43	3.71e-03	1.25e-02	323	285
+Thyroid cancer	Parkinson's disease	Gene Ontology	cell matrix adhesion	up-up	1.72	1.52	1.89e-04	1.32e-02	210	186
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of gliogenesis	up-up	1.7	1.63	8.62e-03	1.33e-02	115	96
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of epidermis development	up-up	1.79	1.77	9.12e-03	1.37e-02	82	71
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of chemotaxis	up-up	1.7	1.51	6.09e-04	1.43e-02	203	179
+Thyroid cancer	Parkinson's disease	Gene Ontology	heterochromatin	up-up	1.91	1.77	1.62e-03	1.43e-02	76	61
+Thyroid cancer	Parkinson's disease	Gene Ontology	extrinsic apoptotic signaling pathway	up-up	1.6	1.5	3.31e-03	1.44e-02	213	191
+Thyroid cancer	Parkinson's disease	Gene Ontology	entry into host	up-up	1.9	1.63	2.18e-04	1.46e-02	128	114
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of peptidyl tyrosine phosphorylation	up-up	1.61	1.58	5.36e-03	1.56e-02	182	159
+Thyroid cancer	Parkinson's disease	Gene Ontology	tissue migration	up-up	1.66	1.45	4.21e-04	1.57e-02	285	249
+Thyroid cancer	Parkinson's disease	Gene Ontology	hepatocyte apoptotic process	up-up	2.12	1.92	2.44e-03	1.61e-02	12	11
+Thyroid cancer	Parkinson's disease	Gene Ontology	tube formation	up-up	1.52	1.56	4.20e-02	1.67e-02	147	116
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of receptor signaling pathway via stat	up-up	1.74	1.73	1.39e-02	1.70e-02	88	75
+Thyroid cancer	Parkinson's disease	Gene Ontology	enzyme linked receptor protein signaling pathway	up-up	1.25	1.24	8.36e-03	1.74e-02	986	826
+Thyroid cancer	Parkinson's disease	Gene Ontology	taxis	up-up	1.87	1.28	1.50e-08	1.81e-02	611	514
+Thyroid cancer	Parkinson's disease	Gene Ontology	epithelial tube morphogenesis	up-up	1.53	1.41	1.44e-03	1.99e-02	318	264
+Thyroid cancer	Parkinson's disease	Gene Ontology	bone remodeling	up-up	1.6	1.68	3.21e-02	1.99e-02	90	79
+Thyroid cancer	Parkinson's disease	Gene Ontology	cd40 signaling pathway	up-up	1.84	1.9	4.97e-02	2.02e-02	12	10
+Thyroid cancer	Parkinson's disease	Gene Ontology	side of membrane	up-up	1.38	1.36	8.16e-03	2.09e-02	492	406
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of cytokine secretion	up-up	1.54	1.56	4.76e-02	2.12e-02	130	108
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of mapk cascade	up-up	1.59	1.33	3.30e-05	2.17e-02	501	437
+Thyroid cancer	Parkinson's disease	Gene Ontology	leukocyte chemotaxis	up-up	1.76	1.49	2.91e-04	2.42e-02	206	185
+Thyroid cancer	Parkinson's disease	Gene Ontology	exogenous protein binding	up-up	2.06	1.72	2.72e-04	2.52e-02	70	63
+Thyroid cancer	Parkinson's disease	Gene Ontology	ruffle	up-up	1.75	1.48	9.13e-04	2.53e-02	167	145
+Thyroid cancer	Parkinson's disease	Gene Ontology	extrinsic apoptotic signaling pathway via death domain receptors	up-up	1.62	1.69	4.91e-02	2.65e-02	81	71
+Thyroid cancer	Parkinson's disease	Gene Ontology	immune response regulating signaling pathway	up-up	1.53	1.29	7.52e-05	2.66e-02	543	436
+Thyroid cancer	Parkinson's disease	Gene Ontology	negative regulation of defense response	up-up	1.47	1.48	1.80e-02	2.68e-02	199	157
+Thyroid cancer	Parkinson's disease	Gene Ontology	cellular response to abiotic stimulus	up-up	1.52	1.4	2.57e-03	2.78e-02	317	270
+Thyroid cancer	Parkinson's disease	Gene Ontology	collagen fibril organization	up-up	2.25	1.74	5.01e-05	2.84e-02	52	43
+Thyroid cancer	Parkinson's disease	Gene Ontology	ameboidal type cell migration	up-up	1.57	1.34	3.11e-04	2.89e-02	382	330
+Thyroid cancer	Parkinson's disease	Gene Ontology	natural killer cell activation	up-up	1.59	1.71	4.67e-02	3.02e-02	79	59
+Thyroid cancer	Parkinson's disease	Gene Ontology	peptidyl amino acid modification	up-up	1.22	1.19	2.90e-02	3.02e-02	1189	948
+Thyroid cancer	Parkinson's disease	Gene Ontology	anchoring junction	up-up	1.76	1.25	1.50e-08	3.15e-02	791	657
+Thyroid cancer	Parkinson's disease	Gene Ontology	cell substrate junction organization	up-up	1.95	1.58	4.75e-04	3.17e-02	98	87
+Thyroid cancer	Parkinson's disease	Gene Ontology	multi multicellular organism process	up-up	1.58	1.42	3.34e-03	3.17e-02	221	195
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of protein modification process	up-up	1.41	1.18	2.32e-05	3.23e-02	1162	963
+Thyroid cancer	Parkinson's disease	Gene Ontology	animal organ morphogenesis	up-up	1.36	1.2	2.39e-04	3.32e-02	1029	845
+Thyroid cancer	Parkinson's disease	Gene Ontology	cornification	up-up	1.72	1.67	1.20e-02	3.61e-02	95	73
+Thyroid cancer	Parkinson's disease	Gene Ontology	cell junction assembly	up-up	1.75	1.41	7.86e-05	3.79e-02	239	204
+Thyroid cancer	Parkinson's disease	Gene Ontology	superoxide anion generation	up-up	1.74	1.75	3.80e-02	3.79e-02	35	31
+Thyroid cancer	Parkinson's disease	Gene Ontology	neuroinflammatory response	up-up	1.7	1.64	3.17e-02	3.85e-02	61	56
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of chemotaxis	up-up	1.63	1.55	6.66e-03	3.94e-02	132	119
+Thyroid cancer	Parkinson's disease	Gene Ontology	collagen catabolic process	up-up	2.19	1.65	1.37e-04	3.95e-02	46	42
+Thyroid cancer	Parkinson's disease	Gene Ontology	transmembrane receptor protein tyrosine kinase signaling pathway	up-up	1.39	1.24	1.39e-03	4.00e-02	685	584
+Thyroid cancer	Parkinson's disease	Gene Ontology	defense response to gram positive bacterium	up-up	1.87	1.72	2.40e-03	4.00e-02	76	53
+Thyroid cancer	Parkinson's disease	Gene Ontology	response to type i interferon	up-up	1.82	1.57	2.99e-03	4.13e-02	92	80
+Thyroid cancer	Parkinson's disease	Gene Ontology	rho gtpase binding	up-up	1.58	1.48	8.47e-03	4.13e-02	169	122
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of map kinase activity	up-up	1.62	1.36	1.41e-03	4.18e-02	245	217
+Thyroid cancer	Parkinson's disease	Gene Ontology	positive regulation of cell death	up-up	1.55	1.25	4.92e-06	4.39e-02	670	575
+Thyroid cancer	Parkinson's disease	Gene Ontology	neural tube development	up-up	1.6	1.46	1.33e-02	4.55e-02	157	128
+Thyroid cancer	Parkinson's disease	Gene Ontology	growth factor binding	up-up	1.74	1.53	1.88e-03	4.62e-02	137	119
+Thyroid cancer	Parkinson's disease	Gene Ontology	antigen binding	up-up	1.95	1.72	2.04e-03	4.89e-02	56	38
+Thyroid cancer	Parkinson's disease	Gene Ontology	cell cell junction	up-up	1.79	1.25	1.17e-07	4.97e-02	470	378
+Thyroid cancer	Parkinson's disease	Gene Ontology	aerobic respiration	down-down	-1.73	-2.6	1.09e-02	1.26e-08	78	68
+Thyroid cancer	Parkinson's disease	Gene Ontology	atp metabolic process	down-down	-1.76	-2.41	1.04e-04	1.26e-08	272	227
+Thyroid cancer	Parkinson's disease	Gene Ontology	atp synthesis coupled electron transport	down-down	-2.51	-2.64	1.50e-08	1.26e-08	78	62
+Thyroid cancer	Parkinson's disease	Gene Ontology	cellular protein containing complex assembly	down-down	-1.34	-1.73	9.46e-03	1.26e-08	939	745
+Thyroid cancer	Parkinson's disease	Gene Ontology	cellular respiration	down-down	-2.12	-2.64	2.10e-07	1.26e-08	166	132
+Thyroid cancer	Parkinson's disease	Gene Ontology	electron transport chain	down-down	-1.99	-2.38	1.66e-05	1.26e-08	161	133
+Thyroid cancer	Parkinson's disease	Gene Ontology	energy derivation by oxidation of organic compounds	down-down	-1.81	-2.41	5.35e-05	1.26e-08	251	203
+Thyroid cancer	Parkinson's disease	Gene Ontology	envelope	down-down	-1.59	-2.08	9.18e-08	1.26e-08	1129	826
+Thyroid cancer	Parkinson's disease	Gene Ontology	generation of precursor metabolites and energy	down-down	-1.72	-2.27	1.64e-06	1.26e-08	494	411
+Thyroid cancer	Parkinson's disease	Gene Ontology	inner mitochondrial membrane protein complex	down-down	-2.48	-2.96	1.50e-08	1.26e-08	115	80
+Thyroid cancer	Parkinson's disease	Gene Ontology	intracellular transport	down-down	-1.37	-1.74	1.52e-04	1.26e-08	1621	1258
+Thyroid cancer	Parkinson's disease	Gene Ontology	mitochondrial envelope	down-down	-2	-2.48	1.50e-08	1.26e-08	699	488
+Thyroid cancer	Parkinson's disease	Gene Ontology	mitochondrial gene expression	down-down	-1.75	-2.41	1.83e-03	1.26e-08	162	109
+Thyroid cancer	Parkinson's disease	Gene Ontology	mitochondrial matrix	down-down	-1.99	-2.42	1.50e-08	1.26e-08	454	343
+Thyroid cancer	Parkinson's disease	Gene Ontology	mitochondrial protein complex	down-down	-2.28	-2.96	1.50e-08	1.26e-08	235	168
+Thyroid cancer	Parkinson's disease	Gene Ontology	mitochondrial respiratory chain complex assembly	down-down	-2.46	-2.62	1.50e-08	1.26e-08	87	51
+Thyroid cancer	Parkinson's disease	Gene Ontology	mitochondrion	down-down	-1.73	-2.23	1.50e-08	1.26e-08	1489	1099
+Thyroid cancer	Parkinson's disease	Gene Ontology	mitochondrion organization	down-down	-1.57	-2.38	2.60e-04	1.26e-08	498	374
+Thyroid cancer	Parkinson's disease	Gene Ontology	organelle inner membrane	down-down	-2.05	-2.6	1.50e-08	1.26e-08	499	340
+Thyroid cancer	Parkinson's disease	Gene Ontology	oxidation reduction process	down-down	-1.62	-1.8	4.28e-07	1.26e-08	932	727
+Thyroid cancer	Parkinson's disease	Gene Ontology	oxidative phosphorylation	down-down	-2.61	-2.63	1.50e-08	1.26e-08	122	98
+Thyroid cancer	Parkinson's disease	Gene Ontology	oxidoreductase complex	down-down	-1.88	-2.45	1.00e-03	1.26e-08	96	77
+Thyroid cancer	Parkinson's disease	Gene Ontology	proton transmembrane transport	down-down	-1.73	-2.42	3.26e-03	1.26e-08	139	104
+Thyroid cancer	Parkinson's disease	Gene Ontology	respirasome	down-down	-2.55	-2.85	1.50e-08	1.26e-08	80	61
+Thyroid cancer	Parkinson's disease	Gene Ontology	respiratory chain complex	down-down	-2.46	-2.79	4.60e-08	1.26e-08	67	50
+Thyroid cancer	Parkinson's disease	Gene Ontology	respiratory electron transport chain	down-down	-2.34	-2.59	4.81e-08	1.26e-08	96	75
+Thyroid cancer	Parkinson's disease	Gene Ontology	cellular macromolecule localization	down-down	-1.22	-1.54	3.41e-02	1.29e-08	1813	1410
+Thyroid cancer	Parkinson's disease	Gene Ontology	intracellular protein transport	down-down	-1.48	-1.67	4.16e-05	2.33e-08	1064	828
+Thyroid cancer	Parkinson's disease	Gene Ontology	catalytic complex	down-down	-1.38	-1.61	5.32e-04	6.01e-08	1281	987
+Thyroid cancer	Parkinson's disease	Gene Ontology	proton transmembrane transporter activity	down-down	-1.8	-2.34	1.26e-03	7.72e-08	115	86
+Thyroid cancer	Parkinson's disease	Gene Ontology	nadh dehydrogenase complex assembly	down-down	-2.35	-2.51	7.09e-07	9.29e-08	55	39
+Thyroid cancer	Parkinson's disease	Gene Ontology	nadh dehydrogenase complex	down-down	-2.46	-2.49	1.68e-07	1.08e-07	40	29
+Thyroid cancer	Parkinson's disease	Gene Ontology	mitochondrial electron transport nadh to ubiquinone	down-down	-2.42	-2.47	4.64e-07	1.19e-07	43	34
+Thyroid cancer	Parkinson's disease	Gene Ontology	mitochondrial transport	down-down	-1.49	-2.06	2.25e-02	4.83e-07	241	186
+Thyroid cancer	Parkinson's disease	Gene Ontology	organellar ribosome	down-down	-1.6	-2.36	3.15e-02	5.41e-07	85	56
+Thyroid cancer	Parkinson's disease	Gene Ontology	nadh dehydrogenase activity	down-down	-2.4	-2.48	1.93e-06	5.50e-07	35	26
+Thyroid cancer	Parkinson's disease	Gene Ontology	proton transporting two sector atpase complex	down-down	-1.95	-2.42	4.38e-03	5.74e-07	47	36
+Thyroid cancer	Parkinson's disease	Gene Ontology	organonitrogen compound biosynthetic process	down-down	-1.22	-1.49	3.41e-02	1.04e-06	1662	1275
+Thyroid cancer	Parkinson's disease	Gene Ontology	oxidoreductase activity	down-down	-1.69	-1.68	1.68e-07	1.54e-06	686	535
+Thyroid cancer	Parkinson's disease	Gene Ontology	inner mitochondrial membrane organization	down-down	-2.02	-2.35	1.20e-03	5.35e-06	45	31
+Thyroid cancer	Parkinson's disease	Gene Ontology	oxidoreductase activity acting on nad p h quinone or similar compound as acceptor	down-down	-2.4	-2.34	1.24e-06	5.40e-06	48	38
+Thyroid cancer	Parkinson's disease	Gene Ontology	mitochondrial transmembrane transport	down-down	-1.85	-2.23	2.45e-03	5.96e-06	87	64
+Thyroid cancer	Parkinson's disease	Gene Ontology	amide biosynthetic process	down-down	-1.38	-1.6	8.06e-03	3.30e-05	724	566
+Thyroid cancer	Parkinson's disease	Gene Ontology	oxidoreductase activity acting on nad p h	down-down	-1.7	-2.14	1.29e-02	3.31e-05	90	74
+Thyroid cancer	Parkinson's disease	Gene Ontology	electron transfer activity	down-down	-1.64	-2.04	2.21e-02	6.67e-05	102	90
+Thyroid cancer	Parkinson's disease	Gene Ontology	protein targeting	down-down	-1.7	-1.73	2.87e-05	1.01e-04	394	305
+Thyroid cancer	Parkinson's disease	Gene Ontology	cristae formation	down-down	-2.22	-2.17	5.01e-05	1.16e-04	32	23
+Thyroid cancer	Parkinson's disease	Gene Ontology	atp synthesis coupled proton transport	down-down	-2.19	-2.18	1.33e-04	4.10e-04	22	18
+Thyroid cancer	Parkinson's disease	Gene Ontology	proton transporting atp synthase complex	down-down	-2.2	-2.16	1.04e-04	7.00e-04	19	16
+Thyroid cancer	Parkinson's disease	Gene Ontology	cofactor binding	down-down	-1.4	-1.58	1.41e-02	1.12e-03	476	400
+Thyroid cancer	Parkinson's disease	Gene Ontology	atp biosynthetic process	down-down	-1.71	-2.03	4.56e-02	1.62e-03	46	37
+Thyroid cancer	Parkinson's disease	Gene Ontology	intraciliary transport particle b	down-down	-1.94	-2.06	6.77e-03	2.44e-03	19	14
+Thyroid cancer	Parkinson's disease	Gene Ontology	protein localization to organelle	down-down	-1.28	-1.42	4.64e-02	2.64e-03	889	712
+Thyroid cancer	Parkinson's disease	Gene Ontology	organelle assembly	down-down	-1.35	-1.44	8.16e-03	3.13e-03	791	568
+Thyroid cancer	Parkinson's disease	Gene Ontology	cilium organization	down-down	-1.54	-1.63	3.65e-03	3.27e-03	367	234
+Thyroid cancer	Parkinson's disease	Gene Ontology	aerobic electron transport chain	down-down	-1.98	-2.03	7.52e-03	3.31e-03	17	14
+Thyroid cancer	Parkinson's disease	Gene Ontology	proton transporting atp synthase activity rotational mechanism	down-down	-1.95	-2.05	7.25e-03	4.78e-03	15	13
+Thyroid cancer	Parkinson's disease	Gene Ontology	peptide biosynthetic process	down-down	-1.5	-1.46	8.35e-04	4.79e-03	594	461
+Thyroid cancer	Parkinson's disease	Gene Ontology	trna processing	down-down	-1.74	-1.77	7.01e-03	5.12e-03	121	88
+Thyroid cancer	Parkinson's disease	Gene Ontology	ciliary tip	down-down	-1.93	-1.96	3.95e-03	5.18e-03	44	32
+Thyroid cancer	Parkinson's disease	Gene Ontology	cytochrome complex assembly	down-down	-1.74	-1.99	4.30e-02	7.74e-03	34	16
+Thyroid cancer	Parkinson's disease	Gene Ontology	intraciliary transport involved in cilium assembly	down-down	-2.08	-1.92	6.62e-04	8.16e-03	39	30
+Thyroid cancer	Parkinson's disease	Gene Ontology	ubiquitin like protein specific protease activity	down-down	-1.58	-1.76	4.93e-02	8.41e-03	93	66
+Thyroid cancer	Parkinson's disease	Gene Ontology	peptide metabolic process	down-down	-1.43	-1.42	2.56e-03	1.02e-02	726	573
+Thyroid cancer	Parkinson's disease	Gene Ontology	ribonucleoprotein complex biogenesis	down-down	-1.53	-1.51	4.95e-03	1.04e-02	387	314
+Thyroid cancer	Parkinson's disease	Gene Ontology	intraciliary transport	down-down	-2.2	-1.9	2.16e-05	1.06e-02	51	37
+Thyroid cancer	Parkinson's disease	Gene Ontology	intraciliary transport particle	down-down	-2.11	-1.93	8.03e-04	1.25e-02	26	18
+Thyroid cancer	Parkinson's disease	Gene Ontology	protein transport along microtubule	down-down	-1.94	-1.78	3.08e-03	1.32e-02	66	50
+Thyroid cancer	Parkinson's disease	Gene Ontology	establishment of protein localization to membrane	down-down	-1.45	-1.53	2.98e-02	1.61e-02	296	224
+Thyroid cancer	Parkinson's disease	Gene Ontology	small molecule catabolic process	down-down	-1.38	-1.42	3.56e-02	1.82e-02	420	336
+Thyroid cancer	Parkinson's disease	Gene Ontology	establishment of protein localization to organelle	down-down	-1.42	-1.39	9.44e-03	2.11e-02	520	433
+Thyroid cancer	Parkinson's disease	Gene Ontology	regulation of mitochondrial gene expression	down-down	-1.72	-1.87	4.67e-02	2.42e-02	28	17
+Thyroid cancer	Parkinson's disease	Gene Ontology	mitochondrial rna metabolic process	down-down	-1.72	-1.81	4.14e-02	2.48e-02	46	32
+Thyroid cancer	Parkinson's disease	Gene Ontology	ncrna processing	down-down	-1.48	-1.44	1.73e-02	3.13e-02	343	262
+Thyroid cancer	Parkinson's disease	Gene Ontology	ribosome	down-down	-2.15	-1.53	2.00e-08	3.44e-02	200	149
+Thyroid cancer	Parkinson's disease	Gene Ontology	ribonucleoprotein complex	down-down	-1.79	-1.36	1.50e-08	3.62e-02	615	480
+Thyroid cancer	Parkinson's disease	Gene Ontology	proton transporting two sector atpase complex proton transporting domain	down-down	-1.91	-1.79	1.14e-02	4.51e-02	20	18
+Thyroid cancer	Alzheimer's disease	Gene Ontology	adaptive immune response	up-up	1.54	2.36	4.33e-04	5.63e-09	403	320
+Thyroid cancer	Alzheimer's disease	Gene Ontology	anatomical structure formation involved in morphogenesis	up-up	1.55	2.09	5.40e-08	5.63e-09	1048	883
+Thyroid cancer	Alzheimer's disease	Gene Ontology	animal organ morphogenesis	up-up	1.36	2.05	2.39e-04	5.63e-09	1029	846
+Thyroid cancer	Alzheimer's disease	Gene Ontology	biological adhesion	up-up	1.81	1.92	1.50e-08	5.63e-09	1330	1084
+Thyroid cancer	Alzheimer's disease	Gene Ontology	blood vessel morphogenesis	up-up	1.73	2.36	6.35e-08	5.63e-09	572	510
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cardiovascular system development	up-up	1.6	2.32	1.01e-06	5.63e-09	688	601
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cell activation	up-up	1.77	1.77	1.50e-08	5.63e-09	1320	1094
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cell cell adhesion	up-up	1.65	1.87	2.55e-08	5.63e-09	791	633
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cell motility	up-up	1.71	1.77	1.50e-08	5.63e-09	1519	1245
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cell surface	up-up	1.89	2.11	1.50e-08	5.63e-09	799	667
+Thyroid cancer	Alzheimer's disease	Gene Ontology	circulatory system development	up-up	1.41	2.15	2.53e-05	5.63e-09	1029	883
+Thyroid cancer	Alzheimer's disease	Gene Ontology	collagen containing extracellular matrix	up-up	1.92	2.59	1.50e-08	5.63e-09	394	327
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cytokine mediated signaling pathway	up-up	1.87	1.78	1.50e-08	5.63e-09	730	635
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cytokine production	up-up	1.59	2.04	2.63e-06	5.63e-09	725	607
+Thyroid cancer	Alzheimer's disease	Gene Ontology	defense response	up-up	1.84	1.66	1.50e-08	5.63e-09	1516	1216
+Thyroid cancer	Alzheimer's disease	Gene Ontology	embryonic morphogenesis	up-up	1.27	2.3	3.53e-02	5.63e-09	566	464
+Thyroid cancer	Alzheimer's disease	Gene Ontology	embryo development	up-up	1.4	1.81	7.71e-05	5.63e-09	987	798
+Thyroid cancer	Alzheimer's disease	Gene Ontology	epidermis development	up-up	1.74	2.23	4.75e-06	5.63e-09	370	275
+Thyroid cancer	Alzheimer's disease	Gene Ontology	epithelial cell differentiation	up-up	1.41	2.32	1.00e-03	5.63e-09	660	537
+Thyroid cancer	Alzheimer's disease	Gene Ontology	epithelial tube morphogenesis	up-up	1.53	2.15	1.44e-03	5.63e-09	318	264
+Thyroid cancer	Alzheimer's disease	Gene Ontology	epithelium development	up-up	1.58	1.93	1.50e-08	5.63e-09	1166	944
+Thyroid cancer	Alzheimer's disease	Gene Ontology	external side of plasma membrane	up-up	1.53	2.31	2.07e-03	5.63e-09	308	258
+Thyroid cancer	Alzheimer's disease	Gene Ontology	extracellular matrix	up-up	1.92	2.67	1.50e-08	5.63e-09	505	412
+Thyroid cancer	Alzheimer's disease	Gene Ontology	extracellular matrix structural constituent	up-up	1.64	2.49	3.23e-03	5.63e-09	161	133
+Thyroid cancer	Alzheimer's disease	Gene Ontology	extracellular structure organization	up-up	2.13	2.51	1.50e-08	5.63e-09	355	310
+Thyroid cancer	Alzheimer's disease	Gene Ontology	immune receptor activity	up-up	1.83	2.8	1.22e-03	5.63e-09	122	104
+Thyroid cancer	Alzheimer's disease	Gene Ontology	inflammatory response	up-up	1.88	2.04	1.50e-08	5.63e-09	679	567
+Thyroid cancer	Alzheimer's disease	Gene Ontology	intrinsic component of plasma membrane	up-up	1.77	1.56	1.50e-08	5.63e-09	1625	1295
+Thyroid cancer	Alzheimer's disease	Gene Ontology	leukocyte cell cell adhesion	up-up	1.37	2.21	1.55e-02	5.63e-09	323	281
+Thyroid cancer	Alzheimer's disease	Gene Ontology	leukocyte migration	up-up	1.99	2.09	1.50e-08	5.63e-09	426	373
+Thyroid cancer	Alzheimer's disease	Gene Ontology	leukocyte proliferation	up-up	1.42	2.21	1.60e-02	5.63e-09	289	246
+Thyroid cancer	Alzheimer's disease	Gene Ontology	locomotion	up-up	1.74	1.65	1.50e-08	5.63e-09	1736	1407
+Thyroid cancer	Alzheimer's disease	Gene Ontology	lymphocyte activation	up-up	1.34	2.09	5.68e-03	5.63e-09	654	529
+Thyroid cancer	Alzheimer's disease	Gene Ontology	molecular transducer activity	up-up	1.61	2.28	1.50e-08	5.63e-09	1085	853
+Thyroid cancer	Alzheimer's disease	Gene Ontology	negative regulation of developmental process	up-up	1.4	1.78	2.38e-04	5.63e-09	898	741
+Thyroid cancer	Alzheimer's disease	Gene Ontology	negative regulation of multicellular organismal process	up-up	1.5	1.8	2.77e-07	5.63e-09	1148	967
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell population proliferation	up-up	1.47	2.02	1.54e-05	5.63e-09	861	734
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of developmental process	up-up	1.44	1.66	1.85e-06	5.63e-09	1308	1092
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of immune system process	up-up	1.57	1.71	1.50e-08	5.63e-09	1022	843
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of multicellular organismal process	up-up	1.44	1.51	1.13e-07	5.63e-09	1668	1412
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of vasculature development	up-up	1.47	2.44	2.94e-02	5.63e-09	180	158
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of cell activation	up-up	1.51	2.11	1.41e-04	5.63e-09	532	432
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of cell adhesion	up-up	1.61	1.83	1.61e-06	5.63e-09	656	563
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of cell population proliferation	up-up	1.42	1.89	7.88e-07	5.63e-09	1529	1310
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of immune system process	up-up	1.5	1.83	3.26e-08	5.63e-09	1456	1185
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of lymphocyte activation	up-up	1.36	2.09	1.76e-02	5.63e-09	417	337
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of vasculature development	up-up	1.62	2.18	3.33e-04	5.63e-09	311	274
+Thyroid cancer	Alzheimer's disease	Gene Ontology	response to bacterium	up-up	1.5	2.17	2.04e-04	5.63e-09	575	459
+Thyroid cancer	Alzheimer's disease	Gene Ontology	response to biotic stimulus	up-up	1.62	1.63	1.50e-08	5.63e-09	1363	1089
+Thyroid cancer	Alzheimer's disease	Gene Ontology	response to lipid	up-up	1.3	1.72	4.91e-03	5.63e-09	878	784
+Thyroid cancer	Alzheimer's disease	Gene Ontology	response to molecule of bacterial origin	up-up	1.49	2.11	4.11e-03	5.63e-09	326	289
+Thyroid cancer	Alzheimer's disease	Gene Ontology	response to wounding	up-up	1.73	1.93	2.77e-08	5.63e-09	649	557
+Thyroid cancer	Alzheimer's disease	Gene Ontology	skeletal system development	up-up	1.39	2.33	6.74e-03	5.63e-09	508	419
+Thyroid cancer	Alzheimer's disease	Gene Ontology	skin development	up-up	1.8	2.18	3.14e-06	5.63e-09	321	238
+Thyroid cancer	Alzheimer's disease	Gene Ontology	tube development	up-up	1.59	2.35	3.47e-08	5.63e-09	996	858
+Thyroid cancer	Alzheimer's disease	Gene Ontology	tube morphogenesis	up-up	1.69	2.34	1.50e-08	5.63e-09	805	694
+Thyroid cancer	Alzheimer's disease	Gene Ontology	wound healing	up-up	1.83	2.02	1.50e-08	5.63e-09	540	461
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell adhesion	up-up	1.52	2	1.49e-03	8.21e-09	388	333
+Thyroid cancer	Alzheimer's disease	Gene Ontology	epidermal cell differentiation	up-up	1.72	2.26	1.50e-04	8.47e-09	264	189
+Thyroid cancer	Alzheimer's disease	Gene Ontology	response to cytokine	up-up	1.67	1.6	1.50e-08	1.12e-08	1114	972
+Thyroid cancer	Alzheimer's disease	Gene Ontology	defense response to other organism	up-up	1.81	1.62	1.50e-08	2.75e-08	1017	805
+Thyroid cancer	Alzheimer's disease	Gene Ontology	humoral immune response	up-up	1.41	2.19	4.44e-02	4.22e-08	238	194
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of immune response	up-up	1.67	1.62	1.50e-08	6.55e-08	953	775
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell activation	up-up	1.41	2.06	1.97e-02	7.28e-08	321	263
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of immune effector process	up-up	1.45	1.98	2.74e-03	7.72e-08	380	314
+Thyroid cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell differentiation	up-up	1.28	1.72	2.56e-02	8.51e-08	663	539
+Thyroid cancer	Alzheimer's disease	Gene Ontology	embryo development ending in birth or egg hatching	up-up	1.44	1.75	5.44e-04	9.65e-08	625	508
+Thyroid cancer	Alzheimer's disease	Gene Ontology	morphogenesis of a branching structure	up-up	1.45	2.16	4.34e-02	1.02e-07	194	172
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of cell differentiation	up-up	1.35	1.46	8.94e-06	1.12e-07	1730	1408
+Thyroid cancer	Alzheimer's disease	Gene Ontology	branching morphogenesis of an epithelial tube	up-up	1.53	2.31	3.63e-02	1.64e-07	147	129
+Thyroid cancer	Alzheimer's disease	Gene Ontology	t cell proliferation	up-up	1.46	2.21	3.71e-02	1.66e-07	181	154
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of intracellular signal transduction	up-up	1.62	1.6	1.50e-08	1.67e-07	951	794
+Thyroid cancer	Alzheimer's disease	Gene Ontology	receptor complex	up-up	1.49	1.93	2.72e-03	1.67e-07	385	323
+Thyroid cancer	Alzheimer's disease	Gene Ontology	keratinocyte differentiation	up-up	1.87	2.21	6.10e-06	1.68e-07	210	147
+Thyroid cancer	Alzheimer's disease	Gene Ontology	tissue morphogenesis	up-up	1.64	1.69	1.65e-06	4.82e-07	644	537
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cytokine activity	up-up	1.7	2.14	6.51e-04	6.02e-07	203	162
+Thyroid cancer	Alzheimer's disease	Gene Ontology	g protein coupled receptor activity	up-up	1.46	1.86	1.36e-03	7.50e-07	485	345
+Thyroid cancer	Alzheimer's disease	Gene Ontology	side of membrane	up-up	1.38	1.8	8.16e-03	7.99e-07	492	407
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cellular response to biotic stimulus	up-up	1.4	2.05	3.30e-02	1.07e-06	221	194
+Thyroid cancer	Alzheimer's disease	Gene Ontology	tissue remodeling	up-up	1.83	2.12	1.04e-04	1.40e-06	163	145
+Thyroid cancer	Alzheimer's disease	Gene Ontology	defense response to bacterium	up-up	1.71	2.11	3.00e-04	1.51e-06	219	157
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of receptor signaling pathway via stat	up-up	1.74	2.33	1.39e-02	1.52e-06	88	75
+Thyroid cancer	Alzheimer's disease	Gene Ontology	negative regulation of lymphocyte activation	up-up	1.64	2.23	7.49e-03	1.62e-06	142	120
+Thyroid cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell activation	up-up	1.68	2.13	1.46e-03	1.69e-06	189	159
+Thyroid cancer	Alzheimer's disease	Gene Ontology	interleukin 6 production	up-up	1.57	2.19	1.95e-02	1.81e-06	141	115
+Thyroid cancer	Alzheimer's disease	Gene Ontology	epithelial cell proliferation	up-up	1.49	1.82	2.42e-03	1.95e-06	379	321
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of locomotion	up-up	1.5	1.66	3.11e-04	1.96e-06	537	467
+Thyroid cancer	Alzheimer's disease	Gene Ontology	reproductive system development	up-up	1.41	1.77	5.76e-03	2.06e-06	419	362
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of cellular component movement	up-up	1.59	1.54	3.62e-08	2.19e-06	956	803
+Thyroid cancer	Alzheimer's disease	Gene Ontology	growth factor binding	up-up	1.74	2.21	1.88e-03	2.36e-06	137	120
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cytokine receptor binding	up-up	1.57	1.9	1.43e-03	4.02e-06	252	219
+Thyroid cancer	Alzheimer's disease	Gene Ontology	receptor regulator activity	up-up	1.49	1.73	8.12e-04	4.43e-06	462	364
+Thyroid cancer	Alzheimer's disease	Gene Ontology	signaling receptor binding	up-up	1.57	1.4	1.50e-08	5.03e-06	1437	1185
+Thyroid cancer	Alzheimer's disease	Gene Ontology	interleukin 8 production	up-up	1.61	2.38	3.52e-02	5.47e-06	74	62
+Thyroid cancer	Alzheimer's disease	Gene Ontology	response to growth factor	up-up	1.35	1.56	2.40e-03	6.97e-06	670	572
+Thyroid cancer	Alzheimer's disease	Gene Ontology	collagen trimer	up-up	1.72	2.39	1.50e-02	7.14e-06	76	55
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cell substrate adhesion	up-up	1.73	1.83	2.08e-05	8.74e-06	331	284
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of mapk cascade	up-up	1.59	1.65	3.30e-05	1.08e-05	501	437
+Thyroid cancer	Alzheimer's disease	Gene Ontology	collagen fibril organization	up-up	2.25	2.4	5.01e-05	1.30e-05	52	43
+Thyroid cancer	Alzheimer's disease	Gene Ontology	innate immune response	up-up	1.86	1.54	1.50e-08	1.30e-05	844	671
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of body fluid levels	up-up	1.53	1.66	1.52e-04	1.46e-05	481	419
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of signaling	up-up	1.57	1.36	1.50e-08	1.74e-05	1752	1439
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cytokine secretion	up-up	1.81	1.94	6.20e-05	1.82e-05	220	175
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of interleukin 6 production	up-up	1.64	2.21	2.54e-02	1.95e-05	90	76
+Thyroid cancer	Alzheimer's disease	Gene Ontology	immune effector process	up-up	1.94	1.43	1.50e-08	2.07e-05	1115	924
+Thyroid cancer	Alzheimer's disease	Gene Ontology	golgi lumen	up-up	1.86	2.2	3.93e-03	2.28e-05	89	76
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of immune response	up-up	1.63	1.54	1.40e-07	2.32e-05	745	609
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of phosphorus metabolic process	up-up	1.51	1.44	3.79e-07	2.40e-05	1066	905
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of cytokine production	up-up	1.69	1.7	6.10e-06	2.55e-05	434	365
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cell chemotaxis	up-up	1.71	1.81	8.98e-05	2.70e-05	276	246
+Thyroid cancer	Alzheimer's disease	Gene Ontology	morphogenesis of an epithelium	up-up	1.67	1.6	2.08e-06	3.06e-05	529	439
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell differentiation	up-up	1.38	1.47	4.74e-04	3.67e-05	937	794
+Thyroid cancer	Alzheimer's disease	Gene Ontology	neural tube development	up-up	1.6	2.03	1.33e-02	3.95e-05	157	129
+Thyroid cancer	Alzheimer's disease	Gene Ontology	endoderm development	up-up	1.71	2.27	9.88e-03	4.27e-05	73	60
+Thyroid cancer	Alzheimer's disease	Gene Ontology	granulocyte migration	up-up	2	2.01	2.51e-05	4.55e-05	132	119
+Thyroid cancer	Alzheimer's disease	Gene Ontology	coagulation	up-up	1.45	1.72	3.71e-03	5.27e-05	323	285
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of response to external stimulus	up-up	1.64	1.45	1.50e-08	5.45e-05	1029	845
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of embryonic development	up-up	1.53	2.09	3.41e-02	5.64e-05	125	97
+Thyroid cancer	Alzheimer's disease	Gene Ontology	basement membrane	up-up	1.76	2.16	5.68e-03	6.03e-05	92	71
+Thyroid cancer	Alzheimer's disease	Gene Ontology	collagen metabolic process	up-up	2.21	2.07	1.83e-06	7.03e-05	103	93
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of inflammatory response	up-up	1.57	1.77	8.78e-04	8.09e-05	321	256
+Thyroid cancer	Alzheimer's disease	Gene Ontology	erk1 and erk2 cascade	up-up	1.5	1.76	2.46e-03	8.79e-05	281	245
+Thyroid cancer	Alzheimer's disease	Gene Ontology	anchoring junction	up-up	1.76	1.46	1.50e-08	1.01e-04	791	659
+Thyroid cancer	Alzheimer's disease	Gene Ontology	negative regulation of leukocyte proliferation	up-up	1.63	2.11	2.68e-02	1.24e-04	78	71
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cellular defense response	up-up	1.92	2.25	2.45e-03	1.27e-04	49	45
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cell adhesion mediated by integrin	up-up	1.93	2.25	2.68e-03	1.28e-04	66	58
+Thyroid cancer	Alzheimer's disease	Gene Ontology	keratinization	up-up	1.88	2.11	5.20e-04	1.73e-04	135	81
+Thyroid cancer	Alzheimer's disease	Gene Ontology	taxis	up-up	1.87	1.5	1.50e-08	1.96e-04	611	516
+Thyroid cancer	Alzheimer's disease	Gene Ontology	i kappab kinase nf kappab signaling	up-up	1.63	1.77	5.75e-04	2.15e-04	254	202
+Thyroid cancer	Alzheimer's disease	Gene Ontology	vasculogenesis	up-up	1.8	2.07	6.20e-03	2.17e-04	78	70
+Thyroid cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell adhesion	up-up	1.59	1.73	2.07e-03	2.21e-04	265	230
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of protein modification process	up-up	1.41	1.38	2.32e-05	2.41e-04	1162	964
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of epidermis development	up-up	1.79	2.09	9.12e-03	2.59e-04	82	72
+Thyroid cancer	Alzheimer's disease	Gene Ontology	phagocytosis	up-up	1.92	1.72	6.63e-07	2.79e-04	253	214
+Thyroid cancer	Alzheimer's disease	Gene Ontology	myeloid leukocyte migration	up-up	1.63	1.75	3.59e-03	3.93e-04	196	175
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cornification	up-up	1.72	2.05	1.20e-02	4.56e-04	95	73
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of tumor necrosis factor superfamily cytokine production	up-up	1.62	2.03	4.56e-02	5.07e-04	81	73
+Thyroid cancer	Alzheimer's disease	Gene Ontology	blood microparticle	up-up	1.63	1.98	2.31e-02	6.32e-04	101	85
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of leukocyte migration	up-up	1.64	1.88	1.20e-02	6.33e-04	126	114
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of response to external stimulus	up-up	1.66	1.43	4.97e-07	6.57e-04	597	498
+Thyroid cancer	Alzheimer's disease	Gene Ontology	endoplasmic reticulum lumen	up-up	1.81	1.63	1.57e-06	6.82e-04	298	246
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of peptidyl tyrosine phosphorylation	up-up	1.61	1.79	5.36e-03	6.97e-04	182	159
+Thyroid cancer	Alzheimer's disease	Gene Ontology	activation of immune response	up-up	1.57	1.49	2.24e-05	6.97e-04	581	475
+Thyroid cancer	Alzheimer's disease	Gene Ontology	peptidyl tyrosine modification	up-up	1.54	1.64	1.20e-03	7.98e-04	353	308
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of erk1 and erk2 cascade	up-up	1.73	1.75	3.00e-04	9.19e-04	187	168
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of anatomical structure morphogenesis	up-up	1.78	1.36	1.50e-08	9.22e-04	1028	852
+Thyroid cancer	Alzheimer's disease	Gene Ontology	tube formation	up-up	1.52	1.83	4.20e-02	1.11e-03	147	116
+Thyroid cancer	Alzheimer's disease	Gene Ontology	integrin mediated signaling pathway	up-up	2.03	1.93	9.50e-05	1.16e-03	101	90
+Thyroid cancer	Alzheimer's disease	Gene Ontology	superoxide anion generation	up-up	1.74	2.14	3.80e-02	1.18e-03	35	31
+Thyroid cancer	Alzheimer's disease	Gene Ontology	reproduction	up-up	1.3	1.32	4.70e-04	1.19e-03	1353	1027
+Thyroid cancer	Alzheimer's disease	Gene Ontology	bone remodeling	up-up	1.6	1.89	3.21e-02	1.38e-03	90	79
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of defense response	up-up	1.58	1.42	2.19e-06	1.42e-03	717	577
+Thyroid cancer	Alzheimer's disease	Gene Ontology	morphogenesis of embryonic epithelium	up-up	1.68	1.79	4.15e-03	1.53e-03	150	119
+Thyroid cancer	Alzheimer's disease	Gene Ontology	leukocyte chemotaxis	up-up	1.76	1.63	2.91e-04	1.63e-03	206	185
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of cell death	up-up	1.37	1.27	1.89e-05	1.72e-03	1557	1313
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of mapk cascade	up-up	1.47	1.4	2.54e-04	1.88e-03	697	594
+Thyroid cancer	Alzheimer's disease	Gene Ontology	response to interferon gamma	up-up	1.94	1.72	8.83e-06	1.92e-03	178	148
+Thyroid cancer	Alzheimer's disease	Gene Ontology	glial cell differentiation	up-up	1.53	1.69	8.16e-03	1.95e-03	209	178
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of epidermal cell differentiation	up-up	1.69	1.98	2.55e-02	2.06e-03	59	51
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of extracellular matrix organization	up-up	1.78	2.08	1.93e-02	2.07e-03	37	33
+Thyroid cancer	Alzheimer's disease	Gene Ontology	protein kinase b signaling	up-up	1.7	1.66	3.00e-04	2.33e-03	243	212
+Thyroid cancer	Alzheimer's disease	Gene Ontology	collagen binding	up-up	1.7	1.96	2.75e-02	2.35e-03	68	60
+Thyroid cancer	Alzheimer's disease	Gene Ontology	lipid binding	up-up	1.26	1.39	2.60e-02	2.35e-03	685	530
+Thyroid cancer	Alzheimer's disease	Gene Ontology	neutrophil migration	up-up	1.84	1.85	8.12e-04	2.36e-03	109	97
+Thyroid cancer	Alzheimer's disease	Gene Ontology	exogenous protein binding	up-up	2.06	1.91	2.72e-04	2.44e-03	70	63
+Thyroid cancer	Alzheimer's disease	Gene Ontology	hemidesmosome assembly	up-up	2.14	2.09	1.76e-03	2.48e-03	12	12
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cell junction organization	up-up	1.8	1.59	5.30e-06	2.72e-03	288	239
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cellular response to mechanical stimulus	up-up	1.55	1.87	4.98e-02	2.79e-03	78	73
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of i kappab kinase nf kappab signaling	up-up	1.74	1.67	7.53e-04	2.79e-03	175	143
+Thyroid cancer	Alzheimer's disease	Gene Ontology	aminoglycan catabolic process	up-up	1.79	1.92	1.07e-02	2.96e-03	64	55
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cell substrate junction	up-up	1.77	1.48	4.72e-07	3.23e-03	400	352
+Thyroid cancer	Alzheimer's disease	Gene Ontology	receptor signaling pathway via stat	up-up	1.7	1.73	3.20e-03	3.27e-03	152	124
+Thyroid cancer	Alzheimer's disease	Gene Ontology	enzyme linked receptor protein signaling pathway	up-up	1.25	1.33	8.36e-03	3.48e-03	986	827
+Thyroid cancer	Alzheimer's disease	Gene Ontology	hydrolase activity acting on acid phosphorus nitrogen bonds	up-up	1.77	1.76	6.16e-04	3.53e-03	165	130
+Thyroid cancer	Alzheimer's disease	Gene Ontology	mhc protein complex	up-up	2.02	2.05	4.99e-03	3.64e-03	17	13
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of cytokine secretion	up-up	1.54	1.76	4.76e-02	3.71e-03	130	109
+Thyroid cancer	Alzheimer's disease	Gene Ontology	epithelial tube formation	up-up	1.6	1.77	9.59e-03	3.72e-03	132	104
+Thyroid cancer	Alzheimer's disease	Gene Ontology	leukocyte mediated immunity	up-up	1.95	1.33	1.50e-08	3.74e-03	743	622
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of receptor signaling pathway via stat	up-up	1.74	1.77	1.67e-03	3.77e-03	132	105
+Thyroid cancer	Alzheimer's disease	Gene Ontology	immune response regulating signaling pathway	up-up	1.53	1.43	7.52e-05	3.82e-03	543	438
+Thyroid cancer	Alzheimer's disease	Gene Ontology	apical plasma membrane	up-up	1.53	1.55	1.40e-03	3.99e-03	320	256
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte migration	up-up	1.67	1.65	9.44e-04	4.48e-03	187	164
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of peptidyl tyrosine phosphorylation	up-up	1.59	1.55	3.07e-03	4.57e-03	243	209
+Thyroid cancer	Alzheimer's disease	Gene Ontology	negative regulation of immune response	up-up	1.54	1.67	1.93e-02	4.58e-03	145	120
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of extrinsic apoptotic signaling pathway	up-up	1.75	1.74	1.62e-03	4.58e-03	146	130
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cell cell junction	up-up	1.79	1.45	1.17e-07	4.73e-03	470	379
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of inflammatory response	up-up	1.5	1.71	3.40e-02	4.73e-03	132	112
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cell matrix adhesion	up-up	1.72	1.58	1.89e-04	4.96e-03	210	187
+Thyroid cancer	Alzheimer's disease	Gene Ontology	myeloid leukocyte activation	up-up	2.05	1.35	1.50e-08	5.15e-03	616	528
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of response to cytokine stimulus	up-up	1.48	1.69	2.89e-02	5.18e-03	163	138
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cell junction assembly	up-up	1.75	1.51	7.86e-05	5.48e-03	239	206
+Thyroid cancer	Alzheimer's disease	Gene Ontology	female pregnancy	up-up	1.59	1.59	6.88e-03	5.53e-03	184	167
+Thyroid cancer	Alzheimer's disease	Gene Ontology	plasma membrane signaling receptor complex	up-up	1.47	1.61	2.75e-02	5.64e-03	186	150
+Thyroid cancer	Alzheimer's disease	Gene Ontology	interferon gamma mediated signaling pathway	up-up	1.94	1.73	8.29e-04	5.79e-03	80	66
+Thyroid cancer	Alzheimer's disease	Gene Ontology	response to chemokine	up-up	1.64	1.78	4.11e-02	6.32e-03	89	85
+Thyroid cancer	Alzheimer's disease	Gene Ontology	antigen binding	up-up	1.95	1.92	2.04e-03	6.47e-03	56	38
+Thyroid cancer	Alzheimer's disease	Gene Ontology	multi multicellular organism process	up-up	1.58	1.6	3.34e-03	6.55e-03	221	196
+Thyroid cancer	Alzheimer's disease	Gene Ontology	g protein coupled receptor signaling pathway	up-up	1.4	1.3	2.28e-04	7.10e-03	946	726
+Thyroid cancer	Alzheimer's disease	Gene Ontology	actin filament based process	up-up	1.56	1.31	6.50e-06	7.12e-03	732	589
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of phosphorylation	up-up	1.41	1.21	2.65e-06	7.64e-03	1503	1244
+Thyroid cancer	Alzheimer's disease	Gene Ontology	leukocyte mediated cytotoxicity	up-up	1.65	1.75	1.53e-02	7.90e-03	100	82
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cd40 signaling pathway	up-up	1.84	1.94	4.97e-02	8.48e-03	12	10
+Thyroid cancer	Alzheimer's disease	Gene Ontology	gliogenesis	up-up	1.58	1.51	1.56e-03	8.58e-03	279	239
+Thyroid cancer	Alzheimer's disease	Gene Ontology	growth	up-up	1.4	1.27	1.55e-04	8.66e-03	929	770
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cellular response to endogenous stimulus	up-up	1.25	1.22	3.27e-03	8.78e-03	1349	1142
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cell activation involved in immune response	up-up	1.99	1.31	1.50e-08	8.80e-03	679	566
+Thyroid cancer	Alzheimer's disease	Gene Ontology	mhc class ii protein complex	up-up	1.88	1.94	3.58e-02	8.84e-03	12	10
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of interleukin 8 secretion	up-up	1.98	1.96	5.49e-03	8.91e-03	16	15
+Thyroid cancer	Alzheimer's disease	Gene Ontology	neural tube formation	up-up	1.59	1.74	4.19e-02	9.22e-03	104	85
+Thyroid cancer	Alzheimer's disease	Gene Ontology	entry into host	up-up	1.9	1.66	2.18e-04	9.23e-03	128	114
+Thyroid cancer	Alzheimer's disease	Gene Ontology	insulin like growth factor i binding	up-up	1.79	1.96	4.47e-02	9.36e-03	13	13
+Thyroid cancer	Alzheimer's disease	Gene Ontology	response to endogenous stimulus	up-up	1.28	1.22	5.61e-04	9.95e-03	1599	1363
+Thyroid cancer	Alzheimer's disease	Gene Ontology	phosphatidylinositol 3 kinase signaling	up-up	1.5	1.66	3.96e-02	1.12e-02	144	130
+Thyroid cancer	Alzheimer's disease	Gene Ontology	apoptotic cell clearance	up-up	2.07	1.86	1.31e-03	1.21e-02	42	36
+Thyroid cancer	Alzheimer's disease	Gene Ontology	keratinocyte proliferation	up-up	1.74	1.86	3.20e-02	1.23e-02	44	36
+Thyroid cancer	Alzheimer's disease	Gene Ontology	response to hormone	up-up	1.23	1.25	3.09e-02	1.23e-02	948	822
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regeneration	up-up	1.63	1.53	3.18e-03	1.24e-02	185	163
+Thyroid cancer	Alzheimer's disease	Gene Ontology	interleukin 8 secretion	up-up	1.92	1.91	1.44e-02	1.25e-02	30	25
+Thyroid cancer	Alzheimer's disease	Gene Ontology	defense response to gram positive bacterium	up-up	1.87	1.79	2.40e-03	1.30e-02	76	53
+Thyroid cancer	Alzheimer's disease	Gene Ontology	fibrinolysis	up-up	1.83	1.9	2.21e-02	1.30e-02	28	25
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cell cell junction organization	up-up	1.59	1.55	6.56e-03	1.52e-02	184	145
+Thyroid cancer	Alzheimer's disease	Gene Ontology	negative regulation of extrinsic apoptotic signaling pathway	up-up	1.85	1.69	2.96e-03	1.53e-02	96	85
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of protein metabolic process	up-up	1.36	1.2	6.54e-06	1.58e-02	1604	1327
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of macrophage migration	up-up	1.8	1.92	4.67e-02	1.60e-02	21	19
+Thyroid cancer	Alzheimer's disease	Gene Ontology	interleukin 1 production	up-up	1.63	1.64	3.03e-02	1.61e-02	96	76
+Thyroid cancer	Alzheimer's disease	Gene Ontology	ameboidal type cell migration	up-up	1.57	1.41	3.11e-04	1.66e-02	382	331
+Thyroid cancer	Alzheimer's disease	Gene Ontology	sarcolemma	up-up	1.7	1.53	6.00e-03	1.68e-02	134	115
+Thyroid cancer	Alzheimer's disease	Gene Ontology	aminoglycan metabolic process	up-up	1.99	1.56	8.12e-06	1.73e-02	167	132
+Thyroid cancer	Alzheimer's disease	Gene Ontology	natural killer cell activation	up-up	1.59	1.76	4.67e-02	1.73e-02	79	59
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of protein kinase b signaling	up-up	1.83	1.54	1.52e-04	1.92e-02	161	142
+Thyroid cancer	Alzheimer's disease	Gene Ontology	tissue regeneration	up-up	1.87	1.72	2.73e-03	1.96e-02	71	60
+Thyroid cancer	Alzheimer's disease	Gene Ontology	response to protozoan	up-up	1.83	1.89	2.92e-02	1.97e-02	22	18
+Thyroid cancer	Alzheimer's disease	Gene Ontology	endothelial cell proliferation	up-up	1.59	1.53	1.77e-02	2.03e-02	139	120
+Thyroid cancer	Alzheimer's disease	Gene Ontology	endoderm formation	up-up	1.78	1.8	1.46e-02	2.03e-02	48	38
+Thyroid cancer	Alzheimer's disease	Gene Ontology	actin cytoskeleton	up-up	1.8	1.34	4.05e-08	2.10e-02	492	391
+Thyroid cancer	Alzheimer's disease	Gene Ontology	apical part of cell	up-up	1.62	1.41	8.93e-05	2.11e-02	386	311
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of defense response	up-up	1.6	1.34	5.63e-05	2.12e-02	473	389
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of response to biotic stimulus	up-up	1.55	1.33	1.20e-04	2.12e-02	491	396
+Thyroid cancer	Alzheimer's disease	Gene Ontology	response to interleukin 18	up-up	1.83	1.87	3.44e-02	2.18e-02	10	9
+Thyroid cancer	Alzheimer's disease	Gene Ontology	developmental growth	up-up	1.52	1.28	1.01e-04	2.26e-02	630	530
+Thyroid cancer	Alzheimer's disease	Gene Ontology	response to organic cyclic compound	up-up	1.36	1.24	1.12e-03	2.35e-02	912	811
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of intracellular signal transduction	up-up	1.34	1.18	2.24e-05	2.38e-02	1722	1400
+Thyroid cancer	Alzheimer's disease	Gene Ontology	response to oxygen containing compound	up-up	1.35	1.2	3.70e-05	2.38e-02	1580	1376
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell aging	up-up	1.92	1.83	1.53e-02	2.42e-02	18	10
+Thyroid cancer	Alzheimer's disease	Gene Ontology	neuroinflammatory response	up-up	1.7	1.67	3.17e-02	2.55e-02	61	56
+Thyroid cancer	Alzheimer's disease	Gene Ontology	collagen catabolic process	up-up	2.19	1.69	1.37e-04	2.70e-02	46	42
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of chemotaxis	up-up	1.63	1.54	6.66e-03	2.80e-02	132	119
+Thyroid cancer	Alzheimer's disease	Gene Ontology	negative regulation of wound healing	up-up	1.6	1.58	3.81e-02	2.81e-02	74	65
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of peptide secretion	up-up	1.6	1.31	6.76e-05	2.81e-02	470	391
+Thyroid cancer	Alzheimer's disease	Gene Ontology	detection of biotic stimulus	up-up	1.84	1.78	2.57e-02	2.84e-02	29	25
+Thyroid cancer	Alzheimer's disease	Gene Ontology	glial cell activation	up-up	1.62	1.68	4.51e-02	3.12e-02	49	45
+Thyroid cancer	Alzheimer's disease	Gene Ontology	extracellular matrix disassembly	up-up	2.28	1.61	4.38e-06	3.16e-02	76	64
+Thyroid cancer	Alzheimer's disease	Gene Ontology	extrinsic apoptotic signaling pathway	up-up	1.6	1.38	3.31e-03	3.16e-02	213	191
+Thyroid cancer	Alzheimer's disease	Gene Ontology	integrin binding	up-up	2.29	1.51	3.66e-08	3.16e-02	132	123
+Thyroid cancer	Alzheimer's disease	Gene Ontology	negative regulation of response to external stimulus	up-up	1.58	1.36	3.98e-04	3.19e-02	351	287
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of cell substrate adhesion	up-up	1.6	1.42	3.34e-03	3.21e-02	200	173
+Thyroid cancer	Alzheimer's disease	Gene Ontology	signal transduction by protein phosphorylation	up-up	1.46	1.23	3.32e-05	3.26e-02	894	768
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte chemotaxis	up-up	1.51	1.55	4.67e-02	3.32e-02	107	98
+Thyroid cancer	Alzheimer's disease	Gene Ontology	plasma membrane protein complex	up-up	1.5	1.29	2.26e-04	3.33e-02	541	441
+Thyroid cancer	Alzheimer's disease	Gene Ontology	nucleotide receptor activity	up-up	1.91	1.8	3.15e-02	3.39e-02	20	15
+Thyroid cancer	Alzheimer's disease	Gene Ontology	purinergic nucleotide receptor signaling pathway	up-up	2	1.8	9.38e-03	3.39e-02	21	15
+Thyroid cancer	Alzheimer's disease	Gene Ontology	proteoglycan binding	up-up	2.12	1.68	6.62e-04	3.58e-02	36	36
+Thyroid cancer	Alzheimer's disease	Gene Ontology	endothelial cell migration	up-up	1.61	1.45	3.52e-03	3.89e-02	198	174
+Thyroid cancer	Alzheimer's disease	Gene Ontology	g protein coupled nucleotide receptor activity	up-up	1.86	1.76	2.64e-02	3.94e-02	13	10
+Thyroid cancer	Alzheimer's disease	Gene Ontology	g protein coupled purinergic nucleotide receptor signaling pathway	up-up	1.86	1.76	2.64e-02	3.94e-02	13	10
+Thyroid cancer	Alzheimer's disease	Gene Ontology	extracellular matrix binding	up-up	2.05	1.7	5.03e-04	4.01e-02	56	48
+Thyroid cancer	Alzheimer's disease	Gene Ontology	negative regulation of multi organism process	up-up	1.47	1.39	2.70e-02	4.07e-02	206	173
+Thyroid cancer	Alzheimer's disease	Gene Ontology	aminoglycan biosynthetic process	up-up	1.93	1.47	3.24e-04	4.19e-02	113	88
+Thyroid cancer	Alzheimer's disease	Gene Ontology	interleukin 18 mediated signaling pathway	up-up	1.77	1.78	4.98e-02	4.50e-02	7	7
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cellular response to abiotic stimulus	up-up	1.52	1.31	2.57e-03	4.54e-02	317	271
+Thyroid cancer	Alzheimer's disease	Gene Ontology	negative regulation of cytokine secretion	up-up	1.71	1.66	3.43e-02	4.64e-02	63	49
+Thyroid cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell death	up-up	1.55	1.23	4.92e-06	4.97e-02	670	576
+Thyroid cancer	Alzheimer's disease	Gene Ontology	aerobic respiration	down-down	-1.73	-2.9	1.09e-02	5.63e-09	78	68
+Thyroid cancer	Alzheimer's disease	Gene Ontology	amide biosynthetic process	down-down	-1.38	-2.19	8.06e-03	5.63e-09	724	566
+Thyroid cancer	Alzheimer's disease	Gene Ontology	atp metabolic process	down-down	-1.76	-2.61	1.04e-04	5.63e-09	272	227
+Thyroid cancer	Alzheimer's disease	Gene Ontology	atp synthesis coupled electron transport	down-down	-2.51	-3.08	1.50e-08	5.63e-09	78	62
+Thyroid cancer	Alzheimer's disease	Gene Ontology	catalytic complex	down-down	-1.38	-2.04	5.32e-04	5.63e-09	1281	990
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cellular macromolecule localization	down-down	-1.22	-1.71	3.41e-02	5.63e-09	1813	1416
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cellular protein containing complex assembly	down-down	-1.34	-2.06	9.46e-03	5.63e-09	939	747
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cellular respiration	down-down	-2.12	-3.05	2.10e-07	5.63e-09	166	132
+Thyroid cancer	Alzheimer's disease	Gene Ontology	electron transport chain	down-down	-1.99	-2.68	1.66e-05	5.63e-09	161	133
+Thyroid cancer	Alzheimer's disease	Gene Ontology	energy derivation by oxidation of organic compounds	down-down	-1.81	-2.51	5.35e-05	5.63e-09	251	204
+Thyroid cancer	Alzheimer's disease	Gene Ontology	envelope	down-down	-1.59	-2.48	9.18e-08	5.63e-09	1129	826
+Thyroid cancer	Alzheimer's disease	Gene Ontology	generation of precursor metabolites and energy	down-down	-1.72	-2.3	1.64e-06	5.63e-09	494	412
+Thyroid cancer	Alzheimer's disease	Gene Ontology	inner mitochondrial membrane protein complex	down-down	-2.48	-3.24	1.50e-08	5.63e-09	115	80
+Thyroid cancer	Alzheimer's disease	Gene Ontology	intracellular protein transport	down-down	-1.48	-1.94	4.16e-05	5.63e-09	1064	833
+Thyroid cancer	Alzheimer's disease	Gene Ontology	intracellular transport	down-down	-1.37	-2.01	1.52e-04	5.63e-09	1621	1265
+Thyroid cancer	Alzheimer's disease	Gene Ontology	mitochondrial electron transport nadh to ubiquinone	down-down	-2.42	-2.81	4.64e-07	5.63e-09	43	34
+Thyroid cancer	Alzheimer's disease	Gene Ontology	mitochondrial envelope	down-down	-2	-2.76	1.50e-08	5.63e-09	699	488
+Thyroid cancer	Alzheimer's disease	Gene Ontology	mitochondrial gene expression	down-down	-1.75	-2.89	1.83e-03	5.63e-09	162	109
+Thyroid cancer	Alzheimer's disease	Gene Ontology	mitochondrial matrix	down-down	-1.99	-2.5	1.50e-08	5.63e-09	454	343
+Thyroid cancer	Alzheimer's disease	Gene Ontology	mitochondrial protein complex	down-down	-2.28	-3.42	1.50e-08	5.63e-09	235	168
+Thyroid cancer	Alzheimer's disease	Gene Ontology	mitochondrial respiratory chain complex assembly	down-down	-2.46	-2.81	1.50e-08	5.63e-09	87	51
+Thyroid cancer	Alzheimer's disease	Gene Ontology	mitochondrial transport	down-down	-1.49	-2.3	2.25e-02	5.63e-09	241	186
+Thyroid cancer	Alzheimer's disease	Gene Ontology	mitochondrion	down-down	-1.73	-2.44	1.50e-08	5.63e-09	1489	1099
+Thyroid cancer	Alzheimer's disease	Gene Ontology	mitochondrion organization	down-down	-1.57	-2.63	2.60e-04	5.63e-09	498	374
+Thyroid cancer	Alzheimer's disease	Gene Ontology	nadh dehydrogenase activity	down-down	-2.4	-2.77	1.93e-06	5.63e-09	35	26
+Thyroid cancer	Alzheimer's disease	Gene Ontology	nadh dehydrogenase complex	down-down	-2.46	-2.71	1.68e-07	5.63e-09	40	29
+Thyroid cancer	Alzheimer's disease	Gene Ontology	nadh dehydrogenase complex assembly	down-down	-2.35	-2.74	7.09e-07	5.63e-09	55	39
+Thyroid cancer	Alzheimer's disease	Gene Ontology	ncrna processing	down-down	-1.48	-2.13	1.73e-02	5.63e-09	343	264
+Thyroid cancer	Alzheimer's disease	Gene Ontology	organellar ribosome	down-down	-1.6	-2.77	3.15e-02	5.63e-09	85	56
+Thyroid cancer	Alzheimer's disease	Gene Ontology	organelle inner membrane	down-down	-2.05	-3.05	1.50e-08	5.63e-09	499	340
+Thyroid cancer	Alzheimer's disease	Gene Ontology	organonitrogen compound biosynthetic process	down-down	-1.22	-1.72	3.41e-02	5.63e-09	1662	1277
+Thyroid cancer	Alzheimer's disease	Gene Ontology	oxidative phosphorylation	down-down	-2.61	-3.09	1.50e-08	5.63e-09	122	98
+Thyroid cancer	Alzheimer's disease	Gene Ontology	oxidoreductase complex	down-down	-1.88	-2.78	1.00e-03	5.63e-09	96	77
+Thyroid cancer	Alzheimer's disease	Gene Ontology	peptide biosynthetic process	down-down	-1.5	-2.15	8.35e-04	5.63e-09	594	461
+Thyroid cancer	Alzheimer's disease	Gene Ontology	peptide metabolic process	down-down	-1.43	-1.95	2.56e-03	5.63e-09	726	576
+Thyroid cancer	Alzheimer's disease	Gene Ontology	proton transmembrane transport	down-down	-1.73	-2.62	3.26e-03	5.63e-09	139	104
+Thyroid cancer	Alzheimer's disease	Gene Ontology	proton transmembrane transporter activity	down-down	-1.8	-2.64	1.26e-03	5.63e-09	115	86
+Thyroid cancer	Alzheimer's disease	Gene Ontology	proton transporting two sector atpase complex	down-down	-1.95	-2.79	4.38e-03	5.63e-09	47	36
+Thyroid cancer	Alzheimer's disease	Gene Ontology	respirasome	down-down	-2.55	-3.12	1.50e-08	5.63e-09	80	61
+Thyroid cancer	Alzheimer's disease	Gene Ontology	respiratory chain complex	down-down	-2.46	-3.08	4.60e-08	5.63e-09	67	50
+Thyroid cancer	Alzheimer's disease	Gene Ontology	respiratory electron transport chain	down-down	-2.34	-3.04	4.81e-08	5.63e-09	96	75
+Thyroid cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex	down-down	-1.79	-2.11	1.50e-08	5.63e-09	615	480
+Thyroid cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex biogenesis	down-down	-1.53	-2.33	4.95e-03	5.63e-09	387	315
+Thyroid cancer	Alzheimer's disease	Gene Ontology	rna binding	down-down	-1.39	-1.84	1.51e-04	5.63e-09	1524	1178
+Thyroid cancer	Alzheimer's disease	Gene Ontology	rna processing	down-down	-1.69	-1.83	1.90e-08	5.63e-09	838	653
+Thyroid cancer	Alzheimer's disease	Gene Ontology	ribosome	down-down	-2.15	-2.33	2.00e-08	7.59e-09	200	149
+Thyroid cancer	Alzheimer's disease	Gene Ontology	ribosomal subunit	down-down	-2.18	-2.35	5.99e-08	1.83e-08	160	121
+Thyroid cancer	Alzheimer's disease	Gene Ontology	protein targeting	down-down	-1.7	-1.99	2.87e-05	3.29e-08	394	306
+Thyroid cancer	Alzheimer's disease	Gene Ontology	mitochondrial transmembrane transport	down-down	-1.85	-2.48	2.45e-03	4.73e-08	87	64
+Thyroid cancer	Alzheimer's disease	Gene Ontology	oxidoreductase activity acting on nad p h quinone or similar compound as acceptor	down-down	-2.4	-2.6	1.24e-06	4.96e-08	48	38
+Thyroid cancer	Alzheimer's disease	Gene Ontology	inner mitochondrial membrane organization	down-down	-2.02	-2.58	1.20e-03	5.65e-08	45	31
+Thyroid cancer	Alzheimer's disease	Gene Ontology	protein localization to organelle	down-down	-1.28	-1.65	4.64e-02	5.09e-07	889	715
+Thyroid cancer	Alzheimer's disease	Gene Ontology	establishment of protein localization to organelle	down-down	-1.42	-1.8	9.44e-03	5.78e-07	520	434
+Thyroid cancer	Alzheimer's disease	Gene Ontology	electron transfer activity	down-down	-1.64	-2.29	2.21e-02	7.98e-07	102	90
+Thyroid cancer	Alzheimer's disease	Gene Ontology	oxidation reduction process	down-down	-1.62	-1.65	4.28e-07	9.32e-07	932	730
+Thyroid cancer	Alzheimer's disease	Gene Ontology	proton transporting atp synthase complex	down-down	-2.2	-2.42	1.04e-04	1.35e-06	19	16
+Thyroid cancer	Alzheimer's disease	Gene Ontology	structural constituent of ribosome	down-down	-1.99	-2.22	2.35e-05	1.75e-06	138	105
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cristae formation	down-down	-2.22	-2.46	5.01e-05	1.95e-06	32	23
+Thyroid cancer	Alzheimer's disease	Gene Ontology	atp synthesis coupled proton transport	down-down	-2.19	-2.39	1.33e-04	2.62e-06	22	18
+Thyroid cancer	Alzheimer's disease	Gene Ontology	oxidoreductase activity acting on nad p h	down-down	-1.7	-2.29	1.29e-02	2.80e-06	90	74
+Thyroid cancer	Alzheimer's disease	Gene Ontology	mrna metabolic process	down-down	-1.66	-1.67	2.20e-07	2.87e-06	764	614
+Thyroid cancer	Alzheimer's disease	Gene Ontology	ribonucleoprotein complex subunit organization	down-down	-1.74	-2.07	9.64e-04	5.07e-06	174	151
+Thyroid cancer	Alzheimer's disease	Gene Ontology	large ribosomal subunit	down-down	-1.8	-2.25	3.05e-03	6.16e-06	102	73
+Thyroid cancer	Alzheimer's disease	Gene Ontology	aerobic electron transport chain	down-down	-1.98	-2.35	7.52e-03	1.23e-05	17	14
+Thyroid cancer	Alzheimer's disease	Gene Ontology	oxidoreductase activity acting on a heme group of donors	down-down	-1.9	-2.33	1.21e-02	1.27e-05	24	19
+Thyroid cancer	Alzheimer's disease	Gene Ontology	proton transporting atp synthase activity rotational mechanism	down-down	-1.95	-2.34	7.25e-03	1.27e-05	15	13
+Thyroid cancer	Alzheimer's disease	Gene Ontology	trna processing	down-down	-1.74	-2.11	7.01e-03	3.53e-05	121	89
+Thyroid cancer	Alzheimer's disease	Gene Ontology	oxidoreductase activity	down-down	-1.69	-1.62	1.68e-07	4.21e-05	686	537
+Thyroid cancer	Alzheimer's disease	Gene Ontology	rna splicing via transesterification reactions	down-down	-2.08	-1.79	1.50e-08	4.97e-05	317	261
+Thyroid cancer	Alzheimer's disease	Gene Ontology	establishment of protein localization to membrane	down-down	-1.45	-1.78	2.98e-02	2.86e-04	296	224
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cytoplasmic translation	down-down	-1.89	-1.99	2.33e-03	6.45e-04	88	68
+Thyroid cancer	Alzheimer's disease	Gene Ontology	atp biosynthetic process	down-down	-1.71	-2.13	4.56e-02	6.93e-04	46	37
+Thyroid cancer	Alzheimer's disease	Gene Ontology	trna modification	down-down	-1.73	-1.96	1.67e-02	8.15e-04	82	58
+Thyroid cancer	Alzheimer's disease	Gene Ontology	proton transporting two sector atpase complex proton transporting domain	down-down	-1.91	-2.07	1.14e-02	8.88e-04	20	18
+Thyroid cancer	Alzheimer's disease	Gene Ontology	rna splicing	down-down	-1.87	-1.63	1.76e-07	1.06e-03	397	320
+Thyroid cancer	Alzheimer's disease	Gene Ontology	mrna processing	down-down	-1.84	-1.6	4.05e-08	1.21e-03	461	365
+Thyroid cancer	Alzheimer's disease	Gene Ontology	u2 type spliceosomal complex	down-down	-1.63	-1.93	4.76e-02	1.70e-03	88	70
+Thyroid cancer	Alzheimer's disease	Gene Ontology	small ribosomal subunit	down-down	-2.16	-1.97	5.76e-05	2.07e-03	62	52
+Thyroid cancer	Alzheimer's disease	Gene Ontology	proton transporting atp synthase complex coupling factor f o	down-down	-2.06	-2.03	7.00e-04	2.59e-03	10	9
+Thyroid cancer	Alzheimer's disease	Gene Ontology	mitochondrial proton transporting atp synthase complex coupling factor f o	down-down	-2.02	-2	1.28e-03	2.99e-03	9	8
+Thyroid cancer	Alzheimer's disease	Gene Ontology	spliceosomal complex	down-down	-2.01	-1.74	6.50e-06	3.09e-03	170	135
+Thyroid cancer	Alzheimer's disease	Gene Ontology	mitochondrial rna metabolic process	down-down	-1.72	-1.94	4.14e-02	3.90e-03	46	32
+Thyroid cancer	Alzheimer's disease	Gene Ontology	regulation of mitochondrial gene expression	down-down	-1.72	-2	4.67e-02	5.04e-03	28	17
+Thyroid cancer	Alzheimer's disease	Gene Ontology	organelle assembly	down-down	-1.35	-1.41	8.16e-03	6.47e-03	791	571
+Thyroid cancer	Alzheimer's disease	Gene Ontology	glutamate metabolic process	down-down	-1.76	-2	3.52e-02	6.96e-03	31	22
+Thyroid cancer	Alzheimer's disease	Gene Ontology	protein localization to endoplasmic reticulum	down-down	-2.38	-1.69	1.50e-08	9.42e-03	118	98
+Thyroid cancer	Alzheimer's disease	Gene Ontology	mitochondrial respiratory chain complex iii assembly	down-down	-1.77	-1.81	4.29e-02	1.11e-02	9	5
+Thyroid cancer	Alzheimer's disease	Gene Ontology	protein targeting to membrane	down-down	-1.89	-1.64	9.98e-05	1.82e-02	169	126
+Thyroid cancer	Alzheimer's disease	Gene Ontology	rna modification	down-down	-1.68	-1.61	8.93e-03	2.04e-02	152	106
+Thyroid cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein specific protease activity	down-down	-1.58	-1.7	4.93e-02	2.45e-02	93	66
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cytochrome complex assembly	down-down	-1.74	-1.76	4.30e-02	2.68e-02	34	16
+Thyroid cancer	Alzheimer's disease	Gene Ontology	translational initiation	down-down	-2.32	-1.56	1.50e-08	3.21e-02	166	137
+Thyroid cancer	Alzheimer's disease	Gene Ontology	cofactor binding	down-down	-1.4	-1.38	1.41e-02	3.27e-02	476	401
+Thyroid cancer	Parkinson's disease	Canonical Pathways	kegg - cytokine cytokine receptor interaction	up-up	1.85	2.16	3.09e-06	7.41e-09	250	218
+Thyroid cancer	Parkinson's disease	Canonical Pathways	naba - matrisome	up-up	1.91	1.66	1.49e-08	2.26e-08	951	731
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - extracellular matrix organization	up-up	2.44	1.93	1.49e-08	7.30e-08	295	251
+Thyroid cancer	Parkinson's disease	Canonical Pathways	naba - matrisome associated	up-up	2.05	1.61	1.49e-08	1.22e-07	685	535
+Thyroid cancer	Parkinson's disease	Canonical Pathways	kegg - pathways in cancer	up-up	1.55	1.73	1.14e-03	1.26e-05	320	300
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - immunoregulatory interactions between a lymphoid and a non lymphoid cell	up-up	1.9	2.03	1.33e-04	7.53e-05	127	91
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - dna methylation	up-up	1.69	2.3	4.63e-02	9.57e-05	42	33
+Thyroid cancer	Parkinson's disease	Canonical Pathways	pid - e2f pathway	up-up	1.6	2.12	4.11e-02	1.38e-04	73	68
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - interleukin 4 and interleukin 13 signaling	up-up	1.96	1.94	6.25e-05	1.63e-04	107	100
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - degradation of the extracellular matrix	up-up	2.4	1.88	1.49e-08	2.56e-04	138	113
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - collagen formation	up-up	2.43	2.02	2.25e-08	2.98e-04	90	72
+Thyroid cancer	Parkinson's disease	Canonical Pathways	naba - secreted factors	up-up	1.66	1.58	3.06e-04	6.07e-04	312	249
+Thyroid cancer	Parkinson's disease	Canonical Pathways	kegg - systemic lupus erythematosus	up-up	1.91	1.92	4.57e-04	6.13e-04	96	81
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - interleukin 10 signaling	up-up	2.12	2.07	8.15e-04	9.05e-04	43	43
+Thyroid cancer	Parkinson's disease	Canonical Pathways	biocarta - hivnef pathway	up-up	1.68	2.04	2.71e-02	1.26e-03	53	53
+Thyroid cancer	Parkinson's disease	Canonical Pathways	kegg - jak stat signaling pathway	up-up	1.56	1.74	1.34e-02	1.48e-03	152	131
+Thyroid cancer	Parkinson's disease	Canonical Pathways	pid - ptp1b pathway	up-up	1.87	2.02	8.53e-03	1.64e-03	52	49
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - collagen biosynthesis and modifying enzymes	up-up	2.08	1.93	7.44e-05	2.89e-03	67	51
+Thyroid cancer	Parkinson's disease	Canonical Pathways	kegg - notch signaling pathway	up-up	1.94	1.97	7.78e-03	3.93e-03	47	36
+Thyroid cancer	Parkinson's disease	Canonical Pathways	naba - ecm regulators	up-up	2.24	1.56	1.49e-08	4.59e-03	230	184
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - integrin cell surface interactions	up-up	2.17	1.78	1.46e-05	5.21e-03	83	75
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - keratinization	up-up	1.89	1.77	7.69e-05	5.72e-03	128	75
+Thyroid cancer	Parkinson's disease	Canonical Pathways	pid - upa upar pathway	up-up	2.29	1.95	8.46e-05	6.26e-03	41	38
+Thyroid cancer	Parkinson's disease	Canonical Pathways	pid - delta np63 pathway	up-up	1.87	1.83	1.18e-02	7.35e-03	45	44
+Thyroid cancer	Parkinson's disease	Canonical Pathways	kegg - small cell lung cancer	up-up	1.53	1.66	4.81e-02	9.34e-03	84	84
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - formation of the cornified envelope	up-up	1.85	1.73	1.02e-03	1.00e-02	98	73
+Thyroid cancer	Parkinson's disease	Canonical Pathways	kegg - chronic myeloid leukemia	up-up	1.92	1.69	9.60e-04	1.27e-02	72	66
+Thyroid cancer	Parkinson's disease	Canonical Pathways	biocarta - nkt pathway	up-up	1.8	1.97	2.72e-02	1.32e-02	25	24
+Thyroid cancer	Parkinson's disease	Canonical Pathways	kegg - leishmania infection	up-up	1.85	1.73	4.30e-03	1.32e-02	65	58
+Thyroid cancer	Parkinson's disease	Canonical Pathways	biocarta - inflam pathway	up-up	1.78	1.89	2.61e-02	1.45e-02	26	22
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - deposition of new cenpa containing nucleosomes at the centromere	up-up	1.62	1.78	4.71e-02	1.54e-02	55	45
+Thyroid cancer	Parkinson's disease	Canonical Pathways	pid - tap63 pathway	up-up	1.72	1.77	1.93e-02	1.56e-02	53	50
+Thyroid cancer	Parkinson's disease	Canonical Pathways	pid - amb2 neutrophils pathway	up-up	1.92	1.8	9.91e-03	1.60e-02	41	40
+Thyroid cancer	Parkinson's disease	Canonical Pathways	kegg - apoptosis	up-up	1.63	1.61	1.92e-02	1.63e-02	86	82
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - interferon gamma signaling	up-up	1.87	1.62	1.64e-03	2.30e-02	84	66
+Thyroid cancer	Parkinson's disease	Canonical Pathways	sa mmp cytokine connection	up-up	1.84	1.92	4.81e-02	2.41e-02	14	13
+Thyroid cancer	Parkinson's disease	Canonical Pathways	pid - p53 downstream pathway	up-up	2.15	1.47	1.17e-06	2.44e-02	132	115
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - gpcr ligand binding	up-up	1.62	1.29	8.30e-05	2.53e-02	431	353
+Thyroid cancer	Parkinson's disease	Canonical Pathways	pid - integrin1 pathway	up-up	2.38	1.69	8.52e-07	2.74e-02	65	60
+Thyroid cancer	Parkinson's disease	Canonical Pathways	pid - integrin2 pathway	up-up	1.81	1.81	2.77e-02	2.74e-02	28	26
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - ecm proteoglycans	up-up	1.92	1.58	7.07e-04	2.80e-02	74	70
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - tnfs bind their physiological receptors	up-up	1.8	1.8	2.93e-02	2.97e-02	28	23
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - tp53 regulates transcription of cell death genes	up-up	1.89	1.74	9.94e-03	3.01e-02	43	34
+Thyroid cancer	Parkinson's disease	Canonical Pathways	pid - il4 2pathway	up-up	1.72	1.62	1.54e-02	3.15e-02	62	57
+Thyroid cancer	Parkinson's disease	Canonical Pathways	biocarta - dc pathway	up-up	1.79	1.82	4.45e-02	3.70e-02	17	16
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - leishmania infection	up-up	1.5	1.32	9.91e-03	4.24e-02	244	204
+Thyroid cancer	Parkinson's disease	Canonical Pathways	naba - core matrisome	up-up	1.39	1.39	3.14e-02	4.37e-02	266	196
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - interferon alpha beta signaling	up-up	1.88	1.58	1.39e-03	4.37e-02	67	57
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - cell surface interactions at the vascular wall	up-up	2.22	1.47	9.98e-08	4.61e-02	139	123
+Thyroid cancer	Parkinson's disease	Canonical Pathways	kegg - alzheimers disease	down-down	-1.72	-2.34	1.95e-03	7.41e-09	151	134
+Thyroid cancer	Parkinson's disease	Canonical Pathways	kegg - huntingtons disease	down-down	-2.07	-2.44	1.66e-06	7.41e-09	163	139
+Thyroid cancer	Parkinson's disease	Canonical Pathways	kegg - oxidative phosphorylation	down-down	-2.48	-2.77	1.49e-08	7.41e-09	111	91
+Thyroid cancer	Parkinson's disease	Canonical Pathways	kegg - parkinsons disease	down-down	-2.55	-2.79	1.49e-08	7.41e-09	106	89
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - complex i biogenesis	down-down	-2.42	-2.58	2.03e-07	7.41e-09	46	34
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - protein localization	down-down	-1.8	-2.34	6.65e-04	7.41e-09	159	131
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - respiratory electron transport	down-down	-2.59	-2.8	1.49e-08	7.41e-09	86	67
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	down-down	-2.74	-2.89	1.49e-08	7.41e-09	108	85
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - the citric acid tca cycle and respiratory electron transport	down-down	-2.57	-2.91	1.49e-08	7.41e-09	157	129
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - organelle biogenesis and maintenance	down-down	-1.56	-1.97	3.53e-03	2.87e-07	282	220
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - mitochondrial protein import	down-down	-1.79	-2.4	8.74e-03	5.97e-07	63	47
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - translation	down-down	-1.85	-1.9	5.81e-06	3.81e-06	267	212
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - cristae formation	down-down	-2.25	-2.36	1.07e-04	4.92e-06	29	23
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - metabolism of rna	down-down	-1.5	-1.64	4.06e-04	1.80e-05	618	506
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - metabolism of amino acids and derivatives	down-down	-1.84	-1.74	1.45e-06	6.73e-05	342	281
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - mitochondrial biogenesis	down-down	-2.05	-1.85	5.92e-05	1.25e-03	90	74
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - formation of atp by chemiosmotic coupling	down-down	-2.22	-2.11	7.98e-05	1.36e-03	16	14
+Thyroid cancer	Parkinson's disease	Canonical Pathways	kegg - protein export	down-down	-2	-2	7.89e-03	2.15e-03	23	19
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - regulation of expression of slits and robos	down-down	-1.54	-1.73	2.45e-02	3.22e-03	149	133
+Thyroid cancer	Parkinson's disease	Canonical Pathways	reactome - cellular responses to external stimuli	down-down	-1.43	-1.41	6.76e-03	8.58e-03	550	475
+Thyroid cancer	Parkinson's disease	Canonical Pathways	kegg - butanoate metabolism	down-down	-1.92	-1.86	6.75e-03	9.53e-03	33	31
+Thyroid cancer	Parkinson's disease	Canonical Pathways	biocarta - etc pathway	down-down	-1.82	-1.85	2.91e-02	2.18e-02	10	9
+Thyroid cancer	Parkinson's disease	Canonical Pathways	kegg - valine leucine and isoleucine degradation	down-down	-2.31	-1.74	1.36e-05	2.37e-02	44	40
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - cytokine cytokine receptor interaction	up-up	1.85	2.67	3.09e-06	5.07e-09	250	218
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	naba - core matrisome	up-up	1.39	2.28	3.14e-02	5.07e-09	266	196
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	naba - matrisome	up-up	1.91	2.47	1.49e-08	5.07e-09	951	733
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	naba - matrisome associated	up-up	2.05	2.33	1.49e-08	5.07e-09	685	537
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	naba - secreted factors	up-up	1.66	2.17	3.06e-04	5.07e-09	312	249
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - extracellular matrix organization	up-up	2.44	2.54	1.49e-08	5.07e-09	295	251
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - immunoregulatory interactions between a lymphoid and a non lymphoid cell	up-up	1.9	2.57	1.33e-04	5.07e-09	127	91
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - interleukin 4 and interleukin 13 signaling	up-up	1.96	2.45	6.25e-05	2.48e-08	107	100
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	naba - ecm regulators	up-up	2.24	2.1	1.49e-08	7.39e-08	230	185
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - class a 1 rhodopsin like receptors	up-up	1.72	1.9	2.18e-05	8.78e-07	311	261
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - collagen formation	up-up	2.43	2.28	2.25e-08	4.05e-06	90	72
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - ecm proteoglycans	up-up	1.92	2.29	7.07e-04	4.05e-06	74	70
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - cell surface interactions at the vascular wall	up-up	2.22	2.12	9.98e-08	4.29e-06	139	124
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - ecm receptor interaction	up-up	2.3	2.19	8.54e-07	9.74e-06	81	76
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - cell adhesion molecules cams	up-up	1.89	2.09	7.51e-05	9.90e-06	128	108
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - pathways in cancer	up-up	1.55	1.76	1.14e-03	1.33e-05	320	300
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of the cornified envelope	up-up	1.85	2.17	1.02e-03	1.33e-05	98	73
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - assembly of collagen fibrils and other multimeric structures	up-up	2.29	2.32	5.04e-06	1.94e-05	61	52
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - keratinization	up-up	1.89	2.2	7.69e-05	2.28e-05	128	75
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - gpcr ligand binding	up-up	1.62	1.69	8.30e-05	2.32e-05	431	353
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - non integrin membrane ecm interactions	up-up	2.49	2.25	7.37e-08	3.83e-05	56	54
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of the extracellular matrix	up-up	2.4	1.95	1.49e-08	5.05e-05	138	113
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - integrin cell surface interactions	up-up	2.17	2.11	1.46e-05	7.96e-05	83	75
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - jak stat signaling pathway	up-up	1.56	1.95	1.34e-02	1.13e-04	152	131
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	pid - integrin1 pathway	up-up	2.38	2.19	8.52e-07	1.46e-04	65	60
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - collagen degradation	up-up	2.08	2.14	2.07e-04	1.58e-04	64	55
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - peptide ligand binding receptors	up-up	1.51	1.76	1.29e-02	2.99e-04	186	160
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	pid - il4 2pathway	up-up	1.72	2.09	1.54e-02	3.43e-04	62	57
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	sa mmp cytokine connection	up-up	1.84	2.31	4.81e-02	3.66e-04	14	13
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	pid - ptp1b pathway	up-up	1.87	2.2	8.53e-03	4.39e-04	52	49
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by interleukins	up-up	1.86	1.54	2.63e-08	4.58e-04	438	396
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - graft versus host disease	up-up	1.88	2.25	1.04e-02	4.94e-04	35	23
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - autoimmune thyroid disease	up-up	1.79	2.17	1.59e-02	5.74e-04	46	34
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - interleukin 10 signaling	up-up	2.12	2.12	8.15e-04	5.74e-04	43	43
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - asthma	up-up	1.9	2.17	9.91e-03	9.24e-04	26	24
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - collagen biosynthesis and modifying enzymes	up-up	2.08	1.99	7.44e-05	9.76e-04	67	51
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - syndecan interactions	up-up	2.38	2.15	1.02e-05	1.09e-03	25	24
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - systemic lupus erythematosus	up-up	1.91	1.87	4.57e-04	1.13e-03	96	81
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - allograft rejection	up-up	2.08	2.24	1.27e-03	1.19e-03	33	26
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - laminin interactions	up-up	1.9	2.13	1.80e-02	1.82e-03	30	28
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	biocarta - dc pathway	up-up	1.79	2.16	4.45e-02	2.21e-03	17	16
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of insulin like growth factor igf transport and uptake by insulin like growth factor binding proteins igfbps	up-up	2.06	1.75	9.50e-06	2.72e-03	121	106
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - hemostasis	up-up	1.73	1.38	2.87e-08	3.82e-03	598	521
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - cell junction organization	up-up	2.12	1.73	2.02e-05	3.84e-03	89	73
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	naba - collagens	up-up	1.75	2.02	3.03e-02	4.60e-03	44	31
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - collagen chain trimerization	up-up	1.75	2.02	3.03e-02	4.60e-03	44	31
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - type i hemidesmosome assembly	up-up	2.08	1.98	1.96e-03	4.60e-03	11	11
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	pid - delta np63 pathway	up-up	1.87	1.93	1.18e-02	4.76e-03	45	44
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	naba - ecm affiliated	up-up	1.78	1.73	1.23e-03	4.78e-03	143	103
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - met activates ptk2 signaling	up-up	2.33	2.01	8.09e-05	4.79e-03	30	28
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - viral myocarditis	up-up	1.64	1.74	3.46e-02	5.49e-03	65	58
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	pid - e2f pathway	up-up	1.6	1.81	4.11e-02	5.60e-03	73	69
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	pid - amb2 neutrophils pathway	up-up	1.92	1.9	9.91e-03	5.99e-03	41	40
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	biocarta - ctl pathway	up-up	1.86	2.03	4.96e-02	6.32e-03	13	12
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	pid - tap63 pathway	up-up	1.72	1.77	1.93e-02	6.97e-03	53	50
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	biocarta - inflam pathway	up-up	1.78	2.02	2.61e-02	7.11e-03	26	22
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by gpcr	up-up	1.42	1.31	2.93e-04	7.64e-03	840	657
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - cell cell communication	up-up	2.08	1.59	2.93e-06	9.01e-03	125	107
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - leishmania infection	up-up	1.85	1.69	4.30e-03	9.48e-03	65	58
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - leukocyte transendothelial migration	up-up	1.96	1.6	3.08e-04	1.46e-02	112	102
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - met promotes cell motility	up-up	2.15	1.82	6.93e-04	1.49e-02	41	38
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - small cell lung cancer	up-up	1.53	1.64	4.81e-02	1.49e-02	84	84
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - cytokine signaling in immune system	up-up	1.82	1.25	1.49e-08	1.50e-02	811	707
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	pid - integrin2 pathway	up-up	1.81	1.92	2.77e-02	1.58e-02	28	26
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	pid - upa upar pathway	up-up	2.29	1.81	8.46e-05	1.61e-02	41	38
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - dna methylation	up-up	1.69	1.79	4.63e-02	1.78e-02	42	33
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	biocarta - nkt pathway	up-up	1.8	1.84	2.72e-02	1.94e-02	25	24
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	pid - foxm1 pathway	up-up	1.76	1.77	3.13e-02	1.94e-02	40	39
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - focal adhesion	up-up	2.06	1.51	3.15e-07	1.98e-02	195	184
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	pid - integrin3 pathway	up-up	2.02	1.72	1.99e-03	2.06e-02	42	41
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - notch signaling pathway	up-up	1.94	1.78	7.78e-03	2.10e-02	47	36
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - tnfs bind their physiological receptors	up-up	1.8	1.83	2.93e-02	2.10e-02	28	23
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - tp53 regulates transcription of cell death genes	up-up	1.89	1.74	9.94e-03	2.14e-02	43	35
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - interferon gamma signaling	up-up	1.87	1.62	1.64e-03	2.54e-02	84	66
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	biocarta - hivnef pathway	up-up	1.68	1.64	2.71e-02	2.91e-02	53	53
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	pid - avb3 integrin pathway	up-up	2.03	1.53	2.62e-04	2.93e-02	73	68
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	pid - syndecan 4 pathway	up-up	1.9	1.7	1.06e-02	3.39e-02	32	29
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - bladder cancer	up-up	1.77	1.64	3.53e-02	3.54e-02	41	37
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	pid - syndecan 1 pathway	up-up	1.99	1.66	1.99e-03	3.65e-02	46	42
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - dap12 interactions	up-up	1.88	1.65	1.17e-02	3.85e-02	40	30
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - arrhythmogenic right ventricular cardiomyopathy arvc	up-up	1.67	1.58	1.37e-02	3.99e-02	72	66
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - chronic myeloid leukemia	up-up	1.92	1.57	9.60e-04	4.12e-02	72	66
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	pid - p53 downstream pathway	up-up	2.15	1.43	1.17e-06	4.27e-02	132	115
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - alzheimers disease	down-down	-1.72	-2.82	1.95e-03	5.07e-09	151	135
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - huntingtons disease	down-down	-2.07	-2.8	1.66e-06	5.07e-09	163	139
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - oxidative phosphorylation	down-down	-2.48	-3.34	1.49e-08	5.07e-09	111	91
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - parkinsons disease	down-down	-2.55	-3.29	1.49e-08	5.07e-09	106	89
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - complex i biogenesis	down-down	-2.42	-2.75	2.03e-07	5.07e-09	46	34
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of rna	down-down	-1.5	-2.2	4.06e-04	5.07e-09	618	508
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - mitochondrial protein import	down-down	-1.79	-2.66	8.74e-03	5.07e-09	63	47
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - respiratory electron transport	down-down	-2.59	-3.19	1.49e-08	5.07e-09	86	67
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins	down-down	-2.74	-3.3	1.49e-08	5.07e-09	108	85
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - the citric acid tca cycle and respiratory electron transport	down-down	-2.57	-3.3	1.49e-08	5.07e-09	157	129
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - translation	down-down	-1.85	-2.49	5.81e-06	5.07e-09	267	212
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - protein localization	down-down	-1.8	-2.32	6.65e-04	4.66e-08	159	131
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of expression of slits and robos	down-down	-1.54	-2.24	2.45e-02	5.28e-08	149	133
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - cristae formation	down-down	-2.25	-2.62	1.07e-04	5.36e-08	29	23
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - organelle biogenesis and maintenance	down-down	-1.56	-2.1	3.53e-03	7.19e-08	282	222
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - processing of capped intron containing pre mrna	down-down	-1.83	-2.01	6.04e-05	2.11e-06	228	188
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of atp by chemiosmotic coupling	down-down	-2.22	-2.39	7.98e-05	2.54e-06	16	14
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - cellular responses to external stimuli	down-down	-1.43	-1.65	6.76e-03	3.11e-05	550	475
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - mitochondrial biogenesis	down-down	-2.05	-2.13	5.92e-05	6.12e-05	90	75
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - metabolism of amino acids and derivatives	down-down	-1.84	-1.75	1.45e-06	8.41e-05	342	281
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - mrna splicing	down-down	-2	-1.91	4.57e-06	8.89e-05	180	147
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - spliceosome	down-down	-1.81	-1.88	1.78e-03	8.97e-04	115	97
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - rrna processing	down-down	-1.47	-1.8	3.76e-02	9.76e-04	178	146
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - budding and maturation of hiv virion	down-down	-1.74	-2	4.40e-02	5.99e-03	26	20
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - influenza infection	down-down	-1.9	-1.67	7.05e-05	1.08e-02	135	116
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	biocarta - etc pathway	down-down	-1.82	-1.89	2.91e-02	1.40e-02	10	9
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - butanoate metabolism	down-down	-1.92	-1.82	6.75e-03	1.66e-02	33	31
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	kegg - protein export	down-down	-2	-1.83	7.89e-03	2.54e-02	23	19
+Thyroid cancer	Alzheimer's disease	Canonical Pathways	reactome - perk regulates gene expression	down-down	-1.73	-1.69	3.20e-02	4.52e-02	32	30

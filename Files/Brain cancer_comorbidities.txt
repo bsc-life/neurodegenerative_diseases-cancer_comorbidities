@@ -1,0 +1,1431 @@
+disease.1	disease.2	category	pathway	overlap	nes.1	nes.2	fdr.1	fdr.2	genes.1	ngenes.2
+Brain cancer	Parkinson's disease	HallMark	tnfa signaling via nfkb	up-up	2.24	2.02	7.14e-10	1.63e-07	183	190
+Brain cancer	Parkinson's disease	HallMark	inflammatory response	up-up	1.84	1.99	7.59e-06	8.68e-07	197	192
+Brain cancer	Parkinson's disease	HallMark	il2 stat5 signaling	up-up	1.82	1.92	8.11e-06	4.49e-06	184	172
+Brain cancer	Parkinson's disease	HallMark	il6 jak stat3 signaling	up-up	2.34	2.09	1.68e-08	1.26e-05	78	85
+Brain cancer	Parkinson's disease	HallMark	hypoxia	up-up	1.55	1.66	1.18e-03	2.10e-04	184	193
+Brain cancer	Parkinson's disease	HallMark	p53 pathway	up-up	1.82	1.64	2.04e-05	2.25e-04	173	186
+Brain cancer	Parkinson's disease	HallMark	complement	up-up	1.57	1.56	1.96e-03	2.79e-03	168	178
+Brain cancer	Parkinson's disease	HallMark	coagulation	up-up	1.82	1.6	7.37e-05	3.50e-03	123	130
+Brain cancer	Parkinson's disease	HallMark	allograft rejection	up-up	2.17	1.44	2.17e-09	7.95e-03	178	186
+Brain cancer	Parkinson's disease	HallMark	tgf beta signaling	up-up	1.58	1.65	2.14e-02	1.04e-02	50	49
+Brain cancer	Parkinson's disease	HallMark	interferon gamma response	up-up	2.78	1.44	7.14e-10	1.44e-02	173	170
+Brain cancer	Parkinson's disease	HallMark	interferon alpha response	up-up	2.68	1.51	7.14e-10	1.74e-02	79	77
+Brain cancer	Parkinson's disease	HallMark	epithelial mesenchymal transition	up-up	2.57	1.36	7.14e-10	2.19e-02	187	190
+Brain cancer	Parkinson's disease	HallMark	wnt beta catenin signaling	up-up	1.57	1.66	2.65e-02	2.37e-02	37	34
+Brain cancer	Alzheimer's disease	HallMark	epithelial mesenchymal transition	up-up	2.57	2.13	7.14e-10	4.14e-08	187	190
+Brain cancer	Alzheimer's disease	HallMark	inflammatory response	up-up	1.84	2.12	7.59e-06	4.46e-08	197	192
+Brain cancer	Alzheimer's disease	HallMark	allograft rejection	up-up	2.17	2.09	2.17e-09	7.03e-08	178	186
+Brain cancer	Alzheimer's disease	HallMark	il6 jak stat3 signaling	up-up	2.34	2.19	1.68e-08	4.69e-06	78	85
+Brain cancer	Alzheimer's disease	HallMark	coagulation	up-up	1.82	2.01	7.37e-05	9.30e-06	123	130
+Brain cancer	Alzheimer's disease	HallMark	tnfa signaling via nfkb	up-up	2.24	1.74	7.14e-10	1.21e-04	183	190
+Brain cancer	Alzheimer's disease	HallMark	il2 stat5 signaling	up-up	1.82	1.7	8.11e-06	2.69e-04	184	173
+Brain cancer	Alzheimer's disease	HallMark	hypoxia	up-up	1.55	1.61	1.18e-03	3.75e-04	184	193
+Brain cancer	Alzheimer's disease	HallMark	interferon gamma response	up-up	2.78	1.54	7.14e-10	3.51e-03	173	170
+Brain cancer	Alzheimer's disease	HallMark	p53 pathway	up-up	1.82	1.5	2.04e-05	3.51e-03	173	186
+Brain cancer	Alzheimer's disease	HallMark	complement	up-up	1.57	1.45	1.96e-03	1.01e-02	168	179
+Brain cancer	Parkinson's disease	Gene Ontology	adaptive immune response	up-up	1.84	2.01	1.15e-06	1.26e-08	339	319
+Brain cancer	Parkinson's disease	Gene Ontology	anatomical structure formation involved in morphogenesis	up-up	1.67	1.61	4.41e-09	1.26e-08	961	882
+Brain cancer	Parkinson's disease	Gene Ontology	biological adhesion	up-up	1.4	1.53	7.62e-05	1.26e-08	1176	1082
+Brain cancer	Parkinson's disease	Gene Ontology	blood vessel morphogenesis	up-up	2.02	1.83	4.41e-09	1.26e-08	521	510
+Brain cancer	Parkinson's disease	Gene Ontology	cardiovascular system development	up-up	1.91	1.77	4.41e-09	1.26e-08	626	599
+Brain cancer	Parkinson's disease	Gene Ontology	chromatin	up-up	1.44	2.14	7.24e-05	1.26e-08	1000	878
+Brain cancer	Parkinson's disease	Gene Ontology	chromatin organization	up-up	1.51	1.75	1.67e-04	1.26e-08	631	575
+Brain cancer	Parkinson's disease	Gene Ontology	chromosome	up-up	1.87	1.6	4.41e-09	1.26e-08	1430	1242
+Brain cancer	Parkinson's disease	Gene Ontology	cis regulatory region binding	up-up	1.51	2.22	6.80e-04	1.26e-08	521	493
+Brain cancer	Parkinson's disease	Gene Ontology	cytokine production	up-up	1.87	1.8	4.41e-09	1.26e-08	644	606
+Brain cancer	Parkinson's disease	Gene Ontology	dna binding transcription factor activity	up-up	1.22	2.14	2.59e-02	1.26e-08	1092	908
+Brain cancer	Parkinson's disease	Gene Ontology	double stranded dna binding	up-up	1.6	1.99	5.20e-07	1.26e-08	839	754
+Brain cancer	Parkinson's disease	Gene Ontology	extracellular structure organization	up-up	2.29	1.97	4.41e-09	1.26e-08	326	310
+Brain cancer	Parkinson's disease	Gene Ontology	leukocyte differentiation	up-up	1.43	2.05	6.14e-03	1.26e-08	451	416
+Brain cancer	Parkinson's disease	Gene Ontology	lymphocyte activation	up-up	1.64	1.87	5.52e-06	1.26e-08	572	529
+Brain cancer	Parkinson's disease	Gene Ontology	lymphocyte differentiation	up-up	1.41	2.09	1.54e-02	1.26e-08	305	283
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of biosynthetic process	up-up	1.51	1.68	1.84e-07	1.26e-08	1305	1167
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of nucleobase containing compound metabolic process	up-up	1.45	1.78	8.84e-06	1.26e-08	1201	1078
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of rna biosynthetic process	up-up	1.38	1.92	2.45e-04	1.26e-08	1054	950
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of transcription by rna polymerase ii	up-up	1.45	2.03	3.81e-04	1.26e-08	737	667
+Brain cancer	Parkinson's disease	Gene Ontology	nuclear chromosome	up-up	1.56	1.89	9.65e-08	1.26e-08	1040	909
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of cellular biosynthetic process	up-up	1.49	1.59	3.49e-08	1.26e-08	1677	1557
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of nucleobase containing compound metabolic process	up-up	1.53	1.61	5.71e-09	1.26e-08	1592	1459
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of rna metabolic process	up-up	1.49	1.67	1.17e-07	1.26e-08	1464	1339
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of transcription by rna polymerase ii	up-up	1.44	1.8	3.88e-05	1.26e-08	1023	951
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of cell population proliferation	up-up	1.61	1.5	4.41e-09	1.26e-08	1370	1308
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of immune system process	up-up	1.67	1.49	4.41e-09	1.26e-08	1255	1182
+Brain cancer	Parkinson's disease	Gene Ontology	regulatory region nucleic acid binding	up-up	1.34	2.12	4.35e-03	1.26e-08	817	732
+Brain cancer	Parkinson's disease	Gene Ontology	response to bacterium	up-up	1.68	1.85	4.26e-06	1.26e-08	506	458
+Brain cancer	Parkinson's disease	Gene Ontology	sequence specific dna binding	up-up	1.51	2.06	2.70e-06	1.26e-08	987	861
+Brain cancer	Parkinson's disease	Gene Ontology	sequence specific double stranded dna binding	up-up	1.54	2.12	1.40e-05	1.26e-08	759	680
+Brain cancer	Parkinson's disease	Gene Ontology	transcription regulator activity	up-up	1.35	1.89	3.34e-04	1.26e-08	1410	1210
+Brain cancer	Parkinson's disease	Gene Ontology	tube development	up-up	1.8	1.73	4.41e-09	1.26e-08	906	857
+Brain cancer	Parkinson's disease	Gene Ontology	tube morphogenesis	up-up	1.84	1.76	4.41e-09	1.26e-08	735	694
+Brain cancer	Parkinson's disease	Gene Ontology	inflammatory response	up-up	1.62	1.71	6.78e-06	1.64e-08	603	567
+Brain cancer	Parkinson's disease	Gene Ontology	t cell activation	up-up	1.83	1.89	1.96e-07	1.73e-08	398	373
+Brain cancer	Parkinson's disease	Gene Ontology	epithelial cell differentiation	up-up	1.33	1.73	1.98e-02	2.91e-08	573	532
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of cell activation	up-up	1.61	1.8	1.02e-04	4.55e-08	462	432
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of leukocyte differentiation	up-up	1.55	2.04	4.63e-03	6.21e-08	238	218
+Brain cancer	Parkinson's disease	Gene Ontology	transcription coregulator activity	up-up	1.41	1.78	6.25e-03	6.21e-08	483	461
+Brain cancer	Parkinson's disease	Gene Ontology	embryo development	up-up	1.45	1.55	1.55e-04	1.10e-07	895	796
+Brain cancer	Parkinson's disease	Gene Ontology	t cell differentiation	up-up	1.69	2.1	5.75e-04	1.23e-07	211	197
+Brain cancer	Parkinson's disease	Gene Ontology	leukocyte cell cell adhesion	up-up	1.85	1.95	4.35e-06	1.36e-07	291	281
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of lymphocyte activation	up-up	1.7	1.85	3.82e-05	1.37e-07	363	337
+Brain cancer	Parkinson's disease	Gene Ontology	circulatory system development	up-up	1.73	1.52	4.41e-09	1.38e-07	934	880
+Brain cancer	Parkinson's disease	Gene Ontology	chromatin binding	up-up	1.74	1.75	2.90e-06	2.51e-07	465	431
+Brain cancer	Parkinson's disease	Gene Ontology	cell activation	up-up	1.73	1.43	4.41e-09	2.55e-07	1153	1094
+Brain cancer	Parkinson's disease	Gene Ontology	immune system development	up-up	1.69	1.52	7.47e-09	3.99e-07	834	774
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of locomotion	up-up	1.51	1.69	8.55e-04	4.16e-07	485	466
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of vasculature development	up-up	1.8	1.91	7.15e-06	6.22e-07	287	274
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of immune system process	up-up	1.66	1.79	5.31e-05	6.87e-07	375	357
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of multicellular organismal process	up-up	1.25	1.47	1.52e-02	7.45e-07	1051	967
+Brain cancer	Parkinson's disease	Gene Ontology	b cell activation	up-up	1.59	2.03	2.66e-03	8.15e-07	206	191
+Brain cancer	Parkinson's disease	Gene Ontology	defense response to bacterium	up-up	1.51	2.1	1.57e-02	8.27e-07	185	156
+Brain cancer	Parkinson's disease	Gene Ontology	defense response	up-up	1.65	1.34	4.41e-09	9.10e-07	1304	1215
+Brain cancer	Parkinson's disease	Gene Ontology	response to molecule of bacterial origin	up-up	1.66	1.88	2.45e-04	9.61e-07	297	289
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of cell adhesion	up-up	1.62	1.6	4.09e-06	9.65e-07	588	562
+Brain cancer	Parkinson's disease	Gene Ontology	covalent chromatin modification	up-up	1.32	1.73	3.78e-02	1.76e-06	403	364
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of intracellular signal transduction	up-up	1.22	1.49	4.12e-02	2.01e-06	858	792
+Brain cancer	Parkinson's disease	Gene Ontology	cellular response to biotic stimulus	up-up	1.93	1.99	4.00e-06	2.46e-06	200	194
+Brain cancer	Parkinson's disease	Gene Ontology	immune receptor activity	up-up	1.78	2.17	2.36e-03	3.44e-06	102	104
+Brain cancer	Parkinson's disease	Gene Ontology	i kappab kinase nf kappab signaling	up-up	1.92	1.94	1.93e-06	3.94e-06	231	202
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of immune effector process	up-up	1.86	1.79	5.02e-07	4.49e-06	329	313
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of cellular component movement	up-up	1.25	1.47	3.14e-02	5.20e-06	866	801
+Brain cancer	Parkinson's disease	Gene Ontology	response to biotic stimulus	up-up	1.86	1.36	4.41e-09	5.42e-06	1173	1088
+Brain cancer	Parkinson's disease	Gene Ontology	skeletal system development	up-up	1.74	1.67	1.17e-06	5.58e-06	454	419
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of immune response	up-up	1.75	1.47	4.41e-09	5.65e-06	806	772
+Brain cancer	Parkinson's disease	Gene Ontology	external side of plasma membrane	up-up	1.42	1.79	2.32e-02	7.97e-06	268	257
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of interleukin 6 production	up-up	1.86	2.29	1.66e-03	8.50e-06	81	76
+Brain cancer	Parkinson's disease	Gene Ontology	cytokine binding	up-up	1.77	2.09	1.80e-03	8.72e-06	113	110
+Brain cancer	Parkinson's disease	Gene Ontology	cell motility	up-up	1.29	1.3	3.43e-03	8.91e-06	1370	1242
+Brain cancer	Parkinson's disease	Gene Ontology	humoral immune response	up-up	1.41	1.92	3.64e-02	9.59e-06	187	192
+Brain cancer	Parkinson's disease	Gene Ontology	embryonic organ development	up-up	1.41	1.7	1.54e-02	1.12e-05	380	347
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of cytokine production	up-up	1.91	1.68	1.89e-08	1.15e-05	385	364
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of t cell activation	up-up	1.7	1.83	9.97e-05	1.21e-05	271	256
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of adaptive immune response	up-up	1.83	2.05	3.47e-04	1.26e-05	139	129
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of vasculature development	up-up	1.82	1.97	1.87e-04	1.37e-05	163	158
+Brain cancer	Parkinson's disease	Gene Ontology	phagocytosis	up-up	1.48	1.83	1.38e-02	1.38e-05	215	214
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of t cell differentiation	up-up	1.58	2.09	1.40e-02	1.54e-05	119	113
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of hemopoiesis	up-up	1.52	2.09	2.94e-02	1.55e-05	120	113
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of lymphocyte differentiation	up-up	1.52	2	1.75e-02	1.61e-05	148	136
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of cell activation	up-up	1.75	1.76	2.50e-05	1.85e-05	276	263
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of immune system process	up-up	1.71	1.44	4.41e-09	1.94e-05	886	841
+Brain cancer	Parkinson's disease	Gene Ontology	embryonic morphogenesis	up-up	1.46	1.61	2.13e-03	2.01e-05	516	462
+Brain cancer	Parkinson's disease	Gene Ontology	extracellular matrix	up-up	1.98	1.62	4.41e-09	2.13e-05	458	412
+Brain cancer	Parkinson's disease	Gene Ontology	cell surface	up-up	1.51	1.48	4.65e-05	2.25e-05	697	665
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of cell population proliferation	up-up	1.71	1.46	6.52e-09	2.25e-05	765	732
+Brain cancer	Parkinson's disease	Gene Ontology	chromosome organization	up-up	2.05	1.41	4.41e-09	2.42e-05	991	892
+Brain cancer	Parkinson's disease	Gene Ontology	leukocyte proliferation	up-up	1.93	1.79	5.08e-07	3.01e-05	256	246
+Brain cancer	Parkinson's disease	Gene Ontology	leukocyte migration	up-up	1.57	1.65	7.12e-04	3.06e-05	374	373
+Brain cancer	Parkinson's disease	Gene Ontology	collagen metabolic process	up-up	1.99	2.09	3.07e-04	4.36e-05	94	93
+Brain cancer	Parkinson's disease	Gene Ontology	interleukin 6 production	up-up	1.81	2.03	4.86e-04	5.04e-05	127	115
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of multi organism process	up-up	2.11	1.85	8.51e-08	5.18e-05	176	173
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of leukocyte proliferation	up-up	2	1.86	1.72e-06	5.26e-05	192	183
+Brain cancer	Parkinson's disease	Gene Ontology	tumor necrosis factor superfamily cytokine production	up-up	2.07	1.94	3.95e-06	5.26e-05	131	124
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of lymphocyte activation	up-up	1.57	2.01	1.56e-02	5.31e-05	123	120
+Brain cancer	Parkinson's disease	Gene Ontology	immune effector process	up-up	2.03	1.41	4.41e-09	5.37e-05	948	922
+Brain cancer	Parkinson's disease	Gene Ontology	cell cell adhesion	up-up	1.25	1.48	4.49e-02	5.81e-05	704	632
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of leukocyte mediated immunity	up-up	1.64	1.86	3.01e-03	6.08e-05	171	161
+Brain cancer	Parkinson's disease	Gene Ontology	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	up-up	1.83	1.79	1.40e-05	6.93e-05	222	205
+Brain cancer	Parkinson's disease	Gene Ontology	cytokine receptor activity	up-up	1.61	2.08	3.05e-02	7.73e-05	85	84
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of i kappab kinase nf kappab signaling	up-up	1.96	1.94	8.02e-06	7.73e-05	163	143
+Brain cancer	Parkinson's disease	Gene Ontology	transcription factor complex	up-up	1.82	1.68	2.13e-06	8.59e-05	309	298
+Brain cancer	Parkinson's disease	Gene Ontology	collagen containing extracellular matrix	up-up	2.27	1.66	4.41e-09	9.15e-05	354	327
+Brain cancer	Parkinson's disease	Gene Ontology	myeloid cell differentiation	up-up	1.39	1.65	2.03e-02	1.00e-04	349	329
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte differentiation	up-up	1.74	1.95	2.62e-03	1.00e-04	130	127
+Brain cancer	Parkinson's disease	Gene Ontology	transcription factor binding	up-up	1.31	1.48	2.36e-02	1.02e-04	572	545
+Brain cancer	Parkinson's disease	Gene Ontology	in utero embryonic development	up-up	1.47	1.71	8.72e-03	1.19e-04	330	299
+Brain cancer	Parkinson's disease	Gene Ontology	response to cytokine	up-up	1.86	1.35	4.41e-09	1.40e-04	967	971
+Brain cancer	Parkinson's disease	Gene Ontology	cytokine mediated signaling pathway	up-up	1.86	1.45	4.41e-09	1.51e-04	627	635
+Brain cancer	Parkinson's disease	Gene Ontology	embryo development ending in birth or egg hatching	up-up	1.48	1.49	6.02e-04	1.56e-04	568	506
+Brain cancer	Parkinson's disease	Gene Ontology	response to lipid	up-up	1.35	1.4	4.75e-03	1.69e-04	804	782
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of epithelial cell differentiation	up-up	1.64	1.87	7.86e-03	1.70e-04	123	124
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of lymphocyte mediated immunity	up-up	1.56	1.94	1.75e-02	1.71e-04	125	115
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte cell cell adhesion	up-up	1.92	1.77	6.95e-06	2.64e-04	189	183
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of immune response	up-up	1.73	1.42	2.90e-08	2.88e-04	634	607
+Brain cancer	Parkinson's disease	Gene Ontology	epithelium development	up-up	1.45	1.32	3.11e-05	2.90e-04	1039	937
+Brain cancer	Parkinson's disease	Gene Ontology	pattern recognition receptor signaling pathway	up-up	2.04	1.81	1.77e-06	3.22e-04	164	154
+Brain cancer	Parkinson's disease	Gene Ontology	cell substrate adhesion	up-up	1.55	1.63	2.52e-03	3.28e-04	301	283
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of lymphocyte differentiation	up-up	1.73	1.99	6.27e-03	3.32e-04	81	83
+Brain cancer	Parkinson's disease	Gene Ontology	defense response to other organism	up-up	1.89	1.38	4.41e-09	3.43e-04	864	804
+Brain cancer	Parkinson's disease	Gene Ontology	tissue remodeling	up-up	1.6	1.77	6.15e-03	3.97e-04	146	145
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of cell activation	up-up	1.59	1.84	7.86e-03	4.05e-04	165	159
+Brain cancer	Parkinson's disease	Gene Ontology	lymphocyte mediated immunity	up-up	1.61	1.7	2.57e-03	4.22e-04	211	199
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of inflammatory response	up-up	1.36	1.66	3.88e-02	4.44e-04	284	256
+Brain cancer	Parkinson's disease	Gene Ontology	endothelium development	up-up	1.61	1.84	1.76e-02	6.89e-04	105	105
+Brain cancer	Parkinson's disease	Gene Ontology	lymphocyte activation involved in immune response	up-up	1.62	1.79	5.57e-03	7.45e-04	147	133
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of cell adhesion	up-up	1.45	1.61	2.04e-02	7.46e-04	237	229
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of hemopoiesis	up-up	1.79	1.75	2.23e-04	8.00e-04	158	156
+Brain cancer	Parkinson's disease	Gene Ontology	cell chemotaxis	up-up	1.4	1.63	4.21e-02	8.43e-04	245	244
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of cell cell adhesion	up-up	1.63	1.53	2.60e-04	8.77e-04	352	332
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of b cell activation	up-up	1.75	1.86	3.43e-03	1.09e-03	102	94
+Brain cancer	Parkinson's disease	Gene Ontology	cellular response to vascular endothelial growth factor stimulus	up-up	2.04	2.11	2.68e-04	1.10e-03	50	46
+Brain cancer	Parkinson's disease	Gene Ontology	epithelial cell development	up-up	1.41	1.66	4.75e-02	1.22e-03	186	173
+Brain cancer	Parkinson's disease	Gene Ontology	interferon gamma mediated signaling pathway	up-up	2.33	1.97	7.08e-07	1.25e-03	66	66
+Brain cancer	Parkinson's disease	Gene Ontology	renal system development	up-up	1.74	1.6	7.03e-05	1.29e-03	263	247
+Brain cancer	Parkinson's disease	Gene Ontology	toll like receptor signaling pathway	up-up	1.98	1.81	6.71e-05	1.41e-03	122	115
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of tumor necrosis factor superfamily cytokine production	up-up	2.2	1.96	6.66e-06	1.41e-03	73	73
+Brain cancer	Parkinson's disease	Gene Ontology	leukocyte apoptotic process	up-up	1.55	1.86	4.50e-02	1.41e-03	90	89
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of cell adhesion	up-up	1.82	1.51	1.78e-06	1.52e-03	348	333
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of response to cytokine stimulus	up-up	1.75	2.05	1.23e-02	1.54e-03	44	41
+Brain cancer	Parkinson's disease	Gene Ontology	cytokine metabolic process	up-up	1.81	1.84	1.35e-03	1.59e-03	105	100
+Brain cancer	Parkinson's disease	Gene Ontology	wound healing	up-up	1.53	1.43	6.48e-04	1.61e-03	472	461
+Brain cancer	Parkinson's disease	Gene Ontology	cytokine secretion	up-up	1.53	1.67	1.02e-02	1.63e-03	189	174
+Brain cancer	Parkinson's disease	Gene Ontology	ossification	up-up	1.58	1.51	8.75e-04	1.63e-03	347	320
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of alpha beta t cell activation	up-up	1.69	1.95	1.70e-02	1.67e-03	77	71
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of extrinsic apoptotic signaling pathway	up-up	1.75	1.73	1.74e-03	1.67e-03	131	130
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of adaptive immune response	up-up	1.97	1.86	3.33e-04	1.72e-03	90	83
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of endothelial cell migration	up-up	1.55	1.72	1.89e-02	1.77e-03	140	133
+Brain cancer	Parkinson's disease	Gene Ontology	intracellular receptor signaling pathway	up-up	1.34	1.58	4.84e-02	1.83e-03	233	231
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of cell death	up-up	1.44	1.2	4.36e-06	2.00e-03	1381	1311
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of response to external stimulus	up-up	1.44	1.3	9.59e-05	2.12e-03	906	844
+Brain cancer	Parkinson's disease	Gene Ontology	innate immune response	up-up	1.89	1.33	4.41e-09	2.24e-03	710	671
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of cytokine production	up-up	1.6	1.59	1.68e-03	2.24e-03	230	220
+Brain cancer	Parkinson's disease	Gene Ontology	intrinsic apoptotic signaling pathway in response to dna damage	up-up	1.91	1.84	5.73e-04	2.36e-03	89	87
+Brain cancer	Parkinson's disease	Gene Ontology	t cell proliferation	up-up	2.05	1.68	6.49e-07	2.38e-03	163	154
+Brain cancer	Parkinson's disease	Gene Ontology	urogenital system development	up-up	1.73	1.54	7.33e-05	2.38e-03	295	282
+Brain cancer	Parkinson's disease	Gene Ontology	myeloid leukocyte activation	up-up	1.88	1.37	4.41e-09	2.54e-03	527	528
+Brain cancer	Parkinson's disease	Gene Ontology	vascular endothelial growth factor signaling pathway	up-up	1.72	2.08	2.53e-02	2.64e-03	33	30
+Brain cancer	Parkinson's disease	Gene Ontology	interleukin 8 production	up-up	1.86	1.9	2.26e-03	2.81e-03	65	62
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of response to cytokine stimulus	up-up	1.81	1.71	4.18e-04	2.95e-03	143	138
+Brain cancer	Parkinson's disease	Gene Ontology	endothelial cell migration	up-up	1.62	1.6	3.31e-03	2.96e-03	179	173
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of nik nf kappab signaling	up-up	1.62	1.9	1.80e-02	2.96e-03	68	62
+Brain cancer	Parkinson's disease	Gene Ontology	secretory granule membrane	up-up	1.57	1.59	3.91e-03	3.00e-03	238	223
+Brain cancer	Parkinson's disease	Gene Ontology	protein dna complex	up-up	1.62	1.69	7.44e-03	3.08e-03	140	143
+Brain cancer	Parkinson's disease	Gene Ontology	alpha beta t cell activation	up-up	1.72	1.79	3.02e-03	3.18e-03	117	106
+Brain cancer	Parkinson's disease	Gene Ontology	homeostasis of number of cells	up-up	1.66	1.6	1.94e-03	3.24e-03	210	204
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of dna binding transcription factor activity	up-up	1.4	1.46	1.25e-02	3.29e-03	369	336
+Brain cancer	Parkinson's disease	Gene Ontology	histone binding	up-up	1.62	1.67	4.08e-03	3.43e-03	164	150
+Brain cancer	Parkinson's disease	Gene Ontology	leukocyte mediated immunity	up-up	1.94	1.33	4.41e-09	3.53e-03	633	621
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of cell population proliferation	up-up	1.34	1.36	1.02e-02	3.69e-03	598	579
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of cell cell adhesion	up-up	1.76	1.55	4.68e-05	3.84e-03	225	217
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of inflammatory response	up-up	1.56	1.74	2.20e-02	3.84e-03	118	112
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of extrinsic apoptotic signaling pathway	up-up	1.81	1.83	3.69e-03	4.04e-03	90	85
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of immune effector process	up-up	1.6	1.74	2.57e-02	4.06e-03	99	99
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of b cell proliferation	up-up	1.69	1.96	1.77e-02	4.17e-03	55	52
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of cell cycle g1 s phase transition	up-up	2.52	1.83	4.41e-09	4.23e-03	93	90
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of response to stress	up-up	1.54	1.17	4.12e-08	4.27e-03	1246	1169
+Brain cancer	Parkinson's disease	Gene Ontology	integrin mediated signaling pathway	up-up	1.87	1.83	1.59e-03	4.29e-03	94	90
+Brain cancer	Parkinson's disease	Gene Ontology	skeletal system morphogenesis	up-up	1.66	1.59	9.02e-04	4.35e-03	207	191
+Brain cancer	Parkinson's disease	Gene Ontology	blood vessel endothelial cell migration	up-up	1.68	1.7	8.47e-03	4.37e-03	105	101
+Brain cancer	Parkinson's disease	Gene Ontology	g0 to g1 transition	up-up	1.74	1.99	1.75e-02	4.37e-03	38	35
+Brain cancer	Parkinson's disease	Gene Ontology	response to wounding	up-up	1.5	1.34	4.02e-04	4.68e-03	570	557
+Brain cancer	Parkinson's disease	Gene Ontology	chemokine production	up-up	1.7	1.84	1.50e-02	4.76e-03	74	75
+Brain cancer	Parkinson's disease	Gene Ontology	activation of immune response	up-up	1.82	1.38	4.08e-08	4.77e-03	493	473
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of immune response	up-up	1.76	1.73	1.18e-03	5.14e-03	124	120
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of humoral immune response	up-up	1.74	1.9	1.17e-02	5.14e-03	55	59
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of immune effector process	up-up	1.68	1.58	1.72e-03	5.18e-03	177	175
+Brain cancer	Parkinson's disease	Gene Ontology	epithelial cell apoptotic process	up-up	1.57	1.81	2.64e-02	5.29e-03	91	90
+Brain cancer	Parkinson's disease	Gene Ontology	interleukin 1 beta production	up-up	1.69	1.83	1.40e-02	5.34e-03	73	67
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of t cell differentiation	up-up	1.59	2.05	4.61e-02	5.48e-03	36	34
+Brain cancer	Parkinson's disease	Gene Ontology	reproduction	up-up	1.26	1.22	9.72e-03	5.55e-03	1202	1024
+Brain cancer	Parkinson's disease	Gene Ontology	collagen biosynthetic process	up-up	1.61	2	4.87e-02	6.22e-03	40	38
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of interleukin 8 production	up-up	1.98	1.91	1.14e-03	6.40e-03	43	41
+Brain cancer	Parkinson's disease	Gene Ontology	gland morphogenesis	up-up	1.62	1.69	1.56e-02	6.88e-03	105	109
+Brain cancer	Parkinson's disease	Gene Ontology	glomerulus development	up-up	1.8	1.85	5.49e-03	7.23e-03	57	56
+Brain cancer	Parkinson's disease	Gene Ontology	nuclear matrix	up-up	1.73	1.71	6.09e-03	7.24e-03	88	89
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of response to biotic stimulus	up-up	1.92	1.82	8.90e-04	7.43e-03	75	72
+Brain cancer	Parkinson's disease	Gene Ontology	interleukin 1 production	up-up	1.72	1.81	9.64e-03	7.50e-03	84	75
+Brain cancer	Parkinson's disease	Gene Ontology	alpha beta t cell differentiation	up-up	1.57	1.73	2.49e-02	7.51e-03	89	81
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of defense response	up-up	1.63	1.33	9.75e-07	7.74e-03	627	577
+Brain cancer	Parkinson's disease	Gene Ontology	extracellular matrix structural constituent	up-up	2.38	1.62	4.41e-09	7.91e-03	148	133
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	up-up	1.91	1.96	3.56e-03	8.13e-03	34	31
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of cell death	up-up	1.54	1.26	6.02e-06	8.16e-03	810	793
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of extrinsic apoptotic signaling pathway via death domain receptors	up-up	1.7	1.84	1.14e-02	8.16e-03	52	48
+Brain cancer	Parkinson's disease	Gene Ontology	t cell differentiation in thymus	up-up	1.66	1.85	1.83e-02	8.34e-03	64	63
+Brain cancer	Parkinson's disease	Gene Ontology	chromatin remodeling	up-up	1.78	1.62	1.43e-03	8.57e-03	136	126
+Brain cancer	Parkinson's disease	Gene Ontology	transcription coactivator activity	up-up	1.39	1.51	3.40e-02	8.67e-03	274	272
+Brain cancer	Parkinson's disease	Gene Ontology	production of molecular mediator of immune response	up-up	1.71	1.55	8.11e-04	8.72e-03	179	172
+Brain cancer	Parkinson's disease	Gene Ontology	bone development	up-up	1.67	1.53	1.12e-03	9.25e-03	190	175
+Brain cancer	Parkinson's disease	Gene Ontology	tertiary granule membrane	up-up	1.62	1.85	3.39e-02	9.25e-03	56	59
+Brain cancer	Parkinson's disease	Gene Ontology	glial cell differentiation	up-up	1.48	1.54	2.89e-02	9.83e-03	191	178
+Brain cancer	Parkinson's disease	Gene Ontology	cell adhesion mediated by integrin	up-up	2.07	1.8	8.56e-05	1.00e-02	65	58
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte migration	up-up	1.52	1.67	2.90e-02	1.00e-02	116	114
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of nf kappab transcription factor activity	up-up	1.54	1.65	1.46e-02	1.02e-02	127	123
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of leukocyte migration	up-up	1.42	1.56	4.59e-02	1.04e-02	171	164
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of extracellular matrix organization	up-up	2.04	1.87	5.39e-04	1.05e-02	34	33
+Brain cancer	Parkinson's disease	Gene Ontology	platelet derived growth factor receptor beta signaling pathway	up-up	1.83	1.96	1.78e-02	1.09e-02	14	13
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of cell cell adhesion	up-up	1.44	1.61	3.78e-02	1.10e-02	148	140
+Brain cancer	Parkinson's disease	Gene Ontology	protein complex involved in cell adhesion	up-up	1.92	1.91	4.30e-03	1.14e-02	31	29
+Brain cancer	Parkinson's disease	Gene Ontology	response to interferon gamma	up-up	2.12	1.58	2.87e-07	1.14e-02	148	148
+Brain cancer	Parkinson's disease	Gene Ontology	interferon beta production	up-up	1.98	1.85	6.81e-04	1.18e-02	48	43
+Brain cancer	Parkinson's disease	Gene Ontology	b cell mediated immunity	up-up	1.88	1.67	7.61e-04	1.19e-02	98	97
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte proliferation	up-up	1.96	1.63	4.29e-05	1.20e-02	120	109
+Brain cancer	Parkinson's disease	Gene Ontology	cell activation involved in immune response	up-up	1.92	1.32	4.41e-09	1.20e-02	576	566
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of toll like receptor signaling pathway	up-up	1.61	1.77	3.72e-02	1.20e-02	57	51
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of leukocyte mediated immunity	up-up	1.69	1.64	6.84e-03	1.24e-02	112	106
+Brain cancer	Parkinson's disease	Gene Ontology	cell matrix adhesion	up-up	1.45	1.52	3.40e-02	1.32e-02	193	186
+Brain cancer	Parkinson's disease	Gene Ontology	gene silencing	up-up	2.04	1.52	1.28e-07	1.32e-02	206	186
+Brain cancer	Parkinson's disease	Gene Ontology	cartilage development	up-up	1.79	1.52	2.83e-04	1.34e-02	178	167
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of phagocytosis	up-up	1.67	1.81	2.37e-02	1.34e-02	56	57
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of cytokine biosynthetic process	up-up	1.78	1.76	6.70e-03	1.35e-02	61	60
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of t cell mediated immunity	up-up	1.61	1.74	3.03e-02	1.36e-02	64	62
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of epidermis development	up-up	1.7	1.77	1.38e-02	1.37e-02	74	71
+Brain cancer	Parkinson's disease	Gene Ontology	regionalization	up-up	1.31	1.47	4.39e-02	1.38e-02	304	265
+Brain cancer	Parkinson's disease	Gene Ontology	response to lipoteichoic acid	up-up	1.77	1.9	2.38e-02	1.39e-02	10	9
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of endothelial cell migration	up-up	1.66	1.7	1.57e-02	1.41e-02	86	82
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of transcription from rna polymerase ii promoter involved in cellular response to chemical stimulus	up-up	1.92	1.98	8.40e-03	1.43e-02	21	20
+Brain cancer	Parkinson's disease	Gene Ontology	heterochromatin	up-up	1.83	1.77	3.77e-03	1.43e-02	70	61
+Brain cancer	Parkinson's disease	Gene Ontology	extrinsic apoptotic signaling pathway	up-up	1.47	1.5	1.60e-02	1.44e-02	194	191
+Brain cancer	Parkinson's disease	Gene Ontology	entry into host	up-up	1.49	1.63	4.80e-02	1.46e-02	107	114
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of innate immune response	up-up	2.22	1.83	1.94e-05	1.50e-02	45	43
+Brain cancer	Parkinson's disease	Gene Ontology	tissue migration	up-up	1.52	1.45	6.30e-03	1.57e-02	259	249
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of blood vessel endothelial cell migration	up-up	1.84	1.74	4.76e-03	1.60e-02	49	48
+Brain cancer	Parkinson's disease	Gene Ontology	interleukin 2 production	up-up	1.84	1.75	4.01e-03	1.61e-02	54	56
+Brain cancer	Parkinson's disease	Gene Ontology	tube formation	up-up	1.56	1.56	2.03e-02	1.67e-02	136	116
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of b cell activation	up-up	1.71	1.78	9.41e-03	1.71e-02	62	57
+Brain cancer	Parkinson's disease	Gene Ontology	complement activation	up-up	1.63	1.77	2.99e-02	1.75e-02	55	59
+Brain cancer	Parkinson's disease	Gene Ontology	gland development	up-up	1.61	1.39	5.02e-04	1.75e-02	377	374
+Brain cancer	Parkinson's disease	Gene Ontology	cytokine production involved in immune response	up-up	1.55	1.61	3.53e-02	1.81e-02	92	93
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of alpha beta t cell activation	up-up	1.69	1.8	1.91e-02	1.83e-02	54	52
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of lymphocyte mediated immunity	up-up	1.66	1.67	1.49e-02	1.85e-02	86	80
+Brain cancer	Parkinson's disease	Gene Ontology	artery morphogenesis	up-up	1.75	1.76	9.64e-03	1.87e-02	61	59
+Brain cancer	Parkinson's disease	Gene Ontology	peptidyl lysine modification	up-up	1.48	1.4	3.65e-03	1.91e-02	331	304
+Brain cancer	Parkinson's disease	Gene Ontology	macrophage activation	up-up	1.65	1.72	1.94e-02	1.96e-02	73	72
+Brain cancer	Parkinson's disease	Gene Ontology	epithelial tube morphogenesis	up-up	1.59	1.41	2.49e-03	1.99e-02	291	264
+Brain cancer	Parkinson's disease	Gene Ontology	cardiac septum morphogenesis	up-up	1.8	1.71	7.14e-03	1.99e-02	66	65
+Brain cancer	Parkinson's disease	Gene Ontology	nuclear periphery	up-up	1.93	1.57	2.34e-04	1.99e-02	103	108
+Brain cancer	Parkinson's disease	Gene Ontology	cd40 signaling pathway	up-up	1.77	1.9	2.38e-02	2.02e-02	10	10
+Brain cancer	Parkinson's disease	Gene Ontology	renal system vasculature development	up-up	1.85	1.84	1.78e-02	2.06e-02	24	25
+Brain cancer	Parkinson's disease	Gene Ontology	mitogen activated protein kinase binding	up-up	1.96	1.89	6.39e-03	2.08e-02	20	24
+Brain cancer	Parkinson's disease	Gene Ontology	respiratory system development	up-up	1.49	1.5	1.94e-02	2.10e-02	171	166
+Brain cancer	Parkinson's disease	Gene Ontology	chromatin assembly or disassembly	up-up	1.6	1.54	1.01e-02	2.14e-02	133	128
+Brain cancer	Parkinson's disease	Gene Ontology	nucleotide binding oligomerization domain containing 2 signaling pathway	up-up	1.94	1.85	5.43e-03	2.14e-02	11	9
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of alpha beta t cell differentiation	up-up	1.66	1.76	3.23e-02	2.14e-02	41	40
+Brain cancer	Parkinson's disease	Gene Ontology	maintenance of cell number	up-up	1.78	1.53	6.79e-04	2.18e-02	141	129
+Brain cancer	Parkinson's disease	Gene Ontology	animal organ regeneration	up-up	1.87	1.69	2.57e-03	2.26e-02	67	68
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of epithelial cell migration	up-up	1.35	1.45	4.72e-02	2.29e-02	197	190
+Brain cancer	Parkinson's disease	Gene Ontology	anterior posterior pattern specification	up-up	1.47	1.48	2.30e-02	2.30e-02	185	170
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of gene expression epigenetic	up-up	2.08	1.42	7.32e-09	2.30e-02	258	236
+Brain cancer	Parkinson's disease	Gene Ontology	alpha beta t cell proliferation	up-up	1.84	1.87	1.31e-02	2.31e-02	25	24
+Brain cancer	Parkinson's disease	Gene Ontology	nephron development	up-up	1.78	1.57	8.14e-04	2.36e-02	128	120
+Brain cancer	Parkinson's disease	Gene Ontology	astrocyte differentiation	up-up	1.55	1.68	3.47e-02	2.54e-02	68	65
+Brain cancer	Parkinson's disease	Gene Ontology	pri mirna transcription by rna polymerase ii	up-up	1.89	1.73	3.34e-03	2.60e-02	43	41
+Brain cancer	Parkinson's disease	Gene Ontology	dna packaging	up-up	1.77	1.52	4.34e-04	2.65e-02	150	142
+Brain cancer	Parkinson's disease	Gene Ontology	immune response regulating signaling pathway	up-up	1.63	1.29	4.45e-05	2.66e-02	456	436
+Brain cancer	Parkinson's disease	Gene Ontology	negative regulation of defense response	up-up	1.44	1.48	4.40e-02	2.68e-02	175	157
+Brain cancer	Parkinson's disease	Gene Ontology	connective tissue development	up-up	1.74	1.39	1.66e-04	2.74e-02	237	218
+Brain cancer	Parkinson's disease	Gene Ontology	cellular response to abiotic stimulus	up-up	1.6	1.4	7.15e-04	2.78e-02	283	270
+Brain cancer	Parkinson's disease	Gene Ontology	collagen fibril organization	up-up	2.46	1.74	3.28e-08	2.84e-02	48	43
+Brain cancer	Parkinson's disease	Gene Ontology	ameboidal type cell migration	up-up	1.46	1.34	7.39e-03	2.89e-02	346	330
+Brain cancer	Parkinson's disease	Gene Ontology	osteoblast differentiation	up-up	1.71	1.43	5.13e-04	3.07e-02	189	169
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of epithelial cell migration	up-up	1.51	1.51	3.81e-02	3.08e-02	126	122
+Brain cancer	Parkinson's disease	Gene Ontology	anchoring junction	up-up	1.38	1.25	2.40e-03	3.15e-02	704	657
+Brain cancer	Parkinson's disease	Gene Ontology	mesoderm development	up-up	1.67	1.51	7.68e-03	3.15e-02	110	101
+Brain cancer	Parkinson's disease	Gene Ontology	platelet derived growth factor receptor binding	up-up	1.8	1.9	1.67e-02	3.23e-02	11	14
+Brain cancer	Parkinson's disease	Gene Ontology	vascular endothelial growth factor receptor signaling pathway	up-up	1.55	1.61	3.13e-02	3.29e-02	80	80
+Brain cancer	Parkinson's disease	Gene Ontology	animal organ morphogenesis	up-up	1.39	1.2	3.17e-04	3.32e-02	943	845
+Brain cancer	Parkinson's disease	Gene Ontology	type i interferon production	up-up	2.23	1.5	1.47e-07	3.39e-02	118	101
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of superoxide anion generation	up-up	1.87	1.86	1.33e-02	3.44e-02	19	21
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of hemopoiesis	up-up	1.71	1.32	2.47e-05	3.49e-02	391	365
+Brain cancer	Parkinson's disease	Gene Ontology	astrocyte development	up-up	1.81	1.71	1.15e-02	3.57e-02	34	35
+Brain cancer	Parkinson's disease	Gene Ontology	signal transduction by p53 class mediator	up-up	2.05	1.38	5.43e-08	3.62e-02	230	217
+Brain cancer	Parkinson's disease	Gene Ontology	dna conformation change	up-up	2.29	1.39	4.41e-09	3.70e-02	243	230
+Brain cancer	Parkinson's disease	Gene Ontology	embryonic digit morphogenesis	up-up	1.74	1.63	7.80e-03	3.74e-02	59	48
+Brain cancer	Parkinson's disease	Gene Ontology	intrinsic apoptotic signaling pathway in response to dna damage by p53 class mediator	up-up	2.12	1.78	1.55e-04	3.79e-02	37	38
+Brain cancer	Parkinson's disease	Gene Ontology	superoxide anion generation	up-up	1.79	1.75	1.88e-02	3.79e-02	30	31
+Brain cancer	Parkinson's disease	Gene Ontology	neuroinflammatory response	up-up	1.68	1.64	2.16e-02	3.85e-02	54	56
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of chemokine production	up-up	1.81	1.65	6.23e-03	3.91e-02	49	49
+Brain cancer	Parkinson's disease	Gene Ontology	defense response to gram positive bacterium	up-up	1.79	1.72	5.38e-03	4.00e-02	65	53
+Brain cancer	Parkinson's disease	Gene Ontology	response to type i interferon	up-up	2.34	1.57	5.20e-07	4.13e-02	75	80
+Brain cancer	Parkinson's disease	Gene Ontology	formation of primary germ layer	up-up	1.85	1.53	9.24e-04	4.15e-02	103	94
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of cell death	up-up	1.31	1.25	1.87e-02	4.39e-02	598	575
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of cartilage development	up-up	1.66	1.62	1.76e-02	4.47e-02	59	56
+Brain cancer	Parkinson's disease	Gene Ontology	neural tube development	up-up	1.65	1.46	3.23e-03	4.55e-02	147	128
+Brain cancer	Parkinson's disease	Gene Ontology	respiratory burst involved in defense response	up-up	1.67	1.8	4.88e-02	4.59e-02	12	11
+Brain cancer	Parkinson's disease	Gene Ontology	myd88 dependent toll like receptor signaling pathway	up-up	2.27	1.76	2.37e-05	4.61e-02	31	27
+Brain cancer	Parkinson's disease	Gene Ontology	astrocyte activation	up-up	1.99	1.82	3.41e-03	4.62e-02	18	19
+Brain cancer	Parkinson's disease	Gene Ontology	growth factor binding	up-up	2.12	1.53	1.08e-06	4.62e-02	119	119
+Brain cancer	Parkinson's disease	Gene Ontology	respiratory burst	up-up	1.74	1.75	1.65e-02	4.62e-02	29	26
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of alpha beta t cell proliferation	up-up	1.9	1.85	1.27e-02	4.84e-02	16	17
+Brain cancer	Parkinson's disease	Gene Ontology	response to steroid hormone	up-up	1.34	1.29	4.22e-02	4.90e-02	340	335
+Brain cancer	Parkinson's disease	Gene Ontology	glutamatergic synapse	down-down	-2.83	-2.03	4.41e-09	1.26e-08	325	288
+Brain cancer	Parkinson's disease	Gene Ontology	membrane protein complex	down-down	-1.47	-1.74	2.28e-05	1.26e-08	977	849
+Brain cancer	Parkinson's disease	Gene Ontology	neuron projection	down-down	-2.79	-1.69	4.41e-09	1.26e-08	1144	1005
+Brain cancer	Parkinson's disease	Gene Ontology	postsynapse	down-down	-2.98	-1.88	4.41e-09	1.26e-08	541	493
+Brain cancer	Parkinson's disease	Gene Ontology	presynapse	down-down	-3.19	-1.96	4.41e-09	1.26e-08	449	402
+Brain cancer	Parkinson's disease	Gene Ontology	proton transmembrane transport	down-down	-1.52	-2.42	3.39e-02	1.26e-08	125	104
+Brain cancer	Parkinson's disease	Gene Ontology	synapse	down-down	-3.05	-1.85	4.41e-09	1.26e-08	1154	1034
+Brain cancer	Parkinson's disease	Gene Ontology	vesicle mediated transport in synapse	down-down	-3.05	-2.31	4.41e-09	1.26e-08	187	161
+Brain cancer	Parkinson's disease	Gene Ontology	synaptic membrane	down-down	-3.17	-1.94	4.41e-09	1.64e-08	390	337
+Brain cancer	Parkinson's disease	Gene Ontology	transport vesicle	down-down	-2.35	-1.96	4.41e-09	3.18e-08	324	291
+Brain cancer	Parkinson's disease	Gene Ontology	gtpase activity	down-down	-1.54	-2.06	3.26e-03	4.15e-08	254	220
+Brain cancer	Parkinson's disease	Gene Ontology	axon	down-down	-3.06	-1.82	4.41e-09	6.12e-08	544	478
+Brain cancer	Parkinson's disease	Gene Ontology	synaptic signaling	down-down	-3.13	-1.75	4.41e-09	6.12e-08	632	575
+Brain cancer	Parkinson's disease	Gene Ontology	proton transmembrane transporter activity	down-down	-1.75	-2.34	3.87e-03	7.72e-08	106	86
+Brain cancer	Parkinson's disease	Gene Ontology	neuron to neuron synapse	down-down	-3.16	-1.93	4.41e-09	2.21e-07	312	280
+Brain cancer	Parkinson's disease	Gene Ontology	membrane organization	down-down	-1.47	-1.69	1.98e-04	2.99e-07	667	613
+Brain cancer	Parkinson's disease	Gene Ontology	transmembrane transport	down-down	-1.78	-1.55	4.41e-09	3.28e-07	1335	1114
+Brain cancer	Parkinson's disease	Gene Ontology	organophosphate biosynthetic process	down-down	-1.3	-1.77	2.87e-02	3.97e-07	507	452
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of synaptic vesicle cycle	down-down	-3.07	-2.28	4.41e-09	4.20e-07	102	86
+Brain cancer	Parkinson's disease	Gene Ontology	synapse organization	down-down	-2.47	-1.87	4.41e-09	4.35e-07	357	315
+Brain cancer	Parkinson's disease	Gene Ontology	cation transmembrane transport	down-down	-2.18	-1.68	4.41e-09	5.11e-07	737	613
+Brain cancer	Parkinson's disease	Gene Ontology	somatodendritic compartment	down-down	-2.75	-1.66	4.41e-09	6.68e-07	727	671
+Brain cancer	Parkinson's disease	Gene Ontology	exocytic vesicle	down-down	-2.98	-2.07	4.41e-09	1.48e-06	188	154
+Brain cancer	Parkinson's disease	Gene Ontology	guanyl nucleotide binding	down-down	-1.4	-1.88	1.75e-02	1.69e-06	302	268
+Brain cancer	Parkinson's disease	Gene Ontology	postsynaptic membrane	down-down	-3.03	-1.87	4.41e-09	3.54e-06	292	249
+Brain cancer	Parkinson's disease	Gene Ontology	microtubule based transport	down-down	-1.81	-2.09	3.19e-04	3.73e-06	148	123
+Brain cancer	Parkinson's disease	Gene Ontology	organelle localization	down-down	-1.29	-1.7	3.27e-02	1.01e-05	521	475
+Brain cancer	Parkinson's disease	Gene Ontology	inorganic ion transmembrane transport	down-down	-2.12	-1.62	4.41e-09	1.12e-05	720	601
+Brain cancer	Parkinson's disease	Gene Ontology	gaba ergic synapse	down-down	-2.86	-2.24	4.41e-09	1.19e-05	68	63
+Brain cancer	Parkinson's disease	Gene Ontology	tubulin binding	down-down	-1.87	-1.83	1.82e-06	1.54e-05	286	245
+Brain cancer	Parkinson's disease	Gene Ontology	cytoplasmic region	down-down	-1.78	-1.99	2.93e-04	1.63e-05	211	157
+Brain cancer	Parkinson's disease	Gene Ontology	vesicle localization	down-down	-1.86	-1.99	1.12e-04	1.79e-05	170	159
+Brain cancer	Parkinson's disease	Gene Ontology	microtubule based movement	down-down	-1.53	-1.91	9.41e-03	2.10e-05	236	177
+Brain cancer	Parkinson's disease	Gene Ontology	synaptic vesicle exocytosis	down-down	-3.02	-2.11	4.41e-09	2.83e-05	104	85
+Brain cancer	Parkinson's disease	Gene Ontology	transport vesicle membrane	down-down	-2.6	-1.96	4.41e-09	3.08e-05	169	149
+Brain cancer	Parkinson's disease	Gene Ontology	cytoskeleton dependent intracellular transport	down-down	-1.93	-2.02	7.24e-05	3.41e-05	143	126
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of synaptic vesicle exocytosis	down-down	-2.87	-2.18	4.41e-09	3.49e-05	72	57
+Brain cancer	Parkinson's disease	Gene Ontology	neurotransmitter secretion	down-down	-3.21	-1.99	4.41e-09	3.69e-05	151	130
+Brain cancer	Parkinson's disease	Gene Ontology	neurotransmitter transport	down-down	-2.89	-1.83	4.41e-09	3.69e-05	245	218
+Brain cancer	Parkinson's disease	Gene Ontology	ion transmembrane transport	down-down	-2.03	-1.51	4.41e-09	4.68e-05	975	812
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of macroautophagy	down-down	-1.47	-2.01	2.75e-02	4.70e-05	155	126
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of trans synaptic signaling	down-down	-3.11	-1.72	4.41e-09	4.77e-05	388	355
+Brain cancer	Parkinson's disease	Gene Ontology	microtubule	down-down	-1.62	-1.76	1.79e-04	4.87e-05	344	283
+Brain cancer	Parkinson's disease	Gene Ontology	establishment of localization in cell	down-down	-1.59	-1.65	5.14e-05	6.11e-05	453	413
+Brain cancer	Parkinson's disease	Gene Ontology	plasma membrane bounded cell projection cytoplasm	down-down	-1.43	-1.96	4.82e-02	7.02e-05	177	125
+Brain cancer	Parkinson's disease	Gene Ontology	vesicle organization	down-down	-1.38	-1.77	2.80e-02	7.71e-05	272	242
+Brain cancer	Parkinson's disease	Gene Ontology	dendritic tree	down-down	-2.72	-1.63	4.41e-09	7.93e-05	528	475
+Brain cancer	Parkinson's disease	Gene Ontology	nadh metabolic process	down-down	-1.57	-2.2	4.99e-02	8.20e-05	34	34
+Brain cancer	Parkinson's disease	Gene Ontology	schaffer collateral ca1 synapse	down-down	-2.6	-2.1	4.41e-09	8.99e-05	72	66
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of neurotransmitter transport	down-down	-2.85	-1.96	4.41e-09	9.74e-05	129	115
+Brain cancer	Parkinson's disease	Gene Ontology	organelle transport along microtubule	down-down	-2.35	-2.13	1.23e-06	9.99e-05	66	60
+Brain cancer	Parkinson's disease	Gene Ontology	nad metabolic process	down-down	-1.62	-2.17	3.61e-02	1.07e-04	43	43
+Brain cancer	Parkinson's disease	Gene Ontology	presynaptic membrane	down-down	-2.86	-1.91	4.41e-09	1.71e-04	143	130
+Brain cancer	Parkinson's disease	Gene Ontology	cell body	down-down	-2.48	-1.59	4.41e-09	1.92e-04	503	468
+Brain cancer	Parkinson's disease	Gene Ontology	synaptic vesicle transport	down-down	-2.26	-2.17	3.62e-05	1.97e-04	37	29
+Brain cancer	Parkinson's disease	Gene Ontology	amine transport	down-down	-2.69	-1.99	4.41e-09	2.20e-04	86	77
+Brain cancer	Parkinson's disease	Gene Ontology	organelle fusion	down-down	-1.61	-1.97	1.92e-02	2.31e-04	104	90
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of synapse structure or activity	down-down	-2.31	-1.84	4.41e-09	2.80e-04	200	176
+Brain cancer	Parkinson's disease	Gene Ontology	cell part morphogenesis	down-down	-2.22	-1.55	4.41e-09	2.91e-04	607	549
+Brain cancer	Parkinson's disease	Gene Ontology	distal axon	down-down	-2.88	-1.73	4.41e-09	3.08e-04	264	231
+Brain cancer	Parkinson's disease	Gene Ontology	proton transporting two sector atpase complex catalytic domain	down-down	-1.73	-2.19	4.88e-02	3.34e-04	15	12
+Brain cancer	Parkinson's disease	Gene Ontology	pyrophosphate hydrolysis driven proton transmembrane transporter activity	down-down	-1.75	-2.13	1.94e-02	3.43e-04	30	27
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of neurotransmitter secretion	down-down	-3	-1.96	4.41e-09	4.05e-04	95	81
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of neuronal synaptic plasticity	down-down	-2.59	-2.1	2.69e-08	4.59e-04	47	42
+Brain cancer	Parkinson's disease	Gene Ontology	synaptic vesicle recycling	down-down	-2.48	-2.06	1.18e-07	4.65e-04	58	53
+Brain cancer	Parkinson's disease	Gene Ontology	postsynaptic specialization membrane	down-down	-2.75	-1.95	4.41e-09	4.75e-04	97	81
+Brain cancer	Parkinson's disease	Gene Ontology	synapse assembly	down-down	-2.26	-1.86	1.37e-08	4.92e-04	151	125
+Brain cancer	Parkinson's disease	Gene Ontology	synaptic vesicle endocytosis	down-down	-2.56	-2.04	2.48e-08	4.97e-04	48	44
+Brain cancer	Parkinson's disease	Gene Ontology	monovalent inorganic cation transport	down-down	-2.17	-1.62	4.41e-09	5.88e-04	445	373
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of synaptic plasticity	down-down	-2.99	-1.83	4.41e-09	5.93e-04	160	150
+Brain cancer	Parkinson's disease	Gene Ontology	site of polarized growth	down-down	-2.6	-1.81	4.41e-09	6.50e-04	160	141
+Brain cancer	Parkinson's disease	Gene Ontology	synaptic vesicle membrane	down-down	-3.09	-1.92	4.41e-09	6.50e-04	96	76
+Brain cancer	Parkinson's disease	Gene Ontology	postsynaptic density membrane	down-down	-2.75	-2.01	4.41e-09	6.69e-04	73	60
+Brain cancer	Parkinson's disease	Gene Ontology	cation transmembrane transporter activity	down-down	-2.24	-1.54	4.41e-09	8.62e-04	567	462
+Brain cancer	Parkinson's disease	Gene Ontology	cell cell signaling	down-down	-2.11	-1.35	4.41e-09	9.39e-04	1442	1311
+Brain cancer	Parkinson's disease	Gene Ontology	cell projection organization	down-down	-1.75	-1.37	4.41e-09	9.43e-04	1326	1130
+Brain cancer	Parkinson's disease	Gene Ontology	cation transport	down-down	-2.05	-1.42	4.41e-09	1.09e-03	1002	853
+Brain cancer	Parkinson's disease	Gene Ontology	neuron projection cytoplasm	down-down	-2.24	-1.95	8.97e-06	1.30e-03	72	62
+Brain cancer	Parkinson's disease	Gene Ontology	microtubule binding	down-down	-1.97	-1.71	3.29e-06	1.32e-03	211	178
+Brain cancer	Parkinson's disease	Gene Ontology	phosphatidylinositol phosphate 4 phosphatase activity	down-down	-1.88	-1.96	1.31e-02	1.36e-03	8	6
+Brain cancer	Parkinson's disease	Gene Ontology	axo dendritic transport	down-down	-2.3	-2	6.90e-06	1.48e-03	56	47
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of neuron projection development	down-down	-2.22	-1.55	4.41e-09	1.62e-03	441	404
+Brain cancer	Parkinson's disease	Gene Ontology	clathrin binding	down-down	-2.4	-1.99	1.59e-06	1.71e-03	52	43
+Brain cancer	Parkinson's disease	Gene Ontology	prepulse inhibition	down-down	-1.77	-2.1	3.29e-02	1.72e-03	12	12
+Brain cancer	Parkinson's disease	Gene Ontology	establishment of mitochondrion localization	down-down	-1.74	-2.01	2.67e-02	1.79e-03	19	23
+Brain cancer	Parkinson's disease	Gene Ontology	excitatory synapse	down-down	-2.65	-2	5.09e-09	1.83e-03	47	41
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of long term neuronal synaptic plasticity	down-down	-2.14	-2.01	7.92e-04	2.46e-03	22	22
+Brain cancer	Parkinson's disease	Gene Ontology	neuron development	down-down	-2.1	-1.4	4.41e-09	2.60e-03	978	863
+Brain cancer	Parkinson's disease	Gene Ontology	atpase coupled ion transmembrane transporter activity	down-down	-1.79	-1.95	1.00e-02	2.79e-03	53	49
+Brain cancer	Parkinson's disease	Gene Ontology	ion transport	down-down	-1.94	-1.32	4.41e-09	2.82e-03	1432	1217
+Brain cancer	Parkinson's disease	Gene Ontology	axon cytoplasm	down-down	-2.41	-2.02	1.82e-06	2.84e-03	47	40
+Brain cancer	Parkinson's disease	Gene Ontology	signal release	down-down	-2.48	-1.52	4.41e-09	2.87e-03	413	374
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of synapse assembly	down-down	-2.01	-1.85	1.23e-04	2.95e-03	92	73
+Brain cancer	Parkinson's disease	Gene Ontology	cell morphogenesis involved in neuron differentiation	down-down	-2.24	-1.49	4.41e-09	3.24e-03	524	473
+Brain cancer	Parkinson's disease	Gene Ontology	dendrite morphogenesis	down-down	-2.42	-1.77	4.41e-09	3.70e-03	124	126
+Brain cancer	Parkinson's disease	Gene Ontology	presynaptic active zone	down-down	-2.87	-1.88	4.41e-09	3.82e-03	62	60
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of synapse assembly	down-down	-2.19	-1.9	6.77e-05	3.84e-03	57	45
+Brain cancer	Parkinson's disease	Gene Ontology	dendrite development	down-down	-2.32	-1.63	4.41e-09	4.50e-03	212	197
+Brain cancer	Parkinson's disease	Gene Ontology	synaptic vesicle localization	down-down	-2.4	-2	1.37e-06	4.68e-03	48	39
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of exocytosis	down-down	-2.48	-1.67	4.41e-09	5.18e-03	187	170
+Brain cancer	Parkinson's disease	Gene Ontology	developmental cell growth	down-down	-1.97	-1.64	2.65e-06	5.58e-03	195	187
+Brain cancer	Parkinson's disease	Gene Ontology	microtubule associated complex	down-down	-1.53	-1.72	3.26e-02	5.60e-03	129	104
+Brain cancer	Parkinson's disease	Gene Ontology	membrane fusion	down-down	-1.61	-1.73	1.94e-02	5.72e-03	119	107
+Brain cancer	Parkinson's disease	Gene Ontology	neuron projection extension	down-down	-2.12	-1.69	1.08e-06	6.38e-03	144	135
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of synaptic vesicle recycling	down-down	-2.3	-2	2.13e-05	6.39e-03	21	19
+Brain cancer	Parkinson's disease	Gene Ontology	whole membrane	down-down	-1.27	-1.3	1.83e-03	6.43e-03	1412	1258
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of membrane potential	down-down	-2.63	-1.52	4.41e-09	7.12e-03	378	340
+Brain cancer	Parkinson's disease	Gene Ontology	exocytic process	down-down	-2.3	-1.83	1.56e-06	7.40e-03	73	59
+Brain cancer	Parkinson's disease	Gene Ontology	learning	down-down	-2.34	-1.66	4.41e-09	8.41e-03	127	122
+Brain cancer	Parkinson's disease	Gene Ontology	golgi apparatus	down-down	-1.2	-1.32	2.36e-02	8.85e-03	1293	1112
+Brain cancer	Parkinson's disease	Gene Ontology	calcium ion transmembrane transport	down-down	-1.95	-1.55	3.76e-07	9.12e-03	275	240
+Brain cancer	Parkinson's disease	Gene Ontology	catecholamine secretion	down-down	-2.59	-1.88	1.80e-08	9.31e-03	50	41
+Brain cancer	Parkinson's disease	Gene Ontology	calcium ion regulated exocytosis	down-down	-2.65	-1.82	4.41e-09	9.34e-03	59	49
+Brain cancer	Parkinson's disease	Gene Ontology	monovalent inorganic cation transmembrane transporter activity	down-down	-2.33	-1.52	4.41e-09	9.76e-03	338	279
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of neurotransmitter levels	down-down	-2.44	-1.52	4.41e-09	1.00e-02	307	279
+Brain cancer	Parkinson's disease	Gene Ontology	intrinsic component of postsynaptic specialization membrane	down-down	-2.63	-1.85	4.41e-09	1.02e-02	70	55
+Brain cancer	Parkinson's disease	Gene Ontology	neuron differentiation	down-down	-1.96	-1.31	4.41e-09	1.14e-02	1192	1044
+Brain cancer	Parkinson's disease	Gene Ontology	intrinsic component of postsynaptic density membrane	down-down	-2.6	-1.89	6.10e-09	1.18e-02	49	37
+Brain cancer	Parkinson's disease	Gene Ontology	intrinsic component of synaptic membrane	down-down	-2.73	-1.67	4.41e-09	1.18e-02	152	134
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of postsynaptic membrane potential	down-down	-2.9	-1.68	4.41e-09	1.19e-02	126	113
+Brain cancer	Parkinson's disease	Gene Ontology	proton transporting v type atpase v1 domain	down-down	-1.81	-1.84	2.03e-02	1.36e-02	9	7
+Brain cancer	Parkinson's disease	Gene Ontology	ion transmembrane transporter activity	down-down	-2.03	-1.37	4.41e-09	1.38e-02	754	613
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of cell projection organization	down-down	-1.98	-1.39	4.41e-09	1.38e-02	594	539
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of neurotransmitter transport	down-down	-2.36	-1.81	3.86e-06	1.42e-02	38	33
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of transporter activity	down-down	-2.51	-1.56	4.41e-09	1.44e-02	230	193
+Brain cancer	Parkinson's disease	Gene Ontology	clathrin coat of coated pit	down-down	-2.05	-1.96	3.12e-03	1.46e-02	16	13
+Brain cancer	Parkinson's disease	Gene Ontology	clathrin dependent endocytosis	down-down	-1.85	-1.8	6.18e-03	1.47e-02	38	33
+Brain cancer	Parkinson's disease	Gene Ontology	snare complex assembly	down-down	-1.96	-1.97	9.72e-03	1.61e-02	17	15
+Brain cancer	Parkinson's disease	Gene Ontology	acidic amino acid transport	down-down	-2.78	-1.75	4.41e-09	1.74e-02	63	56
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of neuron projection development	down-down	-1.98	-1.49	3.42e-07	1.84e-02	250	240
+Brain cancer	Parkinson's disease	Gene Ontology	primary active transmembrane transporter activity	down-down	-1.55	-1.65	3.37e-02	1.91e-02	92	88
+Brain cancer	Parkinson's disease	Gene Ontology	synaptic vesicle priming	down-down	-2.32	-1.95	1.54e-05	2.02e-02	18	15
+Brain cancer	Parkinson's disease	Gene Ontology	postsynapse organization	down-down	-2.46	-1.65	4.41e-09	2.05e-02	140	132
+Brain cancer	Parkinson's disease	Gene Ontology	cellular monovalent inorganic cation homeostasis	down-down	-1.75	-1.63	5.74e-03	2.14e-02	96	86
+Brain cancer	Parkinson's disease	Gene Ontology	dopamine transport	down-down	-2.39	-1.75	1.08e-06	2.19e-02	43	35
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of ph	down-down	-1.58	-1.65	3.31e-02	2.19e-02	87	77
+Brain cancer	Parkinson's disease	Gene Ontology	structural constituent of postsynapse	down-down	-1.92	-1.92	5.39e-03	2.21e-02	10	10
+Brain cancer	Parkinson's disease	Gene Ontology	intrinsic component of postsynaptic membrane	down-down	-2.67	-1.66	4.41e-09	2.28e-02	111	95
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of neuron differentiation	down-down	-1.98	-1.37	4.41e-09	2.32e-02	570	521
+Brain cancer	Parkinson's disease	Gene Ontology	recycling endosome	down-down	-1.89	-1.59	7.56e-05	2.38e-02	148	125
+Brain cancer	Parkinson's disease	Gene Ontology	phosphatidylinositol biosynthetic process	down-down	-1.56	-1.61	3.42e-02	2.42e-02	100	98
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of exocytosis	down-down	-2.21	-1.64	5.97e-06	2.51e-02	79	75
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of dopamine secretion	down-down	-2.45	-1.82	1.29e-06	2.66e-02	31	24
+Brain cancer	Parkinson's disease	Gene Ontology	cognition	down-down	-2.44	-1.46	4.41e-09	2.73e-02	255	241
+Brain cancer	Parkinson's disease	Gene Ontology	neuron migration	down-down	-1.71	-1.57	1.74e-03	2.87e-02	142	124
+Brain cancer	Parkinson's disease	Gene Ontology	structural constituent of synapse	down-down	-2.3	-1.9	4.17e-05	2.95e-02	15	15
+Brain cancer	Parkinson's disease	Gene Ontology	transporter activity	down-down	-1.93	-1.3	4.41e-09	2.99e-02	991	816
+Brain cancer	Parkinson's disease	Gene Ontology	dendritic spine morphogenesis	down-down	-2.37	-1.7	2.60e-06	3.09e-02	52	51
+Brain cancer	Parkinson's disease	Gene Ontology	calcium ion regulated exocytosis of neurotransmitter	down-down	-2.33	-1.83	1.02e-05	3.26e-02	19	12
+Brain cancer	Parkinson's disease	Gene Ontology	dendritic spine development	down-down	-2.41	-1.62	4.41e-08	3.43e-02	83	81
+Brain cancer	Parkinson's disease	Gene Ontology	clathrin coat	down-down	-1.71	-1.71	2.35e-02	3.44e-02	38	33
+Brain cancer	Parkinson's disease	Gene Ontology	locomotory behavior	down-down	-2.31	-1.55	4.41e-09	3.44e-02	177	159
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of synaptic vesicle recycling	down-down	-1.84	-1.81	1.78e-02	3.47e-02	8	8
+Brain cancer	Parkinson's disease	Gene Ontology	polymeric cytoskeletal fiber	down-down	-1.33	-1.37	1.93e-02	3.52e-02	532	445
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of neurotransmitter secretion	down-down	-2.64	-1.82	9.29e-09	3.52e-02	22	17
+Brain cancer	Parkinson's disease	Gene Ontology	active ion transmembrane transporter activity	down-down	-1.87	-1.5	3.64e-05	3.54e-02	209	181
+Brain cancer	Parkinson's disease	Gene Ontology	vesicle cytoskeletal trafficking	down-down	-2.01	-1.77	6.03e-04	3.59e-02	44	37
+Brain cancer	Parkinson's disease	Gene Ontology	phospholipid biosynthetic process	down-down	-1.33	-1.49	4.31e-02	3.70e-02	228	196
+Brain cancer	Parkinson's disease	Gene Ontology	trans synaptic signaling modulating synaptic transmission	down-down	-1.78	-1.81	2.09e-02	3.83e-02	10	12
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of dendritic spine development	down-down	-2.44	-1.61	1.90e-07	3.97e-02	63	61
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of postsynaptic membrane neurotransmitter receptor levels	down-down	-2.29	-1.67	6.90e-06	3.97e-02	64	53
+Brain cancer	Parkinson's disease	Gene Ontology	neuromuscular process	down-down	-1.96	-1.59	1.87e-04	4.21e-02	95	81
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of regulated secretory pathway	down-down	-2.46	-1.52	4.41e-09	4.31e-02	137	124
+Brain cancer	Parkinson's disease	Gene Ontology	neurotransmitter receptor transport	down-down	-2.07	-1.68	2.90e-04	4.39e-02	44	36
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of amino acid transport	down-down	-2.17	-1.73	1.33e-04	4.48e-02	30	29
+Brain cancer	Parkinson's disease	Gene Ontology	anterograde axonal transport	down-down	-2.24	-1.7	4.27e-05	4.51e-02	39	31
+Brain cancer	Parkinson's disease	Gene Ontology	calcium channel complex	down-down	-2.62	-1.66	5.43e-09	4.51e-02	52	45
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of cell morphogenesis involved in differentiation	down-down	-1.97	-1.39	1.36e-07	4.51e-02	270	254
+Brain cancer	Parkinson's disease	Gene Ontology	presynaptic cytoskeleton	down-down	-2.03	-1.72	7.21e-04	4.66e-02	7	5
+Brain cancer	Parkinson's disease	Gene Ontology	behavior	down-down	-2.35	-1.35	4.41e-09	4.67e-02	518	471
+Brain cancer	Parkinson's disease	Gene Ontology	positive regulation of excitatory postsynaptic potential	down-down	-2.6	-1.73	1.36e-07	4.67e-02	26	21
+Brain cancer	Parkinson's disease	Gene Ontology	regulation of cation transmembrane transport	down-down	-2.18	-1.41	4.41e-09	4.85e-02	285	238
+Brain cancer	Parkinson's disease	Gene Ontology	organelle membrane fusion	down-down	-1.64	-1.59	1.78e-02	4.91e-02	84	74
+Brain cancer	Alzheimer's disease	Gene Ontology	adaptive immune response	up-up	1.84	2.36	1.15e-06	5.63e-09	339	320
+Brain cancer	Alzheimer's disease	Gene Ontology	alpha beta t cell activation	up-up	1.72	2.49	3.02e-03	5.63e-09	117	106
+Brain cancer	Alzheimer's disease	Gene Ontology	anatomical structure formation involved in morphogenesis	up-up	1.67	2.09	4.41e-09	5.63e-09	961	883
+Brain cancer	Alzheimer's disease	Gene Ontology	animal organ morphogenesis	up-up	1.39	2.05	3.17e-04	5.63e-09	943	846
+Brain cancer	Alzheimer's disease	Gene Ontology	anterior posterior pattern specification	up-up	1.47	2.37	2.30e-02	5.63e-09	185	171
+Brain cancer	Alzheimer's disease	Gene Ontology	biological adhesion	up-up	1.4	1.92	7.62e-05	5.63e-09	1176	1084
+Brain cancer	Alzheimer's disease	Gene Ontology	blood vessel morphogenesis	up-up	2.02	2.36	4.41e-09	5.63e-09	521	510
+Brain cancer	Alzheimer's disease	Gene Ontology	bone development	up-up	1.67	2.34	1.12e-03	5.63e-09	190	175
+Brain cancer	Alzheimer's disease	Gene Ontology	cardiovascular system development	up-up	1.91	2.32	4.41e-09	5.63e-09	626	601
+Brain cancer	Alzheimer's disease	Gene Ontology	cartilage development	up-up	1.79	2.31	2.83e-04	5.63e-09	178	167
+Brain cancer	Alzheimer's disease	Gene Ontology	cell activation	up-up	1.73	1.77	4.41e-09	5.63e-09	1153	1094
+Brain cancer	Alzheimer's disease	Gene Ontology	cell cell adhesion	up-up	1.25	1.87	4.49e-02	5.63e-09	704	633
+Brain cancer	Alzheimer's disease	Gene Ontology	cell motility	up-up	1.29	1.77	3.43e-03	5.63e-09	1370	1245
+Brain cancer	Alzheimer's disease	Gene Ontology	cell surface	up-up	1.51	2.11	4.65e-05	5.63e-09	697	667
+Brain cancer	Alzheimer's disease	Gene Ontology	chromatin	up-up	1.44	2.23	7.24e-05	5.63e-09	1000	879
+Brain cancer	Alzheimer's disease	Gene Ontology	chromosome	up-up	1.87	1.6	4.41e-09	5.63e-09	1430	1244
+Brain cancer	Alzheimer's disease	Gene Ontology	circulatory system development	up-up	1.73	2.15	4.41e-09	5.63e-09	934	883
+Brain cancer	Alzheimer's disease	Gene Ontology	cis regulatory region binding	up-up	1.51	2.55	6.80e-04	5.63e-09	521	493
+Brain cancer	Alzheimer's disease	Gene Ontology	collagen containing extracellular matrix	up-up	2.27	2.59	4.41e-09	5.63e-09	354	327
+Brain cancer	Alzheimer's disease	Gene Ontology	connective tissue development	up-up	1.74	2.19	1.66e-04	5.63e-09	237	218
+Brain cancer	Alzheimer's disease	Gene Ontology	cytokine mediated signaling pathway	up-up	1.86	1.78	4.41e-09	5.63e-09	627	635
+Brain cancer	Alzheimer's disease	Gene Ontology	cytokine production	up-up	1.87	2.04	4.41e-09	5.63e-09	644	607
+Brain cancer	Alzheimer's disease	Gene Ontology	defense response	up-up	1.65	1.66	4.41e-09	5.63e-09	1304	1216
+Brain cancer	Alzheimer's disease	Gene Ontology	dna binding transcription factor activity	up-up	1.22	2.35	2.59e-02	5.63e-09	1092	909
+Brain cancer	Alzheimer's disease	Gene Ontology	double stranded dna binding	up-up	1.6	2.23	5.20e-07	5.63e-09	839	755
+Brain cancer	Alzheimer's disease	Gene Ontology	embryonic morphogenesis	up-up	1.46	2.3	2.13e-03	5.63e-09	516	464
+Brain cancer	Alzheimer's disease	Gene Ontology	embryonic organ development	up-up	1.41	2.48	1.54e-02	5.63e-09	380	348
+Brain cancer	Alzheimer's disease	Gene Ontology	embryo development	up-up	1.45	1.81	1.55e-04	5.63e-09	895	798
+Brain cancer	Alzheimer's disease	Gene Ontology	epithelial cell differentiation	up-up	1.33	2.32	1.98e-02	5.63e-09	573	537
+Brain cancer	Alzheimer's disease	Gene Ontology	epithelial tube morphogenesis	up-up	1.59	2.15	2.49e-03	5.63e-09	291	264
+Brain cancer	Alzheimer's disease	Gene Ontology	epithelium development	up-up	1.45	1.93	3.11e-05	5.63e-09	1039	944
+Brain cancer	Alzheimer's disease	Gene Ontology	external side of plasma membrane	up-up	1.42	2.31	2.32e-02	5.63e-09	268	258
+Brain cancer	Alzheimer's disease	Gene Ontology	extracellular matrix	up-up	1.98	2.67	4.41e-09	5.63e-09	458	412
+Brain cancer	Alzheimer's disease	Gene Ontology	extracellular matrix structural constituent	up-up	2.38	2.49	4.41e-09	5.63e-09	148	133
+Brain cancer	Alzheimer's disease	Gene Ontology	extracellular structure organization	up-up	2.29	2.51	4.41e-09	5.63e-09	326	310
+Brain cancer	Alzheimer's disease	Gene Ontology	immune receptor activity	up-up	1.78	2.8	2.36e-03	5.63e-09	102	104
+Brain cancer	Alzheimer's disease	Gene Ontology	immune system development	up-up	1.69	1.87	7.47e-09	5.63e-09	834	774
+Brain cancer	Alzheimer's disease	Gene Ontology	inflammatory response	up-up	1.62	2.04	6.78e-06	5.63e-09	603	567
+Brain cancer	Alzheimer's disease	Gene Ontology	leukocyte cell cell adhesion	up-up	1.85	2.21	4.35e-06	5.63e-09	291	281
+Brain cancer	Alzheimer's disease	Gene Ontology	leukocyte differentiation	up-up	1.43	2.14	6.14e-03	5.63e-09	451	416
+Brain cancer	Alzheimer's disease	Gene Ontology	leukocyte migration	up-up	1.57	2.09	7.12e-04	5.63e-09	374	373
+Brain cancer	Alzheimer's disease	Gene Ontology	leukocyte proliferation	up-up	1.93	2.21	5.08e-07	5.63e-09	256	246
+Brain cancer	Alzheimer's disease	Gene Ontology	lymphocyte activation	up-up	1.64	2.09	5.52e-06	5.63e-09	572	529
+Brain cancer	Alzheimer's disease	Gene Ontology	lymphocyte differentiation	up-up	1.41	2.24	1.54e-02	5.63e-09	305	283
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of biosynthetic process	up-up	1.51	1.64	1.84e-07	5.63e-09	1305	1167
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of immune system process	up-up	1.66	2.04	5.31e-05	5.63e-09	375	357
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of multicellular organismal process	up-up	1.25	1.8	1.52e-02	5.63e-09	1051	967
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of nucleobase containing compound metabolic process	up-up	1.45	1.67	8.84e-06	5.63e-09	1201	1078
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of rna biosynthetic process	up-up	1.38	1.83	2.45e-04	5.63e-09	1054	950
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of transcription by rna polymerase ii	up-up	1.45	1.98	3.81e-04	5.63e-09	737	667
+Brain cancer	Alzheimer's disease	Gene Ontology	nuclear chromosome	up-up	1.56	2.04	9.65e-08	5.63e-09	1040	910
+Brain cancer	Alzheimer's disease	Gene Ontology	pattern specification process	up-up	1.43	2.26	1.09e-02	5.63e-09	381	334
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of cellular biosynthetic process	up-up	1.49	1.58	3.49e-08	5.63e-09	1677	1559
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell population proliferation	up-up	1.71	2.02	6.52e-09	5.63e-09	765	734
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of immune system process	up-up	1.71	1.71	4.41e-09	5.63e-09	886	843
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of nucleobase containing compound metabolic process	up-up	1.53	1.57	5.71e-09	5.63e-09	1592	1461
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of rna metabolic process	up-up	1.49	1.71	1.17e-07	5.63e-09	1464	1341
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of transcription by rna polymerase ii	up-up	1.44	1.99	3.88e-05	5.63e-09	1023	952
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of vasculature development	up-up	1.82	2.44	1.87e-04	5.63e-09	163	158
+Brain cancer	Alzheimer's disease	Gene Ontology	regionalization	up-up	1.31	2.19	4.39e-02	5.63e-09	304	266
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of cell activation	up-up	1.61	2.11	1.02e-04	5.63e-09	462	432
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of cell adhesion	up-up	1.62	1.83	4.09e-06	5.63e-09	588	563
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of cell population proliferation	up-up	1.61	1.89	4.41e-09	5.63e-09	1370	1310
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of immune system process	up-up	1.67	1.83	4.41e-09	5.63e-09	1255	1185
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte proliferation	up-up	2	2.38	1.72e-06	5.63e-09	192	183
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of lymphocyte activation	up-up	1.7	2.09	3.82e-05	5.63e-09	363	337
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of vasculature development	up-up	1.8	2.18	7.15e-06	5.63e-09	287	274
+Brain cancer	Alzheimer's disease	Gene Ontology	regulatory region nucleic acid binding	up-up	1.34	2.4	4.35e-03	5.63e-09	817	732
+Brain cancer	Alzheimer's disease	Gene Ontology	response to bacterium	up-up	1.68	2.17	4.26e-06	5.63e-09	506	459
+Brain cancer	Alzheimer's disease	Gene Ontology	response to biotic stimulus	up-up	1.86	1.63	4.41e-09	5.63e-09	1173	1089
+Brain cancer	Alzheimer's disease	Gene Ontology	response to lipid	up-up	1.35	1.72	4.75e-03	5.63e-09	804	784
+Brain cancer	Alzheimer's disease	Gene Ontology	response to molecule of bacterial origin	up-up	1.66	2.11	2.45e-04	5.63e-09	297	289
+Brain cancer	Alzheimer's disease	Gene Ontology	response to wounding	up-up	1.5	1.93	4.02e-04	5.63e-09	570	557
+Brain cancer	Alzheimer's disease	Gene Ontology	sequence specific dna binding	up-up	1.51	2.28	2.70e-06	5.63e-09	987	861
+Brain cancer	Alzheimer's disease	Gene Ontology	sequence specific double stranded dna binding	up-up	1.54	2.36	1.40e-05	5.63e-09	759	680
+Brain cancer	Alzheimer's disease	Gene Ontology	skeletal system development	up-up	1.74	2.33	1.17e-06	5.63e-09	454	419
+Brain cancer	Alzheimer's disease	Gene Ontology	skeletal system morphogenesis	up-up	1.66	2.38	9.02e-04	5.63e-09	207	191
+Brain cancer	Alzheimer's disease	Gene Ontology	transcription regulator activity	up-up	1.35	1.98	3.34e-04	5.63e-09	1410	1212
+Brain cancer	Alzheimer's disease	Gene Ontology	tube development	up-up	1.8	2.35	4.41e-09	5.63e-09	906	858
+Brain cancer	Alzheimer's disease	Gene Ontology	tube morphogenesis	up-up	1.84	2.34	4.41e-09	5.63e-09	735	694
+Brain cancer	Alzheimer's disease	Gene Ontology	t cell activation	up-up	1.83	2.18	1.96e-07	5.63e-09	398	373
+Brain cancer	Alzheimer's disease	Gene Ontology	urogenital system development	up-up	1.73	2.13	7.33e-05	5.63e-09	295	284
+Brain cancer	Alzheimer's disease	Gene Ontology	wound healing	up-up	1.53	2.02	6.48e-04	5.63e-09	472	461
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell adhesion	up-up	1.82	2	1.78e-06	8.21e-09	348	333
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte differentiation	up-up	1.55	2.13	4.63e-03	8.43e-09	238	218
+Brain cancer	Alzheimer's disease	Gene Ontology	response to cytokine	up-up	1.86	1.6	4.41e-09	1.12e-08	967	972
+Brain cancer	Alzheimer's disease	Gene Ontology	t cell differentiation	up-up	1.69	2.22	5.75e-04	1.22e-08	211	197
+Brain cancer	Alzheimer's disease	Gene Ontology	cytokine receptor activity	up-up	1.61	2.6	3.05e-02	1.33e-08	85	84
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of cytokine production	up-up	1.6	2.12	1.68e-03	1.83e-08	230	220
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of cell cell adhesion	up-up	1.63	1.96	2.60e-04	2.37e-08	352	332
+Brain cancer	Alzheimer's disease	Gene Ontology	renal system development	up-up	1.74	2.09	7.03e-05	2.66e-08	263	249
+Brain cancer	Alzheimer's disease	Gene Ontology	defense response to other organism	up-up	1.89	1.62	4.41e-09	2.75e-08	864	805
+Brain cancer	Alzheimer's disease	Gene Ontology	humoral immune response	up-up	1.41	2.19	3.64e-02	4.22e-08	187	194
+Brain cancer	Alzheimer's disease	Gene Ontology	heart development	up-up	1.39	1.82	1.23e-02	4.92e-08	493	460
+Brain cancer	Alzheimer's disease	Gene Ontology	gland development	up-up	1.61	1.9	5.02e-04	4.99e-08	377	375
+Brain cancer	Alzheimer's disease	Gene Ontology	cytokine binding	up-up	1.77	2.4	1.80e-03	5.18e-08	113	111
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of immune response	up-up	1.75	1.62	4.41e-09	6.55e-08	806	775
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell activation	up-up	1.75	2.06	2.50e-05	7.28e-08	276	263
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of immune effector process	up-up	1.86	1.98	5.02e-07	7.72e-08	329	314
+Brain cancer	Alzheimer's disease	Gene Ontology	b cell activation	up-up	1.59	2.11	2.66e-03	8.71e-08	206	191
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of t cell activation	up-up	1.7	2.07	9.97e-05	9.03e-08	271	256
+Brain cancer	Alzheimer's disease	Gene Ontology	embryo development ending in birth or egg hatching	up-up	1.48	1.75	6.02e-04	9.65e-08	568	508
+Brain cancer	Alzheimer's disease	Gene Ontology	morphogenesis of a branching structure	up-up	1.54	2.16	9.39e-03	1.02e-07	179	172
+Brain cancer	Alzheimer's disease	Gene Ontology	branching morphogenesis of an epithelial tube	up-up	1.87	2.31	3.47e-04	1.64e-07	136	129
+Brain cancer	Alzheimer's disease	Gene Ontology	t cell proliferation	up-up	2.05	2.21	6.49e-07	1.66e-07	163	154
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of intracellular signal transduction	up-up	1.22	1.6	4.12e-02	1.67e-07	858	794
+Brain cancer	Alzheimer's disease	Gene Ontology	artery morphogenesis	up-up	1.75	2.58	9.64e-03	2.43e-07	61	59
+Brain cancer	Alzheimer's disease	Gene Ontology	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	up-up	1.83	2.02	1.40e-05	3.03e-07	222	206
+Brain cancer	Alzheimer's disease	Gene Ontology	myeloid cell differentiation	up-up	1.39	1.88	2.03e-02	4.28e-07	349	329
+Brain cancer	Alzheimer's disease	Gene Ontology	tissue morphogenesis	up-up	1.59	1.69	1.13e-05	4.82e-07	594	537
+Brain cancer	Alzheimer's disease	Gene Ontology	tumor necrosis factor superfamily cytokine production	up-up	2.07	2.24	3.95e-06	6.02e-07	131	124
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of epithelial cell differentiation	up-up	1.64	2.24	7.86e-03	6.26e-07	123	125
+Brain cancer	Alzheimer's disease	Gene Ontology	gland morphogenesis	up-up	1.62	2.28	1.56e-02	7.02e-07	105	109
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of leukocyte cell cell adhesion	up-up	1.92	2.08	6.95e-06	9.19e-07	189	183
+Brain cancer	Alzheimer's disease	Gene Ontology	respiratory system development	up-up	1.49	2.09	1.94e-02	9.76e-07	171	167
+Brain cancer	Alzheimer's disease	Gene Ontology	cellular response to biotic stimulus	up-up	1.93	2.05	4.00e-06	1.07e-06	200	194
+Brain cancer	Alzheimer's disease	Gene Ontology	epithelial cell development	up-up	1.41	2.08	4.75e-02	1.07e-06	186	174
+Brain cancer	Alzheimer's disease	Gene Ontology	tissue remodeling	up-up	1.6	2.12	6.15e-03	1.40e-06	146	145
+Brain cancer	Alzheimer's disease	Gene Ontology	defense response to bacterium	up-up	1.51	2.11	1.57e-02	1.51e-06	185	157
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of lymphocyte activation	up-up	1.57	2.23	1.56e-02	1.62e-06	123	120
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell activation	up-up	1.59	2.13	7.86e-03	1.69e-06	165	159
+Brain cancer	Alzheimer's disease	Gene Ontology	interleukin 6 production	up-up	1.81	2.19	4.86e-04	1.81e-06	127	115
+Brain cancer	Alzheimer's disease	Gene Ontology	epithelial cell proliferation	up-up	1.64	1.82	1.99e-04	1.95e-06	340	321
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of locomotion	up-up	1.51	1.66	8.55e-04	1.96e-06	485	467
+Brain cancer	Alzheimer's disease	Gene Ontology	alpha beta t cell differentiation	up-up	1.57	2.36	2.49e-02	2.09e-06	89	81
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of cellular component movement	up-up	1.25	1.54	3.14e-02	2.19e-06	866	803
+Brain cancer	Alzheimer's disease	Gene Ontology	growth factor binding	up-up	2.12	2.21	1.08e-06	2.36e-06	119	120
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell cell adhesion	up-up	1.76	1.96	4.68e-05	2.54e-06	225	217
+Brain cancer	Alzheimer's disease	Gene Ontology	cytokine metabolic process	up-up	1.81	2.23	1.35e-03	2.99e-06	105	100
+Brain cancer	Alzheimer's disease	Gene Ontology	gastrulation	up-up	1.6	2.08	8.25e-03	4.50e-06	157	143
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of hemopoiesis	up-up	1.52	2.19	2.94e-02	4.79e-06	120	113
+Brain cancer	Alzheimer's disease	Gene Ontology	epithelial cell apoptotic process	up-up	1.57	2.26	2.64e-02	4.88e-06	91	90
+Brain cancer	Alzheimer's disease	Gene Ontology	transcription factor complex	up-up	1.82	1.84	2.13e-06	4.99e-06	309	299
+Brain cancer	Alzheimer's disease	Gene Ontology	interleukin 8 production	up-up	1.86	2.38	2.26e-03	5.47e-06	65	62
+Brain cancer	Alzheimer's disease	Gene Ontology	formation of primary germ layer	up-up	1.85	2.21	9.24e-04	6.70e-06	103	94
+Brain cancer	Alzheimer's disease	Gene Ontology	response to growth factor	up-up	1.39	1.56	3.98e-03	6.97e-06	599	572
+Brain cancer	Alzheimer's disease	Gene Ontology	metanephros development	up-up	1.65	2.29	1.66e-02	7.02e-06	86	78
+Brain cancer	Alzheimer's disease	Gene Ontology	collagen trimer	up-up	2.17	2.39	1.29e-05	7.14e-06	70	55
+Brain cancer	Alzheimer's disease	Gene Ontology	pattern recognition receptor signaling pathway	up-up	2.04	2.04	1.77e-06	7.18e-06	164	154
+Brain cancer	Alzheimer's disease	Gene Ontology	nephron development	up-up	1.78	2.14	8.14e-04	7.47e-06	128	120
+Brain cancer	Alzheimer's disease	Gene Ontology	ossification	up-up	1.58	1.8	8.75e-04	7.58e-06	347	320
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of interleukin 8 production	up-up	1.98	2.46	1.14e-03	8.16e-06	43	41
+Brain cancer	Alzheimer's disease	Gene Ontology	cell substrate adhesion	up-up	1.55	1.83	2.52e-03	8.74e-06	301	284
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of lymphocyte differentiation	up-up	1.52	2.06	1.75e-02	1.24e-05	148	136
+Brain cancer	Alzheimer's disease	Gene Ontology	collagen fibril organization	up-up	2.46	2.4	3.28e-08	1.30e-05	48	43
+Brain cancer	Alzheimer's disease	Gene Ontology	innate immune response	up-up	1.89	1.54	4.41e-09	1.30e-05	710	671
+Brain cancer	Alzheimer's disease	Gene Ontology	cytokine secretion	up-up	1.53	1.94	1.02e-02	1.82e-05	189	175
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of interleukin 6 production	up-up	1.86	2.21	1.66e-03	1.95e-05	81	76
+Brain cancer	Alzheimer's disease	Gene Ontology	immune effector process	up-up	2.03	1.43	4.41e-09	2.07e-05	948	924
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of leukocyte proliferation	up-up	1.96	2.12	4.29e-05	2.09e-05	120	109
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of cartilage development	up-up	1.66	2.32	1.76e-02	2.09e-05	59	56
+Brain cancer	Alzheimer's disease	Gene Ontology	embryonic skeletal system morphogenesis	up-up	1.68	2.23	1.92e-02	2.17e-05	83	78
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of immune response	up-up	1.73	1.54	2.90e-08	2.32e-05	634	609
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of cytokine production	up-up	1.91	1.7	1.89e-08	2.55e-05	385	365
+Brain cancer	Alzheimer's disease	Gene Ontology	cell chemotaxis	up-up	1.4	1.81	4.21e-02	2.70e-05	245	246
+Brain cancer	Alzheimer's disease	Gene Ontology	morphogenesis of an epithelium	up-up	1.57	1.6	1.45e-04	3.06e-05	488	439
+Brain cancer	Alzheimer's disease	Gene Ontology	glomerulus development	up-up	1.8	2.3	5.49e-03	3.36e-05	57	56
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of leukocyte differentiation	up-up	1.74	2.01	2.62e-03	3.43e-05	130	127
+Brain cancer	Alzheimer's disease	Gene Ontology	neural tube development	up-up	1.65	2.03	3.23e-03	3.95e-05	147	129
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte mediated immunity	up-up	1.64	1.91	3.01e-03	3.95e-05	171	161
+Brain cancer	Alzheimer's disease	Gene Ontology	pituitary gland development	up-up	1.59	2.4	4.31e-02	3.98e-05	36	36
+Brain cancer	Alzheimer's disease	Gene Ontology	endoderm development	up-up	1.84	2.27	4.12e-03	4.27e-05	66	60
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of t cell proliferation	up-up	2.08	2.13	4.90e-05	4.59e-05	84	75
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell cell adhesion	up-up	1.44	1.96	3.78e-02	4.82e-05	148	140
+Brain cancer	Alzheimer's disease	Gene Ontology	toll like receptor signaling pathway	up-up	1.98	2.02	6.71e-05	4.88e-05	122	115
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of response to external stimulus	up-up	1.44	1.45	9.59e-05	5.45e-05	906	845
+Brain cancer	Alzheimer's disease	Gene Ontology	pri mirna transcription by rna polymerase ii	up-up	1.89	2.33	3.34e-03	5.45e-05	43	41
+Brain cancer	Alzheimer's disease	Gene Ontology	mesoderm development	up-up	1.67	2.06	7.68e-03	5.83e-05	110	101
+Brain cancer	Alzheimer's disease	Gene Ontology	basement membrane	up-up	2.04	2.16	1.44e-04	6.03e-05	83	71
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of hemopoiesis	up-up	1.71	1.66	2.47e-05	6.39e-05	391	365
+Brain cancer	Alzheimer's disease	Gene Ontology	collagen metabolic process	up-up	1.99	2.07	3.07e-04	7.03e-05	94	93
+Brain cancer	Alzheimer's disease	Gene Ontology	aorta morphogenesis	up-up	1.83	2.43	6.60e-03	7.89e-05	29	29
+Brain cancer	Alzheimer's disease	Gene Ontology	embryonic digit morphogenesis	up-up	1.74	2.29	7.80e-03	8.00e-05	59	49
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of inflammatory response	up-up	1.36	1.77	3.88e-02	8.09e-05	284	256
+Brain cancer	Alzheimer's disease	Gene Ontology	lymphocyte mediated immunity	up-up	1.61	1.81	2.57e-03	9.19e-05	211	200
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell population proliferation	up-up	1.34	1.49	1.02e-02	9.24e-05	598	580
+Brain cancer	Alzheimer's disease	Gene Ontology	anchoring junction	up-up	1.38	1.46	2.40e-03	1.01e-04	704	659
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of phagocytosis	up-up	1.67	2.22	2.37e-02	1.01e-04	56	57
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of hemopoiesis	up-up	1.79	1.9	2.23e-04	1.02e-04	158	156
+Brain cancer	Alzheimer's disease	Gene Ontology	cardiac septum morphogenesis	up-up	1.8	2.11	7.14e-03	1.08e-04	66	65
+Brain cancer	Alzheimer's disease	Gene Ontology	endothelium development	up-up	1.61	2.03	1.76e-02	1.18e-04	105	105
+Brain cancer	Alzheimer's disease	Gene Ontology	mesenchyme development	up-up	1.5	1.81	7.86e-03	1.23e-04	234	210
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of leukocyte proliferation	up-up	1.62	2.11	3.42e-02	1.24e-04	66	71
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of alpha beta t cell activation	up-up	1.69	2.11	1.70e-02	1.24e-04	77	71
+Brain cancer	Alzheimer's disease	Gene Ontology	cell adhesion mediated by integrin	up-up	2.07	2.25	8.56e-05	1.28e-04	65	58
+Brain cancer	Alzheimer's disease	Gene Ontology	outflow tract morphogenesis	up-up	1.61	2.14	2.80e-02	1.30e-04	74	72
+Brain cancer	Alzheimer's disease	Gene Ontology	complement activation	up-up	1.63	2.18	2.99e-02	1.43e-04	55	60
+Brain cancer	Alzheimer's disease	Gene Ontology	aorta development	up-up	1.53	2.26	4.63e-02	1.46e-04	52	47
+Brain cancer	Alzheimer's disease	Gene Ontology	chondrocyte differentiation	up-up	1.75	2.04	3.20e-03	1.64e-04	105	96
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of t cell differentiation	up-up	1.58	2	1.40e-02	1.78e-04	119	113
+Brain cancer	Alzheimer's disease	Gene Ontology	embryonic camera type eye development	up-up	1.82	2.29	1.16e-02	1.97e-04	33	34
+Brain cancer	Alzheimer's disease	Gene Ontology	i kappab kinase nf kappab signaling	up-up	1.92	1.77	1.93e-06	2.15e-04	231	202
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell adhesion	up-up	1.45	1.73	2.04e-02	2.21e-04	237	230
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of humoral immune response	up-up	1.74	2.14	1.17e-02	2.24e-04	55	60
+Brain cancer	Alzheimer's disease	Gene Ontology	embryonic skeletal system development	up-up	1.58	1.98	2.33e-02	2.33e-04	107	101
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of epidermis development	up-up	1.7	2.09	1.38e-02	2.59e-04	74	72
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of b cell activation	up-up	1.75	2	3.43e-03	2.73e-04	102	94
+Brain cancer	Alzheimer's disease	Gene Ontology	phagocytosis	up-up	1.48	1.72	1.38e-02	2.79e-04	215	214
+Brain cancer	Alzheimer's disease	Gene Ontology	smoothened signaling pathway	up-up	1.46	1.97	4.61e-02	3.09e-04	125	99
+Brain cancer	Alzheimer's disease	Gene Ontology	alpha beta t cell proliferation	up-up	1.84	2.29	1.31e-02	3.48e-04	25	24
+Brain cancer	Alzheimer's disease	Gene Ontology	chromatin binding	up-up	1.74	1.51	2.90e-06	3.51e-04	465	432
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of heart morphogenesis	up-up	1.64	2.29	3.06e-02	3.70e-04	36	32
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of wound healing	up-up	1.5	1.89	2.42e-02	3.70e-04	127	124
+Brain cancer	Alzheimer's disease	Gene Ontology	anatomical structure regression	up-up	1.77	2.19	2.36e-02	3.93e-04	9	9
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of epithelial cell proliferation	up-up	1.81	1.81	1.70e-04	4.31e-04	158	155
+Brain cancer	Alzheimer's disease	Gene Ontology	embryonic eye morphogenesis	up-up	1.69	2.26	3.00e-02	4.33e-04	33	33
+Brain cancer	Alzheimer's disease	Gene Ontology	neuronal stem cell population maintenance	up-up	1.76	2.22	3.24e-02	4.48e-04	17	16
+Brain cancer	Alzheimer's disease	Gene Ontology	lymphocyte activation involved in immune response	up-up	1.62	1.88	5.57e-03	4.66e-04	147	133
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of adaptive immune response	up-up	1.83	1.88	3.47e-04	4.85e-04	139	129
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of tumor necrosis factor superfamily cytokine production	up-up	2.2	2.03	6.66e-06	5.07e-04	73	73
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of lymphocyte differentiation	up-up	1.73	2	6.27e-03	5.98e-04	81	83
+Brain cancer	Alzheimer's disease	Gene Ontology	blood microparticle	up-up	1.53	1.98	3.84e-02	6.32e-04	80	85
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of leukocyte migration	up-up	1.52	1.88	2.90e-02	6.33e-04	116	114
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of response to external stimulus	up-up	1.67	1.43	2.89e-06	6.57e-04	527	498
+Brain cancer	Alzheimer's disease	Gene Ontology	protein complex involved in cell adhesion	up-up	1.92	2.27	4.30e-03	6.62e-04	31	29
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of lymphocyte mediated immunity	up-up	1.56	1.83	1.75e-02	6.72e-04	125	115
+Brain cancer	Alzheimer's disease	Gene Ontology	endoplasmic reticulum lumen	up-up	2.17	1.63	4.41e-09	6.82e-04	280	246
+Brain cancer	Alzheimer's disease	Gene Ontology	activation of immune response	up-up	1.82	1.49	4.08e-08	6.97e-04	493	475
+Brain cancer	Alzheimer's disease	Gene Ontology	interferon gamma production	up-up	1.67	1.9	9.48e-03	7.57e-04	95	87
+Brain cancer	Alzheimer's disease	Gene Ontology	cellular response to vascular endothelial growth factor stimulus	up-up	2.04	2.13	2.68e-04	8.09e-04	50	46
+Brain cancer	Alzheimer's disease	Gene Ontology	mesenchyme morphogenesis	up-up	2.12	2.08	8.28e-05	8.88e-04	50	45
+Brain cancer	Alzheimer's disease	Gene Ontology	b cell mediated immunity	up-up	1.88	1.92	7.61e-04	9.14e-04	98	97
+Brain cancer	Alzheimer's disease	Gene Ontology	muscle cell proliferation	up-up	1.51	1.7	1.75e-02	9.19e-04	178	173
+Brain cancer	Alzheimer's disease	Gene Ontology	tissue homeostasis	up-up	1.53	1.74	1.20e-02	1.01e-03	193	169
+Brain cancer	Alzheimer's disease	Gene Ontology	cell surface receptor signaling pathway involved in heart development	up-up	1.82	2.18	1.84e-02	1.03e-03	25	22
+Brain cancer	Alzheimer's disease	Gene Ontology	tube formation	up-up	1.56	1.83	2.03e-02	1.11e-03	136	116
+Brain cancer	Alzheimer's disease	Gene Ontology	integrin mediated signaling pathway	up-up	1.87	1.93	1.59e-03	1.16e-03	94	90
+Brain cancer	Alzheimer's disease	Gene Ontology	cardiac septum development	up-up	1.59	1.87	2.92e-02	1.18e-03	99	92
+Brain cancer	Alzheimer's disease	Gene Ontology	superoxide anion generation	up-up	1.79	2.14	1.88e-02	1.18e-03	30	31
+Brain cancer	Alzheimer's disease	Gene Ontology	reproduction	up-up	1.26	1.32	9.72e-03	1.19e-03	1202	1027
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of immune effector process	up-up	1.6	1.86	2.57e-02	1.20e-03	99	99
+Brain cancer	Alzheimer's disease	Gene Ontology	t cell apoptotic process	up-up	1.6	2.06	4.65e-02	1.34e-03	42	39
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of defense response	up-up	1.63	1.42	9.75e-07	1.42e-03	627	577
+Brain cancer	Alzheimer's disease	Gene Ontology	leukocyte apoptotic process	up-up	1.55	1.86	4.50e-02	1.48e-03	90	89
+Brain cancer	Alzheimer's disease	Gene Ontology	macrophage differentiation	up-up	1.61	2.11	4.91e-02	1.61e-03	40	33
+Brain cancer	Alzheimer's disease	Gene Ontology	coreceptor activity	up-up	1.83	2.12	1.03e-02	1.62e-03	40	36
+Brain cancer	Alzheimer's disease	Gene Ontology	endocardial cushion development	up-up	1.84	2.11	5.36e-03	1.67e-03	43	40
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of cell death	up-up	1.44	1.27	4.36e-06	1.72e-03	1381	1313
+Brain cancer	Alzheimer's disease	Gene Ontology	transforming growth factor beta binding	up-up	1.93	2.17	8.22e-03	1.76e-03	20	18
+Brain cancer	Alzheimer's disease	Gene Ontology	response to interferon gamma	up-up	2.12	1.72	2.87e-07	1.92e-03	148	148
+Brain cancer	Alzheimer's disease	Gene Ontology	glial cell differentiation	up-up	1.48	1.69	2.89e-02	1.95e-03	191	178
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of extracellular matrix organization	up-up	2.04	2.08	5.39e-04	2.07e-03	34	33
+Brain cancer	Alzheimer's disease	Gene Ontology	transcription factor binding	up-up	1.31	1.4	2.36e-02	2.14e-03	572	546
+Brain cancer	Alzheimer's disease	Gene Ontology	maintenance of cell number	up-up	1.78	1.78	6.79e-04	2.18e-03	141	129
+Brain cancer	Alzheimer's disease	Gene Ontology	collagen binding	up-up	1.88	1.96	1.91e-03	2.35e-03	65	60
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of immune effector process	up-up	1.68	1.63	1.72e-03	2.35e-03	177	175
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of coagulation	up-up	1.54	1.82	4.57e-02	2.35e-03	75	74
+Brain cancer	Alzheimer's disease	Gene Ontology	response to steroid hormone	up-up	1.34	1.52	4.22e-02	2.36e-03	340	335
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of b cell proliferation	up-up	1.69	1.99	1.77e-02	2.45e-03	55	52
+Brain cancer	Alzheimer's disease	Gene Ontology	cellular response to mechanical stimulus	up-up	1.56	1.87	2.42e-02	2.79e-03	72	73
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of i kappab kinase nf kappab signaling	up-up	1.96	1.67	8.02e-06	2.79e-03	163	143
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of cytokine biosynthetic process	up-up	1.78	1.94	6.70e-03	2.90e-03	61	60
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell death	up-up	1.54	1.33	6.02e-06	2.95e-03	810	793
+Brain cancer	Alzheimer's disease	Gene Ontology	aminoglycan catabolic process	up-up	1.96	1.92	8.55e-04	2.96e-03	56	55
+Brain cancer	Alzheimer's disease	Gene Ontology	osteoblast differentiation	up-up	1.71	1.66	5.13e-04	3.16e-03	189	169
+Brain cancer	Alzheimer's disease	Gene Ontology	cell substrate junction	up-up	2.12	1.48	4.41e-09	3.23e-03	344	352
+Brain cancer	Alzheimer's disease	Gene Ontology	extracellular matrix structural constituent conferring tensile strength	up-up	1.69	2.04	2.68e-02	3.53e-03	38	31
+Brain cancer	Alzheimer's disease	Gene Ontology	mhc protein complex	up-up	1.95	2.05	4.71e-03	3.64e-03	12	13
+Brain cancer	Alzheimer's disease	Gene Ontology	epithelial tube formation	up-up	1.49	1.77	4.55e-02	3.72e-03	122	104
+Brain cancer	Alzheimer's disease	Gene Ontology	leukocyte mediated immunity	up-up	1.94	1.33	4.41e-09	3.74e-03	633	622
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of alpha beta t cell proliferation	up-up	1.9	2.08	1.27e-02	3.74e-03	16	17
+Brain cancer	Alzheimer's disease	Gene Ontology	immune response regulating signaling pathway	up-up	1.63	1.43	4.45e-05	3.82e-03	456	438
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of nik nf kappab signaling	up-up	1.62	1.85	1.80e-02	4.01e-03	68	63
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of interferon gamma production	up-up	1.69	1.96	1.70e-02	4.27e-03	55	50
+Brain cancer	Alzheimer's disease	Gene Ontology	macrophage activation	up-up	1.65	1.82	1.94e-02	4.41e-03	73	72
+Brain cancer	Alzheimer's disease	Gene Ontology	astrocyte differentiation	up-up	1.55	1.84	3.47e-02	4.44e-03	68	65
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte migration	up-up	1.42	1.65	4.59e-02	4.48e-03	171	164
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of alpha beta t cell activation	up-up	1.69	1.91	1.91e-02	4.54e-03	54	52
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of immune response	up-up	1.76	1.67	1.18e-03	4.58e-03	124	120
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of extrinsic apoptotic signaling pathway	up-up	1.75	1.74	1.74e-03	4.58e-03	131	130
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of inflammatory response	up-up	1.56	1.71	2.20e-02	4.73e-03	118	112
+Brain cancer	Alzheimer's disease	Gene Ontology	hemidesmosome	up-up	1.72	1.99	4.00e-02	4.88e-03	7	7
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of stem cell proliferation	up-up	1.65	1.89	2.70e-02	4.88e-03	56	56
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of toll like receptor signaling pathway	up-up	1.61	1.89	3.72e-02	4.88e-03	57	51
+Brain cancer	Alzheimer's disease	Gene Ontology	cell matrix adhesion	up-up	1.45	1.58	3.40e-02	4.96e-03	193	187
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of t cell differentiation	up-up	1.59	1.99	4.61e-02	4.96e-03	36	34
+Brain cancer	Alzheimer's disease	Gene Ontology	myeloid leukocyte activation	up-up	1.88	1.35	4.41e-09	5.15e-03	527	528
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of response to cytokine stimulus	up-up	1.81	1.69	4.18e-04	5.18e-03	143	138
+Brain cancer	Alzheimer's disease	Gene Ontology	t cell differentiation in thymus	up-up	1.66	1.83	1.83e-02	5.18e-03	64	63
+Brain cancer	Alzheimer's disease	Gene Ontology	interferon gamma mediated signaling pathway	up-up	2.33	1.73	7.08e-07	5.79e-03	66	66
+Brain cancer	Alzheimer's disease	Gene Ontology	insulin like growth factor binding	up-up	1.71	2.01	3.00e-02	6.03e-03	27	26
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of superoxide anion generation	up-up	1.87	2.03	1.33e-02	6.45e-03	19	21
+Brain cancer	Alzheimer's disease	Gene Ontology	t cell mediated immunity	up-up	1.58	1.69	3.70e-02	7.07e-03	90	87
+Brain cancer	Alzheimer's disease	Gene Ontology	structural molecule activity conferring elasticity	up-up	1.93	1.98	6.01e-03	7.19e-03	11	11
+Brain cancer	Alzheimer's disease	Gene Ontology	extracellular matrix assembly	up-up	1.74	1.93	1.27e-02	7.24e-03	35	34
+Brain cancer	Alzheimer's disease	Gene Ontology	endocardial cushion morphogenesis	up-up	2.03	1.95	6.19e-04	7.37e-03	35	31
+Brain cancer	Alzheimer's disease	Gene Ontology	intrinsic apoptotic signaling pathway in response to dna damage	up-up	1.91	1.68	5.73e-04	7.60e-03	89	87
+Brain cancer	Alzheimer's disease	Gene Ontology	interleukin 2 production	up-up	1.84	1.83	4.01e-03	7.69e-03	54	56
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of epithelial to mesenchymal transition	up-up	1.79	1.91	7.69e-03	7.72e-03	44	41
+Brain cancer	Alzheimer's disease	Gene Ontology	in utero embryonic development	up-up	1.47	1.47	8.72e-03	7.87e-03	330	300
+Brain cancer	Alzheimer's disease	Gene Ontology	superoxide metabolic process	up-up	1.74	1.82	1.13e-02	8.02e-03	60	57
+Brain cancer	Alzheimer's disease	Gene Ontology	cd40 signaling pathway	up-up	1.77	1.94	2.38e-02	8.48e-03	10	10
+Brain cancer	Alzheimer's disease	Gene Ontology	cell activation involved in immune response	up-up	1.92	1.31	4.41e-09	8.80e-03	576	566
+Brain cancer	Alzheimer's disease	Gene Ontology	mhc class ii protein complex	up-up	1.75	1.94	3.29e-02	8.84e-03	8	10
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of extracellular matrix organization	up-up	1.7	1.96	4.42e-02	8.85e-03	10	9
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of interleukin 8 secretion	up-up	1.65	1.96	4.54e-02	8.91e-03	13	15
+Brain cancer	Alzheimer's disease	Gene Ontology	production of molecular mediator of immune response	up-up	1.71	1.55	8.11e-04	8.91e-03	179	172
+Brain cancer	Alzheimer's disease	Gene Ontology	neural tube formation	up-up	1.58	1.74	2.28e-02	9.22e-03	96	85
+Brain cancer	Alzheimer's disease	Gene Ontology	entry into host	up-up	1.49	1.66	4.80e-02	9.23e-03	107	114
+Brain cancer	Alzheimer's disease	Gene Ontology	insulin like growth factor i binding	up-up	1.68	1.96	4.70e-02	9.36e-03	12	13
+Brain cancer	Alzheimer's disease	Gene Ontology	cytokine production involved in immune response	up-up	1.55	1.7	3.53e-02	1.00e-02	92	93
+Brain cancer	Alzheimer's disease	Gene Ontology	astrocyte development	up-up	1.81	1.91	1.15e-02	1.07e-02	34	35
+Brain cancer	Alzheimer's disease	Gene Ontology	tolerance induction	up-up	1.7	1.99	4.68e-02	1.10e-02	19	19
+Brain cancer	Alzheimer's disease	Gene Ontology	cell differentiation involved in metanephros development	up-up	1.77	1.96	2.89e-02	1.20e-02	25	24
+Brain cancer	Alzheimer's disease	Gene Ontology	regeneration	up-up	1.54	1.53	1.00e-02	1.24e-02	164	163
+Brain cancer	Alzheimer's disease	Gene Ontology	epithelial to mesenchymal transition involved in endocardial cushion formation	up-up	1.85	1.9	1.61e-02	1.24e-02	17	16
+Brain cancer	Alzheimer's disease	Gene Ontology	interleukin 8 secretion	up-up	1.74	1.91	4.18e-02	1.25e-02	24	25
+Brain cancer	Alzheimer's disease	Gene Ontology	renal system vasculature development	up-up	1.85	1.91	1.78e-02	1.25e-02	24	25
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of cell adhesion mediated by integrin	up-up	1.85	1.86	5.93e-03	1.28e-02	45	41
+Brain cancer	Alzheimer's disease	Gene Ontology	defense response to gram positive bacterium	up-up	1.79	1.79	5.38e-03	1.30e-02	65	53
+Brain cancer	Alzheimer's disease	Gene Ontology	platelet derived growth factor receptor beta signaling pathway	up-up	1.83	1.91	1.78e-02	1.36e-02	14	13
+Brain cancer	Alzheimer's disease	Gene Ontology	intrinsic apoptotic signaling pathway in response to dna damage by p53 class mediator	up-up	2.12	1.82	1.55e-04	1.48e-02	37	38
+Brain cancer	Alzheimer's disease	Gene Ontology	animal organ regeneration	up-up	1.87	1.7	2.57e-03	1.51e-02	67	68
+Brain cancer	Alzheimer's disease	Gene Ontology	epithelial to mesenchymal transition	up-up	1.48	1.64	3.98e-02	1.53e-02	119	104
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of extrinsic apoptotic signaling pathway	up-up	1.81	1.69	3.69e-03	1.53e-02	90	85
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of blood vessel endothelial cell migration	up-up	1.84	1.85	4.76e-03	1.54e-02	49	48
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of protein metabolic process	up-up	1.24	1.2	1.33e-02	1.58e-02	1414	1327
+Brain cancer	Alzheimer's disease	Gene Ontology	interleukin 1 production	up-up	1.72	1.64	9.64e-03	1.61e-02	84	76
+Brain cancer	Alzheimer's disease	Gene Ontology	mesenchymal cell proliferation	up-up	1.76	1.76	1.77e-02	1.64e-02	40	42
+Brain cancer	Alzheimer's disease	Gene Ontology	ameboidal type cell migration	up-up	1.46	1.41	7.39e-03	1.66e-02	346	331
+Brain cancer	Alzheimer's disease	Gene Ontology	aminoglycan metabolic process	up-up	1.58	1.56	1.12e-02	1.73e-02	149	132
+Brain cancer	Alzheimer's disease	Gene Ontology	morphogenesis of an epithelial sheet	up-up	1.99	1.75	7.47e-04	1.79e-02	49	43
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of alpha beta t cell differentiation	up-up	1.66	1.84	3.23e-02	1.85e-02	41	40
+Brain cancer	Alzheimer's disease	Gene Ontology	keratan sulfate catabolic process	up-up	1.81	1.89	1.64e-02	1.85e-02	11	11
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of t cell mediated immunity	up-up	1.61	1.72	3.03e-02	1.87e-02	64	62
+Brain cancer	Alzheimer's disease	Gene Ontology	hepaticobiliary system development	up-up	1.63	1.59	7.57e-03	1.88e-02	119	122
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell adhesion mediated by integrin	up-up	1.91	1.89	1.04e-02	1.97e-02	19	18
+Brain cancer	Alzheimer's disease	Gene Ontology	endothelial cell proliferation	up-up	1.69	1.53	5.93e-03	2.03e-02	122	120
+Brain cancer	Alzheimer's disease	Gene Ontology	endoderm formation	up-up	1.73	1.8	1.76e-02	2.03e-02	45	38
+Brain cancer	Alzheimer's disease	Gene Ontology	chemokine production	up-up	1.7	1.62	1.50e-02	2.03e-02	74	75
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of leukocyte adhesion to vascular endothelial cell	up-up	1.72	1.88	4.20e-02	2.06e-02	19	18
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of defense response	up-up	1.69	1.34	1.08e-05	2.12e-02	419	389
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of response to biotic stimulus	up-up	1.94	1.33	4.41e-09	2.12e-02	424	396
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of transcription from rna polymerase ii promoter involved in cellular response to chemical stimulus	up-up	1.92	1.92	8.40e-03	2.12e-02	21	20
+Brain cancer	Alzheimer's disease	Gene Ontology	myd88 dependent toll like receptor signaling pathway	up-up	2.27	1.88	2.37e-05	2.14e-02	31	27
+Brain cancer	Alzheimer's disease	Gene Ontology	response to interleukin 18	up-up	1.8	1.87	1.92e-02	2.18e-02	9	9
+Brain cancer	Alzheimer's disease	Gene Ontology	lymphocyte apoptotic process	up-up	1.59	1.7	3.26e-02	2.20e-02	59	57
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of dna binding transcription factor activity	up-up	1.4	1.36	1.25e-02	2.29e-02	369	336
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of myeloid leukocyte mediated immunity	up-up	1.55	1.79	4.79e-02	2.29e-02	47	48
+Brain cancer	Alzheimer's disease	Gene Ontology	mammary gland development	up-up	1.77	1.64	1.17e-03	2.31e-02	124	118
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of phagocytosis engulfment	up-up	1.66	1.85	4.31e-02	2.48e-02	13	12
+Brain cancer	Alzheimer's disease	Gene Ontology	neuroinflammatory response	up-up	1.68	1.67	2.16e-02	2.55e-02	54	56
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of endothelial cell proliferation	up-up	1.66	1.63	2.12e-02	2.58e-02	79	78
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of kidney development	up-up	1.56	1.71	3.94e-02	2.61e-02	53	50
+Brain cancer	Alzheimer's disease	Gene Ontology	glycosaminoglycan binding	up-up	1.38	1.5	4.32e-02	2.61e-02	198	180
+Brain cancer	Alzheimer's disease	Gene Ontology	response to platelet derived growth factor	up-up	1.95	1.86	6.47e-03	2.71e-02	19	17
+Brain cancer	Alzheimer's disease	Gene Ontology	interleukin 1 beta production	up-up	1.69	1.64	1.40e-02	2.82e-02	73	68
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of superoxide metabolic process	up-up	1.94	1.8	3.81e-03	2.83e-02	30	32
+Brain cancer	Alzheimer's disease	Gene Ontology	cartilage development involved in endochondral bone morphogenesis	up-up	1.69	1.71	2.75e-02	3.05e-02	40	36
+Brain cancer	Alzheimer's disease	Gene Ontology	glial cell activation	up-up	1.91	1.68	2.67e-03	3.12e-02	42	45
+Brain cancer	Alzheimer's disease	Gene Ontology	extrinsic apoptotic signaling pathway	up-up	1.47	1.38	1.60e-02	3.16e-02	194	191
+Brain cancer	Alzheimer's disease	Gene Ontology	integrin binding	up-up	1.81	1.51	1.23e-03	3.16e-02	121	123
+Brain cancer	Alzheimer's disease	Gene Ontology	homeostasis of number of cells	up-up	1.66	1.44	1.94e-03	3.53e-02	210	204
+Brain cancer	Alzheimer's disease	Gene Ontology	vascular endothelial growth factor signaling pathway	up-up	1.72	1.79	2.53e-02	3.54e-02	33	30
+Brain cancer	Alzheimer's disease	Gene Ontology	proteoglycan binding	up-up	1.97	1.68	1.91e-03	3.58e-02	33	36
+Brain cancer	Alzheimer's disease	Gene Ontology	nucleotide binding oligomerization domain containing 2 signaling pathway	up-up	1.94	1.81	5.43e-03	3.65e-02	11	9
+Brain cancer	Alzheimer's disease	Gene Ontology	intrinsic apoptotic signaling pathway by p53 class mediator	up-up	1.57	1.55	3.72e-02	3.70e-02	67	65
+Brain cancer	Alzheimer's disease	Gene Ontology	endocardial cushion formation	up-up	1.83	1.77	2.35e-02	3.77e-02	24	21
+Brain cancer	Alzheimer's disease	Gene Ontology	mitogen activated protein kinase binding	up-up	1.96	1.78	6.39e-03	3.86e-02	20	24
+Brain cancer	Alzheimer's disease	Gene Ontology	endothelial cell migration	up-up	1.62	1.45	3.31e-03	3.89e-02	179	174
+Brain cancer	Alzheimer's disease	Gene Ontology	astrocyte activation	up-up	1.99	1.79	3.41e-03	3.96e-02	18	19
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of cell cycle g1 s phase transition	up-up	2.52	1.57	4.41e-09	3.96e-02	93	90
+Brain cancer	Alzheimer's disease	Gene Ontology	chondrocyte development	up-up	1.64	1.7	3.43e-02	4.01e-02	42	33
+Brain cancer	Alzheimer's disease	Gene Ontology	extracellular matrix binding	up-up	1.7	1.7	1.20e-02	4.01e-02	52	48
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of multi organism process	up-up	2.11	1.39	8.51e-08	4.07e-02	176	173
+Brain cancer	Alzheimer's disease	Gene Ontology	aminoglycan biosynthetic process	up-up	1.61	1.47	1.88e-02	4.19e-02	102	88
+Brain cancer	Alzheimer's disease	Gene Ontology	t helper 17 cell lineage commitment	up-up	1.96	1.77	3.76e-03	4.33e-02	12	9
+Brain cancer	Alzheimer's disease	Gene Ontology	blood vessel endothelial cell migration	up-up	1.68	1.53	8.47e-03	4.43e-02	105	101
+Brain cancer	Alzheimer's disease	Gene Ontology	cellular response to abiotic stimulus	up-up	1.6	1.31	7.15e-04	4.54e-02	283	271
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of dna binding transcription factor activity	up-up	1.46	1.49	4.81e-02	4.63e-02	140	121
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of leukocyte mediated immunity	up-up	1.69	1.5	6.84e-03	4.64e-02	112	106
+Brain cancer	Alzheimer's disease	Gene Ontology	complex of collagen trimers	up-up	1.81	1.74	2.34e-02	4.85e-02	19	18
+Brain cancer	Alzheimer's disease	Gene Ontology	pinocytosis	up-up	1.79	1.69	2.65e-02	4.94e-02	21	16
+Brain cancer	Alzheimer's disease	Gene Ontology	chromosome condensation	up-up	1.87	1.64	7.23e-03	4.95e-02	40	36
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell death	up-up	1.31	1.23	1.87e-02	4.97e-02	598	576
+Brain cancer	Alzheimer's disease	Gene Ontology	axon	down-down	-3.06	-2.15	4.41e-09	5.63e-09	544	478
+Brain cancer	Alzheimer's disease	Gene Ontology	exocytic vesicle	down-down	-2.98	-2.5	4.41e-09	5.63e-09	188	155
+Brain cancer	Alzheimer's disease	Gene Ontology	glutamatergic synapse	down-down	-2.83	-2.24	4.41e-09	5.63e-09	325	288
+Brain cancer	Alzheimer's disease	Gene Ontology	membrane protein complex	down-down	-1.47	-1.73	2.28e-05	5.63e-09	977	850
+Brain cancer	Alzheimer's disease	Gene Ontology	neuron projection	down-down	-2.79	-1.89	4.41e-09	5.63e-09	1144	1007
+Brain cancer	Alzheimer's disease	Gene Ontology	neuron to neuron synapse	down-down	-3.16	-2.32	4.41e-09	5.63e-09	312	280
+Brain cancer	Alzheimer's disease	Gene Ontology	organophosphate biosynthetic process	down-down	-1.3	-1.91	2.87e-02	5.63e-09	507	452
+Brain cancer	Alzheimer's disease	Gene Ontology	postsynapse	down-down	-2.98	-2.03	4.41e-09	5.63e-09	541	493
+Brain cancer	Alzheimer's disease	Gene Ontology	presynapse	down-down	-3.19	-2.24	4.41e-09	5.63e-09	449	403
+Brain cancer	Alzheimer's disease	Gene Ontology	proton transmembrane transport	down-down	-1.52	-2.62	3.39e-02	5.63e-09	125	104
+Brain cancer	Alzheimer's disease	Gene Ontology	proton transmembrane transporter activity	down-down	-1.75	-2.64	3.87e-03	5.63e-09	106	86
+Brain cancer	Alzheimer's disease	Gene Ontology	somatodendritic compartment	down-down	-2.75	-1.92	4.41e-09	5.63e-09	727	672
+Brain cancer	Alzheimer's disease	Gene Ontology	synapse	down-down	-3.05	-2.1	4.41e-09	5.63e-09	1154	1035
+Brain cancer	Alzheimer's disease	Gene Ontology	synaptic membrane	down-down	-3.17	-2.13	4.41e-09	5.63e-09	390	337
+Brain cancer	Alzheimer's disease	Gene Ontology	synaptic signaling	down-down	-3.13	-1.97	4.41e-09	5.63e-09	632	575
+Brain cancer	Alzheimer's disease	Gene Ontology	transport vesicle	down-down	-2.35	-2.15	4.41e-09	5.63e-09	324	293
+Brain cancer	Alzheimer's disease	Gene Ontology	vesicle mediated transport in synapse	down-down	-3.05	-2.35	4.41e-09	5.63e-09	187	161
+Brain cancer	Alzheimer's disease	Gene Ontology	dendritic tree	down-down	-2.72	-1.87	4.41e-09	1.69e-08	528	476
+Brain cancer	Alzheimer's disease	Gene Ontology	membrane organization	down-down	-1.47	-1.78	1.98e-04	1.90e-08	667	616
+Brain cancer	Alzheimer's disease	Gene Ontology	transport vesicle membrane	down-down	-2.6	-2.28	4.41e-09	3.42e-08	169	149
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of trans synaptic signaling	down-down	-3.11	-1.96	4.41e-09	4.66e-08	388	355
+Brain cancer	Alzheimer's disease	Gene Ontology	synaptic vesicle membrane	down-down	-3.09	-2.44	4.41e-09	8.71e-08	96	76
+Brain cancer	Alzheimer's disease	Gene Ontology	cell body	down-down	-2.48	-1.83	4.41e-09	9.15e-08	503	468
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of synaptic plasticity	down-down	-2.99	-2.19	4.41e-09	1.63e-07	160	150
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of synaptic vesicle cycle	down-down	-3.07	-2.36	4.41e-09	2.03e-07	102	86
+Brain cancer	Alzheimer's disease	Gene Ontology	dendritic spine development	down-down	-2.41	-2.34	4.41e-08	2.83e-07	83	81
+Brain cancer	Alzheimer's disease	Gene Ontology	postsynaptic membrane	down-down	-3.03	-1.99	4.41e-09	6.89e-07	292	249
+Brain cancer	Alzheimer's disease	Gene Ontology	organelle localization	down-down	-1.29	-1.73	3.27e-02	2.02e-06	521	479
+Brain cancer	Alzheimer's disease	Gene Ontology	cognition	down-down	-2.44	-1.94	4.41e-09	2.31e-06	255	242
+Brain cancer	Alzheimer's disease	Gene Ontology	monovalent inorganic cation transport	down-down	-2.17	-1.81	4.41e-09	2.59e-06	445	373
+Brain cancer	Alzheimer's disease	Gene Ontology	microtubule	down-down	-1.62	-1.84	1.79e-04	8.19e-06	344	284
+Brain cancer	Alzheimer's disease	Gene Ontology	vesicle organization	down-down	-1.38	-1.88	2.80e-02	1.02e-05	272	244
+Brain cancer	Alzheimer's disease	Gene Ontology	learning	down-down	-2.34	-2.11	4.41e-09	1.27e-05	127	123
+Brain cancer	Alzheimer's disease	Gene Ontology	vesicle localization	down-down	-1.86	-2	1.12e-04	1.27e-05	170	160
+Brain cancer	Alzheimer's disease	Gene Ontology	synaptic vesicle exocytosis	down-down	-3.02	-2.2	4.41e-09	1.48e-05	104	85
+Brain cancer	Alzheimer's disease	Gene Ontology	distal axon	down-down	-2.88	-1.87	4.41e-09	1.51e-05	264	231
+Brain cancer	Alzheimer's disease	Gene Ontology	behavior	down-down	-2.35	-1.69	4.41e-09	1.70e-05	518	472
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of dendritic spine development	down-down	-2.44	-2.25	1.90e-07	1.73e-05	63	61
+Brain cancer	Alzheimer's disease	Gene Ontology	neurotransmitter secretion	down-down	-3.21	-2.06	4.41e-09	1.87e-05	151	130
+Brain cancer	Alzheimer's disease	Gene Ontology	presynaptic membrane	down-down	-2.86	-2.06	4.41e-09	2.03e-05	143	130
+Brain cancer	Alzheimer's disease	Gene Ontology	dendritic spine morphogenesis	down-down	-2.37	-2.27	2.60e-06	2.60e-05	52	51
+Brain cancer	Alzheimer's disease	Gene Ontology	axon cytoplasm	down-down	-2.41	-2.27	1.82e-06	3.04e-05	47	40
+Brain cancer	Alzheimer's disease	Gene Ontology	monovalent inorganic cation transmembrane transporter activity	down-down	-2.33	-1.8	4.41e-09	3.11e-05	338	279
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of synaptic vesicle exocytosis	down-down	-2.87	-2.17	4.41e-09	3.73e-05	72	57
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of neuronal synaptic plasticity	down-down	-2.59	-2.25	2.69e-08	3.81e-05	47	42
+Brain cancer	Alzheimer's disease	Gene Ontology	postsynaptic density membrane	down-down	-2.75	-2.19	4.41e-09	4.18e-05	73	60
+Brain cancer	Alzheimer's disease	Gene Ontology	organelle transport along microtubule	down-down	-2.35	-2.18	1.23e-06	4.52e-05	66	60
+Brain cancer	Alzheimer's disease	Gene Ontology	postsynaptic specialization membrane	down-down	-2.75	-2.11	4.41e-09	4.59e-05	97	81
+Brain cancer	Alzheimer's disease	Gene Ontology	cation transmembrane transport	down-down	-2.18	-1.6	4.41e-09	5.01e-05	737	614
+Brain cancer	Alzheimer's disease	Gene Ontology	neuron projection cytoplasm	down-down	-2.24	-2.23	8.97e-06	5.19e-05	72	62
+Brain cancer	Alzheimer's disease	Gene Ontology	transmembrane transport	down-down	-1.78	-1.46	4.41e-09	6.01e-05	1335	1116
+Brain cancer	Alzheimer's disease	Gene Ontology	presynaptic active zone	down-down	-2.87	-2.16	4.41e-09	7.79e-05	62	60
+Brain cancer	Alzheimer's disease	Gene Ontology	gaba ergic synapse	down-down	-2.86	-2.17	4.41e-09	8.60e-05	68	63
+Brain cancer	Alzheimer's disease	Gene Ontology	protein localization to membrane	down-down	-1.66	-1.64	2.96e-06	9.15e-05	514	456
+Brain cancer	Alzheimer's disease	Gene Ontology	synaptic vesicle recycling	down-down	-2.48	-2.2	1.18e-07	9.85e-05	58	53
+Brain cancer	Alzheimer's disease	Gene Ontology	dendrite development	down-down	-2.32	-1.83	4.41e-09	1.12e-04	212	197
+Brain cancer	Alzheimer's disease	Gene Ontology	snare binding	down-down	-2.24	-2.07	8.43e-07	1.15e-04	90	74
+Brain cancer	Alzheimer's disease	Gene Ontology	neurotransmitter transport	down-down	-2.89	-1.82	4.41e-09	1.17e-04	245	219
+Brain cancer	Alzheimer's disease	Gene Ontology	site of polarized growth	down-down	-2.6	-1.92	4.41e-09	1.24e-04	160	141
+Brain cancer	Alzheimer's disease	Gene Ontology	proton transporting two sector atpase complex catalytic domain	down-down	-1.73	-2.23	4.88e-02	1.27e-04	15	12
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of dendritic spine morphogenesis	down-down	-2.32	-2.21	4.85e-06	1.42e-04	40	38
+Brain cancer	Alzheimer's disease	Gene Ontology	microtubule based transport	down-down	-1.81	-1.95	3.19e-04	1.45e-04	148	124
+Brain cancer	Alzheimer's disease	Gene Ontology	ion transmembrane transport	down-down	-2.03	-1.49	4.41e-09	1.59e-04	975	814
+Brain cancer	Alzheimer's disease	Gene Ontology	axo dendritic transport	down-down	-2.3	-2.15	6.90e-06	1.82e-04	56	47
+Brain cancer	Alzheimer's disease	Gene Ontology	cytoskeleton dependent intracellular transport	down-down	-1.93	-1.95	7.24e-05	1.84e-04	143	127
+Brain cancer	Alzheimer's disease	Gene Ontology	inorganic ion transmembrane transport	down-down	-2.12	-1.54	4.41e-09	1.96e-04	720	602
+Brain cancer	Alzheimer's disease	Gene Ontology	postsynapse organization	down-down	-2.46	-1.9	4.41e-09	2.19e-04	140	132
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of macroautophagy	down-down	-1.47	-1.92	2.75e-02	3.00e-04	155	127
+Brain cancer	Alzheimer's disease	Gene Ontology	synapse organization	down-down	-2.47	-1.69	4.41e-09	3.10e-04	357	315
+Brain cancer	Alzheimer's disease	Gene Ontology	glutamate receptor signaling pathway	down-down	-2.82	-2.01	4.41e-09	3.27e-04	89	79
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of synaptic vesicle recycling	down-down	-1.84	-2.11	1.78e-02	3.73e-04	8	8
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of dendrite development	down-down	-2.28	-1.92	1.95e-08	3.85e-04	131	125
+Brain cancer	Alzheimer's disease	Gene Ontology	protein localization to synapse	down-down	-2.55	-2.04	4.41e-09	3.93e-04	76	64
+Brain cancer	Alzheimer's disease	Gene Ontology	schaffer collateral ca1 synapse	down-down	-2.6	-2.04	4.41e-09	4.31e-04	72	66
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of neuron projection development	down-down	-2.22	-1.62	4.41e-09	4.35e-04	441	405
+Brain cancer	Alzheimer's disease	Gene Ontology	neuron projection organization	down-down	-2.4	-2	1.65e-07	4.36e-04	73	73
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of synaptic vesicle recycling	down-down	-2.3	-2.14	2.13e-05	4.43e-04	21	19
+Brain cancer	Alzheimer's disease	Gene Ontology	tubulin binding	down-down	-1.87	-1.73	1.82e-06	4.80e-04	286	245
+Brain cancer	Alzheimer's disease	Gene Ontology	memory	down-down	-2.36	-1.94	1.95e-08	5.16e-04	106	96
+Brain cancer	Alzheimer's disease	Gene Ontology	synaptic vesicle endocytosis	down-down	-2.56	-2.11	2.48e-08	5.30e-04	48	44
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of synapse structure or activity	down-down	-2.31	-1.76	4.41e-09	6.67e-04	200	176
+Brain cancer	Alzheimer's disease	Gene Ontology	intrinsic component of synaptic vesicle membrane	down-down	-2.54	-2.11	3.99e-08	7.40e-04	40	34
+Brain cancer	Alzheimer's disease	Gene Ontology	gtpase activity	down-down	-1.54	-1.73	3.26e-03	7.57e-04	254	222
+Brain cancer	Alzheimer's disease	Gene Ontology	dendrite morphogenesis	down-down	-2.42	-1.89	4.41e-09	7.92e-04	124	126
+Brain cancer	Alzheimer's disease	Gene Ontology	microtubule based movement	down-down	-1.53	-1.73	9.41e-03	9.22e-04	236	178
+Brain cancer	Alzheimer's disease	Gene Ontology	organelle fusion	down-down	-1.61	-1.91	1.92e-02	9.22e-04	104	91
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of dendritic spine development	down-down	-2.1	-2.08	3.85e-04	1.05e-03	39	38
+Brain cancer	Alzheimer's disease	Gene Ontology	intrinsic component of synaptic membrane	down-down	-2.73	-1.78	4.41e-09	1.16e-03	152	134
+Brain cancer	Alzheimer's disease	Gene Ontology	autophagosome organization	down-down	-1.58	-1.92	2.66e-02	1.18e-03	80	65
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of neurotransmitter secretion	down-down	-3	-1.92	4.41e-09	1.20e-03	95	81
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of neurotransmitter transport	down-down	-2.36	-2.05	3.86e-06	1.23e-03	38	33
+Brain cancer	Alzheimer's disease	Gene Ontology	acidic amino acid transport	down-down	-2.78	-1.95	4.41e-09	1.27e-03	63	57
+Brain cancer	Alzheimer's disease	Gene Ontology	phospholipid biosynthetic process	down-down	-1.33	-1.72	4.31e-02	1.28e-03	228	196
+Brain cancer	Alzheimer's disease	Gene Ontology	clathrin coat	down-down	-1.71	-2.04	2.35e-02	1.34e-03	38	33
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of long term neuronal synaptic plasticity	down-down	-2.14	-2.15	7.92e-04	1.38e-03	22	22
+Brain cancer	Alzheimer's disease	Gene Ontology	intrinsic component of postsynaptic density membrane	down-down	-2.6	-2.07	6.10e-09	1.48e-03	49	37
+Brain cancer	Alzheimer's disease	Gene Ontology	excitatory synapse	down-down	-2.65	-1.97	5.09e-09	1.57e-03	47	41
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of neurotransmitter transport	down-down	-2.85	-1.85	4.41e-09	1.58e-03	129	115
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of dendritic spine morphogenesis	down-down	-1.82	-2.06	1.66e-02	1.66e-03	20	19
+Brain cancer	Alzheimer's disease	Gene Ontology	guanyl nucleotide binding	down-down	-1.4	-1.61	1.75e-02	1.84e-03	302	270
+Brain cancer	Alzheimer's disease	Gene Ontology	synaptic transmission glutamatergic	down-down	-2.78	-1.9	4.41e-09	1.86e-03	87	79
+Brain cancer	Alzheimer's disease	Gene Ontology	snare complex assembly	down-down	-1.96	-2.05	9.72e-03	2.05e-03	17	15
+Brain cancer	Alzheimer's disease	Gene Ontology	synaptic vesicle transport	down-down	-2.26	-2.03	3.62e-05	2.05e-03	37	29
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of postsynaptic membrane potential	down-down	-2.9	-1.8	4.41e-09	2.07e-03	126	113
+Brain cancer	Alzheimer's disease	Gene Ontology	receptor localization to synapse	down-down	-2.19	-2	9.91e-05	2.20e-03	51	43
+Brain cancer	Alzheimer's disease	Gene Ontology	microtubule polymerization	down-down	-2.2	-1.93	4.13e-05	2.25e-03	62	63
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of neurotransmitter receptor activity	down-down	-2.8	-1.92	4.41e-09	2.26e-03	65	54
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of protein containing complex assembly	down-down	-1.48	-1.58	3.75e-03	2.29e-03	354	321
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of postsynaptic membrane neurotransmitter receptor levels	down-down	-2.29	-1.97	6.90e-06	2.33e-03	64	53
+Brain cancer	Alzheimer's disease	Gene Ontology	clathrin coat assembly	down-down	-1.95	-2	7.61e-03	2.36e-03	18	16
+Brain cancer	Alzheimer's disease	Gene Ontology	protein polymerization	down-down	-1.83	-1.62	4.18e-05	2.67e-03	220	202
+Brain cancer	Alzheimer's disease	Gene Ontology	phosphatidylinositol biosynthetic process	down-down	-1.56	-1.81	3.42e-02	2.79e-03	100	98
+Brain cancer	Alzheimer's disease	Gene Ontology	pyrophosphate hydrolysis driven proton transmembrane transporter activity	down-down	-1.75	-2.03	1.94e-02	2.80e-03	30	27
+Brain cancer	Alzheimer's disease	Gene Ontology	cation transmembrane transporter activity	down-down	-2.24	-1.49	4.41e-09	2.85e-03	567	462
+Brain cancer	Alzheimer's disease	Gene Ontology	microtubule polymerization or depolymerization	down-down	-2.15	-1.86	6.13e-06	2.85e-03	97	90
+Brain cancer	Alzheimer's disease	Gene Ontology	perikaryon	down-down	-2.59	-1.79	4.41e-09	2.85e-03	123	111
+Brain cancer	Alzheimer's disease	Gene Ontology	integral component of synaptic vesicle membrane	down-down	-2.3	-1.99	5.39e-05	2.87e-03	28	24
+Brain cancer	Alzheimer's disease	Gene Ontology	glutamate secretion	down-down	-2.74	-2	4.41e-09	2.90e-03	42	39
+Brain cancer	Alzheimer's disease	Gene Ontology	locomotory behavior	down-down	-2.31	-1.66	4.41e-09	3.04e-03	177	159
+Brain cancer	Alzheimer's disease	Gene Ontology	cation channel complex	down-down	-3	-1.72	4.41e-09	3.10e-03	193	161
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of ph	down-down	-1.58	-1.8	3.31e-02	3.14e-03	87	77
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of dendrite morphogenesis	down-down	-2.37	-1.86	5.07e-08	3.31e-03	81	80
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of membrane potential	down-down	-2.63	-1.54	4.41e-09	3.32e-03	378	340
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of neuron projection development	down-down	-1.98	-1.64	3.42e-07	3.33e-03	250	241
+Brain cancer	Alzheimer's disease	Gene Ontology	anterograde axonal transport	down-down	-2.24	-1.95	4.27e-05	3.34e-03	39	31
+Brain cancer	Alzheimer's disease	Gene Ontology	membrane fusion	down-down	-1.61	-1.81	1.94e-02	3.37e-03	119	108
+Brain cancer	Alzheimer's disease	Gene Ontology	atpase coupled ion transmembrane transporter activity	down-down	-1.79	-1.92	1.00e-02	3.41e-03	53	49
+Brain cancer	Alzheimer's disease	Gene Ontology	synaptic vesicle localization	down-down	-2.4	-1.98	1.37e-06	3.48e-03	48	39
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of dendrite development	down-down	-1.95	-1.84	8.07e-04	4.01e-03	64	64
+Brain cancer	Alzheimer's disease	Gene Ontology	cytoplasmic region	down-down	-1.78	-1.67	2.93e-04	4.10e-03	211	157
+Brain cancer	Alzheimer's disease	Gene Ontology	intrinsic component of postsynaptic specialization membrane	down-down	-2.63	-1.92	4.41e-09	4.69e-03	70	55
+Brain cancer	Alzheimer's disease	Gene Ontology	clathrin binding	down-down	-2.4	-1.91	1.59e-06	5.00e-03	52	43
+Brain cancer	Alzheimer's disease	Gene Ontology	neuron spine	down-down	-2.51	-1.68	4.41e-09	5.02e-03	152	140
+Brain cancer	Alzheimer's disease	Gene Ontology	glutamate catabolic process	down-down	-1.94	-1.86	3.26e-03	5.38e-03	6	6
+Brain cancer	Alzheimer's disease	Gene Ontology	whole membrane	down-down	-1.27	-1.3	1.83e-03	5.52e-03	1412	1261
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of synaptic vesicle exocytosis	down-down	-2.32	-1.95	1.44e-05	5.53e-03	11	8
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of synaptic transmission	down-down	-2.88	-1.73	4.41e-09	5.59e-03	145	137
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of neurotransmitter secretion	down-down	-2.64	-1.98	9.29e-09	5.66e-03	22	17
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of microtubule polymerization	down-down	-2.2	-1.84	7.69e-05	6.03e-03	39	41
+Brain cancer	Alzheimer's disease	Gene Ontology	dicarboxylic acid transport	down-down	-2.53	-1.79	4.41e-09	6.12e-03	85	78
+Brain cancer	Alzheimer's disease	Gene Ontology	hippocampal mossy fiber to ca3 synapse	down-down	-2.34	-1.92	6.96e-06	6.47e-03	30	29
+Brain cancer	Alzheimer's disease	Gene Ontology	neuromuscular process	down-down	-1.96	-1.79	1.87e-04	6.47e-03	95	81
+Brain cancer	Alzheimer's disease	Gene Ontology	neurofilament	down-down	-1.81	-1.94	2.29e-02	6.52e-03	8	8
+Brain cancer	Alzheimer's disease	Gene Ontology	establishment of mitochondrion localization	down-down	-1.74	-1.96	2.67e-02	6.96e-03	19	23
+Brain cancer	Alzheimer's disease	Gene Ontology	glutamate metabolic process	down-down	-1.82	-2	1.78e-02	6.96e-03	27	22
+Brain cancer	Alzheimer's disease	Gene Ontology	neurotransmitter receptor complex	down-down	-2.42	-1.92	9.35e-07	7.00e-03	48	35
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of microtubule polymerization or depolymerization	down-down	-2.38	-1.83	3.71e-07	7.09e-03	69	66
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of microtubule based process	down-down	-1.65	-1.62	2.73e-03	7.17e-03	183	166
+Brain cancer	Alzheimer's disease	Gene Ontology	establishment of localization in cell	down-down	-1.59	-1.48	5.14e-05	7.25e-03	453	416
+Brain cancer	Alzheimer's disease	Gene Ontology	vesicle docking	down-down	-1.99	-1.85	1.00e-03	7.29e-03	55	49
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of protein targeting	down-down	-1.63	-1.79	3.07e-02	7.33e-03	68	64
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of dendrite morphogenesis	down-down	-1.82	-1.91	9.01e-03	7.64e-03	34	35
+Brain cancer	Alzheimer's disease	Gene Ontology	phosphatidylinositol metabolic process	down-down	-1.65	-1.64	3.34e-03	7.65e-03	155	136
+Brain cancer	Alzheimer's disease	Gene Ontology	modulation of excitatory postsynaptic potential	down-down	-2.52	-1.87	1.49e-07	7.71e-03	37	31
+Brain cancer	Alzheimer's disease	Gene Ontology	structural constituent of synapse	down-down	-2.3	-1.93	4.17e-05	7.81e-03	15	15
+Brain cancer	Alzheimer's disease	Gene Ontology	protein localization to postsynaptic membrane	down-down	-2.11	-1.91	1.88e-04	7.95e-03	42	34
+Brain cancer	Alzheimer's disease	Gene Ontology	phosphatidylinositol phosphate 4 phosphatase activity	down-down	-1.88	-1.83	1.31e-02	8.36e-03	8	6
+Brain cancer	Alzheimer's disease	Gene Ontology	main axon	down-down	-2.69	-1.85	4.41e-09	8.65e-03	60	56
+Brain cancer	Alzheimer's disease	Gene Ontology	organelle membrane fusion	down-down	-1.64	-1.78	1.78e-02	9.04e-03	84	75
+Brain cancer	Alzheimer's disease	Gene Ontology	associative learning	down-down	-1.89	-1.75	2.24e-03	9.07e-03	68	65
+Brain cancer	Alzheimer's disease	Gene Ontology	intrinsic component of postsynaptic membrane	down-down	-2.67	-1.73	4.41e-09	9.07e-03	111	95
+Brain cancer	Alzheimer's disease	Gene Ontology	neuron development	down-down	-2.1	-1.34	4.41e-09	9.07e-03	978	866
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of neurotransmitter levels	down-down	-2.44	-1.52	4.41e-09	9.33e-03	307	279
+Brain cancer	Alzheimer's disease	Gene Ontology	glutamate receptor activity	down-down	-2.37	-1.92	3.36e-05	9.41e-03	24	23
+Brain cancer	Alzheimer's disease	Gene Ontology	endosome	down-down	-1.35	-1.37	4.78e-03	1.05e-02	778	678
+Brain cancer	Alzheimer's disease	Gene Ontology	cell projection organization	down-down	-1.75	-1.3	4.41e-09	1.08e-02	1326	1134
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of cellular localization	down-down	-1.42	-1.37	1.01e-03	1.08e-02	677	626
+Brain cancer	Alzheimer's disease	Gene Ontology	postsynaptic endosome	down-down	-1.94	-1.9	8.09e-03	1.13e-02	12	11
+Brain cancer	Alzheimer's disease	Gene Ontology	rac protein signal transduction	down-down	-1.7	-1.89	2.80e-02	1.13e-02	31	27
+Brain cancer	Alzheimer's disease	Gene Ontology	snare complex	down-down	-1.63	-1.88	4.29e-02	1.13e-02	38	34
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of cellular protein localization	down-down	-1.33	-1.44	2.69e-02	1.14e-02	456	429
+Brain cancer	Alzheimer's disease	Gene Ontology	signal release	down-down	-2.48	-1.45	4.41e-09	1.14e-02	413	374
+Brain cancer	Alzheimer's disease	Gene Ontology	neurotransmitter receptor transport	down-down	-2.07	-1.87	2.90e-04	1.16e-02	44	36
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of postsynapse organization	down-down	-2.31	-1.74	1.03e-06	1.18e-02	88	82
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of glutamate receptor signaling pathway	down-down	-2.73	-1.84	4.41e-09	1.21e-02	58	50
+Brain cancer	Alzheimer's disease	Gene Ontology	glycerophospholipid metabolic process	down-down	-1.56	-1.51	2.58e-03	1.21e-02	280	230
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of excitatory postsynaptic potential	down-down	-2.6	-1.9	1.36e-07	1.25e-02	26	21
+Brain cancer	Alzheimer's disease	Gene Ontology	recycling endosome membrane	down-down	-1.56	-1.8	4.04e-02	1.26e-02	70	55
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of nmda receptor activity	down-down	-2.55	-1.81	1.44e-07	1.29e-02	32	31
+Brain cancer	Alzheimer's disease	Gene Ontology	microtubule binding	down-down	-1.97	-1.54	3.29e-06	1.33e-02	211	178
+Brain cancer	Alzheimer's disease	Gene Ontology	exocytic process	down-down	-2.3	-1.76	1.56e-06	1.33e-02	73	60
+Brain cancer	Alzheimer's disease	Gene Ontology	adult behavior	down-down	-2.28	-1.64	6.61e-08	1.35e-02	125	111
+Brain cancer	Alzheimer's disease	Gene Ontology	ion transmembrane transporter activity	down-down	-2.03	-1.36	4.41e-09	1.37e-02	754	613
+Brain cancer	Alzheimer's disease	Gene Ontology	potassium channel complex	down-down	-2.64	-1.72	4.41e-09	1.53e-02	87	73
+Brain cancer	Alzheimer's disease	Gene Ontology	synaptic vesicle priming	down-down	-2.32	-1.85	1.54e-05	1.56e-02	18	15
+Brain cancer	Alzheimer's disease	Gene Ontology	phosphatidylinositol dephosphorylation	down-down	-1.84	-1.89	1.61e-02	1.64e-02	22	22
+Brain cancer	Alzheimer's disease	Gene Ontology	phosphatidylinositol phosphate phosphatase activity	down-down	-1.89	-1.9	1.03e-02	1.64e-02	22	22
+Brain cancer	Alzheimer's disease	Gene Ontology	phospholipid dephosphorylation	down-down	-1.95	-1.85	6.27e-03	1.65e-02	32	30
+Brain cancer	Alzheimer's disease	Gene Ontology	vesicle cytoskeletal trafficking	down-down	-2.01	-1.82	6.03e-04	1.67e-02	44	37
+Brain cancer	Alzheimer's disease	Gene Ontology	calcium ion regulated exocytosis	down-down	-2.65	-1.77	4.41e-09	1.68e-02	59	49
+Brain cancer	Alzheimer's disease	Gene Ontology	phospholipid metabolic process	down-down	-1.46	-1.46	3.58e-03	1.71e-02	373	312
+Brain cancer	Alzheimer's disease	Gene Ontology	calcium ion regulated exocytosis of neurotransmitter	down-down	-2.33	-1.87	1.02e-05	1.73e-02	19	12
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of glutamate secretion	down-down	-1.95	-1.86	9.74e-03	1.76e-02	15	14
+Brain cancer	Alzheimer's disease	Gene Ontology	microtubule associated complex	down-down	-1.53	-1.62	3.26e-02	1.83e-02	129	104
+Brain cancer	Alzheimer's disease	Gene Ontology	dephosphorylation	down-down	-1.65	-1.44	6.53e-05	1.85e-02	393	340
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of exocytosis	down-down	-2.48	-1.55	4.41e-09	1.90e-02	187	171
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of microtubule polymerization or depolymerization	down-down	-2.26	-1.83	2.76e-05	1.94e-02	34	34
+Brain cancer	Alzheimer's disease	Gene Ontology	neuron projection terminus	down-down	-2.67	-1.62	4.41e-09	2.03e-02	130	112
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of protein polymerization	down-down	-1.81	-1.62	8.43e-05	2.03e-02	174	155
+Brain cancer	Alzheimer's disease	Gene Ontology	primary active transmembrane transporter activity	down-down	-1.55	-1.67	3.37e-02	2.07e-02	92	88
+Brain cancer	Alzheimer's disease	Gene Ontology	camp binding	down-down	-2.07	-1.84	1.74e-03	2.07e-02	20	17
+Brain cancer	Alzheimer's disease	Gene Ontology	cell cortex region	down-down	-2.23	-1.77	4.20e-05	2.12e-02	34	32
+Brain cancer	Alzheimer's disease	Gene Ontology	clathrin vesicle coat	down-down	-1.89	-1.85	1.66e-02	2.14e-02	23	21
+Brain cancer	Alzheimer's disease	Gene Ontology	inositol phosphate catabolic process	down-down	-1.98	-1.81	5.47e-03	2.20e-02	14	15
+Brain cancer	Alzheimer's disease	Gene Ontology	cell part morphogenesis	down-down	-2.22	-1.37	4.41e-09	2.29e-02	607	550
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of vesicle mediated transport	down-down	-2.06	-1.38	4.41e-09	2.29e-02	467	428
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of cell projection organization	down-down	-1.98	-1.35	4.41e-09	2.30e-02	594	541
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of transporter activity	down-down	-2.51	-1.51	4.41e-09	2.30e-02	230	194
+Brain cancer	Alzheimer's disease	Gene Ontology	phosphorylated carbohydrate dephosphorylation	down-down	-1.95	-1.8	7.58e-03	2.32e-02	14	15
+Brain cancer	Alzheimer's disease	Gene Ontology	vesicle mediated transport to the plasma membrane	down-down	-1.61	-1.7	2.52e-02	2.38e-02	78	62
+Brain cancer	Alzheimer's disease	Gene Ontology	clathrin dependent endocytosis	down-down	-1.85	-1.75	6.18e-03	2.41e-02	38	33
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of neuron differentiation	down-down	-1.87	-1.45	1.33e-07	2.41e-02	322	309
+Brain cancer	Alzheimer's disease	Gene Ontology	locomotory exploration behavior	down-down	-1.86	-1.83	1.69e-02	2.58e-02	12	10
+Brain cancer	Alzheimer's disease	Gene Ontology	presynaptic cytoskeleton	down-down	-2.03	-1.74	7.21e-04	2.61e-02	7	5
+Brain cancer	Alzheimer's disease	Gene Ontology	cation transport	down-down	-2.05	-1.3	4.41e-09	2.61e-02	1002	854
+Brain cancer	Alzheimer's disease	Gene Ontology	golgi apparatus	down-down	-1.2	-1.28	2.36e-02	2.67e-02	1293	1117
+Brain cancer	Alzheimer's disease	Gene Ontology	channel regulator activity	down-down	-2.09	-1.63	4.41e-06	2.68e-02	118	97
+Brain cancer	Alzheimer's disease	Gene Ontology	ampa glutamate receptor complex	down-down	-2.48	-1.82	1.86e-06	2.69e-02	24	14
+Brain cancer	Alzheimer's disease	Gene Ontology	nad metabolic process	down-down	-1.62	-1.73	3.61e-02	2.77e-02	43	43
+Brain cancer	Alzheimer's disease	Gene Ontology	phosphatidylinositol bisphosphate phosphatase activity	down-down	-1.72	-1.73	4.84e-02	2.85e-02	18	18
+Brain cancer	Alzheimer's disease	Gene Ontology	ubiquitin like protein ligase activity	down-down	-1.51	-1.52	1.23e-02	2.92e-02	200	140
+Brain cancer	Alzheimer's disease	Gene Ontology	negative regulation of synaptic transmission	down-down	-2.07	-1.72	2.37e-04	3.01e-02	63	61
+Brain cancer	Alzheimer's disease	Gene Ontology	protein localization to juxtaparanode region of axon	down-down	-1.7	-1.72	4.01e-02	3.01e-02	5	5
+Brain cancer	Alzheimer's disease	Gene Ontology	synaptic transmission gabaergic	down-down	-2.5	-1.75	1.18e-07	3.02e-02	40	36
+Brain cancer	Alzheimer's disease	Gene Ontology	synaptic vesicle uncoating	down-down	-1.59	-1.66	2.08e-02	3.04e-02	3	4
+Brain cancer	Alzheimer's disease	Gene Ontology	perinuclear region of cytoplasm	down-down	-1.55	-1.35	2.58e-05	3.17e-02	606	544
+Brain cancer	Alzheimer's disease	Gene Ontology	amino acid transport	down-down	-2.15	-1.54	1.57e-06	3.21e-02	133	110
+Brain cancer	Alzheimer's disease	Gene Ontology	syntaxin 1 binding	down-down	-2.6	-1.78	2.74e-08	3.34e-02	23	17
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of cell projection organization	down-down	-1.75	-1.41	6.39e-06	3.37e-02	338	319
+Brain cancer	Alzheimer's disease	Gene Ontology	long term synaptic potentiation	down-down	-2.48	-1.61	2.52e-08	3.38e-02	70	71
+Brain cancer	Alzheimer's disease	Gene Ontology	vesicle docking involved in exocytosis	down-down	-2.08	-1.7	5.11e-04	3.45e-02	39	32
+Brain cancer	Alzheimer's disease	Gene Ontology	retrograde trans synaptic signaling	down-down	-1.79	-1.78	2.29e-02	3.59e-02	9	7
+Brain cancer	Alzheimer's disease	Gene Ontology	syntaxin binding	down-down	-2.27	-1.67	1.16e-05	3.63e-02	62	48
+Brain cancer	Alzheimer's disease	Gene Ontology	vesicle membrane	down-down	-1.49	-1.31	9.12e-05	3.63e-02	661	596
+Brain cancer	Alzheimer's disease	Gene Ontology	juxtaparanode region of axon	down-down	-2.09	-1.79	3.85e-04	3.70e-02	10	10
+Brain cancer	Alzheimer's disease	Gene Ontology	node of ranvier	down-down	-2.05	-1.77	2.46e-03	3.77e-02	14	14
+Brain cancer	Alzheimer's disease	Gene Ontology	long term memory	down-down	-2.2	-1.73	8.16e-05	3.84e-02	30	27
+Brain cancer	Alzheimer's disease	Gene Ontology	clathrin sculpted vesicle	down-down	-2.45	-1.77	5.07e-08	3.94e-02	11	9
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of calcium ion dependent exocytosis	down-down	-2.39	-1.76	3.26e-06	3.96e-02	15	11
+Brain cancer	Alzheimer's disease	Gene Ontology	dendritic shaft	down-down	-2	-1.7	2.26e-03	3.99e-02	31	29
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of synaptic transmission glutamatergic	down-down	-2.37	-1.64	1.69e-06	4.01e-02	56	56
+Brain cancer	Alzheimer's disease	Gene Ontology	ionotropic glutamate receptor signaling pathway	down-down	-1.99	-1.71	4.40e-03	4.24e-02	22	19
+Brain cancer	Alzheimer's disease	Gene Ontology	lipid phosphorylation	down-down	-1.78	-1.69	6.26e-03	4.28e-02	59	50
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of microtubule depolymerization	down-down	-2.14	-1.69	5.80e-04	4.39e-02	28	26
+Brain cancer	Alzheimer's disease	Gene Ontology	transporter complex	down-down	-2.77	-1.42	4.41e-09	4.41e-02	290	245
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of synaptic vesicle endocytosis	down-down	-2.24	-1.79	9.07e-05	4.42e-02	14	13
+Brain cancer	Alzheimer's disease	Gene Ontology	axon initial segment	down-down	-1.88	-1.74	1.58e-02	4.48e-02	16	14
+Brain cancer	Alzheimer's disease	Gene Ontology	microtubule depolymerization	down-down	-2	-1.7	2.35e-03	4.49e-02	41	35
+Brain cancer	Alzheimer's disease	Gene Ontology	protein localization to axon	down-down	-2.07	-1.76	7.66e-04	4.49e-02	9	9
+Brain cancer	Alzheimer's disease	Gene Ontology	proton transporting v type atpase v1 domain	down-down	-1.81	-1.76	2.03e-02	4.51e-02	9	7
+Brain cancer	Alzheimer's disease	Gene Ontology	transporter activity	down-down	-1.93	-1.27	4.41e-09	4.51e-02	991	817
+Brain cancer	Alzheimer's disease	Gene Ontology	cell morphogenesis involved in neuron differentiation	down-down	-2.24	-1.34	4.41e-09	4.54e-02	524	474
+Brain cancer	Alzheimer's disease	Gene Ontology	kinesin binding	down-down	-2	-1.66	1.74e-03	4.58e-02	37	33
+Brain cancer	Alzheimer's disease	Gene Ontology	positive regulation of synapse assembly	down-down	-2.19	-1.67	6.77e-05	4.64e-02	57	45
+Brain cancer	Alzheimer's disease	Gene Ontology	neuron projection extension	down-down	-2.12	-1.51	1.08e-06	4.65e-02	144	135
+Brain cancer	Alzheimer's disease	Gene Ontology	clathrin coat of coated pit	down-down	-2.05	-1.77	3.12e-03	4.69e-02	16	13
+Brain cancer	Alzheimer's disease	Gene Ontology	regulation of ion transmembrane transport	down-down	-2.25	-1.36	4.41e-09	4.74e-02	407	340
+Brain cancer	Alzheimer's disease	Gene Ontology	amine transport	down-down	-2.69	-1.53	4.41e-09	4.82e-02	86	77
+Brain cancer	Alzheimer's disease	Gene Ontology	adult locomotory behavior	down-down	-1.79	-1.62	5.74e-03	4.87e-02	71	63
+Brain cancer	Parkinson's disease	Canonical Pathways	kegg - cytokine cytokine receptor interaction	up-up	1.63	2.16	8.94e-04	7.41e-09	216	218
+Brain cancer	Parkinson's disease	Canonical Pathways	naba - matrisome	up-up	1.52	1.66	1.40e-05	2.26e-08	831	731
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - extracellular matrix organization	up-up	2.52	1.93	6.20e-09	7.30e-08	268	251
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - transcriptional regulation of granulopoiesis	up-up	1.98	2.43	1.14e-03	4.06e-07	53	59
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - chromatin modifying enzymes	up-up	1.6	1.95	1.88e-03	2.24e-06	201	198
+Brain cancer	Parkinson's disease	Canonical Pathways	kegg - pathways in cancer	up-up	1.69	1.73	1.69e-04	1.26e-05	284	300
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - ercc6 csb and ehmt2 g9a positively regulate rrna expression	up-up	1.62	2.28	3.08e-02	5.92e-05	39	43
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - immunoregulatory interactions between a lymphoid and a non lymphoid cell	up-up	1.64	2.03	1.48e-02	7.53e-05	95	91
+Brain cancer	Parkinson's disease	Canonical Pathways	pid - fra pathway	up-up	1.86	2.3	7.93e-03	8.07e-05	33	35
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - prc2 methylates histones and dna	up-up	1.72	2.3	2.01e-02	1.01e-04	37	40
+Brain cancer	Parkinson's disease	Canonical Pathways	pid - smad2 3nuclear pathway	up-up	1.8	2.08	2.90e-03	1.15e-04	73	75
+Brain cancer	Parkinson's disease	Canonical Pathways	pid - e2f pathway	up-up	2.35	2.12	4.72e-07	1.38e-04	66	68
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - interleukin 4 and interleukin 13 signaling	up-up	2	1.94	9.73e-05	1.63e-04	93	100
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - pre notch expression and processing	up-up	1.93	2.09	1.14e-03	2.19e-04	67	67
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - degradation of the extracellular matrix	up-up	1.99	1.88	8.24e-05	2.56e-04	120	113
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - collagen formation	up-up	2.62	2.02	6.20e-09	2.98e-04	83	72
+Brain cancer	Parkinson's disease	Canonical Pathways	biocarta - death pathway	up-up	1.69	2.21	2.96e-02	6.13e-04	28	28
+Brain cancer	Parkinson's disease	Canonical Pathways	kegg - systemic lupus erythematosus	up-up	1.72	1.92	7.33e-03	6.13e-04	74	81
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - interleukin 10 signaling	up-up	2.1	2.07	1.27e-04	9.05e-04	39	43
+Brain cancer	Parkinson's disease	Canonical Pathways	biocarta - nfkb pathway	up-up	2.16	2.18	3.59e-04	9.56e-04	19	20
+Brain cancer	Parkinson's disease	Canonical Pathways	biocarta - hivnef pathway	up-up	1.93	2.04	1.96e-03	1.26e-03	50	53
+Brain cancer	Parkinson's disease	Canonical Pathways	pid - ptp1b pathway	up-up	2	2.02	1.31e-03	1.64e-03	43	49
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - positive epigenetic regulation of rrna expression	up-up	1.99	1.9	3.68e-04	2.51e-03	64	68
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - complement cascade	up-up	1.63	1.96	2.64e-02	2.68e-03	46	49
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - collagen biosynthesis and modifying enzymes	up-up	2.39	1.93	4.39e-07	2.89e-03	62	51
+Brain cancer	Parkinson's disease	Canonical Pathways	biocarta - rela pathway	up-up	1.83	2.15	1.54e-02	2.98e-03	14	15
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - cellular senescence	up-up	1.71	1.63	2.14e-03	3.38e-03	141	151
+Brain cancer	Parkinson's disease	Canonical Pathways	pid - myc repress pathway	up-up	1.65	1.88	2.60e-02	3.39e-03	56	57
+Brain cancer	Parkinson's disease	Canonical Pathways	pid - integrin4 pathway	up-up	1.69	2.04	3.84e-02	3.51e-03	10	11
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - rna polymerase ii transcription	up-up	1.83	1.24	6.20e-09	3.76e-03	1077	955
+Brain cancer	Parkinson's disease	Canonical Pathways	kegg - notch signaling pathway	up-up	2	1.97	1.41e-03	3.93e-03	38	36
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - senescence associated secretory phenotype sasp	up-up	1.76	1.8	4.90e-03	4.06e-03	68	74
+Brain cancer	Parkinson's disease	Canonical Pathways	naba - ecm regulators	up-up	1.6	1.56	1.99e-03	4.59e-03	197	184
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - integrin cell surface interactions	up-up	2.29	1.78	1.41e-06	5.21e-03	76	75
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - estrogen dependent gene expression	up-up	1.58	1.71	1.34e-02	5.31e-03	103	106
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - sumoylation	up-up	2.37	1.58	6.20e-09	5.36e-03	147	155
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - condensation of prophase chromosomes	up-up	1.86	1.87	6.92e-03	5.55e-03	38	44
+Brain cancer	Parkinson's disease	Canonical Pathways	pid - upa upar pathway	up-up	1.75	1.95	1.81e-02	6.26e-03	38	38
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - meiotic recombination	up-up	2.1	1.79	1.34e-04	6.39e-03	48	54
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - transcriptional regulation by e2f6	up-up	2.01	2.05	1.36e-03	6.39e-03	30	29
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - activation of anterior hox genes in hindbrain development during early embryogenesis	up-up	1.63	1.71	1.70e-02	6.63e-03	74	83
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - formation of the beta catenin tcf transactivating complex	up-up	1.68	1.82	2.26e-02	6.89e-03	55	57
+Brain cancer	Parkinson's disease	Canonical Pathways	biocarta - il1r pathway	up-up	1.88	1.99	5.78e-03	6.92e-03	26	26
+Brain cancer	Parkinson's disease	Canonical Pathways	pid - delta np63 pathway	up-up	1.75	1.83	1.32e-02	7.35e-03	41	44
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - diseases of immune system	up-up	2.02	2.01	2.34e-03	7.91e-03	22	21
+Brain cancer	Parkinson's disease	Canonical Pathways	biocarta - caspase pathway	up-up	1.91	1.97	8.22e-03	8.21e-03	20	22
+Brain cancer	Parkinson's disease	Canonical Pathways	kegg - complement and coagulation cascades	up-up	1.68	1.77	1.48e-02	8.50e-03	60	64
+Brain cancer	Parkinson's disease	Canonical Pathways	pid - integrin cs pathway	up-up	1.95	1.96	7.15e-03	8.86e-03	23	22
+Brain cancer	Parkinson's disease	Canonical Pathways	kegg - small cell lung cancer	up-up	2.11	1.66	2.36e-05	9.34e-03	78	84
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - epigenetic regulation of gene expression	up-up	2.12	1.58	1.11e-05	9.65e-03	102	99
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - ddx58 ifih1 mediated induction of interferon alpha beta	up-up	1.82	1.72	4.75e-03	1.01e-02	62	63
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - reproduction	up-up	1.79	1.65	1.98e-03	1.15e-02	93	94
+Brain cancer	Parkinson's disease	Canonical Pathways	kegg - chronic myeloid leukemia	up-up	1.82	1.69	4.67e-03	1.27e-02	62	66
+Brain cancer	Parkinson's disease	Canonical Pathways	kegg - leishmania infection	up-up	1.87	1.73	3.34e-03	1.32e-02	53	58
+Brain cancer	Parkinson's disease	Canonical Pathways	kegg - prostate cancer	up-up	1.76	1.64	4.51e-03	1.32e-02	73	82
+Brain cancer	Parkinson's disease	Canonical Pathways	biocarta - tnfr2 pathway	up-up	1.88	1.95	7.30e-03	1.47e-02	16	17
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - b wich complex positively regulates rrna expression	up-up	1.92	1.75	2.60e-03	1.54e-02	51	55
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - deposition of new cenpa containing nucleosomes at the centromere	up-up	2.14	1.78	1.23e-04	1.54e-02	44	45
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - meiosis	up-up	1.89	1.64	8.97e-04	1.54e-02	77	81
+Brain cancer	Parkinson's disease	Canonical Pathways	pid - tap63 pathway	up-up	1.96	1.77	6.81e-04	1.56e-02	47	50
+Brain cancer	Parkinson's disease	Canonical Pathways	pid - amb2 neutrophils pathway	up-up	1.62	1.8	4.04e-02	1.60e-02	38	40
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - traf6 mediated irf7 activation	up-up	1.88	1.89	1.27e-02	1.63e-02	19	20
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - purinergic signaling in leishmaniasis infection	up-up	1.69	1.87	4.19e-02	1.80e-02	21	23
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - interferon gamma signaling	up-up	1.78	1.62	7.52e-03	2.30e-02	66	66
+Brain cancer	Parkinson's disease	Canonical Pathways	sa mmp cytokine connection	up-up	1.76	1.92	3.18e-02	2.41e-02	13	13
+Brain cancer	Parkinson's disease	Canonical Pathways	pid - p53 downstream pathway	up-up	2.07	1.47	1.77e-05	2.44e-02	117	115
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - nf kb activation through fadd rip 1 pathway mediated by caspase 8 and 10	up-up	1.8	1.83	1.80e-02	2.51e-02	11	10
+Brain cancer	Parkinson's disease	Canonical Pathways	kegg - toll like receptor signaling pathway	up-up	1.51	1.58	3.66e-02	2.66e-02	83	88
+Brain cancer	Parkinson's disease	Canonical Pathways	pid - integrin1 pathway	up-up	2.45	1.69	6.58e-08	2.74e-02	61	60
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - ecm proteoglycans	up-up	2.56	1.58	6.20e-09	2.80e-02	68	70
+Brain cancer	Parkinson's disease	Canonical Pathways	biocarta - nthi pathway	up-up	1.67	1.78	4.70e-02	3.01e-02	21	22
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - transcription of e2f targets under negative control by p107 rbl1 and p130 rbl2 in complex with hdac1	up-up	1.7	1.86	3.66e-02	3.53e-02	15	13
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - yap1 and wwtr1 taz stimulated gene expression	up-up	1.91	1.88	6.95e-03	3.88e-02	14	14
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - caspase activation via death receptors in the presence of ligand	up-up	1.84	1.87	1.21e-02	4.22e-02	15	14
+Brain cancer	Parkinson's disease	Canonical Pathways	biocarta - notch pathway	up-up	1.6	1.69	3.79e-02	4.24e-02	5	5
+Brain cancer	Parkinson's disease	Canonical Pathways	pid - ap1 pathway	up-up	1.63	1.54	2.58e-02	4.25e-02	63	66
+Brain cancer	Parkinson's disease	Canonical Pathways	naba - core matrisome	up-up	1.98	1.39	3.17e-07	4.37e-02	245	196
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - interferon alpha beta signaling	up-up	2.28	1.58	6.61e-06	4.37e-02	50	57
+Brain cancer	Parkinson's disease	Canonical Pathways	pid - toll endogenous pathway	up-up	2.1	1.76	8.65e-04	4.47e-02	21	20
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - mitotic telophase cytokinesis	up-up	1.74	1.83	3.79e-02	4.47e-02	13	13
+Brain cancer	Parkinson's disease	Canonical Pathways	pid - rb 1pathway	up-up	1.55	1.62	4.76e-02	4.57e-02	58	60
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - cell surface interactions at the vascular wall	up-up	1.5	1.47	2.74e-02	4.61e-02	114	123
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - eukaryotic translation elongation	up-up	2.16	1.53	5.85e-05	4.74e-02	53	64
+Brain cancer	Parkinson's disease	Canonical Pathways	kegg - oxidative phosphorylation	down-down	-1.62	-2.77	1.93e-02	7.41e-09	95	91
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - golgi to er retrograde transport	down-down	-1.49	-2.42	4.04e-02	7.41e-09	101	103
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - membrane trafficking	down-down	-1.67	-1.87	7.01e-06	7.41e-09	506	477
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - transmission across chemical synapses	down-down	-3.08	-2.18	6.20e-09	7.41e-09	241	227
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - neuronal system	down-down	-3.22	-1.95	6.20e-09	1.91e-08	368	330
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - neurotransmitter receptors and postsynaptic signal transmission	down-down	-2.86	-2.13	6.20e-09	1.47e-07	179	169
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - vesicle mediated transport	down-down	-1.58	-1.77	6.86e-05	2.29e-07	536	509
+Brain cancer	Parkinson's disease	Canonical Pathways	kegg - cardiac muscle contraction	down-down	-2.28	-2.18	7.06e-06	7.64e-06	64	60
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - activation of nmda receptors and postsynaptic events	down-down	-2.79	-2.12	6.20e-09	1.10e-05	77	76
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - l1cam interactions	down-down	-2.24	-1.95	1.41e-06	1.19e-04	94	104
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - trafficking of glur2 containing ampa receptors	down-down	-2.15	-2.2	6.49e-04	1.79e-04	16	16
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - transport of small molecules	down-down	-1.49	-1.55	2.43e-04	2.41e-04	630	543
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - trafficking of ampa receptors	down-down	-2.34	-2.13	9.18e-06	3.22e-04	30	28
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - nervous system development	down-down	-1.46	-1.56	2.31e-03	3.22e-04	476	494
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - phase 0 rapid - depolarisation	down-down	-2.62	-2.02	7.58e-08	1.12e-03	39	34
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - assembly and cell surface presentation of nmda receptors	down-down	-2.4	-1.97	2.49e-06	3.15e-03	30	31
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - protein protein interactions at synapses	down-down	-2.96	-1.82	6.20e-09	3.22e-03	77	69
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - retrograde neurotrophin signalling	down-down	-1.83	-2.03	2.24e-02	3.34e-03	14	12
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - opioid signalling	down-down	-2.42	-1.79	1.97e-07	3.43e-03	81	74
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - clathrin mediated endocytosis	down-down	-1.98	-1.73	8.44e-05	3.55e-03	121	121
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - ca dependent events	down-down	-2.27	-1.95	1.70e-05	3.97e-03	34	31
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - unblocking of nmda receptors glutamate binding and activation	down-down	-2.42	-2.02	1.04e-05	4.78e-03	19	17
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - translocation of slc2a4 glut4 to the plasma membrane	down-down	-1.65	-1.85	2.87e-02	5.61e-03	52	53
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - cargo recognition for clathrin mediated endocytosis	down-down	-1.97	-1.7	3.32e-04	5.91e-03	88	91
+Brain cancer	Parkinson's disease	Canonical Pathways	biocarta - ck1 pathway	down-down	-2.05	-2.01	1.74e-03	6.09e-03	15	14
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - dopamine neurotransmitter release cycle	down-down	-2.73	-1.97	6.20e-09	6.25e-03	23	21
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - serotonin neurotransmitter release cycle	down-down	-2.64	-1.99	6.20e-09	6.63e-03	18	17
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - recycling pathway of l1	down-down	-2.04	-1.86	1.46e-03	1.02e-02	32	37
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - norepinephrine neurotransmitter release cycle	down-down	-2.59	-1.95	2.14e-08	1.18e-02	18	17
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - acetylcholine neurotransmitter release cycle	down-down	-2.58	-1.91	3.93e-08	1.31e-02	17	16
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - long term potentiation	down-down	-2.38	-1.85	1.38e-05	1.32e-02	21	19
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - darpp 32 events	down-down	-2.3	-1.84	5.71e-05	1.54e-02	20	20
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - ras activation upon ca2 influx through nmda receptor	down-down	-2.24	-1.91	9.72e-05	1.54e-02	18	14
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - neurotransmitter release cycle	down-down	-2.96	-1.72	6.20e-09	1.74e-02	49	45
+Brain cancer	Parkinson's disease	Canonical Pathways	biocarta - ccr3 pathway	down-down	-1.87	-1.81	1.75e-02	1.86e-02	19	19
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - g protein mediated events	down-down	-2.37	-1.74	2.49e-06	2.09e-02	49	47
+Brain cancer	Parkinson's disease	Canonical Pathways	kegg - gap junction	down-down	-1.92	-1.59	1.36e-03	2.35e-02	71	80
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - hsp90 chaperone cycle for steroid hormone receptors shr	down-down	-1.78	-1.76	1.07e-02	2.36e-02	34	44
+Brain cancer	Parkinson's disease	Canonical Pathways	biocarta - agpcr pathway	down-down	-1.85	-1.92	1.48e-02	2.54e-02	11	11
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - estrogen stimulated signaling through prkcz	down-down	-1.73	-1.73	3.26e-02	2.54e-02	6	5
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - signaling by insulin receptor	down-down	-1.67	-1.65	1.82e-02	2.66e-02	69	66
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - kinesins	down-down	-1.69	-1.73	1.82e-02	2.99e-02	44	42
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - neurotoxicity of clostridium toxins	down-down	-2.17	-1.81	2.15e-04	3.16e-02	10	9
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - pka activation in glucagon signalling	down-down	-2.07	-1.79	1.60e-03	3.53e-02	17	15
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - regulation of insulin secretion	down-down	-2.36	-1.6	5.87e-07	3.85e-02	74	68
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - negative regulation of nmda receptor mediated neuronal transmission	down-down	-2.42	-1.8	1.05e-05	4.40e-02	19	17
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - interaction between l1 and ankyrins	down-down	-2.24	-1.68	1.39e-04	4.74e-02	28	28
+Brain cancer	Parkinson's disease	Canonical Pathways	reactome - dag and ip3 signaling	down-down	-2.3	-1.6	3.05e-05	4.85e-02	36	35
+Brain cancer	Alzheimer's disease	Canonical Pathways	kegg - cytokine cytokine receptor interaction	up-up	1.63	2.67	8.94e-04	5.07e-09	216	218
+Brain cancer	Alzheimer's disease	Canonical Pathways	naba - core matrisome	up-up	1.98	2.28	3.17e-07	5.07e-09	245	196
+Brain cancer	Alzheimer's disease	Canonical Pathways	naba - matrisome	up-up	1.52	2.47	1.40e-05	5.07e-09	831	733
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - extracellular matrix organization	up-up	2.52	2.54	6.20e-09	5.07e-09	268	251
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - immunoregulatory interactions between a lymphoid and a non lymphoid cell	up-up	1.64	2.57	1.48e-02	5.07e-09	95	91
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - interleukin 4 and interleukin 13 signaling	up-up	2	2.45	9.73e-05	2.48e-08	93	100
+Brain cancer	Alzheimer's disease	Canonical Pathways	naba - ecm regulators	up-up	1.6	2.1	1.99e-03	7.39e-08	197	185
+Brain cancer	Alzheimer's disease	Canonical Pathways	naba - ecm glycoproteins	up-up	1.94	2.16	2.16e-05	6.72e-07	170	135
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - complement cascade	up-up	1.63	2.46	2.64e-02	9.69e-07	46	50
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - elastic fibre formation	up-up	2.43	2.57	4.42e-07	1.42e-06	41	37
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - collagen formation	up-up	2.62	2.28	6.20e-09	4.05e-06	83	72
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - ecm proteoglycans	up-up	2.56	2.29	6.20e-09	4.05e-06	68	70
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - cell surface interactions at the vascular wall	up-up	1.5	2.12	2.74e-02	4.29e-06	114	124
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - fra pathway	up-up	1.86	2.51	7.93e-03	6.17e-06	33	35
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - molecules associated with elastic fibres	up-up	2.31	2.48	8.07e-06	6.69e-06	34	32
+Brain cancer	Alzheimer's disease	Canonical Pathways	kegg - complement and coagulation cascades	up-up	1.68	2.29	1.48e-02	7.62e-06	60	64
+Brain cancer	Alzheimer's disease	Canonical Pathways	kegg - ecm receptor interaction	up-up	2.17	2.19	2.36e-05	9.74e-06	72	76
+Brain cancer	Alzheimer's disease	Canonical Pathways	kegg - pathways in cancer	up-up	1.69	1.76	1.69e-04	1.33e-05	284	300
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - transcriptional regulation of granulopoiesis	up-up	1.98	2.27	1.14e-03	1.78e-05	53	59
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - assembly of collagen fibrils and other multimeric structures	up-up	2.36	2.32	1.24e-06	1.94e-05	56	52
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - non integrin membrane ecm interactions	up-up	2.13	2.25	1.50e-04	3.83e-05	51	54
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - degradation of the extracellular matrix	up-up	1.99	1.95	8.24e-05	5.05e-05	120	113
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - integrin cell surface interactions	up-up	2.29	2.11	1.41e-06	7.96e-05	76	75
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - integrin1 pathway	up-up	2.45	2.19	6.58e-08	1.46e-04	61	60
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - collagen degradation	up-up	2.09	2.14	2.35e-04	1.58e-04	57	55
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - pd 1 signaling	up-up	1.82	2.35	1.48e-02	2.14e-04	15	16
+Brain cancer	Alzheimer's disease	Canonical Pathways	sa mmp cytokine connection	up-up	1.76	2.31	3.18e-02	3.66e-04	13	13
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - ptp1b pathway	up-up	2	2.2	1.31e-03	4.39e-04	43	49
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by interleukins	up-up	1.52	1.54	9.54e-04	4.58e-04	378	396
+Brain cancer	Alzheimer's disease	Canonical Pathways	kegg - graft versus host disease	up-up	2.24	2.25	1.23e-04	4.94e-04	23	23
+Brain cancer	Alzheimer's disease	Canonical Pathways	kegg - autoimmune thyroid disease	up-up	2.07	2.17	6.02e-04	5.74e-04	30	34
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - interleukin 10 signaling	up-up	2.1	2.12	1.27e-04	5.74e-04	39	43
+Brain cancer	Alzheimer's disease	Canonical Pathways	kegg - prostate cancer	up-up	1.76	1.87	4.51e-03	9.76e-04	73	82
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - ap1 pathway	up-up	1.63	1.96	2.58e-02	9.76e-04	63	67
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - collagen biosynthesis and modifying enzymes	up-up	2.39	1.99	4.39e-07	9.76e-04	62	51
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - syndecan interactions	up-up	1.94	2.15	6.37e-03	1.09e-03	22	24
+Brain cancer	Alzheimer's disease	Canonical Pathways	kegg - systemic lupus erythematosus	up-up	1.72	1.87	7.33e-03	1.13e-03	74	81
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - yap1 and wwtr1 taz stimulated gene expression	up-up	1.91	2.25	6.95e-03	1.16e-03	14	14
+Brain cancer	Alzheimer's disease	Canonical Pathways	kegg - allograft rejection	up-up	2.05	2.24	7.11e-04	1.19e-03	26	26
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - myc repress pathway	up-up	1.65	1.96	2.60e-02	1.69e-03	56	57
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - laminin interactions	up-up	2.25	2.13	4.14e-05	1.82e-03	27	28
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of insulin like growth factor igf transport and uptake by insulin like growth factor binding proteins igfbps	up-up	1.74	1.75	3.02e-03	2.72e-03	113	106
+Brain cancer	Alzheimer's disease	Canonical Pathways	biocarta - death pathway	up-up	1.69	2.08	2.96e-02	2.93e-03	28	28
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - formation of the beta catenin tcf transactivating complex	up-up	1.68	1.89	2.26e-02	3.99e-03	55	57
+Brain cancer	Alzheimer's disease	Canonical Pathways	biocarta - rela pathway	up-up	1.83	2.05	1.54e-02	4.60e-03	14	15
+Brain cancer	Alzheimer's disease	Canonical Pathways	naba - collagens	up-up	1.81	2.02	6.22e-03	4.60e-03	40	31
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - collagen chain trimerization	up-up	1.81	2.02	6.22e-03	4.60e-03	40	31
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - diseases of immune system	up-up	2.02	2.04	2.34e-03	4.62e-03	22	21
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - delta np63 pathway	up-up	1.75	1.93	1.32e-02	4.76e-03	41	44
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - met activates ptk2 signaling	up-up	1.8	2.01	1.17e-02	4.79e-03	28	28
+Brain cancer	Alzheimer's disease	Canonical Pathways	biocarta - il1r pathway	up-up	1.88	2.08	5.78e-03	4.92e-03	26	26
+Brain cancer	Alzheimer's disease	Canonical Pathways	kegg - viral myocarditis	up-up	1.9	1.74	1.86e-03	5.49e-03	49	58
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - e2f pathway	up-up	2.35	1.81	4.72e-07	5.60e-03	66	69
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - smad2 3nuclear pathway	up-up	1.8	1.76	2.90e-03	5.92e-03	73	75
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - amb2 neutrophils pathway	up-up	1.62	1.9	4.04e-02	5.99e-03	38	40
+Brain cancer	Alzheimer's disease	Canonical Pathways	naba - basement membranes	up-up	2.1	1.95	3.08e-04	6.28e-03	36	32
+Brain cancer	Alzheimer's disease	Canonical Pathways	biocarta - nfkb pathway	up-up	2.16	2.03	3.59e-04	6.44e-03	19	20
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - tap63 pathway	up-up	1.96	1.77	6.81e-04	6.97e-03	47	50
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - integrin cs pathway	up-up	1.95	2.01	7.15e-03	7.64e-03	23	22
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - runx2 regulates bone development	up-up	1.83	1.98	1.03e-02	7.64e-03	30	27
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - hes hey pathway	up-up	2.05	1.87	6.81e-04	8.71e-03	43	42
+Brain cancer	Alzheimer's disease	Canonical Pathways	kegg - leishmania infection	up-up	1.87	1.69	3.34e-03	9.48e-03	53	58
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - pecam1 interactions	up-up	1.74	1.98	3.63e-02	1.04e-02	12	12
+Brain cancer	Alzheimer's disease	Canonical Pathways	biocarta - ctcf pathway	up-up	1.74	1.93	3.15e-02	1.42e-02	20	22
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - met promotes cell motility	up-up	1.87	1.82	2.51e-03	1.49e-02	39	38
+Brain cancer	Alzheimer's disease	Canonical Pathways	kegg - small cell lung cancer	up-up	2.11	1.64	2.36e-05	1.49e-02	78	84
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - diseases associated with glycosaminoglycan metabolism	up-up	2.28	1.8	7.26e-06	1.50e-02	39	35
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - cytokine signaling in immune system	up-up	1.5	1.25	2.00e-04	1.50e-02	692	707
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - upa upar pathway	up-up	1.75	1.81	1.81e-02	1.61e-02	38	38
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - pre notch expression and processing	up-up	1.93	1.67	1.14e-03	1.86e-02	67	67
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - foxm1 pathway	up-up	2.41	1.77	9.58e-07	1.94e-02	34	39
+Brain cancer	Alzheimer's disease	Canonical Pathways	kegg - focal adhesion	up-up	1.58	1.51	7.28e-03	1.98e-02	176	184
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - prc2 methylates histones and dna	up-up	1.72	1.73	2.01e-02	2.03e-02	37	40
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - integrin3 pathway	up-up	1.77	1.72	1.42e-02	2.06e-02	37	41
+Brain cancer	Alzheimer's disease	Canonical Pathways	kegg - notch signaling pathway	up-up	2	1.78	1.41e-03	2.10e-02	38	36
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - integrin4 pathway	up-up	1.69	1.81	3.84e-02	2.16e-02	10	11
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - dissolution of fibrin clot	up-up	1.84	1.9	1.19e-02	2.16e-02	11	13
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - cross presentation of particulate exogenous antigens phagosomes	up-up	1.76	1.77	1.23e-02	2.17e-02	7	7
+Brain cancer	Alzheimer's disease	Canonical Pathways	biocarta - nthi pathway	up-up	1.67	1.87	4.70e-02	2.28e-02	21	22
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - condensation of prophase chromosomes	up-up	1.86	1.71	6.92e-03	2.28e-02	38	44
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - keratan sulfate degradation	up-up	1.91	1.88	8.03e-03	2.34e-02	12	12
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - runx2 regulates osteoblast differentiation	up-up	1.82	1.82	2.33e-02	2.42e-02	23	20
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - interferon gamma signaling	up-up	1.78	1.62	7.52e-03	2.54e-02	66	66
+Brain cancer	Alzheimer's disease	Canonical Pathways	biocarta - atm pathway	up-up	2.06	1.8	1.75e-03	2.75e-02	17	20
+Brain cancer	Alzheimer's disease	Canonical Pathways	biocarta - caspase pathway	up-up	1.91	1.83	8.22e-03	2.87e-02	20	22
+Brain cancer	Alzheimer's disease	Canonical Pathways	biocarta - hivnef pathway	up-up	1.93	1.64	1.96e-03	2.91e-02	50	53
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - avb3 integrin pathway	up-up	1.78	1.53	7.37e-03	2.93e-02	67	68
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - caspase activation via death receptors in the presence of ligand	up-up	1.84	1.83	1.21e-02	3.36e-02	15	14
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - syndecan 4 pathway	up-up	1.84	1.7	1.02e-02	3.39e-02	29	29
+Brain cancer	Alzheimer's disease	Canonical Pathways	kegg - bladder cancer	up-up	1.67	1.64	2.62e-02	3.54e-02	36	37
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - runx3 regulates wnt signaling	up-up	1.66	1.77	3.73e-02	3.54e-02	7	8
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - syndecan 1 pathway	up-up	1.72	1.66	3.03e-02	3.65e-02	42	42
+Brain cancer	Alzheimer's disease	Canonical Pathways	kegg - chronic myeloid leukemia	up-up	1.82	1.57	4.67e-03	4.12e-02	62	66
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - p53 downstream pathway	up-up	2.07	1.43	1.77e-05	4.27e-02	117	115
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - reproduction	up-up	1.79	1.45	1.98e-03	4.27e-02	93	94
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - estrogen dependent gene expression	up-up	1.58	1.43	1.34e-02	4.72e-02	103	106
+Brain cancer	Alzheimer's disease	Canonical Pathways	kegg - oxidative phosphorylation	down-down	-1.62	-3.34	1.93e-02	5.07e-09	95	91
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - membrane trafficking	down-down	-1.67	-1.91	7.01e-06	5.07e-09	506	482
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - neuronal system	down-down	-3.22	-2.02	6.20e-09	8.59e-09	368	331
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - vesicle mediated transport	down-down	-1.58	-1.81	6.86e-05	2.13e-08	536	514
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - transmission across chemical synapses	down-down	-3.08	-2.08	6.20e-09	9.31e-08	241	228
+Brain cancer	Alzheimer's disease	Canonical Pathways	kegg - cardiac muscle contraction	down-down	-2.28	-2.29	7.06e-06	3.10e-06	64	60
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - activation of nmda receptors and postsynaptic events	down-down	-2.79	-2.12	6.20e-09	3.10e-05	77	77
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - neurotransmitter receptors and postsynaptic signal transmission	down-down	-2.86	-1.94	6.20e-09	3.28e-05	179	170
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - clathrin mediated endocytosis	down-down	-1.98	-2.01	8.44e-05	3.86e-05	121	122
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - golgi to er retrograde transport	down-down	-1.49	-2.11	4.04e-02	5.04e-05	101	104
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - nervous system development	down-down	-1.46	-1.6	2.31e-03	1.89e-04	476	495
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - hsp90 chaperone cycle for steroid hormone receptors shr	down-down	-1.78	-2.12	1.07e-02	2.66e-04	34	44
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - cargo recognition for clathrin mediated endocytosis	down-down	-1.97	-1.96	3.32e-04	5.69e-04	88	92
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - protein protein interactions at synapses	down-down	-2.96	-2	6.20e-09	6.01e-04	77	69
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - gaba synthesis release reuptake and degradation	down-down	-2.56	-2.04	5.52e-08	1.48e-03	18	15
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - retrograde neurotrophin signalling	down-down	-1.83	-2.08	2.24e-02	1.79e-03	14	12
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - l1cam interactions	down-down	-2.24	-1.88	1.41e-06	2.87e-03	94	104
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - darpp 32 events	down-down	-2.3	-2.04	5.71e-05	3.41e-03	20	21
+Brain cancer	Alzheimer's disease	Canonical Pathways	biocarta - barr mapk pathway	down-down	-2.16	-2	5.37e-04	3.62e-03	12	13
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - ras activation upon ca2 influx through nmda receptor	down-down	-2.24	-1.96	9.72e-05	3.85e-03	18	15
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - unblocking of nmda receptors glutamate binding and activation	down-down	-2.42	-2.01	1.04e-05	3.98e-03	19	18
+Brain cancer	Alzheimer's disease	Canonical Pathways	biocarta - ck1 pathway	down-down	-2.05	-2.01	1.74e-03	4.22e-03	15	14
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - negative regulation of nmda receptor mediated neuronal transmission	down-down	-2.42	-2	1.05e-05	4.50e-03	19	18
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - assembly and cell surface presentation of nmda receptors	down-down	-2.4	-1.92	2.49e-06	4.78e-03	30	31
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - dopamine neurotransmitter release cycle	down-down	-2.73	-2	6.20e-09	4.78e-03	23	21
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - neurotransmitter release cycle	down-down	-2.96	-1.91	6.20e-09	4.92e-03	49	45
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - glutamate neurotransmitter release cycle	down-down	-2.69	-1.93	6.20e-09	5.65e-03	23	22
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - long term potentiation	down-down	-2.38	-2	1.38e-05	5.65e-03	21	20
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - serotonin neurotransmitter release cycle	down-down	-2.64	-1.99	6.20e-09	6.06e-03	18	17
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - neurexins and neuroligins	down-down	-2.92	-1.86	6.20e-09	7.96e-03	49	46
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - translocation of slc2a4 glut4 to the plasma membrane	down-down	-1.65	-1.82	2.87e-02	8.12e-03	52	55
+Brain cancer	Alzheimer's disease	Canonical Pathways	pid - erbb1 internalization pathway	down-down	-1.66	-1.87	4.17e-02	9.23e-03	36	37
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by insulin receptor	down-down	-1.67	-1.74	1.82e-02	1.06e-02	69	66
+Brain cancer	Alzheimer's disease	Canonical Pathways	biocarta - nos1 pathway	down-down	-2.22	-1.9	2.26e-04	1.07e-02	17	18
+Brain cancer	Alzheimer's disease	Canonical Pathways	biocarta - igf1r pathway	down-down	-1.78	-1.91	2.96e-02	1.13e-02	22	23
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - synaptic adhesion like molecules	down-down	-2.25	-1.89	1.62e-04	1.13e-02	19	18
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - lgi adam interactions	down-down	-2.4	-1.87	1.69e-06	1.21e-02	14	10
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - trafficking of ampa receptors	down-down	-2.34	-1.87	9.18e-06	1.35e-02	30	28
+Brain cancer	Alzheimer's disease	Canonical Pathways	biocarta - barrestin src pathway	down-down	-2.13	-1.81	6.93e-04	1.49e-02	15	16
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - pi metabolism	down-down	-1.82	-1.72	3.36e-03	1.50e-02	70	67
+Brain cancer	Alzheimer's disease	Canonical Pathways	biocarta - pyk2 pathway	down-down	-1.93	-1.86	7.52e-03	1.67e-02	21	23
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - trafficking of glur2 containing ampa receptors	down-down	-2.15	-1.77	6.49e-04	1.91e-02	16	16
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - neurotoxicity of clostridium toxins	down-down	-2.17	-1.86	2.15e-04	1.94e-02	10	9
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - transport of small molecules	down-down	-1.49	-1.35	2.43e-04	1.98e-02	630	544
+Brain cancer	Alzheimer's disease	Canonical Pathways	biocarta - creb pathway	down-down	-1.71	-1.76	4.49e-02	2.24e-02	22	22
+Brain cancer	Alzheimer's disease	Canonical Pathways	biocarta - ndkdynamin pathway	down-down	-2.06	-1.83	1.55e-03	2.36e-02	11	11
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - recycling pathway of l1	down-down	-2.04	-1.75	1.46e-03	2.50e-02	32	37
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - uptake and actions of bacterial toxins	down-down	-2.05	-1.78	2.46e-03	2.50e-02	22	26
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - insulin processing	down-down	-1.93	-1.79	7.72e-03	2.67e-02	23	20
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - estrogen stimulated signaling through prkcz	down-down	-1.73	-1.68	3.26e-02	2.79e-02	6	5
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - phase 0 rapid - depolarisation	down-down	-2.62	-1.69	7.58e-08	3.77e-02	39	35
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - phospholipid - metabolism	down-down	-1.5	-1.47	1.74e-02	3.85e-02	178	148
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - synthesis of ip2 ip and ins in the cytosol	down-down	-2.05	-1.72	1.80e-03	4.06e-02	14	13
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - opioid signalling	down-down	-2.42	-1.56	1.97e-07	4.09e-02	81	75
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - regulation of insulin secretion	down-down	-2.36	-1.58	5.87e-07	4.16e-02	74	68
+Brain cancer	Alzheimer's disease	Canonical Pathways	biocarta - racc pathway	down-down	-2.06	-1.72	1.65e-03	4.22e-02	14	14
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - norepinephrine neurotransmitter release cycle	down-down	-2.59	-1.75	2.14e-08	4.24e-02	18	17
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - signaling by ntrks	down-down	-1.85	-1.51	3.55e-04	4.27e-02	126	124
+Brain cancer	Alzheimer's disease	Canonical Pathways	reactome - activated ntrk2 signals through cdk5	down-down	-1.92	-1.68	1.41e-03	4.28e-02	6	6
