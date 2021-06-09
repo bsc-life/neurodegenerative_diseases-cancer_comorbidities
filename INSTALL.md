@@ -25,7 +25,7 @@ ln -sf /srv/shiny-server/* SHINY_ROOT
 Then, you have to change file `/etc/shiny-server/shiny-server.conf` as `root` to next content:
 
 ```
-# Instruct Shiny Server to run applications as the user "shiny"
+# Instruct Shiny Server to run applications as the user "user"
 run_as user;
 
 # Define a server that listens on port 3838
@@ -81,14 +81,15 @@ R -f regen_bootstrap.R
 
 ## Apache setup
 
-Be sure next packages are installed:
+Be sure Apache2 is installed, and next modules are enabled:
 
 ```bash
 sudo a2enmod rewrite proxy proxy_http proxy_wstunnel
 sudo systemctl restart apache2
 ```
 
-Add next lines to your `/etc/apache2/sites-enabled/000-default.conf` file or similar,
+Add next lines to your virtual host setup file
+(`/etc/apache2/sites-enabled/000-default.conf` file or similar),
 applying either the generic setup or the specific one.
 
 ```apache
@@ -102,7 +103,9 @@ applying either the generic setup or the specific one.
         RewriteRule /shiny/(.*) http://localhost:3838/$1 [P,L]
         ProxyPass /shiny/ http://localhost:3838/
         ProxyPassReverse /shiny/ http://localhost:3838/
+```
 
+```apache
 	# Specific setup
         RedirectMatch permanent ^/ndg_cancer_comorbidities$ /ndg_cancer_comorbidities/
 
