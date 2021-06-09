@@ -6,7 +6,7 @@ Please, follow next instructions, partly inspired on <https://www.rstudio.com/pr
 
 ```bash
 sudo apt-get update
-sudo apt-get install r-base r-cran-shiny gdebi
+sudo apt-get install r-base r-base-dev r-cran-shiny gdebi
 wget https://download3.rstudio.org/ubuntu-14.04/x86_64/shiny-server-1.5.16.958-amd64.deb
 sudo gdebi shiny-server-1.5.16.958-amd64.deb
 ```
@@ -56,11 +56,27 @@ sudo systemctl restart shiny-server
 
 ## Installing Neurodegenerative Diseases Cancer Comorbidities Shiny app
 
-You have to move to the directory where the Shiny apps live and do next command:
+You have to move to the directory where the Shiny apps live and do next command,
+in order to install the app and its dependencies:
 
 ```bash
 cd "${HOME}"/SHINY_ROOT
 git clone https://github.com/bsc-life/neurodegenerative_diseases-cancer_comorbidities.git
+cd neurodegenerative_diseases-cancer_comorbidities
+R -f create_r_user.R
+R -f bootstrap.R
+```
+
+## Regenerating dependences (**developers only**)
+
+In case the dependencies versions have to be updated, or [regen_bootstrap.R](regen_bootstrap.R) changes,
+these are the steps to regenerate the renv profiles:
+
+```bash
+cd "${HOME}"/SHINY_ROOT/neurodegenerative_diseases-cancer_comorbidities
+rm -rf renv renv.lock .Rprofile
+R -f create_r_user.R
+R -f regen_bootstrap.R
 ```
 
 ## Apache setup
