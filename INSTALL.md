@@ -61,8 +61,8 @@ in order to install the app and its dependencies:
 
 ```bash
 cd "${HOME}"/SHINY_ROOT
-git clone https://github.com/bsc-life/neurodegenerative_diseases-cancer_comorbidities.git
-cd neurodegenerative_diseases-cancer_comorbidities
+git clone https://github.com/bsc-life/neurodegenerative_diseases-cancer_comorbidities.git ndg_cancer_comorbidities
+cd ndg_cancer_comorbidities
 R -f create_r_user.R
 R -f bootstrap.R
 ```
@@ -73,10 +73,11 @@ In case the dependencies versions have to be updated, or [regen_bootstrap.R](reg
 these are the steps to regenerate the renv profiles:
 
 ```bash
-cd "${HOME}"/SHINY_ROOT/neurodegenerative_diseases-cancer_comorbidities
+cd "${HOME}"/SHINY_ROOT/ndg_cancer_comorbidities
 rm -rf renv renv.lock .Rprofile
 R -f create_r_user.R
 R -f regen_bootstrap.R
+R -f bootstrap.R
 ```
 
 ## Apache setup
@@ -110,11 +111,11 @@ applying either the generic setup or the specific one.
         RedirectMatch permanent ^/ndg_cancer_comorbidities$ /ndg_cancer_comorbidities/
 
         RewriteCond %{HTTP:Upgrade} =websocket
-        RewriteRule /ndg_cancer_comorbidities/(.*) ws://localhost:3838/neurodegenerative_diseases-cancer_comorbidities/$1 [P,L]
+        RewriteRule /ndg_cancer_comorbidities/(.*) ws://localhost:3838/ndg_cancer_comorbidities/$1 [P,L]
         RewriteCond %{HTTP:Upgrade} !=websocket
-        RewriteRule /ndg_cancer_comorbidities/(.*) http://localhost:3838/neurodegenerative_diseases-cancer_comorbidities/$1 [P,L]
-        ProxyPass /ndg_cancer_comorbidities/ http://localhost:3838/neurodegenerative_diseases-cancer_comorbidities/
-        ProxyPassReverse /ndg_cancer_comorbidities/ http://localhost:3838/neurodegenerative_diseases-cancer_comorbidities/
+        RewriteRule /ndg_cancer_comorbidities/(.*) http://localhost:3838/ndg_cancer_comorbidities/$1 [P,L]
+        ProxyPass /ndg_cancer_comorbidities/ http://localhost:3838/ndg_cancer_comorbidities/
+        ProxyPassReverse /ndg_cancer_comorbidities/ http://localhost:3838/ndg_cancer_comorbidities/
 
 	ProxyRequests Off
 ```

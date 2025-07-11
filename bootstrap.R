@@ -1,4 +1,6 @@
 #.libPaths( c( "R/libs", .libPaths()) )
+dir.create(Sys.getenv(c('R_LIBS_USER')), recursive=TRUE)
+.libPaths( c( Sys.getenv(c('R_LIBS_USER')) , .libPaths()) )
 
 options(renv.consent = TRUE)
 
